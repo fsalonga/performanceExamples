@@ -1,0 +1,118 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011405</MedlineID>
+<PMID>420837</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>551</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+<Day>8</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>The surface glycoproteins of the HeLa cell. Internalization of wheat germ agglutinin-receptors.</ArticleTitle>
+<Pagination>
+<MedlinePgn>328-48</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The sensitivity of 125I-labeled sialoglycoproteins to neuraminidase digestion was used to monitor the loss of specific membrane glycoproteins from the cell surface in to the cytoplasmic compartment during lectin-mediated endocytosis. These studies demonstrated that a major portion of the surface glycoproteins had undergone internalization concurrently with wheat germ agglutinin in a time- and temperature-dependent process. The internalized 125I-labeled glycoproteins were associated with the small vesicle fraction and were present in the same relative proportion as they existed in the plasma membrane isolated from control untreated cells. Many of the 125I-labeled membrane proteins were shown to be receptors and were isolated after affinity chromatography of the solubilized plasma membranes on wheat germ agglutinin-agarose columns.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Kramer</LastName>
+<ForeName>R H</ForeName>
+<Initials>RH</Initials>
+</Author>
+<Author>
+<LastName>Canellakis</LastName>
+<ForeName>E S</ForeName>
+<Initials>ES</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Agglutinins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Glycoproteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Membrane Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.2.1.18</RegistryNumber>
+<NameOfSubstance>Neuraminidase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Agglutinins</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cell Membrane</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Endocytosis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Glycoproteins</DescriptorName>
+<QualifierName>isolation &#38; purification</QualifierName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hela Cells</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Membrane Proteins</DescriptorName>
+<QualifierName>isolation &#38; purification</QualifierName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neuraminidase</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Wheat</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

@@ -1,0 +1,115 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011580</MedlineID>
+<PMID>420930</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0365-9615</ISSN>
+<JournalIssue>
+<Volume>87</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>[Neuropathologic effects developing after administration of tetanus toxin to several rat brain structures]</ArticleTitle>
+<Pagination>
+<MedlinePgn>124-6</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Neuropathological syndromes following local tetanus toxin (TT) injection into different rat brain structures were studied. As demonstrated, there arose specific neuropathological signs dissimilar to those developing with different TT localization, i.e. as a rule the action of TT in the given brain parts was local. Experiments carried out confirmed the theory of the generator mechanisms of the neuropathological syndromes according to which specific manifestations of the corresponding syndrome were due to the localization of a generator of pathologically-enhanced excitation in definite brain structures.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Konnikov</LastName>
+<ForeName>B A</ForeName>
+<Initials>BA</Initials>
+</Author>
+<Author>
+<LastName>Rekhtman</LastName>
+<ForeName>M B</ForeName>
+<Initials>MB</Initials>
+</Author>
+</AuthorList>
+<Language>rus</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+<VernacularTitle>Neĭropatologicheskie éffekty, voznikaiushchie pri vvedenii stolbniachnogo toksina v nekotorye struktury mozga krys.</VernacularTitle>
+</Article>
+<MedlineJournalInfo>
+<Country>USSR</Country>
+<MedlineTA>Biull Eksp Biol Med</MedlineTA>
+<NlmUniqueID>0370627</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Tetanus Toxin</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Amygdala</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Basal Ganglia</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Brain Diseases</DescriptorName>
+<QualifierName MajorTopicYN="Y">chemically induced</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Comparative Study</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Diencephalon</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>English Abstract</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Geniculate Bodies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hippocampus</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Substantia Nigra</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Syndrome</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Tetanus Toxin</DescriptorName>
+<QualifierName>administration &#38; dosage</QualifierName>
+<QualifierName MajorTopicYN="Y">poisoning</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Thalamus</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

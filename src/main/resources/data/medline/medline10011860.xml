@@ -1,0 +1,129 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011860</MedlineID>
+<PMID>369662</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-8993</ISSN>
+<JournalIssue>
+<Volume>165</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Apr</Month>
+<Day>13</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Localization and molecular heterogeneity of cholecystokinin in the central and peripheral nervous system.</ArticleTitle>
+<Pagination>
+<MedlinePgn>201-18</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Immunocytochemistry and radioimmunochemistry demonstrate the occurrence of the gastrointestinal hormone cholecystokinin (CCK) in both the central and peripheral nervous system of the guinea pig. CCK nerves are particularly numerous in the neocortex, the hippocampus, the amygdaloid nuclei, the hypothalamus, the spinal cord and in the colon. The nerves contain 5 molecular components of CCK, with gel chromatographical elution constants (Kav) of 0.05, 0.50, 0.90, 1.10 and 1.30, respectively. The four latter correspond to triacontatriapeptide CCK and its COOH-terminal dodeca-, octa- and tetrapeptide portions, respectively. Cholecystokinins are hence widely distributed in the nervous system and occur in the substantial quantities (greater than or equal to 0.2 nmol CCK-8-equiv./g) in several distinct regions.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Larsson</LastName>
+<ForeName>L I</ForeName>
+<Initials>LI</Initials>
+</Author>
+<Author>
+<LastName>Rehfeld</LastName>
+<ForeName>J F</ForeName>
+<Initials>JF</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Brain Res</MedlineTA>
+<NlmUniqueID>0045503</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>9011-97-6</RegistryNumber>
+<NameOfSubstance>Cholecystokinin</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Bladder</DescriptorName>
+<QualifierName>innervation</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Brain Chemistry</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Brain Mapping</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cholecystokinin</DescriptorName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Colon</DescriptorName>
+<QualifierName>innervation</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Duodenum</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Fluorescent Antibody Technique</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Guinea Pigs</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Jejunum</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Molecular Conformation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Peripheral Nerves</DescriptorName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rectum</DescriptorName>
+<QualifierName>innervation</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Spinal Cord</DescriptorName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

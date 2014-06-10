@@ -1,0 +1,140 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011588</MedlineID>
+<PMID>154351</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>11</Month>
+<Day>19</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0365-9615</ISSN>
+<JournalIssue>
+<Volume>87</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>[Disruption of the Ca++ transport enzyme system in sarcoplasmic reticulum membranes upon exposure to phospholipid hydroperoxides and fatty acid hydroperoxides]</ArticleTitle>
+<Pagination>
+<MedlinePgn>145-9</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>It was shown that when injected into a suspension of sarcoplasmic reticulum (SR) vesicles phosphatidyl ethanol-amine hydroperoxide (HP) slightly activated Ca++-dependent ATPase and increased the permeability of SR membranes for Ca++ during the enzyme function. Linoleic acid HP had no effect on the parameters of the enzymatic Ca++- transporting system (activity of Ca++-dependent ATPase, Ca/ATP ratio, rate of Ca++ efflux) in the SR membranes due to its insufficient incorporation into the SR fragments. It is concluded that among the primary molecular products of lipid peroxidation (free fatty acid HP, phospholipid HP) induced both in vitro (by the Fe++ + ascorbate system) and in vivo (ischemia, E-avitaminosis), only the phospholipid HPs were modifiers of Ca++ transport in the SR membranes.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Kagan</LastName>
+<ForeName>V E</ForeName>
+<Initials>VE</Initials>
+</Author>
+<Author>
+<LastName>Churakova</LastName>
+<ForeName>T D</ForeName>
+<Initials>TD</Initials>
+</Author>
+<Author>
+<LastName>Karagodin</LastName>
+<ForeName>V P</ForeName>
+<Initials>VP</Initials>
+</Author>
+<Author>
+<LastName>Arkhipenko</LastName>
+<ForeName>Iu V</ForeName>
+<Initials>IuV</Initials>
+</Author>
+<Author>
+<LastName>Bilenko</LastName>
+<ForeName>M V</ForeName>
+<Initials>MV</Initials>
+</Author>
+</AuthorList>
+<Language>rus</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+<VernacularTitle>Narusheniia fermentnoĭ sistemy transporta Ca++ v membranakh sarkoplazmaticheskogo retikuluma pri deĭstvii gidroperekiseĭ fosfolipidov i gidroperekiseĭ zhirnykh kislot.</VernacularTitle>
+</Article>
+<MedlineJournalInfo>
+<Country>USSR</Country>
+<MedlineTA>Biull Eksp Biol Med</MedlineTA>
+<NlmUniqueID>0370627</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Linoleic Acids</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Lipids</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Peroxides</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Phosphatidylethanolamines</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.6.1.38</RegistryNumber>
+<NameOfSubstance>Ca(2+)-Transporting ATPase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Ca(2+)-Transporting ATPase</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Comparative Study</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>English Abstract</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Linoleic Acids</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Lipids</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Peroxides</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phosphatidylethanolamines</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rabbits</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Sarcoplasmic Reticulum</DescriptorName>
+<QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Stimulation, Chemical</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

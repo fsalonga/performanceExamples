@@ -1,0 +1,150 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011471</MedlineID>
+<PMID>570425</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>582</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>1</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Stereospecific (--)-[3H]norepinephrine binding to bovine hypothalamus. Possible identification of the catecholamine uptake site in synaptic vesicles.</ArticleTitle>
+<Pagination>
+<MedlinePgn>470-85</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>A (--)-[3H]norepinephrine binding site was identified in a crude synaptosomal fraction isolated from bovine hypothalamus which bound norepinephrine rapidly, reversibly, and stereospecificially. The results were most consistent with binding of (-)-[H]norepinephrine to the carrier molecule used to translocate biogenic amines into synaptic vesicles. The binding studies indicated that specific binding of (--)-[3H]norepinephrine to the crude synaptosomal fraction was greatly enhanced by 4 mM MgCl2 pand 1 mM ATP. The increased binding of (--)-[3H5norepinephrine also occurred in the presence of MgCl2 and GTP, but AMP, adenosine and adenyl-5'-yl imidodiphosphate would not substitute for ATP. Neither CaCl2 nor ZnSO4 could be substituted for the MgCl2. In the presence of MgCl2 and ATP, the dissociation constant for (--)-[3H]norepinephrine was 280 nM with a specific binding site density of 4.8 pmol/mg protein. Binding was stereospecific with ratios of 15, 4, and 6.5 for the affinities of (--)-isomers to (+)-isomers for norepinephrine, epinephrine and isoproterenol, respectively. Drug competition studies, conducted in the presence of Mg2+ and ATP, indicated that (--)-epinephrine, (--)-norepinephrine, dopamine and serotonin had inhibitory constants ranging from 0.25 to 0.8 micron with (--)-isoproterenol and tyramine having inhibitory constants around 2 micron. Reserpine was the most potent inhibitor having an inhibition constant of 8.6 +/- 0.3 nM. The binding data were not consistent with the specific site being the alpha- or beta-receptors for norepinephrine, the Uptake1 Site for norepinephrine into synaptosomes or the metabolizing enzymes for norepinephrine.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Deupree</LastName>
+<ForeName>J D</ForeName>
+<Initials>JD</Initials>
+</Author>
+<Author>
+<LastName>Kennedy</LastName>
+<ForeName>R H</ForeName>
+<Initials>RH</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Adenine Nucleotides</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Biogenic Amines</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Cations, Divalent</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>50-55-5</RegistryNumber>
+<NameOfSubstance>Reserpine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>51-41-2</RegistryNumber>
+<NameOfSubstance>Norepinephrine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>56-65-5</RegistryNumber>
+<NameOfSubstance>Adenosine Triphosphate</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7439-95-4</RegistryNumber>
+<NameOfSubstance>Magnesium</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7683-59-2</RegistryNumber>
+<NameOfSubstance>Isoproterenol</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adenine Nucleotides</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Adenosine Triphosphate</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Binding Sites</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Binding, Competitive</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Biogenic Amines</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cations, Divalent</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cattle</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hypothalamus</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Isoproterenol</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Magnesium</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Norepinephrine</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Reserpine</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Synaptic Vesicles</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

@@ -1,0 +1,127 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011877</MedlineID>
+<PMID>421146</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-8993</ISSN>
+<JournalIssue>
+<Volume>165</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Apr</Month>
+<Day>13</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Evidence suggesting secondary epileptogenic lesion after kainic acid: pre treatment with diazepam reduces distant but not local brain damage.</ArticleTitle>
+<Pagination>
+<MedlinePgn>362-5</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Ben-Ari</LastName>
+<ForeName>Y</ForeName>
+<Initials>Y</Initials>
+</Author>
+<Author>
+<LastName>Tremblay</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author>
+<LastName>Ottersen</LastName>
+<ForeName>O P</ForeName>
+<Initials>OP</Initials>
+</Author>
+<Author>
+<LastName>Naquet</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Brain Res</MedlineTA>
+<NlmUniqueID>0045503</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Pyrrolidines</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>439-14-5</RegistryNumber>
+<NameOfSubstance>Diazepam</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>487-79-6</RegistryNumber>
+<NameOfSubstance>Kainic Acid</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Amygdala</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Convulsions</DescriptorName>
+<QualifierName MajorTopicYN="Y">chemically induced</QualifierName>
+<QualifierName>prevention &#38; control</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Diazepam</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hippocampus</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kainic Acid</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Nerve Degeneration</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neural Pathways</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Premedication</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Pyrrolidines</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

@@ -1,0 +1,139 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011592</MedlineID>
+<PMID>570436</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0365-9615</ISSN>
+<JournalIssue>
+<Volume>87</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>[Effect of carbidine on the sex glands of rats chronically exposed to ethanol]</ArticleTitle>
+<Pagination>
+<MedlinePgn>155-8</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>In experiments on rats it was shown that carbidine injected intramuscularly for two weeks does not effect gonadotropic action in a dose effective in experimental therapy of alcohol dependence (4 mg/kg). The drug neither potentiates adverse after-effects of chronic action of ethanol on ovo- and spermatogenesis nor slows down the course of the reparative processes in the gonads after ethanol is discontinued. However, further regressive changes in the gonadal generative elements were recorded in administering carbidine against the background of continued use of ethanol.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Liubimov</LastName>
+<ForeName>B I</ForeName>
+<Initials>BI</Initials>
+</Author>
+<Author>
+<LastName>Smol'nikova</LastName>
+<ForeName>N M</ForeName>
+<Initials>NM</Initials>
+</Author>
+<Author>
+<LastName>Strekalova</LastName>
+<ForeName>S N</ForeName>
+<Initials>SN</Initials>
+</Author>
+<Author>
+<LastName>Iavorskiĭ</LastName>
+<ForeName>A N</ForeName>
+<Initials>AN</Initials>
+</Author>
+</AuthorList>
+<Language>rus</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+<VernacularTitle>Vliianie karbidina na polovye zhelezy krys pri khronicheskom vozdeĭstvii étanola.</VernacularTitle>
+</Article>
+<MedlineJournalInfo>
+<Country>USSR</Country>
+<MedlineTA>Biull Eksp Biol Med</MedlineTA>
+<NlmUniqueID>0370627</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Carbolines</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Indoles</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Alcoholism</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug therapy</QualifierName>
+<QualifierName>pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Carbolines</DescriptorName>
+<QualifierName MajorTopicYN="Y">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>English Abstract</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Indoles</DescriptorName>
+<QualifierName MajorTopicYN="Y">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Oogenesis</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Ovarian Diseases</DescriptorName>
+<QualifierName MajorTopicYN="Y">chemically induced</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Ovary</DescriptorName>
+<QualifierName>pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Spermatogenesis</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Testicular Diseases</DescriptorName>
+<QualifierName MajorTopicYN="Y">chemically induced</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Testis</DescriptorName>
+<QualifierName>pathology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

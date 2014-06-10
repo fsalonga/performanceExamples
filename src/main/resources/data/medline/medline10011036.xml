@@ -1,0 +1,87 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011036</MedlineID>
+<PMID>420619</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>28</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>28</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0003-9942</ISSN>
+<JournalIssue>
+<Volume>36</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Intractable sneezing: case report and literature review.</ArticleTitle>
+<Pagination>
+<MedlinePgn>111-2</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Intractable sneezing is rare; the 12th case is reported here. Various causative factors have been identified in the literature; these include psychologic problems, cervical lymphadenitis, epilepsy, and allergy. The sneeze reflex consists of two phases, nasal and respiratory, which are mediated by cranial nerves V and VII and by brain-stem respiratory centers. Hypotheses that have been proposed to explain the multiple causation of sneezing are the concept of the trigeminal system as a central neuronal pool, optic-trigeminal summation, and parasympathetic generalization.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Co</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Arch Neurol</MedlineTA>
+<NlmUniqueID>0372436</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Case Report</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Child</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Psychophysiologic Disorders</DescriptorName>
+<QualifierName MajorTopicYN="Y">diagnosis</QualifierName>
+<QualifierName>psychology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Psychotherapy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Respiratory Hypersensitivity</DescriptorName>
+<QualifierName MajorTopicYN="Y">diagnosis</QualifierName>
+<QualifierName>psychology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Sneezing</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

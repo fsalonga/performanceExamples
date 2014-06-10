@@ -1,0 +1,132 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011373</MedlineID>
+<PMID>33705</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>5</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+<Day>6</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Conformations of denatured and renatured ovotransferrin.</ArticleTitle>
+<Pagination>
+<MedlinePgn>882-9</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Conformational properties of native, denatured, and renatured ovotransferrin were studied. The samples were denatured either in 7.2 M urea or in acidic (pH 3.0) conditions for periods up to a few hours. Combined data from quasielastic light scattering and transient electric birefringence were used to estimate the molecular dimensions under the various conditions. The native ovotransferrin is best described as a prolate ellipsoid with a major axis a = 68 A and a minor axis b = 21 A. Such an ellipsoidal shape is consistent with a globular particle where the solvation factor is approximately 0.28 mg/mg of solute. The urea-denatured sample was more expanded and more globular than the native sample. This observation was supported by a decrease in helical content, which was shown using circular dichroism data. Complete recovery of conformation and capacity to form a colored complex with Fe3+ seemed to occur with the simple dilution of urea or by adjustment of the low pH sample to pH 7.3.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Yeh</LastName>
+<ForeName>Y</ForeName>
+<Initials>Y</Initials>
+</Author>
+<Author>
+<LastName>Iwai</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author>
+<LastName>Feeney</LastName>
+<ForeName>R E</ForeName>
+<Initials>RE</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Egg Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>1391-06-6</RegistryNumber>
+<NameOfSubstance>Conalbumin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>57-13-6</RegistryNumber>
+<NameOfSubstance>Urea</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7439-89-6</RegistryNumber>
+<NameOfSubstance>Iron</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Circular Dichroism</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Conalbumin</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Diffusion</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Egg Proteins</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Egg White</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hydrogen-Ion Concentration</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Iron</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mathematics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Protein Binding</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Protein Conformation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Protein Denaturation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, Non-P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Urea</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

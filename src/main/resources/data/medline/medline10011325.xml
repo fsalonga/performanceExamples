@@ -1,0 +1,172 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011325</MedlineID>
+<PMID>105755</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>20</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Structural and antigenic studies of an idiotype-bearing murine antibody to the arsonate hapten.</ArticleTitle>
+<Pagination>
+<MedlinePgn>560-5</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Mice of strain A/J responded to repeated intraperitoneal injection of Limulus hemocyanin derivatized with arsanilic acid by producing large quantities (approximately 5 mg/mL of ascites fluid) of IgG antibodies specific for this hapten. The antibodies possessed a characteristic idiotypic determinant and exhibited restricted heterogeneity as demonstrated by isoelectric focusing and primary N-terminal amino acid sequence analysis of isolated light and heavy polypeptide chains. Both light- and heavy-chain sequences were comparable to those of myeloma proteins in lack of heterogeneity. The N terminus of the light chain exhibited V KI sequence and only one position in the first 30 residues showed more than one amino acid. No variability was observed in the first 10 N-terminal residues of the heavy chain. Rabbit antiserum to the idiotype blocked binding of hapten by the purified antibody. The presence of both light- and heavy-chain antigenic determinants was required for optimal formation of the idiotypic determinant.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Marchalonis</LastName>
+<ForeName>J J</ForeName>
+<Initials>JJ</Initials>
+</Author>
+<Author>
+<LastName>Warr</LastName>
+<ForeName>G W</ForeName>
+<Initials>GW</Initials>
+</Author>
+<Author>
+<LastName>Smith</LastName>
+<ForeName>P</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author>
+<LastName>Begg</LastName>
+<ForeName>G S</ForeName>
+<Initials>GS</Initials>
+</Author>
+<Author>
+<LastName>Morgan</LastName>
+<ForeName>F J</ForeName>
+<Initials>FJ</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Amino Acids</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Antibodies</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Antigens, Neoplasm</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Arsanilic Acid</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Arsenicals</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Haptens</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Immunoglobulin Idiotypes</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Immunoglobulins, Heavy-Chain</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Immunoglobulins, Light-Chain</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Immunoglobulins, kappa-Chain</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Amino Acid Sequence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Amino Acids</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Antibodies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Antigens, Neoplasm</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Arsanilic Acid</DescriptorName>
+<QualifierName MajorTopicYN="Y">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Arsenicals</DescriptorName>
+<QualifierName MajorTopicYN="Y">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Haptens</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Immunoglobulin Idiotypes</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Immunoglobulins, Heavy-Chain</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Immunoglobulins, Light-Chain</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Immunoglobulins, kappa-Chain</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mice</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mice, Inbred Strains</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Radioimmunoassay</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

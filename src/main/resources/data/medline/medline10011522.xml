@@ -1,0 +1,157 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011522</MedlineID>
+<PMID>420884</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3126</ISSN>
+<JournalIssue>
+<Volume>35</Volume>
+<Issue>1-2</Issue>
+<PubDate>
+<Year>1979</Year>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>The actions of vasoactive drugs on fetal and maternal plasma renin activity.</ArticleTitle>
+<Pagination>
+<MedlinePgn>23-32</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The association between fetal arterial pressure and fetal plasma renin activity (PRA) was studied in 30 fetal lambs prepared acutely, but studied in utero. There was a negative correlation between resting fetal arterial pressure and resting fetal PRA (p less than 0.05). Fetal hypotension caused by intravenous infusion of sodium nitroprusside was associated with increases in fetal PRA. Fetal hypertension caused by intravenous infusion of phenylephrine to the fetus was associated with a decrease in fetal PRA. Maternal hypotension caused by infusion of sodium nitroprusside to the mother, and maternal hypertension caused by maternal infusion of phenylephrine caused an increase in fetal blood pressure and a fall in fetal PRA. It is concluded that the hypertensive response of the fetus to these changes in maternal blood pressure was not initiated by the fetal renin-angiotensin system. Isoprenaline caused a rise in fetal PRA. In 11 of 28 infusions this increase in fetal PRA occurred even though diastolic pressure was increased. It is concluded that there is a beta-adrenergic receptor in the fetal kidney which can release renin. The increase in fetal PRA with intravenous isoprenaline was blocked by propanolol. Infusions of adrenaline were not associated with increases in fetal PRA.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Lumbers</LastName>
+<ForeName>E R</ForeName>
+<Initials>ER</Initials>
+</Author>
+<Author>
+<LastName>Lewes</LastName>
+<ForeName>J L</ForeName>
+<Initials>JL</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>SWITZERLAND</Country>
+<MedlineTA>Biol Neonate</MedlineTA>
+<NlmUniqueID>0247551</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Ferricyanides</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>15078-28-1</RegistryNumber>
+<NameOfSubstance>Nitroprusside</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>51-43-4</RegistryNumber>
+<NameOfSubstance>Epinephrine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>525-66-6</RegistryNumber>
+<NameOfSubstance>Propranolol</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>59-42-7</RegistryNumber>
+<NameOfSubstance>Phenylephrine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7683-59-2</RegistryNumber>
+<NameOfSubstance>Isoproterenol</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.4.23.15</RegistryNumber>
+<NameOfSubstance>Renin</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animals, Newborn</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Blood Pressure</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Epinephrine</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Ferricyanides</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Fetal Blood</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Fetus</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Gestational Age</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Heart Rate</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Isoproterenol</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Maternal-Fetal Exchange</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Nitroprusside</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phenylephrine</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Pregnancy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Propranolol</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Renin</DescriptorName>
+<QualifierName MajorTopicYN="Y">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Sheep</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

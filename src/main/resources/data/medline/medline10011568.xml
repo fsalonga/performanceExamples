@@ -1,0 +1,132 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011568</MedlineID>
+<PMID>420920</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3592</ISSN>
+<JournalIssue>
+<Volume>21</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Apr</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Immobilization of Streptomyces phaerochromogenes by radiation-induced polymerization of glass-forming monomers.</ArticleTitle>
+<Pagination>
+<MedlinePgn>679-88</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Immobilization of Streptomyces phaerochromogenes was studied by radiation-induced polymerization of 2-hydroxyethyl methacrylate at low temperatures. Radiation damage of the enzyme could be avoided by choosing irradiation at low temperatures. The enzymatic activity of immobilized cells increased remarkably with a decrease in the irradiation temperature of about -24 degrees C. In constrast to the case of cell-free enzyme immobilization, the most characteristic case was than in these immobilized cells, the enzymatic activity did not decrease with repeated use even in the composite obtained at much lower monomer concentrations. Another characteristic of immobilized cells was the increase in enzymatic activity in the initial stage of repeated use, which could be attributed to the swelling effect of the polymer matrix, thereby increasing the enzymatic activity of whole cells.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Kumakura</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author>
+<LastName>Yoshida</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author>
+<LastName>Kaetsu</LastName>
+<ForeName>I</ForeName>
+<Initials>I</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biotechnol Bioeng</MedlineTA>
+<NlmUniqueID>7502021</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Enzymes, Immobilized</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Glass</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Polymers</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>50-99-7</RegistryNumber>
+<NameOfSubstance>Glucose</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7732-18-5</RegistryNumber>
+<NameOfSubstance>Water</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 5.1.3</RegistryNumber>
+<NameOfSubstance>Carbohydrate Epimerases</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adsorption</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Carbohydrate Epimerases</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+<QualifierName>radiation effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Enzymes, Immobilized</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+<QualifierName>radiation effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Glass</DescriptorName>
+<QualifierName>radiation effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Glucose</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Polymers</DescriptorName>
+<QualifierName>radiation effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Radiation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Streptomyces</DescriptorName>
+<QualifierName>cytology</QualifierName>
+<QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Temperature</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Water</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

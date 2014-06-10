@@ -1,0 +1,114 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011666</MedlineID>
+<PMID>311233</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0007-1447</ISSN>
+<JournalIssue>
+<Volume>1</Volume>
+<Issue>6157</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>20</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Positive antinuclear factor tests with prazosin.</ArticleTitle>
+<Pagination>
+<MedlinePgn>165-6</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Marshall</LastName>
+<ForeName>A J</ForeName>
+<Initials>AJ</Initials>
+</Author>
+<Author>
+<LastName>McGraw</LastName>
+<ForeName>M E</ForeName>
+<Initials>ME</Initials>
+</Author>
+<Author>
+<LastName>Barritt</LastName>
+<ForeName>D W</ForeName>
+<Initials>DW</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Br Med J</MedlineTA>
+<NlmUniqueID>0372673</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Antibodies, Antinuclear</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Quinazolines</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>19216-56-9</RegistryNumber>
+<NameOfSubstance>Prazosin</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Antibodies, Antinuclear</DescriptorName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hypertension</DescriptorName>
+<QualifierName>drug therapy</QualifierName>
+<QualifierName>immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Middle Age</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Prazosin</DescriptorName>
+<QualifierName MajorTopicYN="Y">adverse effects</QualifierName>
+<QualifierName>therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Quinazolines</DescriptorName>
+<QualifierName MajorTopicYN="Y">adverse effects</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

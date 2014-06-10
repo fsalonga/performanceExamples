@@ -1,0 +1,111 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011290</MedlineID>
+<PMID>369601</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>23</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Yeast hexokinase in solution exhibits a large conformational change upon binding glucose or glucose 6-phosphate.</ArticleTitle>
+<Pagination>
+<MedlinePgn>338-42</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Using small-angle X-ray scattering from solutions of yeast hexokinase, we have measured the radii of gyration of the monomeric B isozyme and its complexes with sugar substrates. We find that the radius of gyration decreases by 0.95 +/- 0.24 A upon binding glucose and 1.25 +/- 0.28 A upon binding glucose 6-phosphate. This observed reduction in radius of gyration in the presence of glucose is the same as that calculated from the coordinates of the high-resolution crystal structures of native hexokinase B and a glucose complex with hexokinase A. Thus, these measurements suggest that the dramatic closing of the slit between the two lobes of hexokinase observed in the crystal structures (Bennett, W.S., &#38; Steitz, T.A. (1978) Proc. Natl. Acad. Sci. U.S.A. 75, 4848--4852) occurs in solution when either glucose or glucose 6-phosphate is bound.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>McDonald</LastName>
+<ForeName>R C</ForeName>
+<Initials>RC</Initials>
+</Author>
+<Author>
+<LastName>Steitz</LastName>
+<ForeName>T A</ForeName>
+<Initials>TA</Initials>
+</Author>
+<Author>
+<LastName>Engelman</LastName>
+<ForeName>D M</ForeName>
+<Initials>DM</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Glucosephosphates</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>50-99-7</RegistryNumber>
+<NameOfSubstance>Glucose</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.7.1.1</RegistryNumber>
+<NameOfSubstance>Hexokinase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Glucose</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Glucosephosphates</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Hexokinase</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Protein Binding</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Protein Conformation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Saccharomyces cerevisiae</DescriptorName>
+<QualifierName>enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Scattering, Radiation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>X-Rays</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

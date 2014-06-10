@@ -1,0 +1,83 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011649</MedlineID>
+<PMID>420988</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0007-1323</ISSN>
+<JournalIssue>
+<Volume>66</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Antibotic lavage in pertonitis.</ArticleTitle>
+<Pagination>
+<MedlinePgn>143</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Stewart</LastName>
+<ForeName>D J</ForeName>
+<Initials>DJ</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Letter</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Br J Surg</MedlineTA>
+<NlmUniqueID>0372553</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Antibiotics</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Antibiotics</DescriptorName>
+<QualifierName MajorTopicYN="Y">administration &#38; dosage</QualifierName>
+<QualifierName>therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Irrigation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Peritonitis</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

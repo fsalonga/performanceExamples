@@ -1,0 +1,121 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011420</MedlineID>
+<PMID>420847</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>561</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>26</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Netropsin, a DNA-binding oligopeptide structural and binding studies.</ArticleTitle>
+<Pagination>
+<MedlinePgn>124-31</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The crystal structure of netropsin, an oligopeptide which binds to DNA, has been determined. The molecule is bowed with the amide groups on the concave side, and the carbonyl and methyl groups on the convex side. The amide groups participate in extensive hydrogen bonding with water molecules; the charged amino end groups interact with the sulfate anions. Binding of netropsin to poly(dA) . poly(dT) under conditions of different ionic strength was also studied. Utilizing the crystallographic as well as the binding data, it is possible to build a model which explains the specificity of this antibiotic.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Berman</LastName>
+<ForeName>H M</ForeName>
+<Initials>HM</Initials>
+</Author>
+<Author>
+<LastName>Neidle</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author>
+<LastName>Zimmer</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author>
+<LastName>Thrum</LastName>
+<ForeName>H</ForeName>
+<Initials>H</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Guanidines</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Polydeoxyribonucleotides</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>1438-30-8</RegistryNumber>
+<NameOfSubstance>Netropsin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>26966-61-0</RegistryNumber>
+<NameOfSubstance>Poly dA-dT</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Circular Dichroism</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Crystallography</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Guanidines</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Netropsin</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Nucleic Acid Conformation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Poly dA-dT</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Polydeoxyribonucleotides</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Protein Conformation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

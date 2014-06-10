@@ -1,0 +1,137 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011151</MedlineID>
+<PMID>420707</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0004-3591</ISSN>
+<JournalIssue>
+<Volume>22</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Cartilage proteoglycan alterations in an experimentally induced model of rabbit osteoarthritis.</ArticleTitle>
+<Pagination>
+<MedlinePgn>155-63</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Size distribution of cartilage proteoglycans (PG) extracted from control and osteoarthritic rabbit knees after partial meniscectomy was analyzed. In normal control knees, about 30% of PG molecules were in aggregate form and average sedimentation constant was 60S. No aggregates were found in osteoarthritic cartilage, whether ulcer, rim about ulcer, or distant normal-appearing cartilage was examined. Weight average sedimentation constants for PG subunits were similar to controls, 15S. Up to 70% of guanidinium-extractable PG could be extracted from osteoarthritic cartilage by using 0.5M guanidine HC1 (GuHCl); sedimentation characteristics of extracted PG were similar to those using 4.0M GuHCl. Absence of aggregates is consistent with a disorder of link protein, hyaluronic acid, or PG subunit hyaluronic acid binding sites. Absence of subunit degradation was an enexpected finding. The demonstrated ability of 0.5 M GuHCl to extract large amounts of PG from osteoarthritic cartilage will allow study of cartilage proteoglycans in their native nondissociated state.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Moskowitz</LastName>
+<ForeName>R W</ForeName>
+<Initials>RW</Initials>
+</Author>
+<Author>
+<LastName>Howell</LastName>
+<ForeName>D S</ForeName>
+<Initials>DS</Initials>
+</Author>
+<Author>
+<LastName>Goldberg</LastName>
+<ForeName>V M</ForeName>
+<Initials>VM</Initials>
+</Author>
+<Author>
+<LastName>Muniz</LastName>
+<ForeName>O</ForeName>
+<Initials>O</Initials>
+</Author>
+<Author>
+<LastName>Pita</LastName>
+<ForeName>J C</ForeName>
+<Initials>JC</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Arthritis Rheum</MedlineTA>
+<NlmUniqueID>0370605</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Guanidines</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Hexuronic Acids</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Proteoglycans</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cartilage, Articular</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Guanidines</DescriptorName>
+<QualifierName>diagnostic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hexuronic Acids</DescriptorName>
+<QualifierName>isolation &#38; purification</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Knee Joint</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Methods</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Osteoarthritis</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Proteoglycans</DescriptorName>
+<QualifierName>isolation &#38; purification</QualifierName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rabbits</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, Non-P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Ulcer</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

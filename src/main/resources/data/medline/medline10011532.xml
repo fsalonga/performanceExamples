@@ -1,0 +1,116 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011532</MedlineID>
+<PMID>420892</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3126</ISSN>
+<JournalIssue>
+<Volume>35</Volume>
+<Issue>1-2</Issue>
+<PubDate>
+<Year>1979</Year>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Skeletal changes in the condylar cartilage of the neonate mouse mandible.</ArticleTitle>
+<Pagination>
+<MedlinePgn>95-105</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Histological and histochemical qualitative and quantitative determinations are provided concerning the skeletal changes taking place in the growth center of the mandibular condyle in the neonatal ICR mouse. This study followed the changes in both the major matrical components (collagen, acidic glycosaminoglycans and glycolipids) as well as in the various cartilage cells throughout the maturational period of the neonatal condyle. It was found that the transformation of neonatal condylar cartilage to its mature form involved a significant decrease in its acid glycosaminoglycan content concomitant with a rapid increase in its collagen content. In addition, significant quantitative changes were found within the zone of hypertrophic chondrocytes. The period of highest growth activity along the mandibular posterior vertical dimension (ramus) was between birth and weanling 3rd postnatal week). At this time interval, the adaptive abilities of the growing condyle appeared maximal. A high degree of correlation was noted between the overall reduction in the height of the condylar cartilage and that of its hypertrophic zone. Further, the increase in the ramal height was highly correlated with the structural changes characteristic of the neonatal condyle.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Silbermann</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author>
+<LastName>Livne</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>SWITZERLAND</Country>
+<MedlineTA>Biol Neonate</MedlineTA>
+<NlmUniqueID>0247551</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Glycolipids</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Glycosaminoglycans</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9007-34-5</RegistryNumber>
+<NameOfSubstance>Collagen</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Age Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animals, Newborn</DescriptorName>
+<QualifierName MajorTopicYN="Y">growth &#38; development</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cartilage</DescriptorName>
+<QualifierName>anatomy &#38; histology</QualifierName>
+<QualifierName MajorTopicYN="Y">growth &#38; development</QualifierName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Collagen</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Glycolipids</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Glycosaminoglycans</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mandibular Condyle</DescriptorName>
+<QualifierName>anatomy &#38; histology</QualifierName>
+<QualifierName MajorTopicYN="Y">growth &#38; development</QualifierName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mice</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

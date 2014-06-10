@@ -1,0 +1,160 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011468</MedlineID>
+<PMID>33721</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>582</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>1</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Calcium-dependent cyclic nucleotide phosphodiesterase. Inhibition of basal activity by heat-stable factors from rat cerebrum.</ArticleTitle>
+<Pagination>
+<MedlinePgn>434-7</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The boiled supernatant fraction from rat cerebrum contained factors which inhibited the basal activity of a Ca2+-dependent phosphodiesterase from rat cerebrum. Two inhibitory fractions were isolated by DEAE-cellulose or Sephadex chromatography and were deemed proteins, based on their sensitivity to trypsin digestion. The inhibitory fractions eluted from DEAE-cellulose columns prior to the Ca2+-dependent activator protein. The inhibitory factors, unlike the activator protein, were stable to heat treatment under alkaline conditions. The inhibitory factors caused both an increase in Km for cyclic GMP and a decrease in V. In the presence of calcium ions and purified activator protein, the Ca2+-dependent phosphodiesterase was not inhibited by the factors, but instead was slightly stimulated. The inhibitory factors caused a slight apparent stimulation of a Ca2+-independent phosphodiesterase from rat cerebrum but this proved instead to be a nonspecific stabilizing effect which was minimicked by bovine serum albumin. After prolonged alkaline treatment, the purified activator protein caused a modest Ca2+-independent activation of Ca2+-dependent phosphodiesterase. The inhibitory factors antagonized the activation of Ca2+-dependent phosphodiesterase by alkaline treated activator protein or by lysophosphatidylcholine. The inhibitory factors had no effect on activity of trypsinized Ca2+-dependent phosphodiesterase. Of various other proteins, only casein mimicked the effects of the inhibitory factors on phoshodiesterase activity.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Kanamori</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author>
+<LastName>Creveling</LastName>
+<ForeName>C R</ForeName>
+<Initials>CR</Initials>
+</Author>
+<Author>
+<LastName>Daly</LastName>
+<ForeName>J W</ForeName>
+<Initials>JW</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Calmodulin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Caseins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Lysophosphatidylcholines</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Nerve Tissue Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Phosphodiesterase Inhibitors</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7440-70-2</RegistryNumber>
+<NameOfSubstance>Calcium</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7665-99-8</RegistryNumber>
+<NameOfSubstance>Cyclic GMP</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.1.4.35</RegistryNumber>
+<NameOfSubstance>3',5'-Cyclic-GMP Phosphodiesterase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>3',5'-Cyclic-GMP Phosphodiesterase</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Brain Chemistry</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Calcium</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Calmodulin</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Caseins</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Comparative Study</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cyclic GMP</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Heat</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hydrogen-Ion Concentration</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Lysophosphatidylcholines</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Nerve Tissue Proteins</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phosphodiesterase Inhibitors</DescriptorName>
+<QualifierName>isolation &#38; purification</QualifierName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

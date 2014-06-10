@@ -1,0 +1,129 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011249</MedlineID>
+<PMID>420771</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>9</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Structural stabilization of isolated acetylcholine receptor: specific interaction with phospholipids.</ArticleTitle>
+<Pagination>
+<MedlinePgn>172-9</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Chang</LastName>
+<ForeName>H W</ForeName>
+<Initials>HW</Initials>
+</Author>
+<Author>
+<LastName>Bock</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Bungarotoxins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Phospholipids</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Receptors, Cholinergic</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Sulfhydryl Compounds</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>51-84-3</RegistryNumber>
+<NameOfSubstance>Acetylcholine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.1.-</RegistryNumber>
+<NameOfSubstance>Phospholipases</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Acetylcholine</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Bungarotoxins</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Electric Organ</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Fishes</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phospholipases</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Phospholipids</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Receptors, Cholinergic</DescriptorName>
+<QualifierName>isolation &#38; purification</QualifierName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Sulfhydryl Compounds</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, Non-P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

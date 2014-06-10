@@ -1,0 +1,151 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011843</MedlineID>
+<PMID>421129</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-8993</ISSN>
+<JournalIssue>
+<Volume>161</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>9</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Innervation of hippocampal explants by central catecholaminergic neurons in co-cultured fetal mouse brain stem explants.</ArticleTitle>
+<Pagination>
+<MedlinePgn>431-45</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The ability of central catecholaminergic neurons to grow into and establish functional connections with the hippocampus in vitro was studied using organotypic tissue culture. Brain stem explanted from the region of the locus coeruleus and hippocampal explants, from 18-day fetal mice, were maintained as co-cultures and were also grown separately. After 1-4 weeks these tissues were analyzed by glyoxylic acid-induced histofluorescence, by light and electron microscopic radioautography after incubation with [3H]norepinephrine, and by electrophysiology. Brain stem explants exhibited specifically fluorescent catecholaminergic cell bodies and varicose fibers after 2-4 weeks in culture. In contrast, no fluorescent cells or neurites could be seen in isolated hippocampal cultures grown for 2-3 weeks in vitro. When hippocampal explants were grown near brain stem explants, catecholaminergic fibers grew out of the brain stem and entered the hippocampus. In additional experiments, co-cultures of brain stem and hippocampus were incubated with [3H]norepinephrine (0.5 micron) and the monoamine oxidase inhibitor nialamide (100 micron). Radioautographic analyses revealed that brain stem neurites which entered the hippocampus took up norepinephrine, whereas neurites in the isolated hippocampal explants did not. Electron microscopic studies of the hippocampus showed varicose axon terminals within the hippocampus to be preferentially labeled. Although close relationships could be seen between labeled axons and dendrites, junctions exhibiting the membranous modifications associated with synapses were never seen. Electrophysiological studies suggested that the catecholaminergic neurites within the hippocampus were functional. Complex synaptically mediated slow wave discharges could be evoked by electrical stimuli in isolated hippocampal explants. Introduction of the beta adrenergic antagonist propranolol (0.4-4.3 micron) did not alter, or slightly depressed, these hippocampal discharges. On the other hand, in hippocampus-brain stem co-cultures, these concentrations of propranolol enhanced the complex hippocampal responses to brain stem or hippocampal stimuli. Similar enhancement of hippocampal responses by propranolol also occurred in these cocultures after acute surgical extirpation of the brain stem explant. The data suggest, therefore, that the action of propranol was probably to block adrenergic inhibitory connections with hippocampal synaptic networks. These experiments provide morphological and electrophysiological evidence that catecholaminergic neurons from fetal mouse brain stem maintained in organotypic tissue culture can grow into and functionally innervate the hippocampus.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Dreyfus</LastName>
+<ForeName>C F</ForeName>
+<Initials>CF</Initials>
+</Author>
+<Author>
+<LastName>Gershon</LastName>
+<ForeName>M D</ForeName>
+<Initials>MD</Initials>
+</Author>
+<Author>
+<LastName>Crain</LastName>
+<ForeName>S M</ForeName>
+<Initials>SM</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Brain Res</MedlineTA>
+<NlmUniqueID>0045503</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Catecholamines</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>525-66-6</RegistryNumber>
+<NameOfSubstance>Propranolol</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Autoradiography</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Axons</DescriptorName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Brain Stem</DescriptorName>
+<QualifierName MajorTopicYN="Y">cytology</QualifierName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Catecholamines</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cell Differentiation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cholinergic Fibers</DescriptorName>
+<QualifierName MajorTopicYN="Y">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Dendrites</DescriptorName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Evoked Potentials</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hippocampus</DescriptorName>
+<QualifierName MajorTopicYN="Y">cytology</QualifierName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Locus Coeruleus</DescriptorName>
+<QualifierName>cytology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mice</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neural Pathways</DescriptorName>
+<QualifierName>cytology</QualifierName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neuroglia</DescriptorName>
+<QualifierName>cytology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neurons</DescriptorName>
+<QualifierName>cytology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Propranolol</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, Non-P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Tissue Culture</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

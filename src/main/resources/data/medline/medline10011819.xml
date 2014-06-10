@@ -1,0 +1,169 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011819</MedlineID>
+<PMID>33743</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-8993</ISSN>
+<JournalIssue>
+<Volume>160</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>19</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Electron microscopic localization of substance P and enkephalin in axon terminals related to dendrites of catecholaminergic neurons.</ArticleTitle>
+<Pagination>
+<MedlinePgn>387-400</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Morphological and pharmacological data suggest that catecholaminergic neurons receive afferent axons positively labeled for the peptides, substance P and [Met5]-enkephalin. In the present study, electron microscopic immunocytochemistry was used to determine whether a positive reaction for these peptides could be localized to axon terminals forming synapses with catecholaminergic neurons in the locus coeruleus and A2 regions of rat brain. Adjacent sections through these areas were incubated with antiserum to either substance P, [Met5]-enkephalin, or tyrosine hydroxylase, a specific marker for catecholaminergic neurons. The sections were subsequently processes by the peroxidase-antiperoxidase immunocytochemical technique. In both the locus coeruleus and A2 region, tyrosine hydroxylase was localized primarily to perikarya and dendrites of intrinsic neurons; whereas substance P and enkephalin-like immunoreactivity was localized to axons and axon terminals. The axon terminals showing positive reactions for substance P and [Met5]-enkephalin were morphologically similar to each other and to one type of axon terminal which formed synapses with dendrites labeled for tyrosine hydroxylase. This type of axon terminal always formed asymmetric synaptic junctions and contained 3-4 large (75-100 nm) dense vesicles (LDVs) and many small (40-60 nm) clear vesicles (SCVs). The reaction product for substance P and [Met5]-enkephalin was distributed throughout the lumen of the LDVs and formed a rim of labeling around the outer boundaries of the SCVs. These findings demonstrate that substance P and [Met5]-enkephalin-positive reactions are selectively localized to subcellular organelles in axon terminals in the locus coeruleus and A2 region of rat brain. They further suggest that the labeled axon terminals form synapses with dendrites of the catecholaminergic neurons.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Pickel</LastName>
+<ForeName>V M</ForeName>
+<Initials>VM</Initials>
+</Author>
+<Author>
+<LastName>Joh</LastName>
+<ForeName>T H</ForeName>
+<Initials>TH</Initials>
+</Author>
+<Author>
+<LastName>Reis</LastName>
+<ForeName>D J</ForeName>
+<Initials>DJ</Initials>
+</Author>
+<Author>
+<LastName>Leeman</LastName>
+<ForeName>S E</ForeName>
+<Initials>SE</Initials>
+</Author>
+<Author>
+<LastName>Miller</LastName>
+<ForeName>R J</ForeName>
+<Initials>RJ</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Brain Res</MedlineTA>
+<NlmUniqueID>0045503</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Endorphins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Enkephalins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Receptors, Cholinergic</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>33507-63-0</RegistryNumber>
+<NameOfSubstance>Substance P</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>51-41-2</RegistryNumber>
+<NameOfSubstance>Norepinephrine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 1.14.16.2</RegistryNumber>
+<NameOfSubstance>Tyrosine 3-Monooxygenase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Axons</DescriptorName>
+<QualifierName>enzymology</QualifierName>
+<QualifierName MajorTopicYN="Y">ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Brain Mapping</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Brain Stem</DescriptorName>
+<QualifierName>enzymology</QualifierName>
+<QualifierName>ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cholinergic Fibers</DescriptorName>
+<QualifierName>enzymology</QualifierName>
+<QualifierName MajorTopicYN="Y">ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Dendrites</DescriptorName>
+<QualifierName>enzymology</QualifierName>
+<QualifierName MajorTopicYN="Y">ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Endorphins</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Enkephalins</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Locus Coeruleus</DescriptorName>
+<QualifierName>enzymology</QualifierName>
+<QualifierName>ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Norepinephrine</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Receptors, Cholinergic</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Substance P</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Tyrosine 3-Monooxygenase</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

@@ -1,0 +1,108 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011781</MedlineID>
+<PMID>421089</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0007-1447</ISSN>
+<JournalIssue>
+<Volume>1</Volume>
+<Issue>6159</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>3</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Assessment of renal concentrating ability.</ArticleTitle>
+<Pagination>
+<MedlinePgn>304-5</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Maximum urine osmolality was measured during a 24-hour control period in normal ambulant and working subjects and hospital inpatients and compared with that achieved after intramuscular injection of 4 microgram desamino-cys-1-8-D-arginine vasopressin (DDAVP). Most of the normal subjects passed maximally concentrated urine at some time during the control period. The results suggest that in less active subjects or hospital inpatients the DDAVP test is a suitable method of assessing renal concentrating ability.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Curtis</LastName>
+<ForeName>J R</ForeName>
+<Initials>JR</Initials>
+</Author>
+<Author>
+<LastName>Donovan</LastName>
+<ForeName>B A</ForeName>
+<Initials>BA</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Br Med J</MedlineTA>
+<NlmUniqueID>0372673</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>113-79-1</RegistryNumber>
+<NameOfSubstance>Argipressin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>16679-58-6</RegistryNumber>
+<NameOfSubstance>Desmopressin</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Argipressin</DescriptorName>
+<QualifierName MajorTopicYN="Y">diagnostic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Desmopressin</DescriptorName>
+<QualifierName MajorTopicYN="Y">diagnostic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Kidney Concentrating Ability</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Middle Age</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Osmolar Concentration</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Reference Values</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

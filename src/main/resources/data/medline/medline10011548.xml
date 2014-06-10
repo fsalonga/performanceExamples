@@ -1,0 +1,137 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011548</MedlineID>
+<PMID>420907</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>03</Month>
+<Day>23</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3223</ISSN>
+<JournalIssue>
+<Volume>14</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>CSF calcium: clinical correlates in affective illness and schizophrenia.</ArticleTitle>
+<Pagination>
+<MedlinePgn>37-51</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>In a study of electrolytes in lumbar cerebrospinal fluid (csf) from psychiatric patients, the authors found a positive correlation between calcium concentration and symptom severity in hospitalized depressed patients. CSF calcium levels tended to decrease as patients improved. In four rapidly cycling patients, CSF calcium was higher during depression than during mania. Mean CSF calcium for the depressed patients as a group was not significantly different from neurological controls or other psychiatric patients. Symptom remission from acute psychosis in schizophrenic patients was accompanied by a significant increase in CSF calcium concentration. These findings are discussed in relationship to calcium-induced alterations in neuronal and physiological excitability.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Jimerson</LastName>
+<ForeName>D C</ForeName>
+<Initials>DC</Initials>
+</Author>
+<Author>
+<LastName>Post</LastName>
+<ForeName>R M</ForeName>
+<Initials>RM</Initials>
+</Author>
+<Author>
+<LastName>Carman</LastName>
+<ForeName>J S</ForeName>
+<Initials>JS</Initials>
+</Author>
+<Author>
+<LastName>van Kammen</LastName>
+<ForeName>D P</ForeName>
+<Initials>DP</Initials>
+</Author>
+<Author>
+<LastName>Wood</LastName>
+<ForeName>J H</ForeName>
+<Initials>JH</Initials>
+</Author>
+<Author>
+<LastName>Goodwin</LastName>
+<ForeName>F K</ForeName>
+<Initials>FK</Initials>
+</Author>
+<Author>
+<LastName>Bunney</LastName>
+<ForeName>W E</ForeName>
+<Initials>WE</Initials>
+<Suffix>Jr</Suffix>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biol Psychiatry</MedlineTA>
+<NlmUniqueID>0213264</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>57-66-9</RegistryNumber>
+<NameOfSubstance>Probenecid</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7439-93-2</RegistryNumber>
+<NameOfSubstance>Lithium</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7439-95-4</RegistryNumber>
+<NameOfSubstance>Magnesium</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7440-70-2</RegistryNumber>
+<NameOfSubstance>Calcium</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Bipolar Disorder</DescriptorName>
+<QualifierName MajorTopicYN="Y">cerebrospinal fluid</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Calcium</DescriptorName>
+<QualifierName MajorTopicYN="Y">cerebrospinal fluid</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Lithium</DescriptorName>
+<QualifierName>therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Magnesium</DescriptorName>
+<QualifierName>cerebrospinal fluid</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Premedication</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Probenecid</DescriptorName>
+<QualifierName>administration &#38; dosage</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Schizophrenia</DescriptorName>
+<QualifierName MajorTopicYN="Y">cerebrospinal fluid</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

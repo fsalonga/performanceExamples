@@ -1,0 +1,96 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011606</MedlineID>
+<PMID>420955</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0092-8240</ISSN>
+<JournalIssue>
+<Volume>41</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>On the algorithms for determining the primary structure of biopolymers.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1-20</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Smetanic</LastName>
+<ForeName>Y S</ForeName>
+<Initials>YS</Initials>
+</Author>
+<Author>
+<LastName>Polozov</LastName>
+<ForeName>R V</ForeName>
+<Initials>RV</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Bull Math Biol</MedlineTA>
+<NlmUniqueID>0401404</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Biopolymers</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Macromolecular Systems</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Nucleic Acids</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Proteins</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Biopolymers</DescriptorName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Macromolecular Systems</DescriptorName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Models, Chemical</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Nucleic Acids</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Proteins</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

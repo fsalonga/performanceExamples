@@ -1,0 +1,123 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011534</MedlineID>
+<PMID>420894</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3223</ISSN>
+<JournalIssue>
+<Volume>14</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Catatonia and mania: patterns of cerebral dysfunction.</ArticleTitle>
+<Pagination>
+<MedlinePgn>111-7</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>We performed a factor analysis on research data from 55 consecutive hospitalized psychiatric patients who showed one or more of eight catatonic motor features. Two factors were extracted, accounting for 32% of the variance. Factor 1 (mutism, negativism, stupor) corresponded to the clinical syndrome of negativistic stupor and was unrelated to diagnosis, sex, age at onset, family history, or treatment response. Factor 2 (mutism, stereotypy, catalepsy, automatic obedience) corresponded to the classical description of catatonia, was associated with a research diagnosis of mania, and tended (p less than 0.10) to predict a favorable treatment response. We suggest that the two factors may reflect different forms of cerebral dysfunction which, in the case of Factor 2, may provide clues as to the nature of the morbid process in mania. Republication is now in progress in a different sample.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Abrams</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author>
+<LastName>Taylor</LastName>
+<ForeName>M A</ForeName>
+<Initials>MA</Initials>
+</Author>
+<Author>
+<LastName>Coleman Stolurow</LastName>
+<ForeName>K A</ForeName>
+<Initials>KA</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biol Psychiatry</MedlineTA>
+<NlmUniqueID>0213264</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Bipolar Disorder</DescriptorName>
+<QualifierName>diagnosis</QualifierName>
+<QualifierName MajorTopicYN="Y">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Brain</DescriptorName>
+<QualifierName>physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Catatonia</DescriptorName>
+<QualifierName>diagnosis</QualifierName>
+<QualifierName MajorTopicYN="Y">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Delirium, Dementia, Amnestic, Cognitive Disorders</DescriptorName>
+<QualifierName>diagnosis</QualifierName>
+<QualifierName MajorTopicYN="Y">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Depression</DescriptorName>
+<QualifierName>diagnosis</QualifierName>
+<QualifierName>physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Factor Analysis, Statistical</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Motor Activity</DescriptorName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Prognosis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Schizophrenia, Catatonic</DescriptorName>
+<QualifierName>diagnosis</QualifierName>
+<QualifierName>physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Stereotyped Behavior</DescriptorName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

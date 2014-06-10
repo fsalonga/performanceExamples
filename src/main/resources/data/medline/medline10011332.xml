@@ -1,0 +1,141 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011332</MedlineID>
+<PMID>217420</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>20</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Isomeric specificity of aminoacylation of wheat germ transfer ribonucleic acid and the specificity of interaction of elongation factor Tu with aminoacyl transfer ribonucleic acid.</ArticleTitle>
+<Pagination>
+<MedlinePgn>604-9</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Julius</LastName>
+<ForeName>D J</ForeName>
+<Initials>DJ</Initials>
+</Author>
+<Author>
+<LastName>Fraser</LastName>
+<ForeName>T H</ForeName>
+<Initials>TH</Initials>
+</Author>
+<Author>
+<LastName>Rich</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Peptide Elongation Factors</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>RNA, Transfer, Amino Acyl</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>56-87-1</RegistryNumber>
+<NameOfSubstance>Lysine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>63-91-2</RegistryNumber>
+<NameOfSubstance>Phenylalanine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9014-25-9</RegistryNumber>
+<NameOfSubstance>RNA, Transfer</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.1.4</RegistryNumber>
+<NameOfSubstance>Phosphoric Diester Hydrolases</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Escherichia coli</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Lysine</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Peptide Chain Elongation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Peptide Elongation Factors</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phenylalanine</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phosphoric Diester Hydrolases</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Plants</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Protein Binding</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>RNA, Transfer</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>RNA, Transfer, Amino Acyl</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Ribosomes</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Wheat</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

@@ -1,0 +1,85 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011126</MedlineID>
+<PMID>420693</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>28</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>28</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0005-9366</ISSN>
+<JournalIssue>
+<Volume>92</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>[The domestic rabbit. (Classification, pathophysiology, nutrition, reproduction, anesthesia, diseases)]</ArticleTitle>
+<Pagination>
+<MedlinePgn>65-72</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Wolff</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author>
+<LastName>Klomburg</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+</AuthorList>
+<Language>ger</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+<VernacularTitle>Das Hauskaninchen (Systematische Stellung, Pathophysiologie, Ernrung, Reproduktion, Narkose, Krankheiten).</VernacularTitle>
+</Article>
+<MedlineJournalInfo>
+<Country>GERMANY, WEST</Country>
+<MedlineTA>Berl Munch Tierarztl Wochenschr</MedlineTA>
+<NlmUniqueID>0003163</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal Diseases</DescriptorName>
+<QualifierName>therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal Nutrition</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animals, Domestic</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>English Abstract</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rabbits</DescriptorName>
+<QualifierName>classification</QualifierName>
+<QualifierName MajorTopicYN="Y">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Reproduction</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

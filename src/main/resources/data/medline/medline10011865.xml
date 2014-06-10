@@ -1,0 +1,154 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011865</MedlineID>
+<PMID>311237</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-8993</ISSN>
+<JournalIssue>
+<Volume>165</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Apr</Month>
+<Day>13</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Choline acetyltransferase and acetylcholinesterase containing projections from the basal forebrain to the amygdaloid complex of the rat.</ArticleTitle>
+<Pagination>
+<MedlinePgn>271-82</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The origin of the cholinergic innervation to the amygdaloid complex was investigated with the use of acetylcholinesterase (AChE) histochemistry and choline acetyltransferase (ChAT) assay of microdissected nuclei. Visualization of AChE-positive neurones in the ventral forebrain was facilitated by pretreatment of rats with 1.5 mg/kg di-isopropyl phosphofluoridate (DFP). The AChE-positive neurones in the ventral forebrain are distributed in a continuous system from the septum through the lateral preoptic area to the entopeduncular nucleus caudally. Knife cuts or kainic acid injections (1.5 microgram/l microliter) placed in the lateral preoptic area resulted in substantial depletion of the AChE and ChAT content of the amygdala nuclei. Kainic acid injections (1.5 microgram/l microliter) in the diagonal band area or cuts through the stria terminalis dorsally did not significantly modify the AChE staining or ChAT content of the amygdala (although diagonal band injections partially depleted the hippocampus of ChAT). Knife cuts severing both the so-called ventral pathway and the stria terminalis did not produce significantly greater ChAT depletion in the amygdala than those produced by the knife cuts or kainic acid injections in the lateral preoptic area. Parasagittal knife cuts undercutting the lateral pyriform cortex also failed to modify the AChE or ChAT content of the amygdala, but they depleted the undercut cortex of both ChAT and AChE; AChE-positive material accumulated ventrally and medially to the knife cut. It is suggested that the major source of the cholinergic innervation of the amygdala is the magnocellular AChE-positive neurones in the lateral preoptic area and adjacent regions of the ventral forebrain.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Emson</LastName>
+<ForeName>P C</ForeName>
+<Initials>PC</Initials>
+</Author>
+<Author>
+<LastName>Paxinos</LastName>
+<ForeName>G</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author>
+<LastName>Le Gal La Salle</LastName>
+<ForeName>G</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author>
+<LastName>Ben-Ari</LastName>
+<ForeName>Y</ForeName>
+<Initials>Y</Initials>
+</Author>
+<Author>
+<LastName>Silver</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Brain Res</MedlineTA>
+<NlmUniqueID>0045503</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>EC 2.3.1.6</RegistryNumber>
+<NameOfSubstance>Choline O-Acetyltransferase</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.1.1.7</RegistryNumber>
+<NameOfSubstance>Acetylcholinesterase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Acetylcholinesterase</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Amygdala</DescriptorName>
+<QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Caudate Nucleus</DescriptorName>
+<QualifierName>enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Choline O-Acetyltransferase</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cholinergic Fibers</DescriptorName>
+<QualifierName>enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Diencephalon</DescriptorName>
+<QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Globus Pallidus</DescriptorName>
+<QualifierName>enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hippocampus</DescriptorName>
+<QualifierName>enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Medial Forebrain Bundle</DescriptorName>
+<QualifierName>enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mesencephalon</DescriptorName>
+<QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neural Pathways</DescriptorName>
+<QualifierName>enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Nucleus Accumbens</DescriptorName>
+<QualifierName>enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Preoptic Area</DescriptorName>
+<QualifierName>enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Putamen</DescriptorName>
+<QualifierName>enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

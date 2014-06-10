@@ -1,0 +1,103 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011598</MedlineID>
+<PMID>420941</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0365-9615</ISSN>
+<JournalIssue>
+<Volume>87</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>[Termination of the presynaptic effect of carbacholine by tubocurarine]</ArticleTitle>
+<Pagination>
+<MedlinePgn>171-4</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The presynaptic action of carbacholine (Cch) was studied in experiments on the frog sartorius muscle neuromuscular preparation. Cch proved to decrease the quantum content of the end plate potential (EPP); this effect was induced by a direct Cch action on the motor nerve endings. d-tubocurarine decreased the sensitivity of the nerve endings to Cch significantly. Both d-tubocurarine and Cch had concurrent antagonistic interrelations in respect to their action on the quantum content of EPP. Atropine in low concentrations had no influence on the presynaptic effect of Cch. It was concluded that Cch decreased the quantum content of EPP through the N-cholinergic structures of the motor nerve endings.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Nikol'skiĭ</LastName>
+<ForeName>E E</ForeName>
+<Initials>EE</Initials>
+</Author>
+<Author>
+<LastName>Giniatullin</LastName>
+<ForeName>R A</ForeName>
+<Initials>RA</Initials>
+</Author>
+</AuthorList>
+<Language>rus</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+<VernacularTitle>Prekrashchenie presinapticheskogo deĭstiviia karbakholina tubokurarinom.</VernacularTitle>
+</Article>
+<MedlineJournalInfo>
+<Country>USSR</Country>
+<MedlineTA>Biull Eksp Biol Med</MedlineTA>
+<NlmUniqueID>0370627</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>51-83-2</RegistryNumber>
+<NameOfSubstance>Carbachol</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>57-95-4</RegistryNumber>
+<NameOfSubstance>Tubocurarine</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Anura</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Carbachol</DescriptorName>
+<QualifierName MajorTopicYN="Y">antagonists &#38; inhibitors</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>English Abstract</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Membrane Potentials</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Motor Endplate</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neuromuscular Junction</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Tubocurarine</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

@@ -1,0 +1,126 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011486</MedlineID>
+<PMID>420869</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>583</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>19</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Effect of partial hepatectomy and hydrocortisone administration on liver and serum sialyltransferase activities.</ArticleTitle>
+<Pagination>
+<MedlinePgn>14-9</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Partial hepatectomy of rats was followed by a rise in liver sialyltransferase activity. The maximum (2.5-fold increase) was reached on the third day after the operation, after which the level started to decline, returning to normal by day 6. Determination of serum sialyltransferase in these animals showed a parallel pattern. Daily injection of 5 mg hydrocortisone to adrenalectomized rats led to a maximal 3-fold elevation in liver sialyltransferase within 3 days, but failed to elicit any change in the corresponding enzyme in the serum. Results from these two experiments suggest that the elevations of sialyltransferase in the tissue and in the circulation are independently regulated.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Ip</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>50-23-7</RegistryNumber>
+<NameOfSubstance>Hydrocortisone</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9007-49-2</RegistryNumber>
+<NameOfSubstance>DNA</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.</RegistryNumber>
+<NameOfSubstance>Transferases</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.4.99.-</RegistryNumber>
+<NameOfSubstance>Sialyltransferases</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adrenalectomy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Comparative Study</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>DNA</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Hepatectomy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hydrocortisone</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Liver</DescriptorName>
+<QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Proteins</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Sialyltransferases</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Transferases</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

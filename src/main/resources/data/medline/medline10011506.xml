@@ -1,0 +1,107 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011506</MedlineID>
+<PMID>420875</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0320-9725</ISSN>
+<JournalIssue>
+<Volume>44</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>[Fragmentation of chromatin by endogenous nucleases, accumulation of the subnucleosomal fragments with high electrophoretic mobility]</ArticleTitle>
+<Pagination>
+<MedlinePgn>18-26</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Digestion of chromatin by endogenous nucleases to nucleosomes (140-160 base pairs of DNA) is accompanied by the accumulation of subnucleosomal DNP particles with high electrophoretic mobility (20-40 base pairs of DNA). All histones associate with the 140-160 base pairs fragment. The production of subnucleosomal DNP particles does not correlate with the degradation of histone H1 and the appearance of nucleosomes lacking histone H1. Degradation of the protein in this fragment is accompanied by the appearance of free DNA. The data obtained are in agreement with the hypothesis on the origin of subnucleosomes from the nucleosomal locus preferentially associated with the non-histone proteins and on the autonomy of these loci and of the loci associated with histone H1 in the nucleosome.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Chikhirzhina</LastName>
+<ForeName>G I</ForeName>
+<Initials>GI</Initials>
+</Author>
+</AuthorList>
+<Language>rus</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+<VernacularTitle>Fragmentatsiia khromatina endogennymi nukleazami, nakoplenie subnykleosomnogo fragmenta s vysokoi elektroforeticheskoĭ podvizhnost'iu.</VernacularTitle>
+</Article>
+<MedlineJournalInfo>
+<Country>USSR</Country>
+<MedlineTA>Biokhimiia</MedlineTA>
+<NlmUniqueID>0372667</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Chromatin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Chromosomal Proteins, Non-Histone</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Histones</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9007-49-2</RegistryNumber>
+<NameOfSubstance>DNA</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.1.-</RegistryNumber>
+<NameOfSubstance>Deoxyribonucleases</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Chromatin</DescriptorName>
+<QualifierName MajorTopicYN="Y">ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Chromosomal Proteins, Non-Histone</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">DNA</DescriptorName>
+<QualifierName>isolation &#38; purification</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Deoxyribonucleases</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Electrophoresis, Polyacrylamide Gel</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>English Abstract</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Histones</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Molecular Weight</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

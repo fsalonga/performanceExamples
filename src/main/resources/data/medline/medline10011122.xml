@@ -1,0 +1,86 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011122</MedlineID>
+<PMID>369547</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0005-9366</ISSN>
+<JournalIssue>
+<Volume>92</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>1</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>[Clostridium botulinum type C--toxic infection in broilers in North West Germany]</ArticleTitle>
+<Pagination>
+<MedlinePgn>50-7</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Schettler</LastName>
+<ForeName>C H</ForeName>
+<Initials>CH</Initials>
+</Author>
+</AuthorList>
+<Language>ger</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+<VernacularTitle>Clostridium Botulinum Typ C--Intoxikation bei Broilern in Nordwestdeutschland.</VernacularTitle>
+</Article>
+<MedlineJournalInfo>
+<Country>GERMANY, WEST</Country>
+<MedlineTA>Berl Munch Tierarztl Wochenschr</MedlineTA>
+<NlmUniqueID>0003163</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Botulism</DescriptorName>
+<QualifierName>mortality</QualifierName>
+<QualifierName>pathology</QualifierName>
+<QualifierName MajorTopicYN="Y">veterinary</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Breeding</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Chickens</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Clostridium botulinum</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>English Abstract</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Germany, West</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Poultry Diseases</DescriptorName>
+<QualifierName>mortality</QualifierName>
+<QualifierName MajorTopicYN="Y">pathology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

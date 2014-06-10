@@ -1,0 +1,96 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011855</MedlineID>
+<PMID>217489</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-8993</ISSN>
+<JournalIssue>
+<Volume>161</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>9</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Cytoplasmic laminated bodies in the visual cortex of the cat.</ArticleTitle>
+<Pagination>
+<MedlinePgn>544-8</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Winfield</LastName>
+<ForeName>D A</ForeName>
+<Initials>DA</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Brain Res</MedlineTA>
+<NlmUniqueID>0045503</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cell Nucleolus</DescriptorName>
+<QualifierName>ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cell Nucleus</DescriptorName>
+<QualifierName>ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Endoplasmic Reticulum</DescriptorName>
+<QualifierName>ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Haplorhini</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Inclusion Bodies</DescriptorName>
+<QualifierName MajorTopicYN="Y">ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neurons</DescriptorName>
+<QualifierName>ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Sensory Deprivation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Synapses</DescriptorName>
+<QualifierName>ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Visual Cortex</DescriptorName>
+<QualifierName MajorTopicYN="Y">ultrastructure</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

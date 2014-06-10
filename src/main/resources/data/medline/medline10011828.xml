@@ -1,0 +1,100 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011828</MedlineID>
+<PMID>217479</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-8993</ISSN>
+<JournalIssue>
+<Volume>160</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>19</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>A comparison of on-inhibition and off-excitation measures of the surround response mechanism in cat retinal ganglion cells.</ArticleTitle>
+<Pagination>
+<MedlinePgn>509-13</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Robertson</LastName>
+<ForeName>T W</ForeName>
+<Initials>TW</Initials>
+</Author>
+<Author>
+<LastName>Christen</LastName>
+<ForeName>W G</ForeName>
+<Initials>WG</Initials>
+</Author>
+<Author>
+<LastName>Winters</LastName>
+<ForeName>R W</ForeName>
+<Initials>RW</Initials>
+</Author>
+<Author>
+<LastName>Cohen</LastName>
+<ForeName>H I</ForeName>
+<Initials>HI</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Brain Res</MedlineTA>
+<NlmUniqueID>0045503</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Neural Inhibition</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neurons</DescriptorName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Photic Stimulation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Retina</DescriptorName>
+<QualifierName MajorTopicYN="Y">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Synaptic Transmission</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Visual Fields</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

@@ -1,0 +1,122 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011857</MedlineID>
+<PMID>33747</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-8993</ISSN>
+<JournalIssue>
+<Volume>161</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>9</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Low pH selectively blocks calcium action potentials in amphibian neurons developing in culture.</ArticleTitle>
+<Pagination>
+<MedlinePgn>555-9</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Spitzer</LastName>
+<ForeName>N C</ForeName>
+<Initials>NC</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Brain Res</MedlineTA>
+<NlmUniqueID>0045503</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Electrolytes</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Ion Channels</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7440-23-5</RegistryNumber>
+<NameOfSubstance>Sodium</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7440-48-4</RegistryNumber>
+<NameOfSubstance>Cobalt</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7440-70-2</RegistryNumber>
+<NameOfSubstance>Calcium</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Action Potentials</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Calcium</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cells, Cultured</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cobalt</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Electrolytes</DescriptorName>
+<QualifierName>administration &#38; dosage</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hydrogen-Ion Concentration</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Ion Channels</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neurons</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+<QualifierName MajorTopicYN="Y">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Sodium</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, Non-P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Xenopus</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

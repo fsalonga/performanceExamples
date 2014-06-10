@@ -1,0 +1,112 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011930</MedlineID>
+<PMID>217519</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0008-543X</ISSN>
+<JournalIssue>
+<Volume>43</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Anabolic steroid therapy and intrahepatic cholangiocarcinoma.</ArticleTitle>
+<Pagination>
+<MedlinePgn>440-3</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>A 47-year-old man who had been treated with an anabolic steroid for refractory anemia developed an intrahepatic cholangiocarcinoma with metastases to abdominal lymph nodes and lungs. Microscopically, the tumor showed mucin production and was devoid of hepatocellular elements. Previous reports have suggested a possible relationship between anabolic steroid therapy and hepatocellular carcinoma. In many such cases, there are doubts about the histological diagnosis, malignant potential, and the nature of the association between the steroids and the tumors. The presence of distant metastases attests to the malignant nature of the tumor in the present case. Despite the apparent temporal eligibility of the steroid as an etiologic agent, a causative relationship between therapy and tumor is not established.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Stromeyer</LastName>
+<ForeName>F W</ForeName>
+<Initials>FW</Initials>
+</Author>
+<Author>
+<LastName>Smith</LastName>
+<ForeName>D H</ForeName>
+<Initials>DH</Initials>
+</Author>
+<Author>
+<LastName>Ishak</LastName>
+<ForeName>K G</ForeName>
+<Initials>KG</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Cancer</MedlineTA>
+<NlmUniqueID>0374236</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>434-07-1</RegistryNumber>
+<NameOfSubstance>Oxymetholone</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adenoma, Bile Duct</DescriptorName>
+<QualifierName MajorTopicYN="Y">chemically induced</QualifierName>
+<QualifierName>pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Anemia, Aplastic</DescriptorName>
+<QualifierName>drug therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Carcinoma, Hepatocellular</DescriptorName>
+<QualifierName>chemically induced</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Case Report</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Liver Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y">chemically induced</QualifierName>
+<QualifierName>pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Middle Age</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Oxymetholone</DescriptorName>
+<QualifierName MajorTopicYN="Y">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Time Factors</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

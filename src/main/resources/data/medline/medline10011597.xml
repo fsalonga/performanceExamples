@@ -1,0 +1,165 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011597</MedlineID>
+<PMID>420940</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0365-9615</ISSN>
+<JournalIssue>
+<Volume>87</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>[Reduction of the hyperthermic effect of prostaglandin E2 by cholinomimetics, monoamines and calcium ions]</ArticleTitle>
+<Pagination>
+<MedlinePgn>168-71</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>It was shown in experiments on unanesthetized rats with prostaglandin E2 (PGE2) hyperthermia, not preventable by aspirin that intraventricular (into the lateral ventricle) injections of arecoline, noradrenaline, 5-hydroxytryptamine (5-HT), histamine, and calcium ions and intraperitoneal eserine injection were capable of decreasing body temperature. PGE2 hyperthermia was not prevented by aspirin, but it was reduced by eserine. After the administration of arecoline and nicotine into the third ventricle of unanesthetized rabbits with PGE2 hyperthermia body temperature decreased as well. The effect of arecoline and 5-HT was reproducible in the same animals. The data are suggestive of the existence in the heat loss centre of mechanisms including cholinergic neurons whose activity was not completely suppressed by PGE2.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Gurin</LastName>
+<ForeName>V N</ForeName>
+<Initials>VN</Initials>
+</Author>
+<Author>
+<LastName>Tsariuk</LastName>
+<ForeName>V V</ForeName>
+<Initials>VV</Initials>
+</Author>
+<Author>
+<LastName>Tret'iakovich</LastName>
+<ForeName>A G</ForeName>
+<Initials>AG</Initials>
+</Author>
+</AuthorList>
+<Language>rus</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+<VernacularTitle>Oslablenie gipertermicheskogo éffekta prostaglandina E2 kholinomimetikami monaminami i ionami kal'tsiia.</VernacularTitle>
+</Article>
+<MedlineJournalInfo>
+<Country>USSR</Country>
+<MedlineTA>Biull Eksp Biol Med</MedlineTA>
+<NlmUniqueID>0370627</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Prostaglandins E</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>50-67-9</RegistryNumber>
+<NameOfSubstance>Serotonin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>50-78-2</RegistryNumber>
+<NameOfSubstance>Aspirin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>51-41-2</RegistryNumber>
+<NameOfSubstance>Norepinephrine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>51-45-6</RegistryNumber>
+<NameOfSubstance>Histamine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>54-11-5</RegistryNumber>
+<NameOfSubstance>Nicotine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>57-47-6</RegistryNumber>
+<NameOfSubstance>Physostigmine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>63-75-2</RegistryNumber>
+<NameOfSubstance>Arecoline</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7440-70-2</RegistryNumber>
+<NameOfSubstance>Calcium</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Arecoline</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Aspirin</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Body Temperature</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Calcium</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Comparative Study</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>English Abstract</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Histamine</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Nicotine</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Norepinephrine</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Physostigmine</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Prostaglandins E</DescriptorName>
+<QualifierName MajorTopicYN="Y">antagonists &#38; inhibitors</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rabbits</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Serotonin</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

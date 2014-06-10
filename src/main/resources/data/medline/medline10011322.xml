@@ -1,0 +1,142 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011322</MedlineID>
+<PMID>217417</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>11</Month>
+<Day>02</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>6</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Compositional asymmetry and transmembrane movement of phosphatidylcholine in vesicular stomatitis virus membranes.</ArticleTitle>
+<Pagination>
+<MedlinePgn>538-43</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Shaw</LastName>
+<ForeName>J M</ForeName>
+<Initials>JM</Initials>
+</Author>
+<Author>
+<LastName>Moore</LastName>
+<ForeName>N F</ForeName>
+<Initials>NF</Initials>
+</Author>
+<Author>
+<LastName>Patzer</LastName>
+<ForeName>E J</ForeName>
+<Initials>EJ</Initials>
+</Author>
+<Author>
+<LastName>Correa-Freire</LastName>
+<ForeName>M C</ForeName>
+<Initials>MC</Initials>
+</Author>
+<Author>
+<LastName>Wagner</LastName>
+<ForeName>R R</ForeName>
+<Initials>RR</Initials>
+</Author>
+<Author>
+<LastName>Thompsom</LastName>
+<ForeName>T E</ForeName>
+<Initials>TE</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Membrane Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Phospholipids</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Viral Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>57-88-5</RegistryNumber>
+<NameOfSubstance>Cholesterol</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>62-49-7</RegistryNumber>
+<NameOfSubstance>Choline</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.4.21.4</RegistryNumber>
+<NameOfSubstance>Trypsin</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Cholesterol</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Choline</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Membrane Proteins</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phospholipids</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, Non-P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Trypsin</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Vesicular stomatitis-Indiana virus</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Viral Proteins</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

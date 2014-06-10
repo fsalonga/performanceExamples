@@ -1,0 +1,96 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011422</MedlineID>
+<PMID>420848</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>561</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>26</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Random fragmentation of replicative DNA structures of eucaryotes.</ArticleTitle>
+<Pagination>
+<MedlinePgn>147-54</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The expectation values of the sizes of the different types of fragments containing replication forks obtained by random fragmentation of the DNA of growing mammalian cells have been derived. Fragments containing a single fork are expected to have, on the average, three branches of the length of a mean linear fragment thus exceeding the molecular weight of the latter by a factor 3. This factor is about 2 for fragments containing two forks very recently started from a common initiation point, and about 4 for fragments containing two forks meeting each other at the end of adjacent replication units. Only forks very close to one another are expected in these latter fragment types. Therefore, they should represent the earliest or the latest stages of replicon action.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Wais</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author>
+<LastName>Probst</LastName>
+<ForeName>H</ForeName>
+<Initials>H</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>DNA, Single-Stranded</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9007-49-2</RegistryNumber>
+<NameOfSubstance>DNA</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>DNA</DescriptorName>
+<QualifierName>isolation &#38; purification</QualifierName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">DNA Replication</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>DNA, Single-Stranded</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Eukaryotic Cells</DescriptorName>
+<QualifierName>analysis</QualifierName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Models, Biological</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Molecular Weight</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

@@ -1,0 +1,87 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011512</MedlineID>
+<PMID>217455</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>11</Month>
+<Day>02</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0320-9725</ISSN>
+<JournalIssue>
+<Volume>44</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>[Melting and reassociation of double-stranded RNA of the encephalomyocarditis virus]</ArticleTitle>
+<Pagination>
+<MedlinePgn>57-66</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The processes of melting and reassociation of double-stranded RNA in dimethylsulfoxide were studied. The addition of a small amount of LiCl results in great results in great reduction of Tm (temperature of melting), whereas the NaCl produces the opposite effect. It is suggested, that LiCl coordinates the molecules of H2O, reducing their activity, and consequently destabilises dsRNA. Mild conditions for melting and reassociation of RNA can be created. It was found that under optimal conditions for dsRNA melting, the degree of strand separation depends on the overall concentration of RNA, irrespective of the type of RNA added to the dsRNA preparation. Reassociation of dsRNA of EMC virus proceeds much faster than that of dsRNA of a related poliovirus. Addition of poly(C) to an annealing mixture slows down the rate of reassociation of EMC dsRNA, producing no effect on the poliovirus dsRNA reassociation. It is suggested that the presence of large poly(C) and poly(G) tracts in the complementary strands of the RNA determines its anomalous fast reassociation. Upon incubation of completely separated strands of EMC dsRNA in a water solution with high ionic strength partially double-stranded aggregates are formed. The formation of aggregates is prevented by addition of poly(A), which indicates that they are produced by "zippening" of a molecule starting with poly(A):poly(U) region. The significance of homopolymeric regions for stability of dsRNA of the EMC virus as well as their role in viral multiplication are discussed.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Chumakov</LastName>
+<ForeName>K M</ForeName>
+<Initials>KM</Initials>
+</Author>
+</AuthorList>
+<Language>rus</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+<VernacularTitle>Izuchenie plavleniia i reassotsiatsii dvuspiral'noĭ RNK virusa entsefalomiokardita.</VernacularTitle>
+</Article>
+<MedlineJournalInfo>
+<Country>USSR</Country>
+<MedlineTA>Biokhimiia</MedlineTA>
+<NlmUniqueID>0372667</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>RNA, Viral</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Encephalomyocarditis virus</DescriptorName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>English Abstract</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Nucleic Acid Denaturation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Nucleic Acid Renaturation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">RNA, Viral</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Temperature</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

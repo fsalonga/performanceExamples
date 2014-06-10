@@ -1,0 +1,105 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011214</MedlineID>
+<PMID>420744</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0007-1145</ISSN>
+<JournalIssue>
+<Volume>41</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Some effects of sulphur intake on molybdenum metabolism in sheep.</ArticleTitle>
+<Pagination>
+<MedlinePgn>125-36</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>1. To investigate the effects of sulphur intake on molybdenum metabolism in sheep, ewes were given intakes of 0.3 or 3.5 mg Mo and 0.98, 1.33, 1.73 or 3.23 g S/d in a 2x4 factorial experiment with two replicates lasting 35 d. 99Mo with 0.1 mg carrier Mo was infused intravenously for the last 14 d and, when 99Mo concentrations in urine and faeces had attained plateaux (days 11-14), stable Mo and 99Mo balance trails were conducted; samples of blood and rumen contents were taken principally for studies of Mo distribution. 2. Increases in S intake caused the following changes in Mo metabolism; absorption decreased, urinary and faecal endogenous excretion decreased and retention increased; Mo concentrations in rumen contents decreased but the predominant association with the solid phase was unaffected; Mo concentrations in plasma decreased, but a higher proportion was associated with the protein fraction; Mo in protein-free plasma became apparently less ultrafiltrable at the glomerulus. 3. The pattern of response to S for each factor was generally curvilinear, the first increment in S intake having by far the greatest effect. The effect of S was generally greatest at the higher Mo intake. 4. It is suggested that the manifold effects of S on Mo metabolism are related to a common interaction in the rumen leading to the formation of Mo-complexes, possibly thiomolybdates, which are poorly absorbed but even more poorly excreted.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Grace</LastName>
+<ForeName>N D</ForeName>
+<Initials>ND</Initials>
+</Author>
+<Author>
+<LastName>Suttle</LastName>
+<ForeName>N F</ForeName>
+<Initials>NF</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Br J Nutr</MedlineTA>
+<NlmUniqueID>0372547</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>7439-98-7</RegistryNumber>
+<NameOfSubstance>Molybdenum</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7704-34-9</RegistryNumber>
+<NameOfSubstance>Sulfur</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Diet</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Feces</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Intestinal Absorption</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Molybdenum</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rumen</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Sheep</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Sulfur</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

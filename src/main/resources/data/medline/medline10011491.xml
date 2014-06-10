@@ -1,0 +1,109 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011491</MedlineID>
+<PMID>369616</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>583</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>19</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>4-Hydroxybenzyl alcohol. A metabolite produced during the biosynthesis of thiamine in Escherichia coli.</ArticleTitle>
+<Pagination>
+<MedlinePgn>55-62</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>4-Hydroxybenzyl alcohol was identified by gas chromatography-mass spectrometry as a metabolite of Escherichia coli when it is grown on a medium containing no thiamine or 4-methyl-5-beta-hydroxyethyl thiazole. 4-Hydroxybenzyl alcohol was found to be derived from L-tyrosine and the amount produced was found to be inhibited by the addition of thiamine to the growth medium. The amount of 4-hydroxybenzyl alcohol produced, as measured by isotopic dilution, was shown to be equivalent to the amount of thiamine formed. Based on these observations, it was concluded that 4-hydroxybenzyl alcohol is the cleavage product produced during the biosynthesis of the thiazole moiety of thiamine from tyrosine.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>White</LastName>
+<ForeName>R H</ForeName>
+<Initials>RH</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Benzyl Alcohols</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Benzyl Compounds</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Culture Media</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>55520-40-6</RegistryNumber>
+<NameOfSubstance>Tyrosine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>59-43-8</RegistryNumber>
+<NameOfSubstance>Thiamine</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Benzyl Alcohols</DescriptorName>
+<QualifierName>isolation &#38; purification</QualifierName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Benzyl Compounds</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Culture Media</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Escherichia coli</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Thiamine</DescriptorName>
+<QualifierName MajorTopicYN="Y">biosynthesis</QualifierName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Tyrosine</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

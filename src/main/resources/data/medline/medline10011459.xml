@@ -1,0 +1,142 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011459</MedlineID>
+<PMID>570423</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>566</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>9</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Inhibition of esterase and amidase activities of alpha- and beta-thrombin in the presence of antithrombin III and heparin.</ArticleTitle>
+<Pagination>
+<MedlinePgn>385-9</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Inhibition of the esterase and amidase activities of bovine alpha- and beta-thrombin in the presence of antithrombin III and heparin has been studied. It was found that both the esterase and amidase activities of alpha-thrombin were inhibited by antithrombin III and the reactions were accelerated by heparin. The inhibition of amidase and esterase activities of beta-thrombin by antithrombin III has also been demonstrated. Heparin however did not increase the rate of inactivation of the enzyme.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Borsodi</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author>
+<LastName>Machovich</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Anilides</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Oligopeptides</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9000-94-6</RegistryNumber>
+<NameOfSubstance>Antithrombin III</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9005-49-6</RegistryNumber>
+<NameOfSubstance>Heparin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>901-47-3</RegistryNumber>
+<NameOfSubstance>Tosylarginine Methyl Ester</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.1.</RegistryNumber>
+<NameOfSubstance>Esterases</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.4.21.5</RegistryNumber>
+<NameOfSubstance>Thrombin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.5.</RegistryNumber>
+<NameOfSubstance>Amidohydrolases</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Amidohydrolases</DescriptorName>
+<QualifierName>antagonists &#38; inhibitors</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Anilides</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Antithrombin III</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cattle</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Drug Synergism</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Esterases</DescriptorName>
+<QualifierName>antagonists &#38; inhibitors</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Heparin</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Oligopeptides</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Thrombin</DescriptorName>
+<QualifierName>antagonists &#38; inhibitors</QualifierName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Tosylarginine Methyl Ester</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

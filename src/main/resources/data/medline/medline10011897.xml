@@ -1,0 +1,101 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011897</MedlineID>
+<PMID>217501</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-8993</ISSN>
+<JournalIssue>
+<Volume>166</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Apr</Month>
+<Day>20</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Asymmetry of on- and off-pathways of blue-sensitive cones of the retina of macaques.</ArticleTitle>
+<Pagination>
+<MedlinePgn>39-48</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>de Monasterio</LastName>
+<ForeName>F M</ForeName>
+<Initials>FM</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Brain Res</MedlineTA>
+<NlmUniqueID>0045503</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Color Perception</DescriptorName>
+<QualifierName MajorTopicYN="Y">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Electric Stimulation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Electroretinography</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Haplorhini</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Macaca fascicularis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Macaca mulatta</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neural Pathways</DescriptorName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neurons</DescriptorName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Optic Nerve</DescriptorName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Photic Stimulation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Photoreceptors</DescriptorName>
+<QualifierName>anatomy &#38; histology</QualifierName>
+<QualifierName MajorTopicYN="Y">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Synaptic Transmission</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

@@ -1,0 +1,128 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011526</MedlineID>
+<PMID>420887</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3126</ISSN>
+<JournalIssue>
+<Volume>35</Volume>
+<Issue>1-2</Issue>
+<PubDate>
+<Year>1979</Year>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Relationship between maturity, electrolyte balance and the function of the renin-angiotensin-aldosterone system in newborn infants.</ArticleTitle>
+<Pagination>
+<MedlinePgn>60-5</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Simultaneous measurement of plasma renin activity (PRA), plasma aldosterone concentration (PA) and urinary aldosterone excretion (UAE) was made using the RIA method along with determination of Na and K balance in 1-week-old neonates with gestational age of 30-41 weeks (mean 35.9 weeks) and birth weight of 1,160-4,670 g (mean 2,680 g). It was demonstrated that PRA decreased from the value of 36.3 +/- 6.3 ng/ml/h (mean +/- SE) to a level of 10.2 +/- 2.1 ng/ml/h (p less than 0.001), PA did not change and UAE increased from 3.3 +/- 0.8 to 7.8 +/- 1.4 microgram/day (p less than 0.01) as the gestational age advanced from 30-32 to 39-41 weeks. There was no correlation between either PRA and PA and UAE. PRA showed a significant positive correlation with urinary Na excretion (p less than 0.001) and plasma K concentration (p less than 0.05), but it was negatively related to Na balance (p less than 0.001). Significant negative correlations were found between UAE and urinary Na excretion (p less than 0.05), urinary Na/K ratio (p less than 0.01 (and plasma K concentration (p less than 0.05); however, UAE positively correlated with Na balance (p less than 0.01). It is concluded that, in response to renal salt wasting and to the subsequent negative salt balance, premature infants can augment their PRA above values found for full-term infants. Their adrenals, however, failed to respond adequately to this stimulation.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Sulyok</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author>
+<LastName>Németh</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author>
+<LastName>Tényi</LastName>
+<ForeName>I</ForeName>
+<Initials>I</Initials>
+</Author>
+<Author>
+<LastName>Csaba</LastName>
+<ForeName>I F</ForeName>
+<Initials>IF</Initials>
+</Author>
+<Author>
+<LastName>Varga</LastName>
+<ForeName>F</ForeName>
+<Initials>F</Initials>
+</Author>
+<Author>
+<LastName>Györy</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author>
+<LastName>Thurzó</LastName>
+<ForeName>V</ForeName>
+<Initials>V</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>SWITZERLAND</Country>
+<MedlineTA>Biol Neonate</MedlineTA>
+<NlmUniqueID>0247551</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>11128-99-7</RegistryNumber>
+<NameOfSubstance>Angiotensin II</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>52-39-1</RegistryNumber>
+<NameOfSubstance>Aldosterone</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.4.23.15</RegistryNumber>
+<NameOfSubstance>Renin</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Aldosterone</DescriptorName>
+<QualifierName MajorTopicYN="Y">physiology</QualifierName>
+<QualifierName>urine</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Angiotensin II</DescriptorName>
+<QualifierName>blood</QualifierName>
+<QualifierName MajorTopicYN="Y">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Gestational Age</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Infant, Newborn</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Renin</DescriptorName>
+<QualifierName>blood</QualifierName>
+<QualifierName MajorTopicYN="Y">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Water-Electrolyte Balance</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

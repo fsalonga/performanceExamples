@@ -1,0 +1,112 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011336</MedlineID>
+<PMID>420806</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>20</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Reaction of bisulfite with the 5-hydroxymethyl group in pyrimidines and in phage DNAs.</ArticleTitle>
+<Pagination>
+<MedlinePgn>632-7</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>5-Hydroxymethylcytosine reacted with bisulfite and, instead of undergoing usual deamination process, gave cytosine 5-methylenesulfonate as the product. The conversion was rapid and quantitative, and the optimum pH was 4.5. The product was isolated as crystals and characterized. Cytosine 5-methylenesulfonate was only very slowly deaminated by treatment with bisulfite. 5-Hydroxymethyl-2'-deoxycytidine 5'-phosphate reacted with bisulfite in the same way as 5-hydroxymethylcytosine. Residues of 5-hydroxymethylcytosine in native as well as denatured T2 DNA were convertible to those of cytosine 5-methylenesulfonate by treatment of the DNA with bisulfite. While it is known that the 5-hydroxy-methyl groups of T-even bacteriophage DNA can be enzymatically glucosylated, this observation offers chemical evidence that the 5-hydrozymethyl groups in DNA are situated in such a way that they can readily react with external agents. 5-Hydroxymethyluracil gave uracil 5-methylenesulfonate on treatment with bisulfite. This reaction was much slower than that of 5-hydroxymethylcytosine, and the optimum pH was between 6 and 7.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Hayatsu</LastName>
+<ForeName>H</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author>
+<LastName>Shiragami</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>DNA, Viral</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Pyrimidines</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Sulfites</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>66-22-8</RegistryNumber>
+<NameOfSubstance>Uracil</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>71-30-7</RegistryNumber>
+<NameOfSubstance>Cytosine</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Chemistry</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Coliphages</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cytosine</DescriptorName>
+<QualifierName>analogs &#38; derivatives</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">DNA, Viral</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Pyrimidines</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Spectrophotometry, Ultraviolet</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Sulfites</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Uracil</DescriptorName>
+<QualifierName>analogs &#38; derivatives</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

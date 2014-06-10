@@ -1,0 +1,156 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011045</MedlineID>
+<PMID>420628</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>28</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>28</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0003-9942</ISSN>
+<JournalIssue>
+<Volume>36</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>"Salla disease": a new lysosomal storage disorder.</ArticleTitle>
+<Pagination>
+<MedlinePgn>88-94</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Severe mental retardation, coarse facial features, clumsiness, and speech failure were common findings in three brothers and one female third-cousin of a family from northern Finland. All the patients had vacuolated lymphocytes in peripheral blood smears, and electron microscopy of fresh skin biopsy specimens showed abundant cytoplasmic inclusions in various types of cells of the skin. Eight lysosomal hydrolases were assayed in peripheral blood lymphocytes and cultured skin fibroblasts, but no enzyme deficiency was detected. Urinary excretion of mucopolysaccharides, amino acids, glycoasparagines, and oligosaccharides was normal. Clinical findings, course of the disease, and the presence of cytoplasmic inclusions, indicating lysosomal storage phenomenon, suggest that the patients suffer from a genetic lysosomal storage disorder not described earlier. The eponym "Salla disease" was introduced, referring to the geographically restricted area where the family resides.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Aula</LastName>
+<ForeName>P</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author>
+<LastName>Autio</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author>
+<LastName>Raivio</LastName>
+<ForeName>K O</ForeName>
+<Initials>KO</Initials>
+</Author>
+<Author>
+<LastName>Rapola</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author>
+<LastName>Thodén</LastName>
+<ForeName>C J</ForeName>
+<Initials>CJ</Initials>
+</Author>
+<Author>
+<LastName>Koskela</LastName>
+<ForeName>S L</ForeName>
+<Initials>SL</Initials>
+</Author>
+<Author>
+<LastName>Yamashina</LastName>
+<ForeName>I</ForeName>
+<Initials>I</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Arch Neurol</MedlineTA>
+<NlmUniqueID>0372436</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>EC 3.</RegistryNumber>
+<NameOfSubstance>Hydrolases</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Case Report</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cells, Cultured</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Fibroblasts</DescriptorName>
+<QualifierName>enzymology</QualifierName>
+<QualifierName>ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Finland</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hydrolases</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Lymphocytes</DescriptorName>
+<QualifierName>enzymology</QualifierName>
+<QualifierName>ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Lysosomes</DescriptorName>
+<QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+<QualifierName>ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mental Retardation</DescriptorName>
+<QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+<QualifierName>genetics</QualifierName>
+<QualifierName>pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neurons</DescriptorName>
+<QualifierName>ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Psychomotor Disorders</DescriptorName>
+<QualifierName>enzymology</QualifierName>
+<QualifierName>genetics</QualifierName>
+<QualifierName>pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Skin</DescriptorName>
+<QualifierName>ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Vacuoles</DescriptorName>
+<QualifierName>ultrastructure</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

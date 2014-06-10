@@ -1,0 +1,129 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011402</MedlineID>
+<PMID>420835</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>03</Month>
+<Day>23</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>551</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+<Day>8</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>The use of aqueous space markers to determine the mechanism of interaction between phospholipid vesicles and cells.</ArticleTitle>
+<Pagination>
+<MedlinePgn>295-303</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>A method has recently been introduced that quantitates the extent of phospholipid vesicle-cell interactions by following the amount of a vesicle-entrapped water-soluble fluorescent probe, carboxyfluorescein (CF) that becomes cell associated (Weinstein, J.N., Yoshikami, S., Henkart, P., Blumenthal, R. and Hagins, W.A. (1977) Science 195, 489--492). We have characterized some of the properties of this probe in sonicated phospholipid vesicles. The CF undergoes a pH-dependent quenching as previously reported and both a pH- and temperature-dependent efflux from vesicles. Decreasing the pH from 7.4 to 5.0 results in almost a 100-fold increase in CF efflux from the vesicles. The simultaneous measurement of cell-associated tritiated lipid and CF fluorescence reveals a discrepancy between the two markers with the tritiated phospholipid becoming associated to 5--10-fold greater extent than the CF. In the presence of cells the leakage of CF from vesicles increases from 1.5- to 10-fold depending on the vesicle composition. This data suggests that interpretations of cell-vesicle interactions followed by the CF technique or other aqueous space markers should be done with caution. However, in experiments where the leakage of CF from vesicles can be controlled, the technique can provide useful information.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Szoka</LastName>
+<ForeName>F C</ForeName>
+<Initials>FC</Initials>
+<Suffix>Jr</Suffix>
+</Author>
+<Author>
+<LastName>Jacobson</LastName>
+<ForeName>K</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author>
+<LastName>Papahadjopoulos</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Fluoresceins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Palmitic Acids</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Phospholipids</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Stearic Acids</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Fluoresceins</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Leukemia L1210</DescriptorName>
+<QualifierName>physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Lymphocytes</DescriptorName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Membranes, Artificial</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mice</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Palmitic Acids</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Phospholipids</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Spectrometry, Fluorescence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Stearic Acids</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

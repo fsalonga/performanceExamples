@@ -1,0 +1,109 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011461</MedlineID>
+<PMID>570424</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>566</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>9</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Active enzyme sedimentation of pig heart fumarase.</ArticleTitle>
+<Pagination>
+<MedlinePgn>397-9</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Active band sedimentation studies of pig heart fumarase indicate that the enzyme is predominantly tetrameric at enzyme concentrations between 0.0125 and 0.25 mg/ml and at a fumarate concentration of 2.5 mM. At enzyme concentrations of 0.25--1.0 mg/ml and fumarate concentrations known to activate and inhibit the enzyme, the sedimentation band of fumarase becomes disperse and indicates the presence of polymers greater than tetramers.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Ireland</LastName>
+<ForeName>C R</ForeName>
+<Initials>CR</Initials>
+</Author>
+<Author>
+<LastName>Wolfe</LastName>
+<ForeName>R G</ForeName>
+<Initials>RG</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Fumarates</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Macromolecular Systems</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 4.2.1.2</RegistryNumber>
+<NameOfSubstance>Fumarate Hydratase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Enzyme Activation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Fumarate Hydratase</DescriptorName>
+<QualifierName>antagonists &#38; inhibitors</QualifierName>
+<QualifierName>isolation &#38; purification</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Fumarates</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Macromolecular Systems</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Myocardium</DescriptorName>
+<QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Swine</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Ultracentrifugation</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

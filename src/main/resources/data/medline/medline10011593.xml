@@ -1,0 +1,160 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011593</MedlineID>
+<PMID>311225</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0365-9615</ISSN>
+<JournalIssue>
+<Volume>87</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>[Increase in the activity of an epileptogenic focus in frog hippocampus as a result of kynurenines and its reduction by serotonin]</ArticleTitle>
+<Pagination>
+<MedlinePgn>158-60</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>In frogs with epileptogenic focus induced by injection of penicillin (1000 U in 0.4 microliter) into the primordial hippocampus it was shown that pretreatment with two kynurenines (quinolinic acid -- 0.1 microgram, and d,l-kynurenine -- 1 microgram) into the focus region and their injection into the functioning epileptogenic focus led to a sharp increase of the interparoxysmal epileptiform discharges and electrographic correlates of the fit on the EEG. Anthranilic acid (5 microgram) did not influence the activity of epileptogenic foci, and serotonin (1 microgram) and 5-methoxytryptamine (1 microgram) decreased it significantly. It is suggested that the effect of kynurenines on neurones in the epileptogenic foci may play a certain role in the pathogenesis of epilepsy.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Gusel'</LastName>
+<ForeName>V A</ForeName>
+<Initials>VA</Initials>
+</Author>
+<Author>
+<LastName>Mikhailov</LastName>
+<ForeName>I B</ForeName>
+<Initials>IB</Initials>
+</Author>
+</AuthorList>
+<Language>rus</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+<VernacularTitle>Povyshenie aktivnosti épileptogennogo ochaga v gippokampe liagushki pod vliianiem kinureninov i snizhenie ee serotoninom.</VernacularTitle>
+</Article>
+<MedlineJournalInfo>
+<Country>USSR</Country>
+<MedlineTA>Biull Eksp Biol Med</MedlineTA>
+<NlmUniqueID>0370627</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Anthranilic Acids</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Anticonvulsants</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Convulsants</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Penicillins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Pyridines</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Quinolinic Acids</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>343-65-7</RegistryNumber>
+<NameOfSubstance>Kynurenine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>50-67-9</RegistryNumber>
+<NameOfSubstance>Serotonin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>608-07-1</RegistryNumber>
+<NameOfSubstance>5-Methoxytryptamine</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>5-Methoxytryptamine</DescriptorName>
+<QualifierName>therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Anthranilic Acids</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Anticonvulsants</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Anura</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Comparative Study</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Convulsants</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Convulsions</DescriptorName>
+<QualifierName MajorTopicYN="Y">chemically induced</QualifierName>
+<QualifierName>drug therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Drug Interactions</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>English Abstract</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Kynurenine</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Penicillins</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Pyridines</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Quinolinic Acids</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rana temporaria</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Serotonin</DescriptorName>
+<QualifierName MajorTopicYN="Y">therapeutic use</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

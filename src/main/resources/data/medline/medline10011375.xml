@@ -1,0 +1,139 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011375</MedlineID>
+<PMID>420820</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>5</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+<Day>6</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Functional properties of human hemoglobin bound to the erythrocyte membrane.</ArticleTitle>
+<Pagination>
+<MedlinePgn>893-9</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Salhany</LastName>
+<ForeName>J M</ForeName>
+<Initials>JM</Initials>
+</Author>
+<Author>
+<LastName>Shaklai</LastName>
+<ForeName>N</ForeName>
+<Initials>N</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Ligands</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Macromolecular Systems</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Oxyhemoglobins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>630-08-0</RegistryNumber>
+<NameOfSubstance>Carbon Monoxide</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7782-44-7</RegistryNumber>
+<NameOfSubstance>Oxygen</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 1.2.1.-</RegistryNumber>
+<NameOfSubstance>Glyceraldehyde-3-Phosphate Dehydrogenases</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Carbon Monoxide</DescriptorName>
+<QualifierName>blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cytoplasm</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Erythrocyte Membrane</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Erythrocytes</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Glyceraldehyde-3-Phosphate Dehydrogenases</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Ligands</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Light</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Macromolecular Systems</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Oxygen</DescriptorName>
+<QualifierName>blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Oxyhemoglobins</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Protein Binding</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Scattering, Radiation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, Non-P.H.S.</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

@@ -1,0 +1,121 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011832</MedlineID>
+<PMID>154358</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>11</Month>
+<Day>14</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-8993</ISSN>
+<JournalIssue>
+<Volume>160</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>19</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Excitation of dynamic fusimotor neurones of the cat triceps surae by contralateral joint afferents.</ArticleTitle>
+<Pagination>
+<MedlinePgn>529-32</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Appelberg</LastName>
+<ForeName>B</ForeName>
+<Initials>B</Initials>
+</Author>
+<Author>
+<LastName>Hulliger</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author>
+<LastName>Johansson</LastName>
+<ForeName>H</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author>
+<LastName>Sojka</LastName>
+<ForeName>P</ForeName>
+<Initials>P</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Brain Res</MedlineTA>
+<NlmUniqueID>0045503</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<CitationSubset>S</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Evoked Potentials</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hindlimb</DescriptorName>
+<QualifierName>innervation</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Joints</DescriptorName>
+<QualifierName MajorTopicYN="Y">innervation</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Laterality</DescriptorName>
+<QualifierName MajorTopicYN="Y">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mechanoreceptors</DescriptorName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Motor Neurons</DescriptorName>
+<QualifierName MajorTopicYN="Y">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Motor Neurons, Gamma</DescriptorName>
+<QualifierName MajorTopicYN="Y">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Muscle Spindles</DescriptorName>
+<QualifierName MajorTopicYN="Y">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Muscles</DescriptorName>
+<QualifierName MajorTopicYN="Y">innervation</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neurons, Afferent</DescriptorName>
+<QualifierName MajorTopicYN="Y">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Reflex</DescriptorName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

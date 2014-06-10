@@ -1,0 +1,76 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011827</MedlineID>
+<PMID>105781</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-8993</ISSN>
+<JournalIssue>
+<Volume>160</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>19</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Gyral impressions in the skull as a guide to cortical topography in chronic transdural unit recording.</ArticleTitle>
+<Pagination>
+<MedlinePgn>505-8</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Wolpaw</LastName>
+<ForeName>J R</ForeName>
+<Initials>JR</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Brain Res</MedlineTA>
+<NlmUniqueID>0045503</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Brain Mapping</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cerebral Cortex</DescriptorName>
+<QualifierName MajorTopicYN="Y">anatomy &#38; histology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Haplorhini</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Macaca mulatta</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Skull</DescriptorName>
+<QualifierName MajorTopicYN="Y">anatomy &#38; histology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

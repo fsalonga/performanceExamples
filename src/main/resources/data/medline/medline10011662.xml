@@ -1,0 +1,110 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011662</MedlineID>
+<PMID>33741</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0007-1447</ISSN>
+<JournalIssue>
+<Volume>1</Volume>
+<Issue>6157</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>20</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Comparative study of automatic blood-gas analysers and their use in analysing arterial and capillary samples.</ArticleTitle>
+<Pagination>
+<MedlinePgn>156-8</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Three automatic blood-gas analysers were compared for ease of use; calibration; reproducibility and accuracy of results; maintenance; fault-finding; and use of expert technician time. Results obtained from arterial and capillary blood were compared with duplicate values obtained with a semi-automatic analyser controlled and calibrated with tonometered blood. No analyser was fully automatic, and all three needed maintenance by expert technicians. Difficulties were encountered when inexperienced operators used the machines. One automatic blood-gas analyser gave aberrant values for oxygen pressure (PO2) due to electrode dysfunction that was not indicated by the fault-finding system. A second analyser gave significantly lower values for blood pH than the standard machine. A comparison of pH, carbon dioxide pressure (PCO2), and PO2 measured in 40 simultaneous paired samples of arterial and arterialised capillary blood showed no significant difference for pH or PCO2, but the PO2 values were significantly lower in the capillary samples over the range studied. We conclude that all machines perform satisfactorily in terms of blood-gas analysis, but none may be regarded as fully automatic. Some degree of technical supervision is essential, as is proper training for all potential users.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Rubin</LastName>
+<ForeName>P</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author>
+<LastName>Bradbury</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author>
+<LastName>Prowse</LastName>
+<ForeName>K</ForeName>
+<Initials>K</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Br Med J</MedlineTA>
+<NlmUniqueID>0372673</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>124-38-9</RegistryNumber>
+<NameOfSubstance>Carbon Dioxide</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7782-44-7</RegistryNumber>
+<NameOfSubstance>Oxygen</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Arteries</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Autoanalysis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Blood Gas Analysis</DescriptorName>
+<QualifierName MajorTopicYN="Y">instrumentation</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Capillaries</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Carbon Dioxide</DescriptorName>
+<QualifierName>blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Comparative Study</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hydrogen-Ion Concentration</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Oxygen</DescriptorName>
+<QualifierName>blood</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

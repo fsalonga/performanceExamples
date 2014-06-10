@@ -1,0 +1,169 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011591</MedlineID>
+<PMID>420936</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0365-9615</ISSN>
+<JournalIssue>
+<Volume>87</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>[Effect of silicoorganic compounds on protein biosynthesis in granulation-fibrous tissue]</ArticleTitle>
+<Pagination>
+<MedlinePgn>153-5</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The authors studied the effect of propoxysilatran (POS) on the biosynthesis of the main connective tissue biopolymeres. The use of POS in the form of 0.5 and 2.0% ointments on lanolin-vaseline base caused stimulation of cellular proliferation in the granulation fibrous tissue developing in the open skin defects of albino rats. Stimulation of cellular proliferation in these animals was accompanied by increase of collagen biosynthesis and of noncollagen proteins. In concentrations of 10(-3)--10(-4) M POS caused intensification of collagen biosynthesis (formation of peptide-bound nondialyzed 14C-oxyproline) in vitro in the cartilage tissue of chick embryos. Thus, silatrans are biologically-active substances producing a regulating effect on the course of the reparative-proliferative processes in the connective tissue.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Simkhovich</LastName>
+<ForeName>B Z</ForeName>
+<Initials>BZ</Initials>
+</Author>
+<Author>
+<LastName>Slutskiĭ</LastName>
+<ForeName>L I</ForeName>
+<Initials>LI</Initials>
+</Author>
+<Author>
+<LastName>Dombrovska</LastName>
+<ForeName>L E</ForeName>
+<Initials>LE</Initials>
+</Author>
+<Author>
+<LastName>Gilev</LastName>
+<ForeName>A P</ForeName>
+<Initials>AP</Initials>
+</Author>
+<Author>
+<LastName>Zelchan</LastName>
+<ForeName>G I</ForeName>
+<Initials>GI</Initials>
+</Author>
+</AuthorList>
+<Language>rus</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+<VernacularTitle>Vliianie kremniĭorganicheskikh soedineniĭ na biosintez belkov v granuliatsionno-fibroznoĭ tkani.</VernacularTitle>
+</Article>
+<MedlineJournalInfo>
+<Country>USSR</Country>
+<MedlineTA>Biull Eksp Biol Med</MedlineTA>
+<NlmUniqueID>0370627</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Bicyclo Compounds</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>51-35-4</RegistryNumber>
+<NameOfSubstance>Hydroxyproline</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>63231-63-0</RegistryNumber>
+<NameOfSubstance>RNA</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7440-21-3</RegistryNumber>
+<NameOfSubstance>Silicon</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9007-34-5</RegistryNumber>
+<NameOfSubstance>Collagen</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9007-49-2</RegistryNumber>
+<NameOfSubstance>DNA</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Bicyclo Compounds</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cartilage</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Chick Embryo</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Collagen</DescriptorName>
+<QualifierName>biosynthesis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>DNA</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>English Abstract</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Granulation Tissue</DescriptorName>
+<QualifierName>analysis</QualifierName>
+<QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hydroxyproline</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Proteins</DescriptorName>
+<QualifierName MajorTopicYN="Y">biosynthesis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>RNA</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Silicon</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Skin</DescriptorName>
+<QualifierName>injuries</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Stimulation, Chemical</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

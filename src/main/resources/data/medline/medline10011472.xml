@@ -1,0 +1,104 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011472</MedlineID>
+<PMID>420863</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>582</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>1</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Inhibition of insulin receptor binding by dimethyl sulfoxide.</ArticleTitle>
+<Pagination>
+<MedlinePgn>486-95</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Little is known of the effects of the solvent on hormone-receptor interactions. In the present study the effect of the polar solvent dimethyl sulfoxide on the binding of insulin to its surface receptors on cultured human lymphocytes of the IM-9 line was investigated. At concentrations exceeding 0.1% (v/v), dimethyl sulfoxide produced a dose-related inhibition of 125-I-labeled insulin binding. Insulin binding was totally abolished in 20% dimethyl sulfoxide. This inhibition was immediately present and was totally reversible. Analysis of the data of binding at steady state indicated that the decrease in binding of 125I-labeled insulin was due to a reduced affinity of the insulin receptor without noticeable change in the concentration of receptor sites. Kinetic studies showed that the decreased affinity could largely be accounted for by a decreased association rate constant; effects on dissociation and negative cooperativity of the insulin receptor was affected to a much lesser extent.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>van Obberghen</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author>
+<LastName>de Meyts</LastName>
+<ForeName>P</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author>
+<LastName>Roth</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>67-68-5</RegistryNumber>
+<NameOfSubstance>Dimethyl Sulfoxide</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.7.11.-</RegistryNumber>
+<NameOfSubstance>Receptor, Insulin</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Comparative Study</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Depression, Chemical</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Dimethyl Sulfoxide</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Dose-Response Relationship, Drug</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Lymphocytes</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Receptor, Insulin</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

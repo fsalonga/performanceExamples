@@ -1,0 +1,85 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011069</MedlineID>
+<PMID>420643</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>03</Month>
+<Day>23</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0003-9950</ISSN>
+<JournalIssue>
+<Volume>97</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>The pneumatonograph. A laboratory study.</ArticleTitle>
+<Pagination>
+<MedlinePgn>547-52</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The scale reading of the pneumatonograph (PTG) is dependent on the force of application to the cornea. Since this force is relatively greater at low intraocular pressure, the scale is compressed, yielding an overestimate of intraocular pressure in physiologic range. When the PTG is held vertically, the weight of the plunger is added to the gas propulsion force and the compression of the scale is accentuated. When a 10-g plunger load is added, as is advocated for tonography, the scale compression is further accentuated. We conclude that the PTG scale is compressed, the PTG is position-sensitive, and that the PTG is totally unsuited to tonography. The PTG is not an applanation tonometer and should not be confused with applanation tonometers.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Moses</LastName>
+<ForeName>R A</ForeName>
+<Initials>RA</Initials>
+</Author>
+<Author>
+<LastName>Grodzki</LastName>
+<ForeName>W J</ForeName>
+<Initials>WJ</Initials>
+<Suffix>Jr</Suffix>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Arch Ophthalmol</MedlineTA>
+<NlmUniqueID>7706534</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>False Positive Reactions</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>In Vitro</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Intraocular Pressure</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Tonometry</DescriptorName>
+<QualifierName MajorTopicYN="Y">instrumentation</QualifierName>
+<QualifierName>methods</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

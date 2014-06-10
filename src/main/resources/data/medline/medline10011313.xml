@@ -1,0 +1,101 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011313</MedlineID>
+<PMID>105753</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>6</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Drosophila melanogaster lacks eye-pigment binding proteins.</ArticleTitle>
+<Pagination>
+<MedlinePgn>473-6</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Drosophila melanogaster contains no detectable eye-pigment binding proteins, and the previous evidence for the presence of such protein in the cecropia moth is probably not valid. The major brown pigment of Drosophila (and of Cecropia), dihydroxanthommatin, behaves as a high molecular weight compound in Sephadex chromatography, thus leading to false conclusions.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Wiley</LastName>
+<ForeName>K</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author>
+<LastName>Forrest</LastName>
+<ForeName>H S</ForeName>
+<Initials>HS</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Carrier Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Retinal Pigments</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Carrier Proteins</DescriptorName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Comparative Study</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Drosophila melanogaster</DescriptorName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Moths</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Retinal Pigments</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Species Specificity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Spectrophotometry</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

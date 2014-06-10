@@ -1,0 +1,123 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011554</MedlineID>
+<PMID>420910</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0306-042X</ISSN>
+<JournalIssue>
+<Volume>6</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Screening of organic acids in urine by chemical ionization mass spectrometry.</ArticleTitle>
+<Pagination>
+<MedlinePgn>47-56</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>A method has been developed for qualitative screening of carboxylic acids in human urine. The method uses direct chemical inoization mass spectrometry with isobutane as reagent gas. The carboxylic acids are separated from the urine samples by ion exchange. Normal carboxylic acid profiles have been determined and are compared with the profiles of patients suffering from certain metabolic disorders.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Issachar</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author>
+<LastName>Yinon</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Biomed Mass Spectrom</MedlineTA>
+<NlmUniqueID>0430246</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Amino Acids</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Carboxylic Acids</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Hydroxy Acids</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Amino Acids</DescriptorName>
+<QualifierName>urine</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Carboxylic Acids</DescriptorName>
+<QualifierName MajorTopicYN="Y">urine</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Child</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Child, Preschool</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Chromatography, Ion Exchange</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Comparative Study</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hydroxy Acids</DescriptorName>
+<QualifierName>urine</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Infant, Newborn</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Maple Syrup Urine Disease</DescriptorName>
+<QualifierName>urine</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phenylketonurias</DescriptorName>
+<QualifierName>urine</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Reye Syndrome</DescriptorName>
+<QualifierName>urine</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Spectrum Analysis, Mass</DescriptorName>
+<QualifierName MajorTopicYN="Y">methods</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

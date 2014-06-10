@@ -1,0 +1,129 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011209</MedlineID>
+<PMID>420739</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0007-1048</ISSN>
+<JournalIssue>
+<Volume>41</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>'Prolymphocytoid' transformation of chronic lymphocytic leukaemia.</ArticleTitle>
+<Pagination>
+<MedlinePgn>9-18</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>We report clinical, morphological and surface marker studies on seven patients with the common type of chronic lymphocytic leukaemia (CLL) whose disease underwent an insidious though progressive change in character with increasing refractoriness to treatment. This transformation was accompanied by the appearance of a population of immature-appearing cells in the peripheral blood which resembled prolymphocytes, both at light and electron microscopy. The characteristic morphological feature was the presence of two distinct populations of cells, the typical CLL lymphocytes and the 'prolymphocytoid' cells. These cells retained the surface characteristics of CLL, i.e. the information of mouse RBC rosettes and sparse surface-bound immunoglobulin. This transformation can be distinguished by morphological and surface marker criteria from acute leukaemia occurring in CCL, Richter's syndrome and prolymphocytic leukaemia. The recognition of this group of CLL patients may add a new prognostic index to CLL and may help plan subsequent trials for the treatment of the disease.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Enno</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author>
+<LastName>Catovsky</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author>
+<LastName>O'Brien</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author>
+<LastName>Cherchi</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author>
+<LastName>Kumaran</LastName>
+<ForeName>T O</ForeName>
+<Initials>TO</Initials>
+</Author>
+<Author>
+<LastName>Galton</LastName>
+<ForeName>D A</ForeName>
+<Initials>DA</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Br J Haematol</MedlineTA>
+<NlmUniqueID>0372544</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Immunoglobulins, Surface</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Drug Therapy, Combination</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Immunoglobulins, Surface</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Leukemia, Lymphocytic</DescriptorName>
+<QualifierName>drug therapy</QualifierName>
+<QualifierName MajorTopicYN="Y">pathology</QualifierName>
+<QualifierName>ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Leukocyte Count</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Lymphocytes</DescriptorName>
+<QualifierName>immunology</QualifierName>
+<QualifierName MajorTopicYN="Y">pathology</QualifierName>
+<QualifierName>ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Microscopy, Electron</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Middle Age</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Prognosis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rosette Formation</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

@@ -1,0 +1,84 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011054</MedlineID>
+<PMID>420635</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0003-9950</ISSN>
+<JournalIssue>
+<Volume>97</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Changing concepts of failures after retinal detachment surgery.</ArticleTitle>
+<Pagination>
+<MedlinePgn>480-3</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>One thousand eighty-eight consecutive operations for retinal detachment were analyzed to determine the influence of current methods of examination and treatment on failures following surgery. The majority of failures were produced by preretinal membranes formation (33%) and massive  preretinal retraction (27%). Other causes of failure included undetected retinal breaks (13%), inadequate scleral buckel (10%), new retinal breaks (8%), inadequate chorioretinal reaction (7%), and iatrogenic retinal breaks (2%). Primary operations yielded an initial cure rate of 76%. Successful reoperations raised the final cure rate to 89%. Reoperations were associated more frequently with preretinal membrane formation and chance of recognition and management of preretinal membrane formation. Except for new retinal tears and massive preretinal retraction, surgical failures can be avoided by improved utilization of current examination and operative techniques.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Rachal</LastName>
+<ForeName>W F</ForeName>
+<Initials>WF</Initials>
+</Author>
+<Author>
+<LastName>Burton</LastName>
+<ForeName>T C</ForeName>
+<Initials>TC</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Arch Ophthalmol</MedlineTA>
+<NlmUniqueID>7706534</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Postoperative Complications</DescriptorName>
+<QualifierName MajorTopicYN="Y">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Retinal Detachment</DescriptorName>
+<QualifierName>etiology</QualifierName>
+<QualifierName>pathology</QualifierName>
+<QualifierName MajorTopicYN="Y">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Scleral Buckling</DescriptorName>
+<QualifierName>methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Visual Acuity</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

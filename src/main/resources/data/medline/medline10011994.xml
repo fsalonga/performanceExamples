@@ -1,0 +1,123 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011994</MedlineID>
+<PMID>421202</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0008-5472</ISSN>
+<JournalIssue>
+<Volume>39</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Apr</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Expression of cell-mediated immunity and blocking factor using a new line of ovarian cancer cells in vitro.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1185-92</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>A cell-mediated cytotoxicity test, quantitated by postlabeling with tritiated thymidine, was used to asses immune reactivity of cancer patients to the HeW cell line derived from serous cystadenocarcinoma of the ovary. Lymphocytes from 71.4% of serous and mucinous cystadenocarcinoma patients demonstrated a cytotoxic response towards the HeW cells, whereas no reactivity was observed towards target cells derived from nonovarian cancer. These observations indicated that the HeW cells express tumor-associated antigen. In some patients bearing similar tumors, cytotoxicity was blocked by ascitic fluid from other patients with cystadenocarcinoma. In addition, antigen obtained from the spent culture fluid of HeW cells exhibited blocking activity in a typical dose-response fashion, suggesting that blocking factor may be free tumor-associated antigen or an antigen-specific suppressor molecule. Thus, blocking of the lymphocytotoxic response of cystadenocarcinoma patients towards HeW cells may be utilized to monitor the isolation of ovarian carcinoma-associated antigen.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Pattillo</LastName>
+<ForeName>R A</ForeName>
+<Initials>RA</Initials>
+</Author>
+<Author>
+<LastName>Story</LastName>
+<ForeName>M T</ForeName>
+<Initials>MT</Initials>
+</Author>
+<Author>
+<LastName>Ruckert</LastName>
+<ForeName>A C</ForeName>
+<Initials>AC</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Cancer Res</MedlineTA>
+<NlmUniqueID>2984705R</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Antigens, Neoplasm</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Antigens, Neoplasm</DescriptorName>
+<QualifierName>isolation &#38; purification</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Ascitic Fluid</DescriptorName>
+<QualifierName>immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Binding, Competitive</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cell Line</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cystadenocarcinoma</DescriptorName>
+<QualifierName MajorTopicYN="Y">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cystadenoma</DescriptorName>
+<QualifierName>immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cytotoxicity, Immunologic</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Immunity, Cellular</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>In Vitro</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Lymphocytes</DescriptorName>
+<QualifierName>immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neoplasms, Experimental</DescriptorName>
+<QualifierName>immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Ovarian Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y">immunology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

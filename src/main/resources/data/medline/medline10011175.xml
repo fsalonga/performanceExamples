@@ -1,0 +1,127 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011175</MedlineID>
+<PMID>420718</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>28</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>28</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0004-3591</ISSN>
+<JournalIssue>
+<Volume>22</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Unusual electromyographic findings in a patient with polymyalgia rheumatica.</ArticleTitle>
+<Pagination>
+<MedlinePgn>277-80</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>A case of polymyalgia rheumatica (PMR) with biopsy-proven giant cell arteritis (GCA) is described in which there were marked abnormalities noted on electromyography (EMG). Spike potentials, positive waves, and fibrillation potentials were seen in the proximal musculature of the upper and lower extremities as well as in the erector spinae muscles. Investigation failed to reveal abnormalities in either creatinine phosphokinase (CPK), aldolase, or muscle obtained at biopsy. The presence of these EMG findings in the PMR-GCA syndrome is unusual. Response to therapy with systemic corticosteroids and normalization of the EMG are documented.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Gross</LastName>
+<ForeName>M D</ForeName>
+<Initials>MD</Initials>
+</Author>
+<Author>
+<LastName>Borkin</LastName>
+<ForeName>M H</ForeName>
+<Initials>MH</Initials>
+</Author>
+<Author>
+<LastName>Rupp</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Arthritis Rheum</MedlineTA>
+<NlmUniqueID>0370605</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>53-03-2</RegistryNumber>
+<NameOfSubstance>Prednisone</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.7.3.2</RegistryNumber>
+<NameOfSubstance>Creatine Kinase</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 4.1.2.13</RegistryNumber>
+<NameOfSubstance>Fructose-Bisphosphate Aldolase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Case Report</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Creatine Kinase</DescriptorName>
+<QualifierName>blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Electromyography</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Fructose-Bisphosphate Aldolase</DescriptorName>
+<QualifierName>blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Middle Age</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Muscles</DescriptorName>
+<QualifierName>pathology</QualifierName>
+<QualifierName MajorTopicYN="Y">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Polymyalgia Rheumatica</DescriptorName>
+<QualifierName>complications</QualifierName>
+<QualifierName>pathology</QualifierName>
+<QualifierName MajorTopicYN="Y">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Prednisone</DescriptorName>
+<QualifierName>administration &#38; dosage</QualifierName>
+<QualifierName>therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Temporal Arteritis</DescriptorName>
+<QualifierName>complications</QualifierName>
+<QualifierName>pathology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

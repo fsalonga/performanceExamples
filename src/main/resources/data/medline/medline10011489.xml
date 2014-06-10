@@ -1,0 +1,168 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011489</MedlineID>
+<PMID>217447</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>11</Month>
+<Day>02</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>583</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>19</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Glucose activation of liver glycogen synthase. Insulin-mediated restoration of glucose effect in diabetic rats is blocked by protein synthesis inhibitor.</ArticleTitle>
+<Pagination>
+<MedlinePgn>36-46</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The loss of glucose regulation of glycogen synthase in perfused livers from diabetic rats was associated with a substantial reduction in synthase phosphatase activity. Treatment of diabetic rats with insulin alone resulted in total restoration of the glucose effect and synthase phosphatase activity, while simultaneous treatment with cycloheximide severely reduced the hormonal effect. Although treatment of normal rats with cycloheximide had no effect on glucose activation of synthase, it did result in severe depletion of liver glycogen, increased liver glycogen phosphorylase activity, and elevation of liver adenosine 3',5'-monophosphate (cyclic AMP), but without elevation of liver protein kinase activity. Simultaneous treatment of alloxan-diabetic rats with insulin and cycloheximide resulted in reduction of total liver glycogen, increased phosphorylase activity, a reduction in the ability of insulin to lower hepatic cyclic AMP, and a further reduction of protein kinase activity. In summary, the effect of insulin treatment of diabetic rats to restore glucose regulation of hepatic glycogen synthase probably involves synthesis of new protein, and the data remain consistent with the hypothesis that the defect may be due to a diabetes-related deficiency in a specific synthase phosphatase and/or alteration of the synthase molecule itself.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Miller</LastName>
+<ForeName>T B</ForeName>
+<Initials>TB</Initials>
+<Suffix>Jr</Suffix>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Liver Glycogen</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>11061-68-0</RegistryNumber>
+<NameOfSubstance>Insulin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>50-99-7</RegistryNumber>
+<NameOfSubstance>Glucose</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>60-92-4</RegistryNumber>
+<NameOfSubstance>Cyclic AMP</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>61-19-8</RegistryNumber>
+<NameOfSubstance>Adenosine Monophosphate</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>66-81-9</RegistryNumber>
+<NameOfSubstance>Cycloheximide</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.4.1.-</RegistryNumber>
+<NameOfSubstance>Phosphorylases</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.4.1.11</RegistryNumber>
+<NameOfSubstance>Glycogen Synthase</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.7.1.37</RegistryNumber>
+<NameOfSubstance>Protein Kinases</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.1.3.42</RegistryNumber>
+<NameOfSubstance>Glycogen-Synthase-D Phosphatase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adenosine Monophosphate</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Comparative Study</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cyclic AMP</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cycloheximide</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Diabetes Mellitus, Experimental</DescriptorName>
+<QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Enzyme Activation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Glucose</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Glycogen Synthase</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Glycogen-Synthase-D Phosphatase</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Insulin</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Liver</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Liver Glycogen</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phosphorylases</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Protein Kinases</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

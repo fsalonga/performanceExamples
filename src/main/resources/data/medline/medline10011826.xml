@@ -1,0 +1,117 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011826</MedlineID>
+<PMID>105780</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>11</Month>
+<Day>02</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-8993</ISSN>
+<JournalIssue>
+<Volume>160</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>19</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Multiple sclerosis: immunochemical studies on the demyelinating serum factor.</ArticleTitle>
+<Pagination>
+<MedlinePgn>489-503</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Sera from patients with multiple sclerosis (MS) frequently produce demyelination of central nervous system tissue cultures. The nature of the factors responsible for demyelination is not as yet clearly established. However, several authors previously reported, in in vivo and in vitro models, demyelinating activity in IgG fractions isolated from sera and cerebrospinal fluid of MS patients14,42,48. We found the demyelinating activity of MS sera to be extremely labile to conventional biochemical treatments. Therefore, we isolated IgG from MS sera by absorption with staphylococcal protein A. Protein A binds specifically IgG1. IgG2 and IgG4. With this method we were able to remove most of the IgG, leaving only a small percentage, most probably IgG3, in the sera. Isolated IgG fractions from several sera of MS patients in the presence of human complement actively demyelinated central nervous system tissue cultures. Although a small, but significant, decrease in demyelinating activity could be observed in most of the sera absorbed in most of the sera absorbed with protein A, the majority of the demyelinating activity could not be removed by this treatment. From these studies, it appears that at least the majority of demyelinating activity in MS sera is not associated with IgG1, IgG2 or IgG4. If IgG is responsible for demyelination, IgG3 will most likely be the active factor.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Grundke-Iqbal</LastName>
+<ForeName>I</ForeName>
+<Initials>I</Initials>
+</Author>
+<Author>
+<LastName>Bornstein</LastName>
+<ForeName>M B</ForeName>
+<Initials>MB</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Brain Res</MedlineTA>
+<NlmUniqueID>0045503</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Immunoglobulin A</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Immunoglobulin G</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Immunoglobulin M</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Autoimmune Diseases</DescriptorName>
+<QualifierName MajorTopicYN="Y">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Electrophoresis, Polyacrylamide Gel</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Immunodiffusion</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Immunoelectrophoresis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Immunoglobulin A</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Immunoglobulin G</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Immunoglobulin M</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Multiple Sclerosis</DescriptorName>
+<QualifierName MajorTopicYN="Y">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Myelin Sheath</DescriptorName>
+<QualifierName MajorTopicYN="Y">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

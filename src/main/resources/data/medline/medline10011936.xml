@@ -1,0 +1,104 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011936</MedlineID>
+<PMID>217520</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0008-543X</ISSN>
+<JournalIssue>
+<Volume>43</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Severe pulmonary hemorrhage following lymphography.</ArticleTitle>
+<Pagination>
+<MedlinePgn>482-3</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The hemoptysis which occurs following lymphography typically consists of one or more episodes of blood-tinged sputum, and generally requires no treatment. In contradistinction to this "mild" form of hemoptysis, the current report describes a case of hemoptysis following lymphography--hemoptysis so severe as to require multiple transfusions. Time course and possible etiologic factors are discussed.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Marglin</LastName>
+<ForeName>S I</ForeName>
+<Initials>SI</Initials>
+</Author>
+<Author>
+<LastName>Castellino</LastName>
+<ForeName>R A</ForeName>
+<Initials>RA</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Cancer</MedlineTA>
+<NlmUniqueID>0374236</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>8008-53-5</RegistryNumber>
+<NameOfSubstance>Ethiodized Oil</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Blood Transfusion</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Case Report</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Ethiodized Oil</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hemoptysis</DescriptorName>
+<QualifierName MajorTopicYN="Y">etiology</QualifierName>
+<QualifierName>therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Leukemia, Hairy Cell</DescriptorName>
+<QualifierName>radiography</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Lymphography</DescriptorName>
+<QualifierName MajorTopicYN="Y">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Middle Age</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

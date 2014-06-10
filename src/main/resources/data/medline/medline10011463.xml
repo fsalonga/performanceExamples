@@ -1,0 +1,147 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011463</MedlineID>
+<PMID>217437</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>582</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>1</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Solubilization of membrane-bound adenylate cyclase of isolated rat adrenal cortex cells.</ArticleTitle>
+<Pagination>
+<MedlinePgn>380-9</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The membrane-bound adenylase cyclase (ATP pyrosphosphate-lyase (cyclizing), EC 4.6.1.1) of isolated rat adrenal cortex cells can be rendered soluble using 0.02 M Lubrol 12A9. The solubilized enzyme can be filtered through Milipore filters with pores 0.22 micron in diameter. Using gel filtration, on Sephadex G-200, adenylate cyclase activity was eluted with a distribution coefficient of 0.139, whereas on Sephadex G-100 the activity was eluted in the excluded volume. Half-maximum activation of the postulated guanyl nucleotide regulator site of adenylate was achieved with 5'-guanylyl-imidodiphosphate at a concentration of 1 . 10(-6)M. In contrast, however, using intact isolated rat adrenal cortex cells the guanyl nucleotide regulator site could not be stimulated by 5'-guanylyl-imidodiphosphate.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Pilaski</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author>
+<LastName>Voigt</LastName>
+<ForeName>K D</ForeName>
+<Initials>KD</Initials>
+</Author>
+<Author>
+<LastName>Walter</LastName>
+<ForeName>W</ForeName>
+<Initials>W</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Detergents</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>34273-04-6</RegistryNumber>
+<NameOfSubstance>Guanylyl Imidodiphosphate</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>58-55-9</RegistryNumber>
+<NameOfSubstance>Theophylline</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7440-70-2</RegistryNumber>
+<NameOfSubstance>Calcium</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9002-60-2</RegistryNumber>
+<NameOfSubstance>Corticotropin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.1.4.17</RegistryNumber>
+<NameOfSubstance>3',5'-Cyclic-Nucleotide Phosphodiesterase</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 4.6.1.1</RegistryNumber>
+<NameOfSubstance>Adenylate Cyclase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>3',5'-Cyclic-Nucleotide Phosphodiesterase</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Adenylate Cyclase</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Adrenal Cortex</DescriptorName>
+<QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Calcium</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cell Membrane</DescriptorName>
+<QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Corticotropin</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Detergents</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Guanylyl Imidodiphosphate</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Solubility</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Temperature</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Theophylline</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

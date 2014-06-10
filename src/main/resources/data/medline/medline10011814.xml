@@ -1,0 +1,87 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011814</MedlineID>
+<PMID>421119</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0007-1447</ISSN>
+<JournalIssue>
+<Volume>1</Volume>
+<Issue>6159</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>3</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Shingles: a belt of roses from Hell.</ArticleTitle>
+<Pagination>
+<MedlinePgn>346</MedlinePgn>
+</Pagination>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Letter</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Br Med J</MedlineTA>
+<NlmUniqueID>0372673</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Anticonvulsants</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>50-24-8</RegistryNumber>
+<NameOfSubstance>Prednisolone</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>50-48-6</RegistryNumber>
+<NameOfSubstance>Amitriptyline</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Amitriptyline</DescriptorName>
+<QualifierName>therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Anticonvulsants</DescriptorName>
+<QualifierName>therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Herpes Zoster</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug therapy</QualifierName>
+<QualifierName>immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Immunosuppression</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Prednisolone</DescriptorName>
+<QualifierName>therapeutic use</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

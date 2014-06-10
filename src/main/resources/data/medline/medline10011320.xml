@@ -1,0 +1,114 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011320</MedlineID>
+<PMID>420798</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>6</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Fluorescence anisotropy measurements under oxygen quenching conditions as a method to quantify the depolarizing rotations of fluorophores. Application to diphenylhexatriene in isotropic solvents and in lipid bilayers.</ArticleTitle>
+<Pagination>
+<MedlinePgn>520-7</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Lakowicz</LastName>
+<ForeName>J R</ForeName>
+<Initials>JR</Initials>
+</Author>
+<Author>
+<LastName>Prendergast</LastName>
+<ForeName>F G</ForeName>
+<Initials>FG</Initials>
+</Author>
+<Author>
+<LastName>Hogen</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Phosphatidylcholines</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Phospholipids</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Polyenes</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7782-44-7</RegistryNumber>
+<NameOfSubstance>Oxygen</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Fluorescence Polarization</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mathematics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Membranes, Artificial</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Molecular Conformation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Oxygen</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phosphatidylcholines</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Phospholipids</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Polyenes</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

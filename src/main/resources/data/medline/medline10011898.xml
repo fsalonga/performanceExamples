@@ -1,0 +1,124 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011898</MedlineID>
+<PMID>105785</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-8993</ISSN>
+<JournalIssue>
+<Volume>166</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Apr</Month>
+<Day>20</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>The pars tuberalis of the rhesus monkey secretes luteinizing hormone.</ArticleTitle>
+<Pagination>
+<MedlinePgn>49-55</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The presence of luteinizing hormone within the pars tuberalis of the adenohypophysis and its secretion into pituitary stalk vessels were investigated in adult rhesus monkeys. Portal blood was collected in 9 monkeys, after section of the pituitary stalk. In 22 out of 26 samples, portal to peripheral LH ratios, as measured by radioimmunoassay, ranged from 2 to 48. Portal LH levels were highest in 3 animals studied at the time of the midcycle surge. No differences between portal and peripheral growth hormone (GH) and prolactin levels were observed. Immunocytochemical studies in 4 normal and 3 ovariectomized female monkeys indicated that LH, but not GH, prolactin or thyroid stimulating hormone were present within the pars tuberalis. Cells containing these hormones were identified within the pars distalis. These results indicate that the pars tuberalis forms and secretes LH via the hypophyseal portal circulation.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Antunes</LastName>
+<ForeName>J L</ForeName>
+<Initials>JL</Initials>
+</Author>
+<Author>
+<LastName>Carmel</LastName>
+<ForeName>P W</ForeName>
+<Initials>PW</Initials>
+</Author>
+<Author>
+<LastName>Zimmerman</LastName>
+<ForeName>E A</ForeName>
+<Initials>EA</Initials>
+</Author>
+<Author>
+<LastName>Ferin</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Brain Res</MedlineTA>
+<NlmUniqueID>0045503</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Estrogens</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9002-67-9</RegistryNumber>
+<NameOfSubstance>LH</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Castration</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Estrogens</DescriptorName>
+<QualifierName>blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Estrus</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Haplorhini</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>LH</DescriptorName>
+<QualifierName MajorTopicYN="Y">secretion</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Macaca mulatta</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Pituitary Gland, Anterior</DescriptorName>
+<QualifierName>cytology</QualifierName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Pregnancy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

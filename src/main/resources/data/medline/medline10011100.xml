@@ -1,0 +1,90 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011100</MedlineID>
+<PMID>420671</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>11</Month>
+<Day>14</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0095-6562</ISSN>
+<JournalIssue>
+<Volume>50</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Emergency problems involving sinusitis.</ArticleTitle>
+<Pagination>
+<MedlinePgn>80-2</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The problems which the primary physician or flight surgeon might expect to encounter with regard to acute sinusitis are presented. The need for exact diagnosis, the goals of treatment, and the management of the progress of the disease processes are reviewed.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Yarington</LastName>
+<ForeName>C T</ForeName>
+<Initials>CT</Initials>
+<Suffix>Jr</Suffix>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Aviat Space Environ Med</MedlineTA>
+<NlmUniqueID>7501714</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<CitationSubset>S</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Acute Disease</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Aerospace Medicine</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Child</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Diagnosis, Differential</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Ethmoid Sinus</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Frontal Sinus</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Maxillary Sinus</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Sinusitis</DescriptorName>
+<QualifierName>diagnosis</QualifierName>
+<QualifierName MajorTopicYN="Y">therapy</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+<OtherID Source="NASA">79123731</OtherID>
+</MedlineCitation>

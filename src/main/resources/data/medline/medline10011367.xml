@@ -1,0 +1,139 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011367</MedlineID>
+<PMID>217426</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>5</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+<Day>6</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Adenylate cyclase activation by the beta-adrenergic receptors as a diffusion-controlled process.</ArticleTitle>
+<Pagination>
+<MedlinePgn>846-53</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Hanski</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author>
+<LastName>Rimon</LastName>
+<ForeName>G</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author>
+<LastName>Levitzki</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Oleic Acids</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Receptors, Adrenergic</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Receptors, Adrenergic, beta</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>34273-04-6</RegistryNumber>
+<NameOfSubstance>Guanylyl Imidodiphosphate</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 4.6.1.1</RegistryNumber>
+<NameOfSubstance>Adenylate Cyclase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adenylate Cyclase</DescriptorName>
+<QualifierName MajorTopicYN="Y">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Diffusion</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Enzyme Activation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Erythrocyte Membrane</DescriptorName>
+<QualifierName MajorTopicYN="Y">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Erythrocytes</DescriptorName>
+<QualifierName MajorTopicYN="Y">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Guanylyl Imidodiphosphate</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Membrane Fluidity</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Oleic Acids</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Receptors, Adrenergic</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Receptors, Adrenergic, beta</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Turkeys</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Viscosity</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

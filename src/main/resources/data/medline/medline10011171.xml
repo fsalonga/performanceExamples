@@ -1,0 +1,123 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011171</MedlineID>
+<PMID>105740</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>28</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>28</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>11</Month>
+<Day>02</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0004-3591</ISSN>
+<JournalIssue>
+<Volume>22</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Immunoelectrophoretic assay for synovial fluid C3 with correction for synovial fluid globulin.</ArticleTitle>
+<Pagination>
+<MedlinePgn>243-50</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Synovial fluid C3 was measured by electroimmunoassay. When C3 was expressed as mg/ml, the amounts found in Reiter's disease, psoriatic arthritis, gout, and systemic lupus erythematosus were significantly different from degenerative arthritis. When C3 was corrected for total protein, the levels for rheumatoid arthritis, Reiter's disease, psoriatic arthritis, and systemic lupus were significantly different from degenerative arthritis. When C3 was corrected for synovial fluid globulin, only rheumatoid arthritis and systemic lupus were significantly different from degenerative arthritis. Correction of C3 for globulin increases the difference between rheumatoid arthritis and degenerative arthritis. A proportion of gouty fluids with a relative decrease in C3 is demonstrated. It is argued that correction of C3 for globulin is more meaningful than correction for total protein. While many nonrheumatoid inflammatory effusions demonstrate split products of C3, the majority of fluids from patients with systemic lupus have none.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Hasselbacher</LastName>
+<ForeName>P</ForeName>
+<Initials>P</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Arthritis Rheum</MedlineTA>
+<NlmUniqueID>0370605</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Complement 3</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Globulins</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Arthritis</DescriptorName>
+<QualifierName>immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Arthritis, Rheumatoid</DescriptorName>
+<QualifierName>immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Complement 3</DescriptorName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Globulins</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Gout</DescriptorName>
+<QualifierName>immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Immunodiffusion</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Immunoelectrophoresis</DescriptorName>
+<QualifierName MajorTopicYN="Y">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Immunoelectrophoresis, Two-Dimensional</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Joint Diseases</DescriptorName>
+<QualifierName MajorTopicYN="Y">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Lupus Erythematosus, Systemic</DescriptorName>
+<QualifierName MajorTopicYN="Y">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Reiter Disease</DescriptorName>
+<QualifierName MajorTopicYN="Y">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Specimen Handling</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Synovial Fluid</DescriptorName>
+<QualifierName MajorTopicYN="Y">immunology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

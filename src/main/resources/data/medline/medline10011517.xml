@@ -1,0 +1,152 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011517</MedlineID>
+<PMID>33728</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0320-9725</ISSN>
+<JournalIssue>
+<Volume>44</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>[Effect of some fragments of peptide hormones on the content of biogenic monoamines from mouse brain]</ArticleTitle>
+<Pagination>
+<MedlinePgn>93-96</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The effect of some tripeptides, which are fragments of peptide hormones, and their analogs on the content of biogenic monoamines (BM) from albino mice brain was studied. It was found that thyroliberin, melanostatin and the C-terminal tripeptide of gonadoliberin activate the dophaminergic (DA-ergic) system in the forebrain of mice treated with reserpine or haloperidol, whereas the C-terminal tripeptide of gastrin acts as a synergic blocker of the DA receptors. The N-terminal tripeptides (with and without the amido group) do not affect the content of BM. No effect of the tripeptides was observed in intact animals. It is assumed that the agonistic or antagonistic effect of the tripeptides on BM is due to certain structural peculiarities of the tripeptides, e.g. the presence of the C-terminal amido group and their endogenous nature.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Zile</LastName>
+<ForeName>R K</ForeName>
+<Initials>RK</Initials>
+</Author>
+<Author>
+<LastName>Odynets</LastName>
+<ForeName>T G</ForeName>
+<Initials>TG</Initials>
+</Author>
+<Author>
+<LastName>Klusha</LastName>
+<ForeName>V E</ForeName>
+<Initials>VE</Initials>
+</Author>
+</AuthorList>
+<Language>rus</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+<VernacularTitle>Vliianie nekotorykh fragmentov peptidnykh gormonov na soderzhanie biogennykh monoaminov mozga mysheĭ.</VernacularTitle>
+</Article>
+<MedlineJournalInfo>
+<Country>USSR</Country>
+<MedlineTA>Biokhimiia</MedlineTA>
+<NlmUniqueID>0372667</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Biogenic Amines</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Gastrins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Hormones</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Oligopeptides</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Receptors, Dopamine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>24305-27-9</RegistryNumber>
+<NameOfSubstance>Protirelin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>33515-09-2</RegistryNumber>
+<NameOfSubstance>Gonadorelin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9083-38-9</RegistryNumber>
+<NameOfSubstance>MSH Release-Inhibiting Hormone</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Biogenic Amines</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Brain</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>English Abstract</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Gastrins</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Gonadorelin</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hormones</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>MSH Release-Inhibiting Hormone</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mice</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Oligopeptides</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Protirelin</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Receptors, Dopamine</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Structure-Activity Relationship</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

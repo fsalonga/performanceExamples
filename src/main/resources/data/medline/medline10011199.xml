@@ -1,0 +1,160 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011199</MedlineID>
+<PMID>420735</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0007-1048</ISSN>
+<JournalIssue>
+<Volume>41</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Hereditary stomatocytosis: association of low 2,3-diphosphoglycerate with increased cation pumping by the red cell.</ArticleTitle>
+<Pagination>
+<MedlinePgn>133-41</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The levels of glycolytic intermediates have been measured in red cells from patients with both overhydrated and dehydrated varieties of the hereditary stomatocytosis syndrome. Red cell 2,3-diphosphoglycerate was reduced by 33% below normal in all patients with either stomatocyte or target cell morphologies (i.e. over or under hydrated varieties respectively). The relative decrement in 2,3-diphosphoglycerate was even greater when abnormal cells were compared with control cells with similar reticulocytosis. Red cell ADP concentrations in stomatocytosis were significantly increased above normal but ATP concentrations were not significantly changed. Whole blood oxygen affinity in stomatocytosis was increased in proportion to the lowered content of diphosphoglycerate. Some new parameters of membrane transport in hereditary stomatocytosis have been measured. Platelet K+ and Na+ concentrations and platelet K+ permeability were normal in stomatocytosis. The number of 3H-uridine transport sites in stomatocytes were increased by 9-39% above normal and this increment was the same as the increment in red cell lipids (0-38%). Hereditary stomatocytes contain 2-10-fold more cation pumps than normal and the increased active cation pumping may explain the high ADP, the low 2,3-diphosphoglycerate concentration and the increased oxygen affinity in this syndrome.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Wiley</LastName>
+<ForeName>J S</ForeName>
+<Initials>JS</Initials>
+</Author>
+<Author>
+<LastName>Cooper</LastName>
+<ForeName>R A</ForeName>
+<Initials>RA</Initials>
+</Author>
+<Author>
+<LastName>Adachi</LastName>
+<ForeName>K</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author>
+<LastName>Asakura</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Br J Haematol</MedlineTA>
+<NlmUniqueID>0372544</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Diphosphoglyceric Acids</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>56-65-5</RegistryNumber>
+<NameOfSubstance>Adenosine Triphosphate</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>58-64-0</RegistryNumber>
+<NameOfSubstance>Adenosine Diphosphate</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7440-09-7</RegistryNumber>
+<NameOfSubstance>Potassium</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7440-23-5</RegistryNumber>
+<NameOfSubstance>Sodium</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7782-44-7</RegistryNumber>
+<NameOfSubstance>Oxygen</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adenosine Diphosphate</DescriptorName>
+<QualifierName>blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Adenosine Triphosphate</DescriptorName>
+<QualifierName>blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Anemia, Hemolytic, Congenital</DescriptorName>
+<QualifierName MajorTopicYN="Y">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Biological Transport, Active</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Blood Platelets</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Case Report</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cell Membrane Permeability</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Child</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Diphosphoglyceric Acids</DescriptorName>
+<QualifierName MajorTopicYN="Y">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Erythrocyte Membrane</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Erythrocytes, Abnormal</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Oxygen</DescriptorName>
+<QualifierName>blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Potassium</DescriptorName>
+<QualifierName>blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Sodium</DescriptorName>
+<QualifierName>blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

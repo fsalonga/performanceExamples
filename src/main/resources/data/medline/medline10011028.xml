@@ -1,0 +1,71 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011028</MedlineID>
+<PMID>420614</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>11</Month>
+<Day>14</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0003-9942</ISSN>
+<JournalIssue>
+<Volume>36</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Visuospatial judgment.</ArticleTitle>
+<Pagination>
+<MedlinePgn>59</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Bloch</LastName>
+<ForeName>S L</ForeName>
+<Initials>SL</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Letter</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Arch Neurol</MedlineTA>
+<NlmUniqueID>0372436</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<CitationSubset>S</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Brain Diseases</DescriptorName>
+<QualifierName MajorTopicYN="Y">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Dominance, Cerebral</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Space Perception</DescriptorName>
+<QualifierName MajorTopicYN="Y">physiology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

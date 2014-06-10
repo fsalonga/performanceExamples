@@ -1,0 +1,102 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011338</MedlineID>
+<PMID>570411</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>11</Month>
+<Day>02</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>20</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Control of embryonic development: isolation and purification of chick heart myosin light chain mRNA and quantitation with a cDNA probe.</ArticleTitle>
+<Pagination>
+<MedlinePgn>647-54</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Arnold</LastName>
+<ForeName>H H</ForeName>
+<Initials>HH</Initials>
+</Author>
+<Author>
+<LastName>Siddiqui</LastName>
+<ForeName>M A</ForeName>
+<Initials>MA</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>RNA, Messenger</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.6.1.4</RegistryNumber>
+<NameOfSubstance>Myosins</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Chick Embryo</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Molecular Weight</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Myocardium</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Myosins</DescriptorName>
+<QualifierName MajorTopicYN="Y">biosynthesis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Nucleic Acid Hybridization</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>RNA, Messenger</DescriptorName>
+<QualifierName MajorTopicYN="Y">isolation &#38; purification</QualifierName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Translation, Genetic</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

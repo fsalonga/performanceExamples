@@ -1,0 +1,117 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011269</MedlineID>
+<PMID>420779</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>9</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Amino acid sequence of the beta chain of human fibrinogen.</ArticleTitle>
+<Pagination>
+<MedlinePgn>68-76</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The beta chain of human fibrinogen contains 461 amino acid residues, 15 of which are methionines. The calculated molecular weight, independent of a single carbohydrate cluster, is 52 230. In this regard, we have isolated and characterized all 16 cyanogen bromide fragments. In one case (CNI), we have concentrated on a disputed portion of a previously reported fragment. The arrangement of the cyanogen bromide peptides was deduced by the use of overlap fragments obtained from the tryptic digestion of modified and unmodified beta-chains and from digestions with staphylococcal protease, as well as by considerations involving the plasmic digestion products of fibrinogen. In one case two adjacent fragments were aligned by homology with the corresponding segments of the gamma chain. The homology of the beta chain with the gamma chain is especially strong over the course of the carboxy-terminal two-thirds of the sequence. Neither of these chains appears to be homologous with the alpha chain in these regions. With a few minor exceptions, the sequence reported in this article is in agreement with data reported by other groups in Stockholm and Munich.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Watt</LastName>
+<ForeName>K W</ForeName>
+<Initials>KW</Initials>
+</Author>
+<Author>
+<LastName>Takagi</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author>
+<LastName>Doolittle</LastName>
+<ForeName>R F</ForeName>
+<Initials>RF</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Amino Acids</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Macromolecular Systems</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Peptide Fragments</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>506-68-3</RegistryNumber>
+<NameOfSubstance>Cyanogen Bromide</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9001-32-5</RegistryNumber>
+<NameOfSubstance>Fibrinogen</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Amino Acid Sequence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Amino Acids</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cyanogen Bromide</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Fibrinogen</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Macromolecular Systems</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Peptide Fragments</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

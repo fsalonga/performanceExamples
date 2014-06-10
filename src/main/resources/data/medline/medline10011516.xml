@@ -1,0 +1,123 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011516</MedlineID>
+<PMID>369622</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>11</Month>
+<Day>19</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0320-9725</ISSN>
+<JournalIssue>
+<Volume>44</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>[Substrate specificity of peptidases catalyzing LH-RH degradation in hypothalamus, liver and heart of rat]</ArticleTitle>
+<Pagination>
+<MedlinePgn>86-92</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Degradation of [125I]-LH-RH by peptidases of hypothalamus, liver and heart of the rat and the effects of LH-RH, LH-RH antagonist D-Phe2-Phe3-D-Phe6-LH-RH, LH-RH5-10, oxytocin, bradikinin, thyrotrophin-releasing hormone, melanocyte-inhibiting factor, luteinizing, follicle-stimulating, lactogenic and growth hormones were studied. It was shown that the degradation was inhibited with maximal efficiency by non-labelled LH-RH (Ki = 1,7--2,0 . 10(-6) M). This observation is indicative of peptidase specificity for LH-RH. It is assumed that specific peptidases of liver and heart are involved in the reglation of LH-RH concentration in these organs.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Bakalkin</LastName>
+<ForeName>G Ia</ForeName>
+<Initials>GIa</Initials>
+</Author>
+<Author>
+<LastName>Tsibezov</LastName>
+<ForeName>V V</ForeName>
+<Initials>VV</Initials>
+</Author>
+<Author>
+<LastName>Isachenkov</LastName>
+<ForeName>V A</ForeName>
+<Initials>VA</Initials>
+</Author>
+</AuthorList>
+<Language>rus</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+<VernacularTitle>Izuchenie cubstratnoĭ spetsifichnosti peptidaz gipotalamusa, pecheni i serdtsa krys, rasshchepliaiushchikh liuliberin.</VernacularTitle>
+</Article>
+<MedlineJournalInfo>
+<Country>USSR</Country>
+<MedlineTA>Biokhimiia</MedlineTA>
+<NlmUniqueID>0372667</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Hormones</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>33515-09-2</RegistryNumber>
+<NameOfSubstance>Gonadorelin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.4</RegistryNumber>
+<NameOfSubstance>Peptide Hydrolases</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Comparative Study</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>English Abstract</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Gonadorelin</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hormones</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hypothalamus</DescriptorName>
+<QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Liver</DescriptorName>
+<QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Myocardium</DescriptorName>
+<QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Peptide Hydrolases</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Substrate Specificity</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

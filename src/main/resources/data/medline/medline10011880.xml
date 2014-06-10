@@ -1,0 +1,136 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011880</MedlineID>
+<PMID>217496</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-8993</ISSN>
+<JournalIssue>
+<Volume>166</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Apr</Month>
+<Day>20</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Effect of cyclic nucleotides on high affinity uptake of L-glutamate and taurine in glial and neuroblastoma cells.</ArticleTitle>
+<Pagination>
+<MedlinePgn>113-20</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Cultured glial cells (clones NN and I6) and neuroblastoma cells (clones M1 and M1NN) were used to study the effect of cyclic nucleotides on high affinity uptake of L-glutamate and taurine. Treatment of NN cells with a mixture of dBcAMP and BrcGMP for one or two days resulted in a more than 3-fold increase in the Vmax of L-glutamate high affinity uptake. Similar but smaller change was observed in a related glial clone (I6). Effects of cyclic nucleotide derivatives on high affinity uptake of L-glutamate by neuroblastoma cells (clones M1 and M1NN) or of taurine by both glial or neuroblastoma cells were either smaller or absent. Some differences were found in kinetic parameters of uptake of L-glutamate and taurine by original and re-isolated cellls, respectively. It is possible that these differences resulted from co-cultivation of glial and neuronal cells. However, since some values reported in this paper differ to some extent from those published previously, some other factors, such as subcloning, may have been responsible.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Borg</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author>
+<LastName>Balcar</LastName>
+<ForeName>V J</ForeName>
+<Initials>VJ</Initials>
+</Author>
+<Author>
+<LastName>Mandel</LastName>
+<ForeName>P</ForeName>
+<Initials>P</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Brain Res</MedlineTA>
+<NlmUniqueID>0045503</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Glutamates</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>107-35-7</RegistryNumber>
+<NameOfSubstance>Taurine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>362-74-3</RegistryNumber>
+<NameOfSubstance>Bucladesine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7665-99-8</RegistryNumber>
+<NameOfSubstance>Cyclic GMP</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Bucladesine</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cell Differentiation</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Clone Cells</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cyclic GMP</DescriptorName>
+<QualifierName MajorTopicYN="Y">analogs &#38; derivatives</QualifierName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Glutamates</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mice</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neoplasms, Experimental</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neuroblastoma</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neuroglia</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Taurine</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Time Factors</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

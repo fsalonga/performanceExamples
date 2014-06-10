@@ -1,0 +1,131 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011718</MedlineID>
+<PMID>311234</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0007-1447</ISSN>
+<JournalIssue>
+<Volume>1</Volume>
+<Issue>6158</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>27</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Diet, sunlight, and 25-hydroxy vitamin D in healthy children and adults.</ArticleTitle>
+<Pagination>
+<MedlinePgn>221-3</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>In 110 white West Midlands children serum 25-hydroxy vitamin D (25-OHD) concentrations showed a pronounced seasonal variation, the values being highest in August and lowest in February. The concentrations correlated significantly both with recorded sunlight and with seasonal ultraviolet energy of the sunlight. Children who had had a seaside holiday the previous summer had a higher mean 25-OHD concentration than those who had not had a summer holiday away from home. Correlation between vitamin D intake and serum 25-OHD concentration was not significant.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Poskitt</LastName>
+<ForeName>E M</ForeName>
+<Initials>EM</Initials>
+</Author>
+<Author>
+<LastName>Cole</LastName>
+<ForeName>T J</ForeName>
+<Initials>TJ</Initials>
+</Author>
+<Author>
+<LastName>Lawson</LastName>
+<ForeName>D E</ForeName>
+<Initials>DE</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Br Med J</MedlineTA>
+<NlmUniqueID>0372673</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Ergocalciferols</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Hydroxycholecalciferols</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>1406-16-2</RegistryNumber>
+<NameOfSubstance>Vitamin D</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Child</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Child, Preschool</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Diet</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Ergocalciferols</DescriptorName>
+<QualifierName>administration &#38; dosage</QualifierName>
+<QualifierName>analogs &#38; derivatives</QualifierName>
+<QualifierName>blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Great Britain</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hydroxycholecalciferols</DescriptorName>
+<QualifierName MajorTopicYN="Y">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Seasons</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Sunlight</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Ultraviolet Rays</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Vitamin D</DescriptorName>
+<QualifierName>administration &#38; dosage</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

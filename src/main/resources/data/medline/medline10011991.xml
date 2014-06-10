@@ -1,0 +1,130 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011991</MedlineID>
+<PMID>421200</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0008-5472</ISSN>
+<JournalIssue>
+<Volume>39</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Apr</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Metabolism of 2-aminofluorene and 2-acetylaminofluorene to mutagens by rat hepatocyte nuclei.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1168-73</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Stout</LastName>
+<ForeName>D L</ForeName>
+<Initials>DL</Initials>
+</Author>
+<Author>
+<LastName>Becker</LastName>
+<ForeName>F F</ForeName>
+<Initials>FF</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Cancer Res</MedlineTA>
+<NlmUniqueID>2984705R</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Fluorenes</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Mutagens</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>53-96-3</RegistryNumber>
+<NameOfSubstance>2-Acetylaminofluorene</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>2-Acetylaminofluorene</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Biotransformation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cell Nucleus</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Comparative Study</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Drug Evaluation, Preclinical</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Fluorenes</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Liver</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Liver Neoplasms</DescriptorName>
+<QualifierName>chemically induced</QualifierName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Microsomes, Liver</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Mutagens</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neoplasms, Experimental</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Time Factors</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

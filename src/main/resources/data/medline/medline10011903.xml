@@ -1,0 +1,111 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011903</MedlineID>
+<PMID>84700</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-8993</ISSN>
+<JournalIssue>
+<Volume>166</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Apr</Month>
+<Day>20</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Evidence that 4S RNA is axonally transported in normal and regenerating rat sciatic nerves.</ArticleTitle>
+<Pagination>
+<MedlinePgn>95-112</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Studies in regenerating goldfish optic nerves indicate that RNA may be axonally transported during optic nerve regeneration14,18,19. The present study was performed to determine if the axonal migration of RNA could be demonstrated during regeneration of the rat sciatic nerve. Rats, which had only the left sciatic nerve crushed 10 days earlier, were injected bilaterally with [3H]uridine into the spinal cord at segmental levels L5 and L6, thus labeling ventral horn cells giving rise to the sciatic nerve. Six, 14 and 20 days later rats were sacrificed by cardiac perfusion of saline followed by 10% formaldehyde. Formaldehyde-precipitable radioactivity, identified as [3H]RNA, was 4--5 times greater in the regenerating sciatic nerve compared to the normal nerve and moved without impediment beyond the point of the crush into the regenerating portion of the nerve. The axonal migration of free unincorporated labeled RNA precursors was also demonstrated, raising the possibility that the distribution of [3H]RNA along the sciatic nerve might be entirely extra-axonal; i.e., free [3H]uridine is taken up by Schwann cells from the axon where it is incorporated into [3H]RNA. This interpretation of the data would also result in the appearance of a proximodistal distribution of RNA associated radioactivity. To determine whether any sciatic nerve [3H]RNA was due to axonal transport, rats which had only the left sciatic nerve crushed 10 days earlier were injected bilaterally with [3H]uridine into the spinal cord. Fourteen days after injection, rats were sacrificed and radioactivity present in the nerve was confirmed as RNA by SDS polyacrylamide gel electrophoresis. Radioactivity in the various RNA species 14 days after intraspinal injection showed the following distribution: 28 + 18S RNA--normal 39.3% +/- 2.1; regenerating 45.4% +/- 1.6; 4S RNA--normal 43.0% +/- 1.3; regenerating 46.8% +/- 2.7. Similar characterization of sciatic nerve RNA 1 or 3 days following the intravenous administration of [3H]uridine gave the following distribution: 28 + 18S RNA--normal 72.4% +/- 3.0; regenerating 75.0% +/- 3.6; 4S RNA--normal 7.7% +/- 1.3; regenerating 10.7% +/- 0.8. The intraspinal injection of [3H]uridine would label Schwann cell RNA and, in addition, any species of intra-axonal RNA, while intravenous injections would label Schwann cell RNA and not axonal RNA. If 4S RNA is in the axon, one would predict relatively more labeled 4S RNA following intraspinal injections than following intravenous injections. The data demonstrate an enrichment of 4S RNA in both normal and regenerating rat sciatic nerve following the intraspinal but not following the intravenous injection of labeled precursor. Therefore, we suggest that 4S RNA migrates axonally in both normal and regenerating sciatic nerves of rats.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Lindquist</LastName>
+<ForeName>T D</ForeName>
+<Initials>TD</Initials>
+</Author>
+<Author>
+<LastName>Inogoglia</LastName>
+<ForeName>N A</ForeName>
+<Initials>NA</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Brain Res</MedlineTA>
+<NlmUniqueID>0045503</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>58-96-8</RegistryNumber>
+<NameOfSubstance>Uridine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>63231-63-0</RegistryNumber>
+<NameOfSubstance>RNA</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Axonal Transport</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Electrophoresis, Polyacrylamide Gel</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Nerve Regeneration</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>RNA</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Sciatic Nerve</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Spinal Cord</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Uridine</DescriptorName>
+<QualifierName>administration &#38; dosage</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

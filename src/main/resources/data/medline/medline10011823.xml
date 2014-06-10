@@ -1,0 +1,167 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011823</MedlineID>
+<PMID>217478</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-8993</ISSN>
+<JournalIssue>
+<Volume>160</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>19</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Effects of intraventricular injection of 6-hydroxydopamine in the developing kitten. 1. On the sleepwaking cycles.</ArticleTitle>
+<Pagination>
+<MedlinePgn>445-59</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Intraventricular 6-OHDA was injected in kittens at different stages of development, and the subsequent sleep polygram was analyzed, in order to determine the role of the catecholaminergic system in the ontogenesis of sleep regulations during the first and the second postnatal months. 6-OHDA, used with or without previous chlorimipramine treatment, led within a 10-day period to drastic reductions of the endogenous monoamines in the forebrain of all age groups. Although the neurotoxicity of 6-OHDA was almost constant among the different age groups, the effects on sleep depended on the age of the animals at the time of the injection. In the 5-week-old injected kittens, 6-OHDA affected PS according to an adult-like pattern. In the 3-week-old kittens, 6-OHDA alone (leading to both catecholamines and serotonin decreases) induced the same PS deficit as in the adult cat. In the 1- and 2-week-old kittens, neither 6-OHDA alone, nor 6-OHDA with previous chlorimipramine treatment, distrubed the sleep regulations. These data are compared to similar experiments performed in the adult cat. They are discussed in terms of sleep control ontogenesis. It is concluded that the catecholaminergic system plays no important role in the mechanisms of sleep regulation in the early postnatal period in the kitten, whereas its regulatory influence on PS is confirmed in the juvenile animal. The functional maturation of the catecholaminergic system in terms of sleep regulation is achieved between the third and the fifth week of postnatal life.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Laguzzi</LastName>
+<ForeName>R F</ForeName>
+<Initials>RF</Initials>
+</Author>
+<Author>
+<LastName>Adrien</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author>
+<LastName>Bourgoin</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author>
+<LastName>Hamon</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Brain Res</MedlineTA>
+<NlmUniqueID>0045503</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Hydroxydopamines</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Receptors, Cholinergic</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>303-49-1</RegistryNumber>
+<NameOfSubstance>Clomipramine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>50-67-9</RegistryNumber>
+<NameOfSubstance>Serotonin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>51-41-2</RegistryNumber>
+<NameOfSubstance>Norepinephrine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>51-61-6</RegistryNumber>
+<NameOfSubstance>Dopamine</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Age Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animals, Newborn</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Behavior, Animal</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Body Weight</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Brain</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Clomipramine</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Dopamine</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hydroxydopamines</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Injections, Intraventricular</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Norepinephrine</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Organ Weight</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Receptors, Cholinergic</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Serotonin</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Sleep Stages</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Sleep, REM</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Wakefulness</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

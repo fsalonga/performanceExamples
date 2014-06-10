@@ -1,0 +1,143 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011208</MedlineID>
+<PMID>420738</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0007-1048</ISSN>
+<JournalIssue>
+<Volume>41</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Comparison of sickle cell-beta0 thalassaemia with homozygous sickle cell disease.</ArticleTitle>
+<Pagination>
+<MedlinePgn>83-93</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Clinical and haematological features in 41 patients with sickle cell-beta0 thalassaemia (Sbeta0 thalassemia) and in 123 age--sex matched controls with homozygous sickle cell (SS) disease were compared. Persistence of splenomegaly was more common and fetal loss less common in Sbeta0 thalassemia but other clinical features were similar in the two genotypes. Total haemoglobin, Hb A2, PCV, CCV, and red cell count were significantly higher and MCV, MCH, MCHC, and ISC counts significantly lower in Sbeta0 thalassaemia. Proportional reticulocyte counts were significantly lower in Sbeta0 thalassaemia but there was no difference in absolute reticulocyte counts. Persistence of splenomegaly and low ISC counts are compatible with decreased intravascular sickling which may result from the lower mean cell haemoglobin S concentration in Sbeta0 thalassaemia. If beneficial effects of a low MCHC can be confirmed then a carefully monitored trial of iron deficiency in SS disease may be a logical experimental procedure.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Serjeant</LastName>
+<ForeName>G R</ForeName>
+<Initials>GR</Initials>
+</Author>
+<Author>
+<LastName>Sommereux</LastName>
+<ForeName>A M</ForeName>
+<Initials>AM</Initials>
+</Author>
+<Author>
+<LastName>Stevenson</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author>
+<LastName>Mason</LastName>
+<ForeName>K</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author>
+<LastName>Serjeant</LastName>
+<ForeName>B E</ForeName>
+<Initials>BE</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Br J Haematol</MedlineTA>
+<NlmUniqueID>0372544</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>9034-63-3</RegistryNumber>
+<NameOfSubstance>Fetal Hemoglobin</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adolescence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Anemia, Sickle Cell</DescriptorName>
+<QualifierName>blood</QualifierName>
+<QualifierName MajorTopicYN="Y">complications</QualifierName>
+<QualifierName>genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Child</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Child, Preschool</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Comparative Study</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Fetal Hemoglobin</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Genotype</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hematologic Tests</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Middle Age</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Sickle Cell Trait</DescriptorName>
+<QualifierName>blood</QualifierName>
+<QualifierName MajorTopicYN="Y">complications</QualifierName>
+<QualifierName>genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Splenomegaly</DescriptorName>
+<QualifierName>etiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Thalassemia</DescriptorName>
+<QualifierName>blood</QualifierName>
+<QualifierName MajorTopicYN="Y">complications</QualifierName>
+<QualifierName>genetics</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

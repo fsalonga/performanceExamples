@@ -1,0 +1,160 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011254</MedlineID>
+<PMID>105750</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>11</Month>
+<Day>02</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>9</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Extracellular labeling of growing secreted polypeptide chains in Bacillus subtilis with diazoiodosulfanilic acid.</ArticleTitle>
+<Pagination>
+<MedlinePgn>198-202</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Studies of the mechanism of protein secretion in a Gram-positive bacterium, Bacillus subtilis, yielded results very similar to those previously obtained with a Gram-negative organism: nascent chains protruding from protoplasts could be labeled extracellularly; the labeled chains could be recovered on polysomes isolated from the membrane--polysome fraction; they could be released by puromycin, low Mg2+, or chain completion; the completed chains include a known secreted protein (alpha-amylase); and their ribosomes appear to be attached to membrane solely by their nascent chains. The reagent used for extracellular labeling, [1252]diazoiodosulfanilic acid, yielded severalfold more specific labeling of the nascent chains (7--10% of the total cellular labeling and one-fourth to one-third of that of the membrane--polysome fraction) than was obtained earlier with another nonpenetrating reagent.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Smith</LastName>
+<ForeName>W P</ForeName>
+<Initials>WP</Initials>
+</Author>
+<Author>
+<LastName>Tai</LastName>
+<ForeName>P C</ForeName>
+<Initials>PC</Initials>
+</Author>
+<Author>
+<LastName>Davis</LastName>
+<ForeName>B D</ForeName>
+<Initials>BD</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Azo Compounds</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Oleic Acids</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Sulfanilic Acids</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>53-79-2</RegistryNumber>
+<NameOfSubstance>Puromycin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>66-22-8</RegistryNumber>
+<NameOfSubstance>Uracil</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.1.-</RegistryNumber>
+<NameOfSubstance>Ribonucleases</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.2.1.-</RegistryNumber>
+<NameOfSubstance>Amylases</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.2.1.1</RegistryNumber>
+<NameOfSubstance>alpha-Amylase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Amylases</DescriptorName>
+<QualifierName MajorTopicYN="Y">biosynthesis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Azo Compounds</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Bacillus subtilis</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Oleic Acids</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Peptide Synthesis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Polyribosomes</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Protoplasts</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Puromycin</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Ribonucleases</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Ribosomes</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Sulfanilic Acids</DescriptorName>
+<QualifierName>analogs &#38; derivatives</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Translation, Genetic</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Uracil</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>alpha-Amylase</DescriptorName>
+<QualifierName MajorTopicYN="Y">biosynthesis</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

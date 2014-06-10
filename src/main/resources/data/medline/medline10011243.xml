@@ -1,0 +1,128 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011243</MedlineID>
+<PMID>369593</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>9</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Yeast mitochondrial deoxyribonuclease stimulated by ethidium bromide. 2. Mechanism of enzyme activation.</ArticleTitle>
+<Pagination>
+<MedlinePgn>128-34</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>An endonuclease (EtdBr DNase), which is more active in the presence of EtdBr, has been purified from yeast mitochondrial membrane (Jacquemin-Sablon, H., et al. (1979) Biochemistry 18 (preceding paper in this issue)). This paper deals with the analysis of the mechanism of this activation. Determination of the enzyme activity in the presence of intercalating and nonintercalating agents showed that the enzyme does not recognize the DNA structure modifiction provoked by drug intercalation. Studies carried out with a series of phenanthridinium derivatives led to the following model. The EtdBr DNase activation would result from the formation of a ternary complex, DNA--drug--Triton X-100. The activation capacity of a drug depends on its ability to bind simultaneoulsy to the DNA (not necessarily by intercalation) and the detergent. When this complex is formed, the DNA molecule is surrounded with Triton X-100 molecules which constitute an hydrophobic environment and make the substrate more prone to interaction with the enzyme. The implications of this model are discussed.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Jacquemin-Sablon</LastName>
+<ForeName>H</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author>
+<LastName>Le Bret</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author>
+<LastName>Jacquemin-Sablon</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author>
+<LastName>Paoletti</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Phenanthridines</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Polyethylene Glycols</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>3546-21-2</RegistryNumber>
+<NameOfSubstance>Ethidium</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.1.-</RegistryNumber>
+<NameOfSubstance>Deoxyribonucleases</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Deoxyribonucleases</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Enzyme Activation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Ethidium</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mitochondria</DescriptorName>
+<QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phenanthridines</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Polyethylene Glycols</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Protein Binding</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Saccharomyces cerevisiae</DescriptorName>
+<QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Structure-Activity Relationship</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

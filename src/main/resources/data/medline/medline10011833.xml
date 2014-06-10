@@ -1,0 +1,144 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011833</MedlineID>
+<PMID>217483</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-8993</ISSN>
+<JournalIssue>
+<Volume>160</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>19</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Visualization of beta-adrenergic receptor sites with fluorescent beta-adrenergic blocker probes--or autofluorescent granules?</ArticleTitle>
+<Pagination>
+<MedlinePgn>533-8</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Hess</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Brain Res</MedlineTA>
+<NlmUniqueID>0045503</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Receptors, Adrenergic</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Receptors, Adrenergic, beta</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>50-55-5</RegistryNumber>
+<NameOfSubstance>Reserpine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>525-66-6</RegistryNumber>
+<NameOfSubstance>Propranolol</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Brain Chemistry</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Brain Mapping</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Brain Stem</DescriptorName>
+<QualifierName>ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Carotid Body</DescriptorName>
+<QualifierName>ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Caudate Nucleus</DescriptorName>
+<QualifierName>ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cerebellum</DescriptorName>
+<QualifierName>ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cerebral Cortex</DescriptorName>
+<QualifierName>ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cytoplasmic Granules</DescriptorName>
+<QualifierName MajorTopicYN="Y">ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Ganglia, Autonomic</DescriptorName>
+<QualifierName>ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Microscopy, Fluorescence</DescriptorName>
+<QualifierName MajorTopicYN="Y">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Pineal Body</DescriptorName>
+<QualifierName>ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Propranolol</DescriptorName>
+<QualifierName>administration &#38; dosage</QualifierName>
+<QualifierName MajorTopicYN="Y">analogs &#38; derivatives</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Receptors, Adrenergic</DescriptorName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Receptors, Adrenergic, beta</DescriptorName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Reserpine</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Spinal Cord</DescriptorName>
+<QualifierName>ultrastructure</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

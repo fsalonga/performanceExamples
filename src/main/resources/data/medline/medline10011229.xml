@@ -1,0 +1,140 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011229</MedlineID>
+<PMID>420759</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0007-1145</ISSN>
+<JournalIssue>
+<Volume>41</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Absorption of lactulose from mammalian gastrointestinal tract.</ArticleTitle>
+<Pagination>
+<MedlinePgn>47-51</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>1. The disaccharide lactulose (galactosyl-beta-1,4-fructose) was poorly absorbed from rat small intestine in vitro and human mouth in vivo. 2. These results confirm indirect clinical evidence of poor absorption from the intestine. 3. The presence of calcium ions, or absence of sodium ions, had no effect on lactulose absorption from buccal cavity. 4. The presence of ouabain, or absence of Na+, did not increase the absorption of lactulose from small intestine. 5. It is thought that the mode of transport, in both instances, is by passive diffusion with the concentration gradient.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Evered</LastName>
+<ForeName>D F</ForeName>
+<Initials>DF</Initials>
+</Author>
+<Author>
+<LastName>Sadoogh-Abasian</LastName>
+<ForeName>F</ForeName>
+<Initials>F</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Br J Nutr</MedlineTA>
+<NlmUniqueID>0372547</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Disaccharides</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>4618-18-2</RegistryNumber>
+<NameOfSubstance>Lactulose</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>630-60-4</RegistryNumber>
+<NameOfSubstance>Ouabain</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7440-23-5</RegistryNumber>
+<NameOfSubstance>Sodium</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7440-70-2</RegistryNumber>
+<NameOfSubstance>Calcium</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Calcium</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Diffusion</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Disaccharides</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Intestinal Absorption</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Intestine, Small</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Lactulose</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mouth Mucosa</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Ouabain</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Sodium</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

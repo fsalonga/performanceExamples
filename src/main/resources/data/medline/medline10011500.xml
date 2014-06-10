@@ -1,0 +1,153 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011500</MedlineID>
+<PMID>420873</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0320-9725</ISSN>
+<JournalIssue>
+<Volume>44</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>[Characterization of human retroplacental blood plasma proteins isolated by biospecific chromatography on immobilized cortisol]</ArticleTitle>
+<Pagination>
+<MedlinePgn>142-53</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Human retroplacental blood plasma proteins with affinity for cortisol were isolated by biospecific chromatography and identified by electrophoretic and immunochemical methods as alpha1- and beta1-globulins and IgG. IgM and IgA immunoglobulins. A high specific affinity for cortisol (Kas = 1,5 . 10(8) M-1 at 23 degrees C) and progesterone (Kas = 2,0 . 10(8) M-1 at 23 degrees C) was observed only for alpha-globulin; other proteins had a low affinity for cortisol. The molecular weight of alpha1-globulin (transcortin) was found to be 50,000-55,000. The amino acid and monosaccharide compositions of this glycoprotein were studied. Its N-terminal and C-terminal amino acid sequences are: Met-Asx-Pro-Asx-Ala- and (Val, Gln)-Leu, respectively. It was concluded that under normal physiological conditions and during pregnancy transcortin is the only specific corticosteroid-binding plasma protein. A complete removal of bound cortisol from the protein mixture and subsequent hydroxylapatite chromatography resulted in homogeneous transcortin retaining more than 90% of its binding capacity. The formation of the transcortin-steroid complex and its complete dissociation are accompanied by conformational changes of the protein globule. Significant changes of the spectral properties of the tryptophane residue of protein and the steroid delta4-3-keto group are indicative of the possibility of their direct interaction.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Akhrem</LastName>
+<ForeName>A A</ForeName>
+<Initials>AA</Initials>
+</Author>
+<Author>
+<LastName>Vashkevich</LastName>
+<ForeName>I I</ForeName>
+<Initials>II</Initials>
+</Author>
+<Author>
+<LastName>Avvakumov</LastName>
+<ForeName>G B</ForeName>
+<Initials>GB</Initials>
+</Author>
+<Author>
+<LastName>Sviridov</LastName>
+<ForeName>O V</ForeName>
+<Initials>OV</Initials>
+</Author>
+<Author>
+<LastName>Strel'chenko</LastName>
+<ForeName>O A</ForeName>
+<Initials>OA</Initials>
+</Author>
+</AuthorList>
+<Language>rus</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+<VernacularTitle>Kharakteristika belkov plazmy retroplatsentarnoĭ krovi cheloveka, vydelennykh biospetsificheskoĭ khromatografieĭ na immobilizovannom kortizole.</VernacularTitle>
+</Article>
+<MedlineJournalInfo>
+<Country>USSR</Country>
+<MedlineTA>Biokhimiia</MedlineTA>
+<NlmUniqueID>0372667</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Amino Acids</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Blood Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Carbohydrates</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Immunoglobulins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Serum Globulins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>50-23-7</RegistryNumber>
+<NameOfSubstance>Hydrocortisone</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Amino Acid Sequence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Amino Acids</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Blood Proteins</DescriptorName>
+<QualifierName>isolation &#38; purification</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Carbohydrates</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Chromatography, Affinity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>English Abstract</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Fetal Blood</DescriptorName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hydrocortisone</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Immunoglobulins</DescriptorName>
+<QualifierName>isolation &#38; purification</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Molecular Weight</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Pregnancy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Serum Globulins</DescriptorName>
+<QualifierName>isolation &#38; purification</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

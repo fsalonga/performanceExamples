@@ -1,0 +1,119 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011600</MedlineID>
+<PMID>311226</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0365-9615</ISSN>
+<JournalIssue>
+<Volume>87</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>[Cross reactions in the H-2 system of cytotoxic T-lymphocytes concentrated by the adsorption-elution method on target cell monolayers]</ArticleTitle>
+<Pagination>
+<MedlinePgn>176-9</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Cytotoxic T-lymphocytes (CTL) obtained by in vivo immunization were enriched by the absorption-elution technique, using the relevant allogeneic target cell (TC) monolayers. After the separation of C57BL anti-A (anti-KkDd) lymphocytes into anti-Kk and anti-Dd subpopulations they displayed cross killing cytotoxic effect on H-2d and H-2kTC, respectively. B10D2 anti-B10 (anti-KbDd) lymphocytes cross reacted to H-2a and H-2q TC. The results are discussed in the light of heterogeneity of CTL clones or their receptors.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Brondz</LastName>
+<ForeName>B D</ForeName>
+<Initials>BD</Initials>
+</Author>
+<Author>
+<LastName>Andreev</LastName>
+<ForeName>A V</ForeName>
+<Initials>AV</Initials>
+</Author>
+<Author>
+<LastName>Drizlikh</LastName>
+<ForeName>G I</ForeName>
+<Initials>GI</Initials>
+</Author>
+<Author>
+<LastName>Egorova</LastName>
+<ForeName>S G</ForeName>
+<Initials>SG</Initials>
+</Author>
+</AuthorList>
+<Language>rus</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+<VernacularTitle>Perekrestnye reaktsii v sisteme H-2 tsitotoksicheskikh T-limfotsitov, kontsentrirovannykh metodom adsorbtsii-éliutsii na monosloe kletok-misheneĭ.</VernacularTitle>
+</Article>
+<MedlineJournalInfo>
+<Country>USSR</Country>
+<MedlineTA>Biull Eksp Biol Med</MedlineTA>
+<NlmUniqueID>0370627</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>H-2 Antigens</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Alleles</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Comparative Study</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cross Reactions</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cytotoxicity, Immunologic</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>English Abstract</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>H-2 Antigens</DescriptorName>
+<QualifierName>genetics</QualifierName>
+<QualifierName MajorTopicYN="Y">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mice</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mice, Inbred C3H</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mice, Inbred C57BL</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Recombination, Genetic</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>T-Lymphocytes</DescriptorName>
+<QualifierName MajorTopicYN="Y">immunology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

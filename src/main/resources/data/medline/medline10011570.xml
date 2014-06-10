@@ -1,0 +1,117 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011570</MedlineID>
+<PMID>105773</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3592</ISSN>
+<JournalIssue>
+<Volume>21</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Apr</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Alkaline phosphatase and pepsin immobilized in gels.</ArticleTitle>
+<Pagination>
+<MedlinePgn>711-4</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Hirano</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author>
+<LastName>Miura</LastName>
+<ForeName>O</ForeName>
+<Initials>O</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biotechnol Bioeng</MedlineTA>
+<NlmUniqueID>7502021</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Enzymes, Immobilized</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Gels</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Polysaccharides</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>111-30-8</RegistryNumber>
+<NameOfSubstance>Glutaral</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>3416-24-8</RegistryNumber>
+<NameOfSubstance>Glucosamine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.1.3.1</RegistryNumber>
+<NameOfSubstance>Alkaline Phosphatase</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.4.23.1</RegistryNumber>
+<NameOfSubstance>Pepsin A</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Alkaline Phosphatase</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Chemistry, Physical</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Enzymes, Immobilized</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Gels</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Glucosamine</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Glutaral</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Pepsin A</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Polysaccharides</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

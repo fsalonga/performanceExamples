@@ -1,0 +1,118 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011939</MedlineID>
+<PMID>421177</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0008-543X</ISSN>
+<JournalIssue>
+<Volume>43</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Systemic complications of MER immunotherapy of cancer: pulmonary granulomatosis and rash.</ArticleTitle>
+<Pagination>
+<MedlinePgn>500-4</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>BCG immunotherapy often has severe complications in cancer patients despite lack of toxicity in the immunocompetent individual. MER, a cell wall fraction of BCG, has been reported to cause immunopotentiation similar to that of BCG without equivalent toxicity. Recently, animal models have been reported to develop MER complications, especially disseminated granuloma formation, like those of BCG. For the past several years, MER has been used as adjuvant immunotherapy for treatment of malignant tumors with minimal systemic toxicity reported. A patient with malignant melanoma was treated with intralesional MER at the site of local metastases. He developed military pulmonary granulomatosis and a severe cutaneous eruption in association with MER therapy. The toxicities of BCG and MER therapy were compared with the pathogenesis of granuloma formation reviewed. This patient's complications were consistent with a hypersensitivity reaction to MER. Pulmonary granulomatosis and rash must be added to the list of known MER toxicities.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Voith</LastName>
+<ForeName>M A</ForeName>
+<Initials>MA</Initials>
+</Author>
+<Author>
+<LastName>Lichtenfeld</LastName>
+<ForeName>K M</ForeName>
+<Initials>KM</Initials>
+</Author>
+<Author>
+<LastName>Schimpff</LastName>
+<ForeName>S C</ForeName>
+<Initials>SC</Initials>
+</Author>
+<Author>
+<LastName>Wiernik</LastName>
+<ForeName>P H</ForeName>
+<Initials>PH</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Cancer</MedlineTA>
+<NlmUniqueID>0374236</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>BCG Vaccine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>67-56-1</RegistryNumber>
+<NameOfSubstance>Methanol</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>BCG Vaccine</DescriptorName>
+<QualifierName MajorTopicYN="Y">adverse effects</QualifierName>
+<QualifierName>isolation &#38; purification</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Case Report</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Erythema</DescriptorName>
+<QualifierName MajorTopicYN="Y">etiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Granuloma</DescriptorName>
+<QualifierName MajorTopicYN="Y">etiology</QualifierName>
+<QualifierName>pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Lung Diseases</DescriptorName>
+<QualifierName MajorTopicYN="Y">etiology</QualifierName>
+<QualifierName>pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Methanol</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

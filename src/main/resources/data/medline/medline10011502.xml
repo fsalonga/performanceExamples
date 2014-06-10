@@ -1,0 +1,128 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011502</MedlineID>
+<PMID>217453</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0320-9725</ISSN>
+<JournalIssue>
+<Volume>44</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>[Activities of enzymes from canine kidney plasma membranes under effects of polyene antibiotics in vivo and in vitro]</ArticleTitle>
+<Pagination>
+<MedlinePgn>160-5</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The effects of amphotericin B drug containing sodium deoxycholate (DOC) and those of DOC and nistatin on the activities of Na+, K+-ATPase and 5'-nucleotidase of canine kidney plasma membranes were studied. It was found that the activities of Na+, K+-ATPase and 5'-nucleotidase were markedly inhibited only after intravenous injection of amphotericin B, whereas the other agents tested caused no changes in the enzyme activities. Similar results were obtained in vitro. In the presence of amphotericin B the activity of Na+, K+-ATPase was noticeably inhibited already at the antibiotic concentration of 0,1 mkg per mg of membrane protein. It was found that the injection of amphotericin B, DOC and nistatin did not qualitatively or quantitatively affect the phospholipid composition of the plasma membranes. This is indicative of the lack of correlation between the enzyme activities and changes in the phospholipid composition of the plasma membranes under effects of amphotericin B. The pyrimidine derivative--amygluracyl--markedly removes the inhibiting effect of amphotericin B on the enzyme activity of plasma membranes.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Glubokovskaia</LastName>
+<ForeName>O I</ForeName>
+<Initials>OI</Initials>
+</Author>
+<Author>
+<LastName>Kravchenko</LastName>
+<ForeName>L S</ForeName>
+<Initials>LS</Initials>
+</Author>
+</AuthorList>
+<Language>rus</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+<VernacularTitle>Aktivnost' fermentov plazmaticheskikh membran pochek sobak pri deĭstvii polienovykh antibiotikov in vivo i in vitro.</VernacularTitle>
+</Article>
+<MedlineJournalInfo>
+<Country>USSR</Country>
+<MedlineTA>Biokhimiia</MedlineTA>
+<NlmUniqueID>0372667</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>1397-89-3</RegistryNumber>
+<NameOfSubstance>Amphotericin B</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>1400-61-9</RegistryNumber>
+<NameOfSubstance>Nystatin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>83-44-3</RegistryNumber>
+<NameOfSubstance>Deoxycholic Acid</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.1.3.-</RegistryNumber>
+<NameOfSubstance>Nucleotidases</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.6.1.37</RegistryNumber>
+<NameOfSubstance>Na(+)-K(+)-Exchanging ATPase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Amphotericin B</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cell Membrane</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+<QualifierName>enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Deoxycholic Acid</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Dogs</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>English Abstract</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kidney</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+<QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Na(+)-K(+)-Exchanging ATPase</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Nucleotidases</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Nystatin</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

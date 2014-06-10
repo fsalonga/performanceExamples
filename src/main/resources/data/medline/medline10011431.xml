@@ -1,0 +1,131 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011431</MedlineID>
+<PMID>369609</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>561</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>26</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Specificity and functions of guanine methylase of Shigella sonnei DDVI phage.</ArticleTitle>
+<Pagination>
+<MedlinePgn>232-9</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>DNA methylase methylating adenine with formation of 6-methylaminopurine has been identified in Shigella sonnei 1188 cells which are the natural host of DDVI phage. At the same time, in DNA of DDVI phage replicating both in Sh. sonnei 1188 cells and in Escherichia coli B cells 7-methylguanine was found as the only minor base in amounts of 0.25 and 0.27 mol per 100 mol of nucleotides, respectively. The extract of the infected cells was found to contain both kinds of DNA methylases: virus-specific guanine methylase and cellular adenine methylase. The lack of 6-methylaminopurine in DNA of this phage is explained by reversible inhibition of the cell enzyme in the infected cells. The amount of methyl groups transferred by DDVI-specific methylase on DNA does not depend on the species of the infected cells and is similar in the case of unmodified SD phage DNA and DNA of T2 phage methylated by E. coli B enzyme. Guanine methylase has been shown to be a DDVI-induced modification enzyme and to protect against restriction of B-type. It methylates double-stranded DNAs only and is inhibited by S-adenosylhomocysteine.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Nikolskaya</LastName>
+<ForeName>I I</ForeName>
+<Initials>II</Initials>
+</Author>
+<Author>
+<LastName>Tediashvili</LastName>
+<ForeName>M I</ForeName>
+<Initials>MI</Initials>
+</Author>
+<Author>
+<LastName>Lopatina</LastName>
+<ForeName>N G</ForeName>
+<Initials>NG</Initials>
+</Author>
+<Author>
+<LastName>Chanishvili</LastName>
+<ForeName>T G</ForeName>
+<Initials>TG</Initials>
+</Author>
+<Author>
+<LastName>Debov</LastName>
+<ForeName>S S</ForeName>
+<Initials>SS</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Deoxyguanine Nucleotides</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>73-40-5</RegistryNumber>
+<NameOfSubstance>Guanine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.1.1.</RegistryNumber>
+<NameOfSubstance>Methyltransferases</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.1.1.37</RegistryNumber>
+<NameOfSubstance>DNA (Cytosine-5-)-Methyltransferase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Bacteriophages</DescriptorName>
+<QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>DNA (Cytosine-5-)-Methyltransferase</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Deoxyguanine Nucleotides</DescriptorName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Escherichia coli</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Guanine</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Methyltransferases</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Nucleic Acid Conformation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Shigella sonnei</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Structure-Activity Relationship</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Substrate Specificity</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

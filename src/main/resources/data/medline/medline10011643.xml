@@ -1,0 +1,131 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011643</MedlineID>
+<PMID>420982</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0007-1323</ISSN>
+<JournalIssue>
+<Volume>66</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>A reappraisal of the value of carcinoembryonic antigen in the management of patients with various neoplasms.</ArticleTitle>
+<Pagination>
+<MedlinePgn>120-3</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Eight hundred and eight patients with histologically proved malignant disease had carcinoembryonic antigen (CEA) estimations performed at the time of tissue diagnosis. An elevated level was found in 384 of 518 patients with gastrointestinal neoplasms (74 per cent) and in 162 of 290 patients with other neoplasms (56 per cent). No correlation was found between CEA elevations and tumour differentiation. There was a good correlation between tumour staging and CEA levels for patients with colorectal cancer; the more advanced the tumour, the higher the CEA. Several illustrative cases are presented and the role of CEA assay in the diagnosis and management of neoplasia is discussed. CEA assay is a poor screening test for neoplastic disease, but serial CEA monitoring is valuable in the detection of residual or recurrent cancer.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Cooper</LastName>
+<ForeName>M J</ForeName>
+<Initials>MJ</Initials>
+</Author>
+<Author>
+<LastName>Mackie</LastName>
+<ForeName>C R</ForeName>
+<Initials>CR</Initials>
+</Author>
+<Author>
+<LastName>Skinner</LastName>
+<ForeName>D B</ForeName>
+<Initials>DB</Initials>
+</Author>
+<Author>
+<LastName>Moossa</LastName>
+<ForeName>A R</ForeName>
+<Initials>AR</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Br J Surg</MedlineTA>
+<NlmUniqueID>0372553</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Carcinoembryonic Antigen</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Carcinoembryonic Antigen</DescriptorName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Case Report</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Colonic Neoplasms</DescriptorName>
+<QualifierName>immunology</QualifierName>
+<QualifierName>pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Gastrointestinal Neoplasms</DescriptorName>
+<QualifierName>immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neoplasm Metastasis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neoplasm Staging</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neoplasms</DescriptorName>
+<QualifierName>diagnosis</QualifierName>
+<QualifierName MajorTopicYN="Y">immunology</QualifierName>
+<QualifierName>pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Prognosis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rectal Neoplasms</DescriptorName>
+<QualifierName>immunology</QualifierName>
+<QualifierName>pathology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

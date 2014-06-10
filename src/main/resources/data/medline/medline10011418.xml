@@ -1,0 +1,122 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011418</MedlineID>
+<PMID>420846</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>561</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>26</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Detection and characterization of DNA polymerase from Trypanosoma brucei.</ArticleTitle>
+<Pagination>
+<MedlinePgn>10-6</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The predominant DNA polymerase activity has been isolated from the parasitic flagellated protozoan, Trypanosoma brucei. Like mammalian DNA polymerase-alpha the trypanosome DNA polymerase is of large molecular weight (S, 6--8), is resistant to thermal denaturation, is sensitive to N-ethylmaleimide, and is inhibited by high ionic strength. However, specific antisera that cross-react with mammalian DNA polymerase-alpha from different species fail to cross-react with the trypanosome polymerase.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Dube</LastName>
+<ForeName>D K</ForeName>
+<Initials>DK</Initials>
+</Author>
+<Author>
+<LastName>Williams</LastName>
+<ForeName>R O</ForeName>
+<Initials>RO</Initials>
+</Author>
+<Author>
+<LastName>Seal</LastName>
+<ForeName>G</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author>
+<LastName>Williams</LastName>
+<ForeName>S C</ForeName>
+<Initials>SC</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>EC 2.7.7.7</RegistryNumber>
+<NameOfSubstance>DNA-Directed DNA Polymerase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Antigen-Antibody Reactions</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Comparative Study</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>DNA-Directed DNA Polymerase</DescriptorName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+<QualifierName>antagonists &#38; inhibitors</QualifierName>
+<QualifierName>immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Heat</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mitochondria</DescriptorName>
+<QualifierName>enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Molecular Weight</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Placenta</DescriptorName>
+<QualifierName>enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Trypanosoma brucei brucei</DescriptorName>
+<QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

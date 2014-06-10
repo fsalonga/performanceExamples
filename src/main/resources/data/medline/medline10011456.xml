@@ -1,0 +1,133 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011456</MedlineID>
+<PMID>570422</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>566</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>9</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Negative homotropic cooperativity in rat muscle AMP deaminase. A kinetic study on the inhibition of the enzyme by ATP.</ArticleTitle>
+<Pagination>
+<MedlinePgn>353-61</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>1. Rat skeletal muscle AMP deaminase (AMP aminohydrolase, EC 3.5.4.6) at optimal KCl concentrations shows a biphasic response to increasing levels of the allosteric inhibitor ATP. 2. Up to 10 micrometer, ATP appears to convert the enzyme to a form exhibiting sigmoidal kinetics while at higher concentrations its inhibitory effect is manifested by an alteration of AMP binding to AMP deaminase indicative of negative homotropic cooperativity at about 50% saturation. 3. AMP deaminase is inactivated by incubation with the periodate oxidation product of ATP. The (oxidized ATP)--AMP deaminase complex stabilized by NaBH4 reduction shows kinetic properties similar to those of the native enzyme in the presence of high ATP concentrations. 4. A plausible explanation of the observed cooperativity is that ATP induces different conformational state of AMP deaminase subunits, causing the substrate to follow a sequential mechanism of binding to enzyme. 5. Binding of the radioactive oxidized ATP shows that 3.2 mol of this reagent bind per mol AMP deaminase.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Raggi</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author>
+<LastName>Ranieri-Raggi</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Macromolecular Systems</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>56-65-5</RegistryNumber>
+<NameOfSubstance>Adenosine Triphosphate</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7447-40-7</RegistryNumber>
+<NameOfSubstance>Potassium Chloride</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.5.4</RegistryNumber>
+<NameOfSubstance>Nucleotide Deaminases</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.5.4.6</RegistryNumber>
+<NameOfSubstance>AMP Deaminase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>AMP Deaminase</DescriptorName>
+<QualifierName MajorTopicYN="Y">antagonists &#38; inhibitors</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Adenosine Triphosphate</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Binding Sites</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Dose-Response Relationship, Drug</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Macromolecular Systems</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Muscles</DescriptorName>
+<QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Nucleotide Deaminases</DescriptorName>
+<QualifierName MajorTopicYN="Y">antagonists &#38; inhibitors</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Oxidation-Reduction</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Potassium Chloride</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Protein Binding</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Protein Conformation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

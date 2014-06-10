@@ -1,0 +1,89 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011072</MedlineID>
+<PMID>420646</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>28</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>28</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>03</Month>
+<Day>23</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0003-9977</ISSN>
+<JournalIssue>
+<Volume>105</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Variability of air calorics vs water. Statistical implications.</ArticleTitle>
+<Pagination>
+<MedlinePgn>113-5</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The increasing use of air as a medium for inducing caloric nystagmus has produced a wide variety of comment, much of which may be ignored by opponents or proponents of air. What cannot be ignored by the latter is the report of increased response variability with air irrigation. The effect of increased single-measure variability on the variability of the resultant measures of unilateral weakness (UW) was explored by (1) development of a theoretical equation for the variance of UW and (2) examination of results from normal and clinical subjects. The theoretical equation indicates that variability is a function of both mean responses and the correlation between responses from opposite sides, as well as the variability of single measures. Increases in single-measure variability are attenuated by the formula to a degree such that clinically important increases in the variability of measures of UW are unlikely. This conclusion was supported by results from 22 normal and 12 clinical subjects and reexamination of previous reports.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Cooper</LastName>
+<ForeName>J C</ForeName>
+<Initials>JC</Initials>
+<Suffix>Jr</Suffix>
+</Author>
+<Author>
+<LastName>Mason</LastName>
+<ForeName>R L</ForeName>
+<Initials>RL</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Arch Otolaryngol</MedlineTA>
+<NlmUniqueID>0376526</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>7732-18-5</RegistryNumber>
+<NameOfSubstance>Water</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Air</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Caloric Tests</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Statistics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Vestibular Function Tests</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Water</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

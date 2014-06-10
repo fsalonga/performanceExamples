@@ -1,0 +1,123 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011248</MedlineID>
+<PMID>217404</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>03</Month>
+<Day>23</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>9</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Structure of the dimyristoylphosphatidylcholine vesicle and the complex formed by its interaction with apolipoprotein C-III: X-ray small-angle scattering studies.</ArticleTitle>
+<Pagination>
+<MedlinePgn>164-71</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Single bilayer vesicles of dimyristoylphosphatidylcholine have been investigated by small-angle X-ray scattering at 28 degrees C. The results indicate that these vesicles are hollow spherical shell structures with an outer radius of approximately 12 nm and a molecular weight of (3.2 +/- 0.5) X 10(6). The shell was found to be 4.4 +/- 0.2 nm thick with a cross-sectional electron-density profile characteristic for a single phospholipid bilayer. Upon interaction of these vesicles with apolipoprotein C-III from human very low density lipoproteins at a protein/lipid ratio greater than 0.08 (g/g), a complex containing 0.25 g of protein/g of lipid, with molecular weight of (3.9 +/- 0.4) X 10(5), is formed. The shape analysis indicates a highly asymmetric particle with an internal partition of low and high electron density resembling that produced by a bilayer structure. Model calculations and curve-fitting procedures show good agreement between the experimental scattering curve and that computed for an oblate ellipsoidal structure with dimensions of 17 X 17 X 5 nm and a 1 nm thick shell of high electron density surrounding the core of low electron density.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Laggner</LastName>
+<ForeName>P</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author>
+<LastName>Gotto</LastName>
+<ForeName>A M</ForeName>
+<Initials>AM</Initials>
+<Suffix>Jr</Suffix>
+</Author>
+<Author>
+<LastName>Morrisett</LastName>
+<ForeName>J D</ForeName>
+<Initials>JD</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Apolipoproteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Lipoproteins, VLDL</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Phosphatidylcholines</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Apolipoproteins</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Lipoproteins, VLDL</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mathematics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Membranes, Artificial</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Microscopy, Electron</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Molecular Conformation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Phosphatidylcholines</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Protein Binding</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Protein Conformation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Scattering, Radiation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>X-Rays</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

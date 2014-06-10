@@ -1,0 +1,184 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011717</MedlineID>
+<PMID>369651</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0007-1447</ISSN>
+<JournalIssue>
+<Volume>1</Volume>
+<Issue>6158</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>27</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Improved metabolic profiles in insulin-treated diabetic patients given an alpha-glucosidehydrolase inhibitor.</ArticleTitle>
+<Pagination>
+<MedlinePgn>220-1</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>An alpha-glucosidehydrolase inhibitor (acarbose; BAY g 5421) taken with food was compared with dummy tablets in seven insulin-treated diabetic patients over eight-hour periods that included breakfast, lunch, and two snacks. Acarbose diminished the postprandial increases in blood glucose, lactate, and pyruvate concentrations and may therefore be of value in the management of insulin-dependent diabetes.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Walton</LastName>
+<ForeName>R J</ForeName>
+<Initials>RJ</Initials>
+</Author>
+<Author>
+<LastName>Sherif</LastName>
+<ForeName>I T</ForeName>
+<Initials>IT</Initials>
+</Author>
+<Author>
+<LastName>Noy</LastName>
+<ForeName>G A</ForeName>
+<Initials>GA</Initials>
+</Author>
+<Author>
+<LastName>Alberti</LastName>
+<ForeName>K G</ForeName>
+<Initials>KG</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Clinical Trial</PublicationType>
+<PublicationType>Controlled Clinical Trial</PublicationType>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Br Med J</MedlineTA>
+<NlmUniqueID>0372673</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Blood Glucose</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Cyclohexanols</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Lactates</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Oligosaccharides</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Pyruvates</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Trisaccharides</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>11061-68-0</RegistryNumber>
+<NameOfSubstance>Insulin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.2.1.-</RegistryNumber>
+<NameOfSubstance>Glucosidases</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.2.1.20</RegistryNumber>
+<NameOfSubstance>alpha-Glucosidases</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Administration, Oral</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Blood Glucose</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cyclohexanols</DescriptorName>
+<QualifierName>administration &#38; dosage</QualifierName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+<QualifierName>therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Diabetes Mellitus</DescriptorName>
+<QualifierName MajorTopicYN="Y">blood</QualifierName>
+<QualifierName>drug therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Food</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Glucosidases</DescriptorName>
+<QualifierName MajorTopicYN="Y">antagonists &#38; inhibitors</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Insulin</DescriptorName>
+<QualifierName>therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Lactates</DescriptorName>
+<QualifierName>blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Middle Age</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Oligosaccharides</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Pyruvates</DescriptorName>
+<QualifierName>blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Trisaccharides</DescriptorName>
+<QualifierName>administration &#38; dosage</QualifierName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+<QualifierName>therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>alpha-Glucosidases</DescriptorName>
+<QualifierName MajorTopicYN="Y">antagonists &#38; inhibitors</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

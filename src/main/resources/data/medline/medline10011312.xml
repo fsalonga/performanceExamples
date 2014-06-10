@@ -1,0 +1,119 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011312</MedlineID>
+<PMID>105752</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>6</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Complete amino acid sequence of the gamma chain from the major fetal hemoglobin of the pig-tailed macaque, Macaca nemestrina.</ArticleTitle>
+<Pagination>
+<MedlinePgn>467-72</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The complete primary structure of the gamma chain of the major fetal hemoglobin from the pig-tailed macaque, Macaca nemestrina, was obtained by the automated sequencing of fragments produced by three nonenzymatic cleavage reactions. About two-thirds of the sequence was established from the amino terminus of the intact chain and two of the three fragments produced by cleavage at methionyl residues by cyanogen bromide. Acid clevage at the single aspartyl-prolyl linkage and cleavage at tryptophanyl residues in intact chains yielded the two fragments necessary to complete the sequence. This gamma chain, the first from a nonhuman primate to be sequenced, differes from the human G gamma and A gamma chains at but 4 and 5 positions, respectively. All substitutions are conservative and unlikely to produce alterations in the oxygen-binding properties of tetrameric fetal hemoglobin. Consideration of the data presented herein, together with published observations made on portions of other primate gamma chains, provides some insight into the evolutionary history of the multiple gamma-globin chains observed in several anthropoid primates.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Nute</LastName>
+<ForeName>P E</ForeName>
+<Initials>PE</Initials>
+</Author>
+<Author>
+<LastName>Mahoney</LastName>
+<ForeName>W C</ForeName>
+<Initials>WC</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Peptide Fragments</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>506-68-3</RegistryNumber>
+<NameOfSubstance>Cyanogen Bromide</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9034-63-3</RegistryNumber>
+<NameOfSubstance>Fetal Hemoglobin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.4.21.4</RegistryNumber>
+<NameOfSubstance>Trypsin</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Amino Acid Sequence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Comparative Study</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cyanogen Bromide</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Fetal Hemoglobin</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Haplorhini</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Macaca</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Peptide Fragments</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Species Specificity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Trypsin</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

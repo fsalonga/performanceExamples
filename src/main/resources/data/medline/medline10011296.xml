@@ -1,0 +1,91 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011296</MedlineID>
+<PMID>217413</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>23</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Spin-label techniques for monitoring macromolecular rotational motion: empirical calibration under nonideal conditions.</ArticleTitle>
+<Pagination>
+<MedlinePgn>378-84</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Practical techniques are demonstrated for determining rotational correlation times of macromolecules from the first harmonic absorption electron spin reasonance spectra of tightly bound spin labels. The techniques are developed to compensate for such nonideal conditions as residual label motion, temperature dependence of rigid limit spectral parameters, and the presence of inhomogeneous line broadening. These effects are all shown to be of importance in monitoring the rotational motion of carbonmonoxyhemoglobin which is spin labeled with the tightly bound nitroxide label, 4-maleimido-2,2,6,6-tetramethylpiperidinyl-1-oxy. Spin-label interactions with other paramagnetic agents are also shown to produce spectral changes which are qualitatively similar to, but quantitatively different from, those resulting from increases in the rate of rotational motion.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Johnson</LastName>
+<ForeName>M E</ForeName>
+<Initials>ME</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Macromolecular Systems</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Spin Labels</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Electron Spin Resonance Spectroscopy</DescriptorName>
+<QualifierName>methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Macromolecular Systems</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Molecular Conformation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Spin Labels</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, Non-P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Temperature</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

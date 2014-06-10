@@ -1,0 +1,129 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011409</MedlineID>
+<PMID>420841</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>551</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+<Day>8</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Spontaneous calcium release from sarcoplasmic reticulum. A re-examination.</ArticleTitle>
+<Pagination>
+<MedlinePgn>382-8</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>A recent study by Blayney and co-workers (Blayney, L., Thomas, H., Muir, J. and Henderson, A. (1977) Biochim. Biophys. Acta 470, 128--133) purported to demonstrate that apparent spontaneous calcium release in sarcoplasmic reticulum is an artifact of the uptake of murexide dye. This report demonstrates that spontaneous calcium release (1) takes place despite equilibration of murexide sarcoplasmic reticulum to a stable baseline; (2) may be reversed by addition of ATP or oxalate after release has begun. The identical phenomenon can be demonstrated utilizing the indicator arsenazo III or Millipore filtration methods. The results suggest that equilibration of the murexide with sarcoplasmic reticulum vesicles must occur prior to ATP addition in order to achieve a stable baseline but that spontaneous calcium release is not an artifact.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Entman</LastName>
+<ForeName>M L</ForeName>
+<Initials>ML</Initials>
+</Author>
+<Author>
+<LastName>van Winkle</LastName>
+<ForeName>W B</ForeName>
+<Initials>WB</Initials>
+</Author>
+<Author>
+<LastName>Bornet</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author>
+<LastName>Tate</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Oxalates</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Phosphates</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>56-65-5</RegistryNumber>
+<NameOfSubstance>Adenosine Triphosphate</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7440-70-2</RegistryNumber>
+<NameOfSubstance>Calcium</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adenosine Triphosphate</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Calcium</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Dogs</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Myocardium</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Oxalates</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phosphates</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Sarcoplasmic Reticulum</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

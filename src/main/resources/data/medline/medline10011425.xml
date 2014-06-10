@@ -1,0 +1,130 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011425</MedlineID>
+<PMID>33710</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>561</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>26</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Identification of gamma-like DNA polymerase from sea urchin embryos.</ArticleTitle>
+<Pagination>
+<MedlinePgn>17-28</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>A gamma-like DNA polymerase devoid of DNA polymerase-alpha and -beta activities was prepared from the nuclear fraction of blastulae of the sea urchin, Hemicentrotus pulcherrimus. The enzyme sedimented at the position of an approximate sedimentation coefficient of 3.3 S under high salt conditions by sucrose gradient centrifugation. An isoelectric point was determined to be pH 5.8. The enzyme activity was sensitive to sulfhydryl blocking reagents. Poly(rA) . oligo(dT)12--18 followed by poly(dA) . oligo(dT)12--18 was effectively utilized as a template-primer. From the above results, this polymerase seems to resemble the vertebrate DNA polymerase-gamma.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Habara</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author>
+<LastName>Nagano</LastName>
+<ForeName>H</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author>
+<LastName>Mano</LastName>
+<ForeName>Y</ForeName>
+<Initials>Y</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Cations</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Phosphates</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Sulfhydryl Reagents</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.7.7.7</RegistryNumber>
+<NameOfSubstance>DNA-Directed DNA Polymerase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cations</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cell Nucleus</DescriptorName>
+<QualifierName>enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Centrifugation, Density Gradient</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>DNA-Directed DNA Polymerase</DescriptorName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hydrogen-Ion Concentration</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Isoelectric Focusing</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phosphates</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Sea Urchins</DescriptorName>
+<QualifierName>embryology</QualifierName>
+<QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Substrate Specificity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Sulfhydryl Reagents</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

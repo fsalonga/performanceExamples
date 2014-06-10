@@ -1,0 +1,134 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011847</MedlineID>
+<PMID>421133</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>11</Month>
+<Day>02</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-8993</ISSN>
+<JournalIssue>
+<Volume>161</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>9</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Protein synthesis in rat brain in hypoxia, anoxia and hypoglycemia.</ArticleTitle>
+<Pagination>
+<MedlinePgn>481-92</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The effect of cerebral hypoxia on protein synthesis was investigated by exposing rats to 5% O2, and examining polypeptide synthesis and size distribution profiles of ribosomes. The findings were compared with the results from cerebral anoxia (decapitation) and hypoglycemia. In cerebral hypoxia there was suppression of polypeptide synthesis, though to a lesser extent than in cerebral anoxia, while no effect was detected in hypoglycemia. Among 4 different ribosomal fractions used for polypeptide synthesis, the microsome was the most sensitive for hypoxia and anoxia, and the polyribosome after short centrifugation was the least sensitive. The size distribution profiles of 3 different ribosomes revealed an increase in the size of the monomere-dimer complex and a decrease of the polysome peak both in cerebral hypoxia and anoxia. Comparison of the energy state and the extent of lactic acidosis in cerebral hypoxia, anoxia and hypoglycemia available in the literature and the functional and structural state of polyribosomes in the present investigation suggests that intracellular acidosis may be the main cause of the suppression of polypeptide synthesis and disaggregation of polyribosomes in hypoxia, and the depletion of energy reserve may be the main cause in anoxia-ischemia.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Metter</LastName>
+<ForeName>E J</ForeName>
+<Initials>EJ</Initials>
+</Author>
+<Author>
+<LastName>Yanagihara</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Brain Res</MedlineTA>
+<NlmUniqueID>0045503</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Blood Glucose</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Nerve Tissue Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Ribosomal Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>56-87-1</RegistryNumber>
+<NameOfSubstance>Lysine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7782-44-7</RegistryNumber>
+<NameOfSubstance>Oxygen</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Blood Glucose</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Brain</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Liver</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Lysine</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Microsomes</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Nerve Tissue Proteins</DescriptorName>
+<QualifierName MajorTopicYN="Y">biosynthesis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Oxygen</DescriptorName>
+<QualifierName MajorTopicYN="Y">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Peptide Synthesis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Polyribosomes</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Ribosomal Proteins</DescriptorName>
+<QualifierName>biosynthesis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

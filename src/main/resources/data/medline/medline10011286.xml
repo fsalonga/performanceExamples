@@ -1,0 +1,105 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011286</MedlineID>
+<PMID>369599</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>23</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Membrane-bound D-lactate dehydrogenase from Escherichia coli: purification and properties.</ArticleTitle>
+<Pagination>
+<MedlinePgn>312-6</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Pratt</LastName>
+<ForeName>E A</ForeName>
+<Initials>EA</Initials>
+</Author>
+<Author>
+<LastName>Fung</LastName>
+<ForeName>L W</ForeName>
+<Initials>LW</Initials>
+</Author>
+<Author>
+<LastName>Flowers</LastName>
+<ForeName>J A</ForeName>
+<Initials>JA</Initials>
+</Author>
+<Author>
+<LastName>Ho</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>EC 1.1.1.27</RegistryNumber>
+<NameOfSubstance>Lactate Dehydrogenase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Cell Membrane</DescriptorName>
+<QualifierName>enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Drug Stability</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Escherichia coli</DescriptorName>
+<QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Heat</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Lactate Dehydrogenase</DescriptorName>
+<QualifierName>isolation &#38; purification</QualifierName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, Non-P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

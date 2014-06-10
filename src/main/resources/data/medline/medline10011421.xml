@@ -1,0 +1,111 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011421</MedlineID>
+<PMID>570418</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>561</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>26</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Isolation of replication forks from growing Ehrlich ascites cells.</ArticleTitle>
+<Pagination>
+<MedlinePgn>132-46</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>A procedure is described which permits the large-scale isolation of essentially complete replications forks from the DNA of Ehrlich ascites cells. The whole nuclear DNA is first isolated by a method which involves minimal hydrodynamic shear. The DNA is then degraded by cryolysis, a freeze-thawing procedure, to a size providing the otherwise very labile forked structures with a sufficient resistance against shear forces. Finally, the Y-shaped structures of replicating DNA are separated by nitrocellulose column chromatography. When the newly formed strands of replicating DNA were density-labeled with 5-bromodeoxyuridine the DNA fraction isolated by this procedure banded in isopycnic CsCl gradients at a density expected for Y-shaped molecules with two light-heavy branches and one light-light branch and sedimented significantly faster than the corresponding bulk DNA fraction through neutral sucrose gradients. The forked molecules could be visualized by electron microscopy. The essential step of the procedure is the cryolysis which produces fragments from larger DNA structure essentially at random. When the cryolysis is omitted the forked structures are disrupted within the highly susceptible regions around the branching point.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Probst</LastName>
+<ForeName>H</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author>
+<LastName>Hofstaetter</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author>
+<LastName>Stumpf</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author>
+<LastName>Fraterman</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>DNA, Neoplasm</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>DNA, Single-Stranded</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Carcinoma, Ehrlich Tumor</DescriptorName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cell Line</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">DNA Replication</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>DNA, Neoplasm</DescriptorName>
+<QualifierName MajorTopicYN="Y">isolation &#38; purification</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>DNA, Single-Stranded</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Methods</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Molecular Weight</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

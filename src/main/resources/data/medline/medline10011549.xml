@@ -1,0 +1,143 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011549</MedlineID>
+<PMID>369623</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3223</ISSN>
+<JournalIssue>
+<Volume>14</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Clinical effects of L-5-hydroxytryptophan administration in chronic schizophrenic patients.</ArticleTitle>
+<Pagination>
+<MedlinePgn>53-67</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>L-5-Hydroxytryptophan (L-5HTP) and the peripheral decarboxylase inhibitor carbidopa were administered to chronic schizophrenic patients in three separate experiments using a double-blind placebo-controlled crossover design. The three experiments were: (i) L-5HTP administration to 15 patients who had been withdrawn from all neuroleptic medication; (ii) L-5HTP administration to seven patients maintained on haloperidol; (iii) L-5HTP administration to nine patients maintained on chlorpromazine. Although the groups were diagnostically homogeneous, individual responses were highly variable. Considering each group as a whole, the only significant changes in rated psychosis consisted of an increase in the first group consequent to coming off neuroleptic medication and an increase in psychosis scores associated with adding L-5HTP to chlorpromazine. Neuroleptics apparently sensitize the central nervous system to the effects of L-5HTP loading. Acute exacerbations of psychosis induced by L-5HTP can be reversed by neuroleptics. Our experience does not give encouragement to the hypothesis that schizophrenic illnesses arise consequent to a deficit of serotonergic function that can be treated by giving a serotonin precursor in pharmacological quantities.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Bigelow</LastName>
+<ForeName>L B</ForeName>
+<Initials>LB</Initials>
+</Author>
+<Author>
+<LastName>Walls</LastName>
+<ForeName>P</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author>
+<LastName>Gillin</LastName>
+<ForeName>J C</ForeName>
+<Initials>JC</Initials>
+</Author>
+<Author>
+<LastName>Wyatt</LastName>
+<ForeName>R J</ForeName>
+<Initials>RJ</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Clinical Trial</PublicationType>
+<PublicationType>Controlled Clinical Trial</PublicationType>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biol Psychiatry</MedlineTA>
+<NlmUniqueID>0213264</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>38821-49-7</RegistryNumber>
+<NameOfSubstance>Carbidopa</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>50-53-3</RegistryNumber>
+<NameOfSubstance>Chlorpromazine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>52-86-8</RegistryNumber>
+<NameOfSubstance>Haloperidol</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>56-69-9</RegistryNumber>
+<NameOfSubstance>5-Hydroxytryptophan</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>5-Hydroxytryptophan</DescriptorName>
+<QualifierName MajorTopicYN="Y">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Adolescence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Carbidopa</DescriptorName>
+<QualifierName>therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Chlorpromazine</DescriptorName>
+<QualifierName>therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Chronic Disease</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Clinical Trials</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Double-Blind Method</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Drug Therapy, Combination</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Haloperidol</DescriptorName>
+<QualifierName>therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Middle Age</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Schizophrenia</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug therapy</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

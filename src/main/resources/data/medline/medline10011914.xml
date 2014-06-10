@@ -1,0 +1,110 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011914</MedlineID>
+<PMID>421164</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0008-4182</ISSN>
+<JournalIssue>
+<Volume>14</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>The Panisset-Pop syndrome.</ArticleTitle>
+<Pagination>
+<MedlinePgn>55-6</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The authors describe a syndrome occurring in people learning fundus photography. This entity comprises the following: decrease of vision due to accomodative spasm, signs of anxiety and the finding of an improperly set ocular on the instrument used by the trainee.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Panisset</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author>
+<LastName>Pop</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>CANADA</Country>
+<MedlineTA>Can J Ophthalmol</MedlineTA>
+<NlmUniqueID>0045312</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Accommodation, Ocular</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Amblyopia</DescriptorName>
+<QualifierName MajorTopicYN="Y">complications</QualifierName>
+<QualifierName>etiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Anxiety</DescriptorName>
+<QualifierName>complications</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Case Report</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Fluorescein Angiography</DescriptorName>
+<QualifierName MajorTopicYN="Y">instrumentation</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Nausea</DescriptorName>
+<QualifierName>complications</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Ophthalmology</DescriptorName>
+<QualifierName>education</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Pupil</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Spasm</DescriptorName>
+<QualifierName>complications</QualifierName>
+<QualifierName>etiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Syndrome</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Visual Acuity</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

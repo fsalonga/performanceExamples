@@ -1,0 +1,132 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011103</MedlineID>
+<PMID>420674</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>11</Month>
+<Day>14</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0095-6562</ISSN>
+<JournalIssue>
+<Volume>50</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Hemoglobinemia in rats exposed to high altitude is not due to an overload of catabolic mechanisms.</ArticleTitle>
+<Pagination>
+<MedlinePgn>9-13</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Smith</LastName>
+<ForeName>R P</ForeName>
+<Initials>RP</Initials>
+</Author>
+<Author>
+<LastName>Kruszyna</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author>
+<LastName>Ou</LastName>
+<ForeName>L C</ForeName>
+<Initials>LC</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Aviat Space Environ Med</MedlineTA>
+<NlmUniqueID>7501714</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Diphosphoglyceric Acids</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Hemoglobins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7440-48-4</RegistryNumber>
+<NameOfSubstance>Cobalt</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<CitationSubset>S</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Altitude Sickness</DescriptorName>
+<QualifierName MajorTopicYN="Y">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Anoxia</DescriptorName>
+<QualifierName MajorTopicYN="Y">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Blood Transfusion</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cobalt</DescriptorName>
+<QualifierName>administration &#38; dosage</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Diphosphoglyceric Acids</DescriptorName>
+<QualifierName>blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Disease Models, Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Erythrocytes</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hematocrit</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hemoglobinometry</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hemoglobins</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Splenectomy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<OtherID Source="NASA">79123734</OtherID>
+</MedlineCitation>

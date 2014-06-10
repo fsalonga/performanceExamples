@@ -1,0 +1,87 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011308</MedlineID>
+<PMID>420791</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>6</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Stereochemistry of internucleotide bond formation by polynucleotide phosphorylase from Micrococcus luteus.</ArticleTitle>
+<Pagination>
+<MedlinePgn>450-4</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Polynucleotide phosphorylase catalyzes the formation of polynucleotides from the Sp diastereomer of adenosine 5'-O-(l-thiodiphosphate) ADPalphaS), whereas the Rp diastereomer is a competitive inhibitor. The absolute configuration of the phosphorothioate diester bond in the polymer was determined by copolymerizing ADPalpha S, Sp isomer with UDP and degrading the resulting copolymer with R Nase A and spleen phosphodiesterase to give, inter alia, uridine 2',-3'-cyclic phosphorothioate. The latter product was shown to be the endo isomer by high-performance liquid chromatography. No evidence for the presence of the exo isomer was obtained. It can thus be concluded that the Sp diastereomer of ADPalphaS polymerizes with inversion of configuration at phosphorus without racemization to give a phosphorothioate diester bond with the Rp configuration.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Burgers</LastName>
+<ForeName>P M</ForeName>
+<Initials>PM</Initials>
+</Author>
+<Author>
+<LastName>Eckstein</LastName>
+<ForeName>F</ForeName>
+<Initials>F</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>EC 2.7.7.8</RegistryNumber>
+<NameOfSubstance>Polyribonucleotide Nucleotidyltransferase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Micrococcus</DescriptorName>
+<QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Polyribonucleotide Nucleotidyltransferase</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Stereoisomerism</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Substrate Specificity</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

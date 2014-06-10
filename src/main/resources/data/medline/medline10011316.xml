@@ -1,0 +1,152 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011316</MedlineID>
+<PMID>105754</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>6</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Mutual homology of mouse immunoglobulin gamma-chain gene sequences.</ArticleTitle>
+<Pagination>
+<MedlinePgn>490-4</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>We have assessed the relative homology of mouse immunoglobulin heavy-chain gene sequence using complementary DNAs (cDNAs) synthesized against gamma-chain mRNAs (gamma 1, gamma 2a, gamma 2b, and gamma 3) purified from mouse myelomas. cDNAs complementary to the gamma-chain mRNAs did not cross-hybridize with the mu- and alpha-chain mRNAs, whereas they cross-hybridized to significant extents (22--66%) with the gamma-chain mRNAs of other subclasses. The heterologous hybrids formed, however, melt at 5--13 degrees C lower temperatures as compared to the homologous hybrids, indicating that significant portions of the heterologous hybrids are mismatched. The rates of the cross-hybridization reactions are 2- to 17-fold slower than those of the homologous hybridization reactions. Therefore, the gamma-chain gene sequences of four subclasses share a part of homology with each other, but they are different enough to be measured separately. Cross-hybridization analysis indicate that the gamma 2a and gamma 2b genes are the most closely related, while the gamma 1 and gamma 3 genes are the least related among the gamma subclass genes.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Yamawaki-Kataoka</LastName>
+<ForeName>Y</ForeName>
+<Initials>Y</Initials>
+</Author>
+<Author>
+<LastName>Sato</LastName>
+<ForeName>K</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author>
+<LastName>Shimizu</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author>
+<LastName>Kataoka</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author>
+<LastName>Mano</LastName>
+<ForeName>Y</ForeName>
+<Initials>Y</Initials>
+</Author>
+<Author>
+<LastName>Ono</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author>
+<LastName>Kawakami</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author>
+<LastName>Honjo</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Immunoglobulins, Heavy-Chain</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Immunoglobulins, gamma-Chain</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9007-49-2</RegistryNumber>
+<NameOfSubstance>DNA</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Base Sequence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">DNA</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Genes</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Immunoglobulins, Heavy-Chain</DescriptorName>
+<QualifierName MajorTopicYN="Y">biosynthesis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Immunoglobulins, gamma-Chain</DescriptorName>
+<QualifierName MajorTopicYN="Y">biosynthesis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mice</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Multiple Myeloma</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neoplasms, Experimental</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Nucleic Acid Hybridization</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Transcription, Genetic</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Translation, Genetic</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

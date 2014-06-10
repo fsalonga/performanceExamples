@@ -1,0 +1,123 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011221</MedlineID>
+<PMID>420751</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0007-1145</ISSN>
+<JournalIssue>
+<Volume>41</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Seasonal variation in the effect of dietary RNA on criteria of energy homoeostasis in the rat.</ArticleTitle>
+<Pagination>
+<MedlinePgn>183-96</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>1. RNA was administered to rats as part of a meal while standardizing food intake and minimizing the effects of psychological stress and diurnal metabolic rhythms. It was demonstrated that circulating levels of glucose and free fatty acids (FFA) in the animals, which were deprived of food for 48 h, were responsive to orally administered caffeine. 2. Inclusion of RNA in the diet slightly but consistently reduced the normal postprandial hyperglycaemia. Its effect on plasma FFA was variable although statistically significant in some experiments. The differences between RNA-and control-fed animals were not attributable to differences in the rate of passage of digesta along the gastrointestinal tract. 3. Evidence was obtained that the variability in the FFA response was related to a seasonally-dependent change in the state of animals. The synchronizer ('Zeitgeber') responsible for this change was not identified and no satisfactory way of suppressing its effect was found. 4. The present findings, taken in conjunction with those of previous workers, suggest that there is a seasonal influence on the sympathetic nervous system manifesting itself as a variable susceptibility to arousal or excitation.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Heaf</LastName>
+<ForeName>D J</ForeName>
+<Initials>DJ</Initials>
+</Author>
+<Author>
+<LastName>Peers</LastName>
+<ForeName>D G</ForeName>
+<Initials>DG</Initials>
+</Author>
+<Author>
+<LastName>Davies</LastName>
+<ForeName>J I</ForeName>
+<Initials>JI</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Br J Nutr</MedlineTA>
+<NlmUniqueID>0372547</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Blood Glucose</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Fatty Acids, Nonesterified</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>58-08-2</RegistryNumber>
+<NameOfSubstance>Caffeine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>63231-63-0</RegistryNumber>
+<NameOfSubstance>RNA</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Blood Glucose</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Caffeine</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Diet</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Fasting</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Fatty Acids, Nonesterified</DescriptorName>
+<QualifierName MajorTopicYN="Y">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Homeostasis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>RNA</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Seasons</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

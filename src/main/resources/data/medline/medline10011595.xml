@@ -1,0 +1,122 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011595</MedlineID>
+<PMID>420938</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0365-9615</ISSN>
+<JournalIssue>
+<Volume>87</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>[Quantitative histochemical study of the effect of benzodiazepine tranquilizers on cerebral GABA-transaminase activity]</ArticleTitle>
+<Pagination>
+<MedlinePgn>164-6</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The effect of diazepam and nitrazepam (0.5, 1, 2.5, and 5 mg/kg) on GABA-transaminase activity in the rat cerebellar cortex and hippocampus was investigated by quantitative histochemistry. Both the drugs suppressed the enzyme activity in the hippocampus; the maximal effect was produced by diazepam. It is suggested that the observed alterations are caused by the enzyme inhibition and also by a decrease of GABA turnover rate.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Galust'ian</LastName>
+<ForeName>G E</ForeName>
+<Initials>GE</Initials>
+</Author>
+</AuthorList>
+<Language>rus</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+<VernacularTitle>Kolichestvennoe gistokhimicheskoe izuchenie vliianiia benzodiazepinovykh trankvilizatorov na aktivnost' GAMK-transaminazy mozga krys.</VernacularTitle>
+</Article>
+<MedlineJournalInfo>
+<Country>USSR</Country>
+<MedlineTA>Biull Eksp Biol Med</MedlineTA>
+<NlmUniqueID>0370627</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>146-22-5</RegistryNumber>
+<NameOfSubstance>Nitrazepam</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>439-14-5</RegistryNumber>
+<NameOfSubstance>Diazepam</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.6.1.</RegistryNumber>
+<NameOfSubstance>Transaminases</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.6.1.19</RegistryNumber>
+<NameOfSubstance>4-Aminobutyrate Transaminase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>4-Aminobutyrate Transaminase</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cerebellum</DescriptorName>
+<QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Comparative Study</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Diazepam</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Dose-Response Relationship, Drug</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>English Abstract</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hippocampus</DescriptorName>
+<QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Histocytochemistry</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Nitrazepam</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Transaminases</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

@@ -1,0 +1,110 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011579</MedlineID>
+<PMID>420929</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0365-9615</ISSN>
+<JournalIssue>
+<Volume>87</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>[Plasma erythropoiesis inhibitors in humans during hyperbaric hyperoxia]</ArticleTitle>
+<Pagination>
+<MedlinePgn>122-3</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Before exposure of man to hyperbaric hyperoxia the blood plasma possessed marked erythropoietic activity. Erythropoietins disappeared completely and erythropoiesis inhibitors appeared in the plasma of persons untrained to hyperbaric hyperoxia after a 24-hour exposure to hyperoxic conditions (25% of oxygen in the inhaled air) in the high pressure chamber corresponding to the depth of 63 metres. A reduction of the peripheral red blood indices was observed by that time.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Voĭtkevich</LastName>
+<ForeName>V I</ForeName>
+<Initials>VI</Initials>
+</Author>
+<Author>
+<LastName>Volzhskaia</LastName>
+<ForeName>A M</ForeName>
+<Initials>AM</Initials>
+</Author>
+<Author>
+<LastName>Korchinskiĭ</LastName>
+<ForeName>L A</ForeName>
+<Initials>LA</Initials>
+</Author>
+</AuthorList>
+<Language>rus</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+<VernacularTitle>Ingibitory éritropoéza v plazme krovi u cheloveka pri giperbaricheskoĭ giperoksii.</VernacularTitle>
+</Article>
+<MedlineJournalInfo>
+<Country>USSR</Country>
+<MedlineTA>Biull Eksp Biol Med</MedlineTA>
+<NlmUniqueID>0370627</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Hemoglobins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>11096-26-7</RegistryNumber>
+<NameOfSubstance>Erythropoietin</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adolescence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>English Abstract</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Erythrocyte Count</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Erythropoietin</DescriptorName>
+<QualifierName MajorTopicYN="Y">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hematocrit</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hemoglobins</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Hyperbaric Oxygenation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

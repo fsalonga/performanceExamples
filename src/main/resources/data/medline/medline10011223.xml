@@ -1,0 +1,147 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011223</MedlineID>
+<PMID>420753</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0007-1145</ISSN>
+<JournalIssue>
+<Volume>41</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>The origin of nitrogen incorporated into compounds in the rumen bacteria of steers given protein- and urea-containing diets.</ArticleTitle>
+<Pagination>
+<MedlinePgn>197-209</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>1. Two young Friesian steers fitted with rumen cannulas were each given three different isonitrogenous and isoenergetic diets for successive periods of 2-3 weeks. The diets consisted mainly of straw and tapioca, with the nitrogen supplied mainly as decorticated groundnut meal(DCGM; diet A), in approximately equal amounts of DCGM and urea (diet B), or entirely as urea (diet C). 2. At the end of each period on a given diet, part of the dietary urea of a morning feed was replaced by a solution of [15N]urea which was infused into the rumen. Samples of rumen contents were removed just before giving the 15N dose and at 1,3,5,7 and 24 h afterwards, concentrations of ammonia and its 15N enrichment were determined and samples of mixed bacteria were prepared. Amino acids, ammonia derived mainly from amide groups, and hexosamines were prepared by ion-exchange chromatography of acid-hydrolysates of the bacteria and analysed for 15N. 3. Approximate estimates of net bacterial N synthesis were made from turnover data for rumen fluid and 15N enrichments in rumen fractions. From the determined efficiency of incorporation of urea-N into bacteria recovered at the duodenum, it was calculated that on diets A, B and C respectively 82%, 37% and 0% of the bacterial N was derived from dietary protein or other non-urea sources. 4. [15N]urea was converted rapidly to ammonia and the 15N then incorporated into bacterial amide-N; it appeared at a slower rate in total bacterial non-amide-N. Rates of incorporation into non-amide-N were highest for glutamic acid, aspartic acid and alanine, and generally lowest for proline (pro), histidine (his), phenylalanine(phe), arginine(arg), methionine(met) and galactosamine. A similar ranking was also generally observed for relative 15N abundances (15N atoms % excess in N component divided by 15N atoms % excess in total bacterial N) achieved after several hours. Relative 15N abundances in his, arg and pro increased with decreasing protein (DCGM) in the diet but those in the other protein amino acids, including the poorly labelled met, phe (and its derivative tyrosine) did not. 5. It was concluded that different extents of labelling of the amino acids (at least those present mainly in protein) indicated that different amounts of preformed units (amino acids or peptides) were used. When an adequate supply of such units was available (particularly on diet A) pro, arg, his, met and phe were derived in this way to a greater extent than the other amino acids, but whereas synthesis of pro, arg and his increased on the low-protein diet C, that of met and phe did not. Thus met and phe may be limiting for bacterial growth on diets low in protein and high in non-protein-N. 6. Differences in the extent of labelling of other bacterial N components may be due to different turnover rates.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Salter</LastName>
+<ForeName>D N</ForeName>
+<Initials>DN</Initials>
+</Author>
+<Author>
+<LastName>Daneshvar</LastName>
+<ForeName>K</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author>
+<LastName>Smith</LastName>
+<ForeName>R H</ForeName>
+<Initials>RH</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Br J Nutr</MedlineTA>
+<NlmUniqueID>0372547</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Amino Acids</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Bacterial Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Dietary Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Hexosamines</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>57-13-6</RegistryNumber>
+<NameOfSubstance>Urea</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7664-41-7</RegistryNumber>
+<NameOfSubstance>Ammonia</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7727-37-9</RegistryNumber>
+<NameOfSubstance>Nitrogen</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Amino Acids</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Ammonia</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Bacteria</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Bacterial Proteins</DescriptorName>
+<QualifierName MajorTopicYN="Y">biosynthesis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cattle</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Diet</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Dietary Proteins</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hexosamines</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Nitrogen</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rumen</DescriptorName>
+<QualifierName MajorTopicYN="Y">microbiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Urea</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

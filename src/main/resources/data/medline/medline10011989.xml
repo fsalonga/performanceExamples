@@ -1,0 +1,169 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011989</MedlineID>
+<PMID>105803</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0008-5472</ISSN>
+<JournalIssue>
+<Volume>39</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Apr</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Comparison of metabolism-mediated binding to DNA of 7-hydroxymethyl-12-methylbenz(a)anthracene and 7, 12-dimethylbenz(a)anthracene.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1154-8</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Comparison of the binding to DNA of 7-hydroxymethyl-12-methylbenza(a)anthracene and 7, 12-dimethylbenz(a)anthracene (DMBA) catalyzed by mouse embryo cells in culture or by rat liver microsomes indicates that the products formed are different for the two hydrocarbons. Thus, the hydroxy compound is not an intermediate in the binding of DMBA to DNA in these systems. Binding of the hydroxy compound to DNA in mouse  embryo cells is less efficient than for DMBA and is inhibited by 1,1,1-trichloropropylene 2,3-oxide, an inhibitor of epoxide hydrase. This and the fluorescence spectra of the hydroxy compound-DNA adducts indicate that the hydroxy compound is activated for DNA binding through the formation of a diol-epoxide in the 1,2,3,4-ring. As previously found for DMBA, this is consistent with the activation of this compound through a bay-region diol-epoxide.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Dipple</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author>
+<LastName>Tomaszewski</LastName>
+<ForeName>J E</ForeName>
+<Initials>JE</Initials>
+</Author>
+<Author>
+<LastName>Moschel</LastName>
+<ForeName>R C</ForeName>
+<Initials>RC</Initials>
+</Author>
+<Author>
+<LastName>Bigger</LastName>
+<ForeName>C A</ForeName>
+<Initials>CA</Initials>
+</Author>
+<Author>
+<LastName>Nebzydoski</LastName>
+<ForeName>J A</ForeName>
+<Initials>JA</Initials>
+</Author>
+<Author>
+<LastName>Egan</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Cancer Res</MedlineTA>
+<NlmUniqueID>2984705R</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Benzanthracenes</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Epoxy Compounds</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Hydrocarbons, Chlorinated</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>57-97-6</RegistryNumber>
+<NameOfSubstance>9,10-Dimethyl-1,2-benzanthracene</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9007-49-2</RegistryNumber>
+<NameOfSubstance>DNA</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.3.2.3</RegistryNumber>
+<NameOfSubstance>Epoxide Hydrolases</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>9,10-Dimethyl-1,2-benzanthracene</DescriptorName>
+<QualifierName>analogs &#38; derivatives</QualifierName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Benzanthracenes</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cells, Cultured</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Chemistry</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Comparative Study</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>DNA</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Embryo</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Epoxide Hydrolases</DescriptorName>
+<QualifierName>antagonists &#38; inhibitors</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Epoxy Compounds</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hydrocarbons, Chlorinated</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>In Vitro</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mice</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Microsomes, Liver</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Spectrometry, Fluorescence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

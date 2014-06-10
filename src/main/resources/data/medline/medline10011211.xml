@@ -1,0 +1,119 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011211</MedlineID>
+<PMID>420741</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>03</Month>
+<Day>23</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0007-1145</ISSN>
+<JournalIssue>
+<Volume>41</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Dietary restriction and the development of atherosclerosis.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1-6</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>1. White Carneau pigeons develop genetic atherosclerosis. The aorta shows intimal cushions at birth, cholesterol accumulation at 9 months of age and definite atherosclerotic lesions by 3 years of age. To determine whether these age-related arterial changes can be prevented by dietary restriction started early in life, 3-month-old pigeons were subjected to dietary restriction (40% of ad lib. diet). 2. Plasma cholesterol levels, cholesterol excretion and aortic cholesterol concentrations were compared with those of pigeons on the ad lib. diet. The pigeons on dietary restriction showed a decrease of 30% in weight. The plasma cholesterol levels of these pigeons decreased 20% when compared with those of ad lib. group. In the dietary-restricted group, both the faecal excretion of bile acids (P less than 0.01) and the aortic cholesterol level (P less than 0.02) were significantly reduced, with changes in the free and in the esterified sterol fraction. 3. This study shows, for the first time, that age-related accumulation of aortic cholesterol can be prevented or at least delayed by dietary restriction started early in life.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Subbiah</LastName>
+<ForeName>M T</ForeName>
+<Initials>MT</Initials>
+</Author>
+<Author>
+<LastName>Siekert</LastName>
+<ForeName>R G</ForeName>
+<Initials>RG</Initials>
+<Suffix>Jr</Suffix>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Br J Nutr</MedlineTA>
+<NlmUniqueID>0372547</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Bile Acids and Salts</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>57-88-5</RegistryNumber>
+<NameOfSubstance>Cholesterol</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Aorta</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+<QualifierName>pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Arteriosclerosis</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+<QualifierName>pathology</QualifierName>
+<QualifierName MajorTopicYN="Y">prevention &#38; control</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Bile Acids and Salts</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Body Weight</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cholesterol</DescriptorName>
+<QualifierName>blood</QualifierName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Diet</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Energy Intake</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Feces</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Pigeons</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

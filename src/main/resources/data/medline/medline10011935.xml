@@ -1,0 +1,177 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011935</MedlineID>
+<PMID>369676</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0008-543X</ISSN>
+<JournalIssue>
+<Volume>43</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Alternating chemotherapy and irradiation in the treatment of advanced Hodgkin's disease.</ArticleTitle>
+<Pagination>
+<MedlinePgn>472-81</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Hoppe</LastName>
+<ForeName>R T</ForeName>
+<Initials>RT</Initials>
+</Author>
+<Author>
+<LastName>Portlock</LastName>
+<ForeName>C S</ForeName>
+<Initials>CS</Initials>
+</Author>
+<Author>
+<LastName>Glatstein</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author>
+<LastName>Rosenberg</LastName>
+<ForeName>S A</ForeName>
+<Initials>SA</Initials>
+</Author>
+<Author>
+<LastName>Kaplan</LastName>
+<ForeName>H S</ForeName>
+<Initials>HS</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Clinical Trial</PublicationType>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Cancer</MedlineTA>
+<NlmUniqueID>0374236</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Antineoplastic Agents</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>148-82-3</RegistryNumber>
+<NameOfSubstance>Melphalan</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>51-75-2</RegistryNumber>
+<NameOfSubstance>Mechlorethamine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>53-03-2</RegistryNumber>
+<NameOfSubstance>Prednisone</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>57-22-7</RegistryNumber>
+<NameOfSubstance>Vincristine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>671-16-9</RegistryNumber>
+<NameOfSubstance>Procarbazine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>865-21-4</RegistryNumber>
+<NameOfSubstance>Vinblastine</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adolescence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Antineoplastic Agents</DescriptorName>
+<QualifierName MajorTopicYN="Y">administration &#38; dosage</QualifierName>
+<QualifierName>adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Bone Marrow</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Clinical Trials</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Comparative Study</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Drug Therapy, Combination</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hodgkin Disease</DescriptorName>
+<QualifierName MajorTopicYN="Y">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mechlorethamine</DescriptorName>
+<QualifierName>administration &#38; dosage</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Melphalan</DescriptorName>
+<QualifierName>administration &#38; dosage</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Middle Age</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Prednisone</DescriptorName>
+<QualifierName>administration &#38; dosage</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Procarbazine</DescriptorName>
+<QualifierName>administration &#38; dosage</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Remission, Spontaneous</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Vinblastine</DescriptorName>
+<QualifierName>administration &#38; dosage</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Vincristine</DescriptorName>
+<QualifierName>administration &#38; dosage</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

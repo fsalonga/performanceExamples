@@ -1,0 +1,122 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011444</MedlineID>
+<PMID>33712</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>11</Month>
+<Day>02</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>566</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>9</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Exchange of free and bound coenzyme of flavin enzymes studied with [14C]FAD.</ArticleTitle>
+<Pagination>
+<MedlinePgn>245-52</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The exchange of bound FAD for free FAD was studied with D-amino acid oxidase (D-amino acid:oxygen oxidoreductase (deaminating), EC 1.4.3.3) and beta-D-glucose oxidase (beta-D-glucose:oxygen 1-oxidoreductase, EC 1.1.3.4). For a simple measurement of the reaction rate, equimolar amounts of the enzyme and [14C]FAD were mixed. The exchange occurred very rapidly in the holoenzyme of D-amino acid oxidase at 25 degrees C, pH 8.3 (half life of the exchange: 0.8 min), but slowly in the presence of the substrate or a competitive inhibitor, benzoate. It also occurred slowly in the purple complex of D-amino acid oxidase. In the case of beta-D-glucose oxidase, however, the exchange occurred very slowly at 25 degrees C, pH 5.6, regardless of the presence of the substrate or p-chloromercuribenzoate. On the basis of these findings, the turnover of the coenzymes of flavin enzymes in mammals is discussed.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Okuda</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author>
+<LastName>Nagamine</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author>
+<LastName>Yagi</LastName>
+<ForeName>K</ForeName>
+<Initials>K</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>146-14-5</RegistryNumber>
+<NameOfSubstance>Flavin-Adenine Dinucleotide</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 1.1.3.4</RegistryNumber>
+<NameOfSubstance>Glucose Oxidase</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 1.4.3.3</RegistryNumber>
+<NameOfSubstance>D-Amino-Acid Oxidase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>D-Amino-Acid Oxidase</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Flavin-Adenine Dinucleotide</DescriptorName>
+<QualifierName>isolation &#38; purification</QualifierName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Glucose Oxidase</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Half-Life</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kidney</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Liver</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mathematics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Swine</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

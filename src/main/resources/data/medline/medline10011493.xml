@@ -1,0 +1,146 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011493</MedlineID>
+<PMID>217449</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>583</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>19</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>The regulatory effects of growth rate and cyclic AMP levels on carbon catabolism and respiration in Escherichia coli K-12.</ArticleTitle>
+<Pagination>
+<MedlinePgn>73-80</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Cyclic AMP levels in glucose and succinate-limited and ammonia-limited glucose-containing continuous cultures of Escherichia coli were measured at different bacterial growth rates. Intracellular cyclic AMP concentrations were fairly constant (about 5 micrometer) at all dilution rates used when glucose was limiting. In ammonia-limited glucose cultures the cyclic AMP content was much lower (about 0.3 micrometer). In succinate-limited cultures cyclic AMP levels fell from 2.7 to 0.8 micrometer as dilution rate increased from 0.05 to 0.4 h-1. The effects of cyclic AMP on respiratory and carbon catabolic enzyme levels were studied. There was no indication of a direct cyclic AMP involvement in the regulation of these cellular functions. It seems more likely that the variations in enzyme levels observed resulted from variation of the specific growth rate of cultures.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Wright</LastName>
+<ForeName>L F</ForeName>
+<Initials>LF</Initials>
+</Author>
+<Author>
+<LastName>Milne</LastName>
+<ForeName>D P</ForeName>
+<Initials>DP</Initials>
+</Author>
+<Author>
+<LastName>Knowles</LastName>
+<ForeName>C J</ForeName>
+<Initials>CJ</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Succinates</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>367-93-1</RegistryNumber>
+<NameOfSubstance>Isopropyl Thiogalactoside</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>50-99-7</RegistryNumber>
+<NameOfSubstance>Glucose</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>60-92-4</RegistryNumber>
+<NameOfSubstance>Cyclic AMP</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7440-44-0</RegistryNumber>
+<NameOfSubstance>Carbon</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7664-41-7</RegistryNumber>
+<NameOfSubstance>Ammonia</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 1.</RegistryNumber>
+<NameOfSubstance>Oxidoreductases</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.2.1.23</RegistryNumber>
+<NameOfSubstance>beta-Galactosidase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Ammonia</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Carbon</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Citric Acid Cycle</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Comparative Study</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cyclic AMP</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Escherichia coli</DescriptorName>
+<QualifierName>growth &#38; development</QualifierName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Glucose</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Isopropyl Thiogalactoside</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Oxidoreductases</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Succinates</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>beta-Galactosidase</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

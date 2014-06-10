@@ -1,0 +1,80 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011129</MedlineID>
+<PMID>369550</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0005-9366</ISSN>
+<JournalIssue>
+<Volume>92</Volume>
+<Issue>5</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+<Day>1</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>[In memoriam Professor Vesselin Vesselinov]</ArticleTitle>
+<Pagination>
+<MedlinePgn>100</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Lerche</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+</AuthorList>
+<Language>ger</Language>
+<PublicationTypeList>
+<PublicationType>Biography</PublicationType>
+<PublicationType>Historical Article</PublicationType>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+<VernacularTitle>Prof. Dr. Wesselin Wesselinoff.</VernacularTitle>
+</Article>
+<MedlineJournalInfo>
+<Country>GERMANY, WEST</Country>
+<MedlineTA>Berl Munch Tierarztl Wochenschr</MedlineTA>
+<NlmUniqueID>0003163</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<CitationSubset>Q</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Berlin</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>History of Medicine, 20th Cent.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>USSR</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Veterinary Medicine</DescriptorName>
+<QualifierName>history</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+<PersonalNameSubjectList>
+<PersonalNameSubject>
+<LastName>Vesselinov</LastName>
+<ForeName>V</ForeName>
+<Initials>V</Initials>
+</PersonalNameSubject>
+</PersonalNameSubjectList>
+</MedlineCitation>

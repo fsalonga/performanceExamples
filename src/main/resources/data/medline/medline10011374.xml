@@ -1,0 +1,134 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011374</MedlineID>
+<PMID>33706</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>5</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+<Day>6</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Reduction of methemerythrin by deoxymyoglobin: a protein-protein redox reaction not involving electron-transfer proteins.</ArticleTitle>
+<Pagination>
+<MedlinePgn>889-93</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The stoichiometry and kinetics of reaction of methemerythrin with the deoxy forms of myoglobin and hemoglobin have been examined at I = 0.2 M and 25 degrees C. One mole of methemerythrin (on the basis of the monomer unit containing two irons) reacts with 2 mol of deoxymyoglobin and with 0.5 mol of deoxyhemoglobin. All reactions are second order. Rate constants for reaction with deoxymyoglobin are 0.25 M-1s-1 (Phascolopsis gouldii) and 5.6 M-1s-1 (Themiste pyroides) at pH 6.3. There is little effect of raising the ionic strength to 1.35 M and only a small decrease in rate when the pH is adjusted to 8.2. The rate constant for reaction of deoxyhemoglobin with P. gouldii methemerythrin is approximately 0.1 M-1s-1 at pH 6.3. Metmyohemerythrin from T. pyroides reacts slightly slower than the octamer form (k = 2.0 M-1s-1 at pH 6.3 and 7.0). Oxymyoglobin is converted to metmyoglobin by methemerythrin. The electron-transfer path is discussed and a self-exchange rate constant for hemerythrin assessed as 10(-3) M-1s-1 on the basis of Marcus's theory.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Bradić</LastName>
+<ForeName>Z</ForeName>
+<Initials>Z</Initials>
+</Author>
+<Author>
+<LastName>Harrington</LastName>
+<ForeName>P C</ForeName>
+<Initials>PC</Initials>
+</Author>
+<Author>
+<LastName>Wilkins</LastName>
+<ForeName>R G</ForeName>
+<Initials>RG</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Hemerythrin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Hemoglobins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Macromolecular Systems</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Metalloproteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Myoglobin</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Annelida</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Electron Transport</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hemerythrin</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hemoglobins</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hydrogen-Ion Concentration</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Macromolecular Systems</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Metalloproteins</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Myoglobin</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Osmolar Concentration</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Oxidation-Reduction</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

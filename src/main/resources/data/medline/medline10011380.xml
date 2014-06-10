@@ -1,0 +1,139 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011380</MedlineID>
+<PMID>420824</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>5</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+<Day>6</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Evidence for hemiacetal formation between N-acyl-L-phenylalaninals and alpha-chymotrypsin by cross-saturation nuclear magnetic resonance spectroscopy.</ArticleTitle>
+<Pagination>
+<MedlinePgn>921-6</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>N-Acetyl-L-phenylalaninal exists predominantly in its hydrated form in aqueous solution, but the aldehyde and not the hydrate is shown by nuclear magnetic resonance (NMR) spectroscopy to be the effective inhibitor of alpha-chymotrypsin. NMR spectroscopy also indicates that the initial alpha-chymotrypsin-N-acetyl-L-phenylalaninal complex is in equilibrium with a hemiacetal formed between the aldehyde and the active site serine residue. The rate of the latter equilibration is slow on the NMR time scale but the hemiacetal can be detected by cross-saturation NMR spectroscopy. N-Benzoyl-L-phenylalaninal is a more potent inhibitor of alpha-chymotrypsin than the N-acetyl derivative and both the formation of the enzyme-inhibitor complex and the hemiacetal are slow on the NMR time scale, but the hemiacetal in the enzyme can be detected by cross-saturation NMR spectroscopy. The N-acyl-L-phenylalaninals also bind to N-methylhistidinyl-57-alpha-chymotrypsin, but clear evidence for hemiacetal formation was not obtained by cross-saturation NMR spectroscopy either because the hemiacetal was not formed or more probably because the rate of dissociation was slow compared with the rate of relaxation of the hemiacetal proton. The dissociation constant of N-benzoyl-L-phenylalaninal to dehydroalaninyl-195-alpha-chymotrypsin was found to be high relative to the dissociation constant to native alpha-chymotrypsin, supporting the NMR evidence that a hemiacetal with the Ser-195 is formed on association of N-benzoyl-L-phenylalaninal with alpha-chymotrypsin.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Chen</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author>
+<LastName>Gorenstein</LastName>
+<ForeName>D G</ForeName>
+<Initials>DG</Initials>
+</Author>
+<Author>
+<LastName>Kennedy</LastName>
+<ForeName>W P</ForeName>
+<Initials>WP</Initials>
+</Author>
+<Author>
+<LastName>Lowe</LastName>
+<ForeName>G</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author>
+<LastName>Nurse</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author>
+<LastName>Schultz</LastName>
+<ForeName>R M</ForeName>
+<Initials>RM</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Acetals</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>56-45-1</RegistryNumber>
+<NameOfSubstance>Serine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>63-91-2</RegistryNumber>
+<NameOfSubstance>Phenylalanine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.4.21.1</RegistryNumber>
+<NameOfSubstance>Chymotrypsin</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Acetals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Binding Sites</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Chemistry</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Chymotrypsin</DescriptorName>
+<QualifierName>antagonists &#38; inhibitors</QualifierName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Magnetic Resonance Spectroscopy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phenylalanine</DescriptorName>
+<QualifierName MajorTopicYN="Y">analogs &#38; derivatives</QualifierName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Protein Binding</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Serine</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Structure-Activity Relationship</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Substrate Specificity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

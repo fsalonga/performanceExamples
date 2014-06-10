@@ -1,0 +1,136 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011222</MedlineID>
+<PMID>420752</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0007-1145</ISSN>
+<JournalIssue>
+<Volume>41</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Effect of varying energy and protein intake on nitrogen balance in adults engaged in heavy manual labour.</ArticleTitle>
+<Pagination>
+<MedlinePgn>19-25</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>1. The effect of varying energy and protein intake on nitrogen balance in adult men engaged in heavy manual labour was investigated. 2. Low protein and energy levels resulted in negative N balance and urea index (Waterlow, 1963) was decreased. 3. Urinary excretion of hydroxyproline was found to be sensitive to dietary protein level, but not to energy.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Iyengar</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author>
+<LastName>Narasinga Rao</LastName>
+<ForeName>B S</ForeName>
+<Initials>BS</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Clinical Trial</PublicationType>
+<PublicationType>Controlled Clinical Trial</PublicationType>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Br J Nutr</MedlineTA>
+<NlmUniqueID>0372547</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Amino Acids</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Dietary Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>51-35-4</RegistryNumber>
+<NameOfSubstance>Hydroxyproline</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>57-13-6</RegistryNumber>
+<NameOfSubstance>Urea</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>60-27-5</RegistryNumber>
+<NameOfSubstance>Creatinine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7727-37-9</RegistryNumber>
+<NameOfSubstance>Nitrogen</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adolescence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Amino Acids</DescriptorName>
+<QualifierName>blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Creatinine</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Diet</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Dietary Proteins</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Energy Intake</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Exertion</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hydroxyproline</DescriptorName>
+<QualifierName>urine</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Nitrogen</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Urea</DescriptorName>
+<QualifierName>urine</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

@@ -1,0 +1,124 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011273</MedlineID>
+<PMID>84680</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>9</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Binding of bleomycin to DNA: intercalation of the bithiazole rings.</ArticleTitle>
+<Pagination>
+<MedlinePgn>96-101</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>At pH 5.5, binding of bleomycin relaxed supercoiled ColE1 DNA without breaking it. Binding of tripeptide S, a fragment of the drug containing the bithiazole rings, also relaxed and then recoiled supercoiled DNA, at pH 5.5 and at pH 8.0, where bleomycin is normally active. The unwinding angle was 12 degrees. Both compounds lengthened linear DNA by 3.1 A per molecule bound, and linear dichroism (303--315 nm) of bleomycin bound to linear DNA oriented in an electric field indicated the presence of a chromophore making an angle of 59--61 degrees with the helix axis. These results strongly suggest that bleomycin binding to DNA involves intercalation of the bithiazole rings. In 0.1 M Na Cl at pH 8, supercoiled ColE1 DNA was broken at a rate 50% greater than relaxed closed circular ColE1 DNA. Since supercoiling increases the affinity of DNA for intercalators, this result suggests that intercalative binding is involved in bleomycin-induced breakage of DNA.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Povirk</LastName>
+<ForeName>L F</ForeName>
+<Initials>LF</Initials>
+</Author>
+<Author>
+<LastName>Hogan</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author>
+<LastName>Dattagupta</LastName>
+<ForeName>N</ForeName>
+<Initials>N</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>DNA, Bacterial</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>DNA, Circular</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>DNA, Superhelical</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Thiazoles</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>11056-06-7</RegistryNumber>
+<NameOfSubstance>Bleomycin</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Bleomycin</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Chemistry</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">DNA, Bacterial</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">DNA, Circular</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">DNA, Superhelical</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Escherichia coli</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Molecular Weight</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Protein Binding</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Thiazoles</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

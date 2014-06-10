@@ -1,0 +1,60 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011634</MedlineID>
+<PMID>420975</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0007-1323</ISSN>
+<JournalIssue>
+<Volume>66</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>A 'universal' tube-holding device.</ArticleTitle>
+<Pagination>
+<MedlinePgn>61</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Tinckler</LastName>
+<ForeName>L F</ForeName>
+<Initials>LF</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Br J Surg</MedlineTA>
+<NlmUniqueID>0372553</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Intubation</DescriptorName>
+<QualifierName MajorTopicYN="Y">instrumentation</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

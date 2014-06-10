@@ -1,0 +1,154 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011866</MedlineID>
+<PMID>217493</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-8993</ISSN>
+<JournalIssue>
+<Volume>165</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Apr</Month>
+<Day>13</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Developmental alteration of rat brain synaptic membranes. Reaction of glycoproteins with plant lectins.</ArticleTitle>
+<Pagination>
+<MedlinePgn>283-93</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Synaptic membranes were isolated from the forebrains of rats of increasing postnatal ages. Developmentally related changes in the structure and concnetration of synaptic membrane glycoproteins were indicated by: (1) a 2--3 fold increase in glycoprotein sialic acid between 5 and 60 days; (2) a similar increase in the number of membrane receptors for the lectins concanavalin A and wheat germ agglutinin; (3) transient increases between 10 and 17 days in the receptors for lentil and castor bean lectins and (4) an age dependent stimulation of castor bean lectin binding by neuraminidase. Labelling of SDS polysacrylamide gels of synaptic membranes with [125I]concanavalin A or wheat germ agglutinin revealed specific, age dependent changes in the lectin binding properties of individual molecular weight classes of glycoproteins. Differences in the glycoproteins composition of synaptic junctional complexes isolated from 10 and 28-day-old brains were also revealed by lectin binding studies. The results indicate that the number and structure of oligosaccharides associated with synaptic membrane glycoproteins are under developmental regulation.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>De Silva</LastName>
+<ForeName>N S</ForeName>
+<Initials>NS</Initials>
+</Author>
+<Author>
+<LastName>Gurd</LastName>
+<ForeName>J W</ForeName>
+<Initials>JW</Initials>
+</Author>
+<Author>
+<LastName>Schwartz</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Brain Res</MedlineTA>
+<NlmUniqueID>0045503</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Gangliosides</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Glycoproteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Lectins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Receptors, Concanavalin A</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Sialic Acids</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.1.1.7</RegistryNumber>
+<NameOfSubstance>Acetylcholinesterase</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.6.1.37</RegistryNumber>
+<NameOfSubstance>Na(+)-K(+)-Exchanging ATPase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Acetylcholinesterase</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Brain</DescriptorName>
+<QualifierName MajorTopicYN="Y">cytology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Cell Differentiation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cell Fractionation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Gangliosides</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Glycoproteins</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Lectins</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Molecular Weight</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Na(+)-K(+)-Exchanging ATPase</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Receptors, Concanavalin A</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Sialic Acids</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Synaptic Membranes</DescriptorName>
+<QualifierName>enzymology</QualifierName>
+<QualifierName MajorTopicYN="Y">physiology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

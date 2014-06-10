@@ -1,0 +1,103 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011984</MedlineID>
+<PMID>421195</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0304-3835</ISSN>
+<JournalIssue>
+<Volume>6</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Studies on the esophagus. II. Enhancement of [3H]thymidine incorporation in the rat esophagus by Bidens pilosa (a plant eaten in South Africa) and by croton oil.</ArticleTitle>
+<Pagination>
+<MedlinePgn>159-65</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Mirvish</LastName>
+<ForeName>S S</ForeName>
+<Initials>SS</Initials>
+</Author>
+<Author>
+<LastName>Rose</LastName>
+<ForeName>E F</ForeName>
+<Initials>EF</Initials>
+</Author>
+<Author>
+<LastName>Sutherland</LastName>
+<ForeName>D M</ForeName>
+<Initials>DM</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Cancer Lett</MedlineTA>
+<NlmUniqueID>7600053</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>10028-17-8</RegistryNumber>
+<NameOfSubstance>Tritium</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>50-89-5</RegistryNumber>
+<NameOfSubstance>Thymidine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>8001-28-3</RegistryNumber>
+<NameOfSubstance>Croton Oil</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Croton Oil</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Esophagus</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Plants, Edible</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Thymidine</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Tritium</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

@@ -1,0 +1,148 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011881</MedlineID>
+<PMID>217497</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-8993</ISSN>
+<JournalIssue>
+<Volume>166</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Apr</Month>
+<Day>20</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Depolarization-induced decreases in fluroescence intensity of gastro-intestinal quinacrine-binding nerves.</ArticleTitle>
+<Pagination>
+<MedlinePgn>121-37</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Quinacrine, a fluorescent antimalarial acridine derivative, selectively binds to a population of nerve cell bodies and nerve fibers in Auerbach's plexus and elsewhere in the gut. This quinacrine-binding, as measured by fluorescence intensity, is reduced if the nervous elements are depolarized by high K+ (80--150 MM) or veratridine (5 x 10(-5) M) during quinacrine incubation. A reduction of quinacrine-content in nerve terminals is also seen when depolarization (veratridine) takes place for 2 min after quinacrine-incubation, indicating a release of already bound quinacrine. If terminals are depolarized (high K+ or veratridine) before quinacrine incubation, a reduction of quinacrine content is also seen. The depolarization-induced reduction of quinacrine-binding is blocked by Ca2+-removal and, in the case of veratridine by tetrodotoxin. Our findings suggest that quinacrine binds to a compound that is released by nervous activity. Binding mechanism remains to be elucidated. The possibility that quinacrine visualized purine-rich structures is discussed.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Alund</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author>
+<LastName>Olson</LastName>
+<ForeName>L</ForeName>
+<Initials>L</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Brain Res</MedlineTA>
+<NlmUniqueID>0045503</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Receptors, Drug</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>51-41-2</RegistryNumber>
+<NameOfSubstance>Norepinephrine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>71-62-5</RegistryNumber>
+<NameOfSubstance>Veratridine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7440-09-7</RegistryNumber>
+<NameOfSubstance>Potassium</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>83-89-6</RegistryNumber>
+<NameOfSubstance>Quinacrine</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adrenergic Fibers</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Dose-Response Relationship, Drug</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Ileum</DescriptorName>
+<QualifierName MajorTopicYN="Y">innervation</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mice</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Microscopy, Fluorescence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Muscle, Smooth</DescriptorName>
+<QualifierName>innervation</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Myenteric Plexus</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Nerve Fibers</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Norepinephrine</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Potassium</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Quinacrine</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Receptors, Drug</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Synaptic Transmission</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Veratridine</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

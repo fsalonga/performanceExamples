@@ -1,0 +1,102 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011125</MedlineID>
+<PMID>420692</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>28</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>28</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0005-9366</ISSN>
+<JournalIssue>
+<Volume>92</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>[Increase of anesthetic hazards through the use of modern anthelmintics in the horse]</ArticleTitle>
+<Pagination>
+<MedlinePgn>63-5</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Keller</LastName>
+<ForeName>H</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author>
+<LastName>Müller</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+</AuthorList>
+<Language>ger</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+<VernacularTitle>Erhöhung des Narkoserisikos durch den Einsatz moderner Anthelminthika beim Pferd.</VernacularTitle>
+</Article>
+<MedlineJournalInfo>
+<Country>GERMANY, WEST</Country>
+<MedlineTA>Berl Munch Tierarztl Wochenschr</MedlineTA>
+<NlmUniqueID>0003163</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Anthelmintics</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>306-40-1</RegistryNumber>
+<NameOfSubstance>Succinylcholine</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Anesthesia</DescriptorName>
+<QualifierName MajorTopicYN="Y">veterinary</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Anthelmintics</DescriptorName>
+<QualifierName MajorTopicYN="Y">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Apnea</DescriptorName>
+<QualifierName>chemically induced</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Drug Interactions</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>English Abstract</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Horse Diseases</DescriptorName>
+<QualifierName>chemically induced</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Horses</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Succinylcholine</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

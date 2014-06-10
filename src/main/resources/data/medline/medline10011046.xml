@@ -1,0 +1,148 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011046</MedlineID>
+<PMID>420629</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>28</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>28</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0003-9942</ISSN>
+<JournalIssue>
+<Volume>36</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Familial psychosis and diverse neurologic abnormalities in adult-onset Gaucher's disease.</ArticleTitle>
+<Pagination>
+<MedlinePgn>95-9</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>A family is described in which adult-onset Gaucher's disease developed, followed years later by atypical psychotic disorders with neurologic and electroencephalographic abnormalities. A biochemical investigation of primary and secondary enzyme alterations in the index case was performed in an attempt to identify a pattern that might be specific to this clinical profile. The literature pertaining to CNS involvement in adult patients with Gaucher's disease is also reviewed. An etiologic link may exist between the inherited metabolic disorder and associated neuropsychiatric impairment. The biochemical basis of this hypothesized association remains unclear, however, and further enzymatic and pathologic investigations are warranted.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Neil</LastName>
+<ForeName>J F</ForeName>
+<Initials>JF</Initials>
+</Author>
+<Author>
+<LastName>Glew</LastName>
+<ForeName>R H</ForeName>
+<Initials>RH</Initials>
+</Author>
+<Author>
+<LastName>Peters</LastName>
+<ForeName>S P</ForeName>
+<Initials>SP</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Arch Neurol</MedlineTA>
+<NlmUniqueID>0372436</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Glucosylceramides</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.1.3.2</RegistryNumber>
+<NameOfSubstance>Acid Phosphatase</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.2.1.-</RegistryNumber>
+<NameOfSubstance>Glucosidases</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.2.1.45</RegistryNumber>
+<NameOfSubstance>Glucosylceramidase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Acid Phosphatase</DescriptorName>
+<QualifierName>blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Basal Ganglia Diseases</DescriptorName>
+<QualifierName>enzymology</QualifierName>
+<QualifierName MajorTopicYN="Y">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Case Report</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Delirium, Dementia, Amnestic, Cognitive Disorders</DescriptorName>
+<QualifierName>enzymology</QualifierName>
+<QualifierName MajorTopicYN="Y">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Epilepsy</DescriptorName>
+<QualifierName>enzymology</QualifierName>
+<QualifierName MajorTopicYN="Y">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Gaucher Disease</DescriptorName>
+<QualifierName>enzymology</QualifierName>
+<QualifierName MajorTopicYN="Y">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Glucosidases</DescriptorName>
+<QualifierName>blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Glucosylceramidase</DescriptorName>
+<QualifierName>blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Glucosylceramides</DescriptorName>
+<QualifierName>blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Leukocytes</DescriptorName>
+<QualifierName>enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Middle Age</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

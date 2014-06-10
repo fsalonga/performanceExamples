@@ -1,0 +1,107 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011406</MedlineID>
+<PMID>420838</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>551</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+<Day>8</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>An analysis of the protein, glycoprotein and monosaccharide composition of Dictyostelium discoideum plasma membranes during development.</ArticleTitle>
+<Pagination>
+<MedlinePgn>349-62</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Qualitative and quantitative changes in the protein and glycoprotein components of the plasma membrane of the cellular slime mould Dictyostelium discoideum have been detected by analysis of sodium dodecyl sulphate-polyacrylamide gel electrophoretic patterns. The amounts of proteins of subunit molecular weight 220 000, 91 000, 63 000, 59 000, 56 000 increased during the acquisition of aggregation competence, while proteins of subunit molecular weight 82 000 and 22 000 decreased. The amounts of glycoproteins with apparent subunit molecular weights 285 000, 150 000, 137 000, 100 000, 53 000, 50 500 and 30 500 increased during differentiation while a 125 000 dalton component decreased dramatically in amount. The neutral and amino sugar composition of the plasma membrane was also analyzed and found to remain essentially unchanged during the first 12 h of differentiation. The major sugars were mannose, fucose, and glucosamine; galactose and galactosamine were also present, but in lower amounts.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Gilkes</LastName>
+<ForeName>N R</ForeName>
+<Initials>NR</Initials>
+</Author>
+<Author>
+<LastName>Laroy</LastName>
+<ForeName>K</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author>
+<LastName>Weeks</LastName>
+<ForeName>G</ForeName>
+<Initials>G</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Carbohydrates</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Glycoproteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Membrane Proteins</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Carbohydrates</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cell Membrane</DescriptorName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Dictyostelium</DescriptorName>
+<QualifierName>analysis</QualifierName>
+<QualifierName MajorTopicYN="Y">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Glycoproteins</DescriptorName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Membrane Proteins</DescriptorName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Molecular Weight</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

@@ -1,0 +1,135 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011451</MedlineID>
+<PMID>33714</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>566</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>9</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Purification and properties of troponin T kinase from rabbit skeletal muscle.</ArticleTitle>
+<Pagination>
+<MedlinePgn>305-20</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>A protein kinase (ATP:protein phosphotransferase, EC 2.7.1.37) which catalyzes the phosphorylation of troponin T, phosvitin and casein has been purified over 2000 fold from rabbit skeletal muscle. The partial purification of this new enzyme, designated troponin T kinase, involves precipitation of contaminating proteins at pH 6.1, fractionation of the supernatant with (NH4)2SO4 and successive column chromatographies on DEAE-cellulose, hydroxyapatite and Sepharose 6B. The chromatographic patterns on DEAE-cellulose and hydroxyapatite columns show two peaks of troponin T kinase activity. Gel filtration experiments indicate the existence of multiple, possibly aggregated, forms of the enzyme. The purified enzyme does not catalyze the phosphorylation of phosphorylase b, troponin I, troponin C, tropomyosin, protamine, or myosin light chain 2 nor does it catalyze the interconversion of glycogen synthase I into the D form. Troponin T kinase is not affected by the addition of cyclic nucleotides or AMP to the reaction mixture. Divalent cations (other than Mg2+, required for the reaction) do not stimulate the enzyme, and several are inhibitory. Other characteristics of the reaction catalyzed by troponin T kinase, such as Km values for ATP and substrate proteins, pH optima, effect of the concentration of Mg2+, substitution of ATP for GTP have also been studied.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Kumon</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author>
+<LastName>Villar-Palasi</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Caseins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Ribonucleotides</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Troponin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9008-96-2</RegistryNumber>
+<NameOfSubstance>Phosvitin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.7.1.37</RegistryNumber>
+<NameOfSubstance>Protein Kinases</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Caseins</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Drug Stability</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Heat</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hydrogen-Ion Concentration</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Muscles</DescriptorName>
+<QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phosphorylation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phosvitin</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Protein Kinases</DescriptorName>
+<QualifierName MajorTopicYN="Y">isolation &#38; purification</QualifierName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rabbits</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Ribonucleotides</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Substrate Specificity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Troponin</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

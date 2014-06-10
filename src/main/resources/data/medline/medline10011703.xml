@@ -1,0 +1,91 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011703</MedlineID>
+<PMID>421029</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0007-1447</ISSN>
+<JournalIssue>
+<Volume>1</Volume>
+<Issue>6157</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>20</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Spontaneous pneumomediastinum complicating anorexia nervosa.</ArticleTitle>
+<Pagination>
+<MedlinePgn>200-1</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Chatfield</LastName>
+<ForeName>W R</ForeName>
+<Initials>WR</Initials>
+</Author>
+<Author>
+<LastName>Bowditch</LastName>
+<ForeName>J D</ForeName>
+<Initials>JD</Initials>
+</Author>
+<Author>
+<LastName>Forrest</LastName>
+<ForeName>C A</ForeName>
+<Initials>CA</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Letter</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Br Med J</MedlineTA>
+<NlmUniqueID>0372673</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Anorexia Nervosa</DescriptorName>
+<QualifierName>complications</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Body Weight</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hyperemesis Gravidarum</DescriptorName>
+<QualifierName MajorTopicYN="Y">complications</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mediastinal Emphysema</DescriptorName>
+<QualifierName MajorTopicYN="Y">etiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Pregnancy</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

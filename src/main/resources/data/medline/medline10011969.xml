@@ -1,0 +1,111 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011969</MedlineID>
+<PMID>283879</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0008-543X</ISSN>
+<JournalIssue>
+<Volume>43</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Metastatic osteogenic sarcoma to the brain.</ArticleTitle>
+<Pagination>
+<MedlinePgn>707-10</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The radiographic appearances of intracranial metastases from primary osteogenic sarcomas in three patients are presented. In two patients, the diagnosis of metastatic disease could be made on conventional roentgenograms of the skull since mineralization of tumor osteoid could be seen within the brain parenchyma. This had a similar appearance to the primary bone tumor. Angiography in two of the three patients revealed the cerebral metastases to be hypervascular with tumor vessels, tumor stain and early draining veins.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Danziger</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author>
+<LastName>Wallace</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author>
+<LastName>Handel</LastName>
+<ForeName>S F</ForeName>
+<Initials>SF</Initials>
+</Author>
+<Author>
+<LastName>deSantos</LastName>
+<ForeName>L A</ForeName>
+<Initials>LA</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Cancer</MedlineTA>
+<NlmUniqueID>0374236</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adolescence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Bone Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y">radiography</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Brain Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y">radiography</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Case Report</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cerebral Angiography</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neoplasm Metastasis</DescriptorName>
+<QualifierName>radiography</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Osteosarcoma</DescriptorName>
+<QualifierName MajorTopicYN="Y">radiography</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Tomography, X-Ray Computed</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

@@ -1,0 +1,91 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011562</MedlineID>
+<PMID>420917</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>11</Month>
+<Day>28</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0306-042X</ISSN>
+<JournalIssue>
+<Volume>6</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Mass spectrometry of valepotriates.</ArticleTitle>
+<Pagination>
+<MedlinePgn>124-8</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The mass spectrometry of eight valepotriates and their derivatives has been investigated. Mass spectral fragmentation schemes have been proposed as well as the use of this fragmentation for structural elucidation. Structures of two valepotriates, acevaltrate and homoacevaltrate, have been clarified.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Popov</LastName>
+<ForeName>S S</ForeName>
+<Initials>SS</Initials>
+</Author>
+<Author>
+<LastName>Handjieva</LastName>
+<ForeName>N V</ForeName>
+<Initials>NV</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Biomed Mass Spectrom</MedlineTA>
+<NlmUniqueID>0430246</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Cyclopentanes</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Pyrans</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Cyclopentanes</DescriptorName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Plants, Medicinal</DescriptorName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Pyrans</DescriptorName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Spectrum Analysis, Mass</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Valerian</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

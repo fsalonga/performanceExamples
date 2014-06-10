@@ -1,0 +1,126 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011596</MedlineID>
+<PMID>420939</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0365-9615</ISSN>
+<JournalIssue>
+<Volume>87</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>[Effect of hypotensive agents on baroreceptor reflexes in waking animals]</ArticleTitle>
+<Pagination>
+<MedlinePgn>166-8</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Bravkov</LastName>
+<ForeName>M F</ForeName>
+<Initials>MF</Initials>
+</Author>
+</AuthorList>
+<Language>rus</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+<VernacularTitle>Vliianie gipotenzivnykh sredstv na baroretseptivnye refleksy u bodrstvuiushchikh zhivotnykh.</VernacularTitle>
+</Article>
+<MedlineJournalInfo>
+<Country>USSR</Country>
+<MedlineTA>Biull Eksp Biol Med</MedlineTA>
+<NlmUniqueID>0370627</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Antihypertensive Agents</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>4205-90-7</RegistryNumber>
+<NameOfSubstance>Clonidine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>50-55-5</RegistryNumber>
+<NameOfSubstance>Reserpine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>555-30-6</RegistryNumber>
+<NameOfSubstance>Methyldopa</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>76-74-4</RegistryNumber>
+<NameOfSubstance>Pentobarbital</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Antihypertensive Agents</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Blood Pressure</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Clonidine</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Comparative Study</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>English Abstract</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Heart Rate</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Methyldopa</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Pentobarbital</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Pressoreceptors</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Reflex</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Reserpine</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

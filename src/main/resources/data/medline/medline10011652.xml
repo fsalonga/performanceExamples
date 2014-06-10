@@ -1,0 +1,102 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011652</MedlineID>
+<PMID>33740</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0007-1323</ISSN>
+<JournalIssue>
+<Volume>66</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Sequential patterns of haemodynamic and metabolic changes in experimental hypovolaemic shock. I. Responses to acute haemorrhage.</ArticleTitle>
+<Pagination>
+<MedlinePgn>84-8</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Little is known about cardiorespiratory changes during the development of hypovolaemia. This study attempts to provide such information and compares the period of bleeding with that of established hypovolaemia. Eleven anaesthetized and ventilated greyhounds were bled and analyses of cardiopulmonary function made at fixed intervals both during and after haemorrhage. Six sequential patterns of cardiopulmonary and metabolic change were recognized. It was apparent that bleeding caused the first three phases of change, recovery from the effects of bleeding the next two and steady hypovolaemia the last. The event of bleeding is the main factor that elevates total peripheral resistance and reduces tissue perfusion with consequent lowering of oxygen consumption and alkalosis secondary to impaired carbon dioxide production; when bleeding ceases these changes partially reverse in a manner characteristic of that induced by the reinfusion of shed blood; and hypovolaemia per se has a relatively weak influence. These findings provide an explanation for disparities in previous published reports and have obvious clinical implications.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Pardy</LastName>
+<ForeName>B J</ForeName>
+<Initials>BJ</Initials>
+</Author>
+<Author>
+<LastName>Dudley</LastName>
+<ForeName>H A</ForeName>
+<Initials>HA</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Br J Surg</MedlineTA>
+<NlmUniqueID>0372553</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>124-38-9</RegistryNumber>
+<NameOfSubstance>Carbon Dioxide</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Carbon Dioxide</DescriptorName>
+<QualifierName>blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Dogs</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Hemodynamics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hemorrhage</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+<QualifierName MajorTopicYN="Y">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hydrogen-Ion Concentration</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Oxygen Consumption</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Shock</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+<QualifierName MajorTopicYN="Y">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Time Factors</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

@@ -1,0 +1,110 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011319</MedlineID>
+<PMID>420797</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>6</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Differential polarized phase fluorometric investigations of diphenylhexatriene in lipid bilayers. Quantitation of hindered depolarizing rotations.</ArticleTitle>
+<Pagination>
+<MedlinePgn>508-19</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Differential polarized phase fluorometry has been used to investigate the depolarizing rotations of 1,6-diphenyl-1,3,5-hexatriene (DPH) in isotropic solvents and in lipid bilayers. For DPH dissolved in isotropic solvents, there is a precise agreement between the observed and predicted values for maximum differential tangents, indicating that in these media DPH is a free isotropic rotator. In lipid bilayers the tangent defects (i.e., the differences between the calculated and the observed maximum differential tangents) are too large to be explained by anisotropy in the depolarizing rotations but are accounted for by hindered isotropic torsional motions for the fluorophore [Weber, G (1978) Acta Phys. Pol A 54, 173]. This theory describes the depolarizing rotations of the fluorophore by its rotational rate R (in radians/second) and the limiting fluorescence anisotropy (r) at times long compared with the fluorescence lifetime. Through the combined use of both steady-state anisotropy measurements and differential phase measurements, we have demonstrated that one may obtain unique solutions for both R and r. For DPH embedded in vesicles prepared from dimyristoyl-, dipalmitoyl-, and distearoylphosphatidylcholines, the depolarizing motions are highly hindered at temperatures below the transition temperature (Tc) but are unhindered above Tc. The apparent rotational rates of the probe do not change significantly at Tc. These data suggest that the changes observed in the steady-state anisotropy near Tc derive primarily from changes in the degree to which the probe's rotations are hindered, and only to a small extent from changes in rotational rate. For DPH embedded in bilayers that contained 25 mol % cholesterol, no clear transition occurred and the rotations appeared to be hindered at all temperatures. The rotational motions of DPH embedded in dioleolyphosphatidylcholine were found to be far less hindered, but the rotational rates were similar to those obtained in the saturated phosphatidylcholines. Finally, the data show that in an anisotropic environment, such as that of a lipid bilayer, steady-state fluorescence anisotropy measurements alone cannot yield quantitatively meaningful rotational rates. Extrapolation of steady-state aniosotropy data to the quantitation of membrane viscosity is therefore difficult, if not invalid; however, qualitative comparisons can be useful.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Lakowicz</LastName>
+<ForeName>J R</ForeName>
+<Initials>JR</Initials>
+</Author>
+<Author>
+<LastName>Prendergast</LastName>
+<ForeName>F G</ForeName>
+<Initials>FG</Initials>
+</Author>
+<Author>
+<LastName>Hogen</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Phosphatidylcholines</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Phospholipids</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Polyenes</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Fluorescence Polarization</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mathematics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Membranes, Artificial</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Molecular Conformation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phosphatidylcholines</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Phospholipids</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Polyenes</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Temperature</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

@@ -1,0 +1,141 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011396</MedlineID>
+<PMID>33709</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>551</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+<Day>8</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>How do ionic channel properties depend on the structure of polyene antibiotic molecules?</ArticleTitle>
+<Pagination>
+<MedlinePgn>229-37</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>A study has been made of the properties of ionic channels formed in phospholipid-cholesterol bilayers by polyene antibiotics of various molecular structures. Properties of channels created by natural antibiotics with different structures of the lactone ring (amphotericin B-nystatin-mycoheptin) as well as by some derivatives of amphotericin B modified with respect to the amino and carboxyl groups are compared. Neutralization of one or both charges of the amphotericin B molecule (both by chemical modification and by pH shift) increases the probability of the channel to be in a nonconducting state. An increase of cholesterol concentration in the membrane produces an opposite effect. It is assumed that the electrostatic interaction of the amino group of an antibiotic molecule with the carboxyl group of an adjacent one stabilized the channel. Conductance and selectivity of an open channel are not influenced by changes in the charged groups. These properties strongly depend on the structure of the polar chain of the lactone ring. For example, the appearance of one more carbonyl group in the mycoheptin molecule results in a sharply decreasing anion permeability of channels. An antibiotic concentration which is necessary to observe single channels depends on the polyene chain structure: this is about 10(-7) M for tetraene nystatin and 2.10(-8) M for heptaene amphotericin B an mycoheptin.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Kasumov</LastName>
+<ForeName>K M</ForeName>
+<Initials>KM</Initials>
+</Author>
+<Author>
+<LastName>Borisova</LastName>
+<ForeName>M P</ForeName>
+<Initials>MP</Initials>
+</Author>
+<Author>
+<LastName>Ermishkin</LastName>
+<ForeName>L N</ForeName>
+<Initials>LN</Initials>
+</Author>
+<Author>
+<LastName>Potseluyev</LastName>
+<ForeName>V M</ForeName>
+<Initials>VM</Initials>
+</Author>
+<Author>
+<LastName>Silberstein</LastName>
+<ForeName>A Y</ForeName>
+<Initials>AY</Initials>
+</Author>
+<Author>
+<LastName>Vainshtein</LastName>
+<ForeName>V A</ForeName>
+<Initials>VA</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Antibiotics, Antifungal</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Ion Channels</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Phospholipids</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Polyenes</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>1397-89-3</RegistryNumber>
+<NameOfSubstance>Amphotericin B</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>1400-61-9</RegistryNumber>
+<NameOfSubstance>Nystatin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>57-88-5</RegistryNumber>
+<NameOfSubstance>Cholesterol</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Amphotericin B</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Antibiotics, Antifungal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cholesterol</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hydrogen-Ion Concentration</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Ion Channels</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Membranes, Artificial</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Nystatin</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phospholipids</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Polyenes</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

@@ -1,0 +1,76 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011610</MedlineID>
+<PMID>369636</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0092-8240</ISSN>
+<JournalIssue>
+<Volume>41</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Some stochastic features of bacterial constant growth apparatus.</ArticleTitle>
+<Pagination>
+<MedlinePgn>53-66</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Crump</LastName>
+<ForeName>K S</ForeName>
+<Initials>KS</Initials>
+</Author>
+<Author>
+<LastName>O'Young</LastName>
+<ForeName>W S</ForeName>
+<Initials>WS</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Bull Math Biol</MedlineTA>
+<NlmUniqueID>0401404</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Bacteria</DescriptorName>
+<QualifierName MajorTopicYN="Y">growth &#38; development</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Bacteriological Techniques</DescriptorName>
+<QualifierName MajorTopicYN="Y">instrumentation</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cell Division</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Models, Biological</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

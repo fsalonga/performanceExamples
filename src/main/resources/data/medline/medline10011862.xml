@@ -1,0 +1,135 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011862</MedlineID>
+<PMID>217492</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-8993</ISSN>
+<JournalIssue>
+<Volume>165</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Apr</Month>
+<Day>13</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Effects of age on brain oxidative metabolism in vivo.</ArticleTitle>
+<Pagination>
+<MedlinePgn>235-48</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Non-invasive optical techniques were used to monitor the effects of increasing cerebral energy demand on metabolic capabilities and vascular reactivity in young and aged brain. Low level of electrical stimulation of the cortex, in both young (4--7 months) and aged (24--28 months) rat brain, were accompanied by transient oxidations of NADH and cytochrome oxidase (a,a3) as measured by microfluorometry and reflection spectrophotometry respectively. Stimulation sufficient to produce spreading cortical depression was accompanied by an oxidation of both NADH and cytochrome a,a3 in young brain together with an increase in local blood volume. There was either no change or a slight disoxygenation of hemoglobin. In aged brain, however, spreading depression was associated with an oxidation of NADH and a reduction of cytochrome a,a3 together with an increase in local blood volume and an oxygenation of hemoglobin. The present results indicate that the relationship between microcirculation and the terminal oxidase step of the respiratory chain is altered in aged brain when energy demand is high.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Sylvia</LastName>
+<ForeName>A L</ForeName>
+<Initials>AL</Initials>
+</Author>
+<Author>
+<LastName>Rosenthal</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Brain Res</MedlineTA>
+<NlmUniqueID>0045503</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Cytochromes</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>53-84-9</RegistryNumber>
+<NameOfSubstance>NAD</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7782-44-7</RegistryNumber>
+<NameOfSubstance>Oxygen</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Aging</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Brain</DescriptorName>
+<QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cerebral Cortex</DescriptorName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cerebrovascular Circulation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cytochromes</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Electric Stimulation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Energy Metabolism</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Evoked Potentials</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mitochondria</DescriptorName>
+<QualifierName>enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>NAD</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Oxidation-Reduction</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Oxygen</DescriptorName>
+<QualifierName>blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Spreading Cortical Depression</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

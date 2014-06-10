@@ -1,0 +1,93 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011298</MedlineID>
+<PMID>420788</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>23</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Carbon-13 nuclear magnetic resonance studies on liver alcohol dehydrogenase specifically alkylated with bromo[1-13C]acetate.</ArticleTitle>
+<Pagination>
+<MedlinePgn>391-8</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Khalifah</LastName>
+<ForeName>R G</ForeName>
+<Initials>RG</Initials>
+</Author>
+<Author>
+<LastName>Sutherland</LastName>
+<ForeName>W M</ForeName>
+<Initials>WM</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Acetates</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 1.1</RegistryNumber>
+<NameOfSubstance>Alcohol Oxidoreductases</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Acetates</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Alcohol Oxidoreductases</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Alkylation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Liver</DescriptorName>
+<QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Magnetic Resonance Spectroscopy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Structure-Activity Relationship</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

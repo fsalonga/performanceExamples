@@ -1,0 +1,101 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011012</MedlineID>
+<PMID>420600</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>03</Month>
+<Day>23</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0003-9942</ISSN>
+<JournalIssue>
+<Volume>36</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Congenital ocular motor apraxia. A possible disconnection syndrome.</ArticleTitle>
+<Pagination>
+<MedlinePgn>29-31</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>In 1952, Cogan introduced the term "congenital ocular motor apraxia" (COA) to describe an abnormality of eye movements characterized by absent or defective voluntary horizontal gaze. Since his original description, there have been few subsequent reports of this disorder. A ten-year review of clinical records from the University of Wisconsin Hospitals disclosed eight patients with COA. In two patients subjected to neuroradiologic testing, agenesis of the corpus callosum was detected. Voluntary horizontal gaze appears to be a learned phenomenon, and defective interhemispheric transfer of visual information may be important in the pathogenesis of COA.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Orrison</LastName>
+<ForeName>W W</ForeName>
+<Initials>WW</Initials>
+</Author>
+<Author>
+<LastName>Robertson</LastName>
+<ForeName>W C</ForeName>
+<Initials>WC</Initials>
+<Suffix>Jr</Suffix>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Arch Neurol</MedlineTA>
+<NlmUniqueID>0372436</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Apraxias</DescriptorName>
+<QualifierName MajorTopicYN="Y">physiopathology</QualifierName>
+<QualifierName>radiography</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Case Report</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Child</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Child, Preschool</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Corpus Callosum</DescriptorName>
+<QualifierName>abnormalities</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Eye Movements</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Fixation, Ocular</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Infant</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

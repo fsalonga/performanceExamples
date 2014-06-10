@@ -1,0 +1,111 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011205</MedlineID>
+<PMID>311222</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0007-1048</ISSN>
+<JournalIssue>
+<Volume>41</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Diamond-Blackfan syndrome: evidence for T-cell mediated suppression of erythroid development and a serum blocking factor associated with remission.</ArticleTitle>
+<Pagination>
+<MedlinePgn>57-68</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Diamond-Blackfan syndrome may be a disorder of cellular immunity. Lymphocytes from some patients are capable of suppressing erythropoiesis in cultures of normal bone marrow. We studied two adults with this disorder, both in complete unmaintained remission, using a technique for cloning peripheral blood erythroid precursors (BFU-E) in culture. The BFU-E may be early, erythropoietin sensitive, erythroid committed stem cell. Under culture conditions, which employ fetal calf serum, neither patients cells formed normal numbers of erythroid colonies. Controls yielded 15.3 +/- 5.2 BFU-E/2.5 X 10(5) mononuclear cells. Culture of patients cells using autologous serum, promoted more normal growth of BFU-E (21.4 +/- 6.9 and 7.3 +/- 2.3 BFU-E/2.5 X 10(5) cells). Patient mononuclear cells, cocultured normal cells, generally suppressed BFU-E generation. Cocultures of normals were not inhibitory. Removal of T-lymphocytes from patient mononuclear cells permitted normal growth of BFU-E in coculture with controls. T-cells depleted Diamond-Blackfan mononuclear cells showed BFU-E formation in fetal calf and autologous serum. Diamond-Blackfan T-cells inhibited BFU-E formation by normal mononuclear cells. The cellular defect in Diamond-Blackfan syndrome persists during complete remission and may be mediated by lymphocytes. The development of a serum factor which blocks the suppressive effects on erythroid precursors of a subpopulation of autologous T-cells may be responsible for the development of remission in our patients.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Steinberg</LastName>
+<ForeName>M H</ForeName>
+<Initials>MH</Initials>
+</Author>
+<Author>
+<LastName>Coleman</LastName>
+<ForeName>M F</ForeName>
+<Initials>MF</Initials>
+</Author>
+<Author>
+<LastName>Pennebaker</LastName>
+<ForeName>J B</ForeName>
+<Initials>JB</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Br J Haematol</MedlineTA>
+<NlmUniqueID>0372544</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adolescence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Anemia, Aplastic</DescriptorName>
+<QualifierName MajorTopicYN="Y">congenital</QualifierName>
+<QualifierName>immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Case Report</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Colony-Forming Units Assay</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Erythrocytes, Abnormal</DescriptorName>
+<QualifierName MajorTopicYN="Y">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Erythropoiesis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Remission, Spontaneous</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Syndrome</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>T-Lymphocytes</DescriptorName>
+<QualifierName MajorTopicYN="Y">immunology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

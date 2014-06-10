@@ -1,0 +1,88 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011854</MedlineID>
+<PMID>421136</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-8993</ISSN>
+<JournalIssue>
+<Volume>161</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>9</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>The representations of the visual field on the posterior cortex of Octodon degus.</ArticleTitle>
+<Pagination>
+<MedlinePgn>539-43</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Olavarria</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author>
+<LastName>Mendez</LastName>
+<ForeName>B</ForeName>
+<Initials>B</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Brain Res</MedlineTA>
+<NlmUniqueID>0045503</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Brain Mapping</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Retina</DescriptorName>
+<QualifierName>anatomy &#38; histology</QualifierName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rodentia</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Visual Cortex</DescriptorName>
+<QualifierName MajorTopicYN="Y">anatomy &#38; histology</QualifierName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Visual Fields</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Visual Pathways</DescriptorName>
+<QualifierName>anatomy &#38; histology</QualifierName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

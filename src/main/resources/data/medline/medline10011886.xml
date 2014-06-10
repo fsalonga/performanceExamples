@@ -1,0 +1,124 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011886</MedlineID>
+<PMID>33750</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-8993</ISSN>
+<JournalIssue>
+<Volume>166</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Apr</Month>
+<Day>20</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Glucocorticoids and the hippocampal enzyme activity.</ArticleTitle>
+<Pagination>
+<MedlinePgn>172-5</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Meyer</LastName>
+<ForeName>J S</ForeName>
+<Initials>JS</Initials>
+</Author>
+<Author>
+<LastName>Luine</LastName>
+<ForeName>V N</ForeName>
+<Initials>VN</Initials>
+</Author>
+<Author>
+<LastName>Khylchevskaya</LastName>
+<ForeName>R I</ForeName>
+<Initials>RI</Initials>
+</Author>
+<Author>
+<LastName>McEwen</LastName>
+<ForeName>B S</ForeName>
+<Initials>BS</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Brain Res</MedlineTA>
+<NlmUniqueID>0045503</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>50-22-6</RegistryNumber>
+<NameOfSubstance>Corticosterone</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>53-59-8</RegistryNumber>
+<NameOfSubstance>NADP</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>53-84-9</RegistryNumber>
+<NameOfSubstance>NAD</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 1.1.-</RegistryNumber>
+<NameOfSubstance>Glycerolphosphate Dehydrogenase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adrenalectomy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Corticosterone</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Glycerolphosphate Dehydrogenase</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hippocampus</DescriptorName>
+<QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>NAD</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>NADP</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

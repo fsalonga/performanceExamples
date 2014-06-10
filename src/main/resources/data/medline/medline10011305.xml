@@ -1,0 +1,120 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011305</MedlineID>
+<PMID>217416</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>11</Month>
+<Day>02</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>6</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Complete exchange of viral cholesterol.</ArticleTitle>
+<Pagination>
+<MedlinePgn>436-42</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The exchange of the cholesterol in the membranes of two enveloped viruses, Sindbis virus and vesicular stomatitis virus, with cholesterol present in lipid vesicles and in serum was measured. Biosynthetically labeled viral cholesterol underwent spontaneous and complete transfer to both lipid vesicles and to serum. The rate with which and the extent to which this process occurred were very similar for these two viruses. During incubation with lipid vesicles in excess, half of the viral cholesterol underwent transfer in approximately 4 h and more than 90% underwent transfer in 24h at 37 degrees C. Similar rates and extents of movement of viral cholesterol were observed when incubations were carried out with vesicles which contained cholesterol and phospholipid in the same molar ratio as in the virus or with egg lecithin vesicles which contained no cholesterol. When labeled cholesterol was present initially in the lipid vesicles, movement of cholesterol from the vesicles to the virus was observed. One implication of the fact that viral cholesterol undergoes extensive exchange with serum cholesterol is that cellular cholesterol is in equilibrium with that in the extracellular fluid.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Sefton</LastName>
+<ForeName>B M</ForeName>
+<Initials>BM</Initials>
+</Author>
+<Author>
+<LastName>Gaffney</LastName>
+<ForeName>B J</ForeName>
+<Initials>BJ</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Carbon Radioisotopes</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Viral Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>150-97-0</RegistryNumber>
+<NameOfSubstance>Mevalonic Acid</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>57-88-5</RegistryNumber>
+<NameOfSubstance>Cholesterol</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Carbon Radioisotopes</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cholesterol</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Electron Spin Resonance Spectroscopy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Isotope Labeling</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mevalonic Acid</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Sindbis Virus</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, Non-P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Vesicular stomatitis-Indiana virus</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Viral Proteins</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

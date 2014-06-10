@@ -1,0 +1,104 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011163</MedlineID>
+<PMID>420713</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0004-3591</ISSN>
+<JournalIssue>
+<Volume>22</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Coexistence of ankylosing spondylitis and rheumatoid arthritis in a single family.</ArticleTitle>
+<Pagination>
+<MedlinePgn>203-4</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Espinoza</LastName>
+<ForeName>L R</ForeName>
+<Initials>LR</Initials>
+</Author>
+<Author>
+<LastName>Dove</LastName>
+<ForeName>F B</ForeName>
+<Initials>FB</Initials>
+</Author>
+<Author>
+<LastName>Osterland</LastName>
+<ForeName>C K</ForeName>
+<Initials>CK</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Letter</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Arthritis Rheum</MedlineTA>
+<NlmUniqueID>0370605</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>HLA Antigens</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Arthritis, Rheumatoid</DescriptorName>
+<QualifierName>complications</QualifierName>
+<QualifierName MajorTopicYN="Y">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Case Report</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>HLA Antigens</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Middle Age</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Spondylitis, Ankylosing</DescriptorName>
+<QualifierName>complications</QualifierName>
+<QualifierName MajorTopicYN="Y">genetics</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

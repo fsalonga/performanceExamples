@@ -1,0 +1,114 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011845</MedlineID>
+<PMID>421131</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-8993</ISSN>
+<JournalIssue>
+<Volume>161</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>9</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Changes in hormone activity of single neurosecretory cell bodies during a physiological secretion cycle.</ArticleTitle>
+<Pagination>
+<MedlinePgn>459-67</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Single neurosecretory cell bodies were dissected from the ventral ganglionic mass of Rhodnius prolixus, lysed in distilled water, and bioassayed for diuretic hormone (DH) activity on isolated malpighian tubules. DH was found in a least 10 somata within the ganglion; electron micrographs of isolated cells show a large population of elementary neurosecretory granules. Quantitative measures of hormone activity were made by bioassaying somata from unfed 5th instar larvae, and at the following times after feeding; 1 h, 4 h (near the end of DH-mediated diuresis), 1 day, 5 days, 10 days, 17 days and 21 days (just after the moult to adult). DH activity in cell bodies drops significantly within 1 h after feeding, and remains low long after hormone secretion ceases. Restocking of the soma with active hormone occurs during the period 10-21 days after feeding.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Berlind</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author>
+<LastName>Maddrell</LastName>
+<ForeName>S H</ForeName>
+<Initials>SH</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Brain Res</MedlineTA>
+<NlmUniqueID>0045503</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Invertebrate Hormones</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cytoplasmic Granules</DescriptorName>
+<QualifierName>ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Diuresis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Eating</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Ganglia</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+<QualifierName>ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Invertebrate Hormones</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neurons</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+<QualifierName>ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Neurosecretion</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neurosecretory Systems</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+<QualifierName>ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rhodnius</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, Non-P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

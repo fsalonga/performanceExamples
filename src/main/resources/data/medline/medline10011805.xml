@@ -1,0 +1,76 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011805</MedlineID>
+<PMID>421111</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>11</Month>
+<Day>02</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0007-1447</ISSN>
+<JournalIssue>
+<Volume>1</Volume>
+<Issue>6159</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>3</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Mumps deafness.</ArticleTitle>
+<Pagination>
+<MedlinePgn>343-4</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Gordon</LastName>
+<ForeName>A G</ForeName>
+<Initials>AG</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Letter</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Br Med J</MedlineTA>
+<NlmUniqueID>0372673</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Deafness, Sudden</DescriptorName>
+<QualifierName MajorTopicYN="Y">etiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mumps</DescriptorName>
+<QualifierName MajorTopicYN="Y">complications</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mumps virus</DescriptorName>
+<QualifierName>isolation &#38; purification</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Perilymph</DescriptorName>
+<QualifierName>microbiology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

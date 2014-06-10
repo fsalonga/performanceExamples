@@ -1,0 +1,138 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011275</MedlineID>
+<PMID>420782</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>23</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Modulation of erythrocyte membrane proteins by membrane cholesterol and lipid fluidity.</ArticleTitle>
+<Pagination>
+<MedlinePgn>251-5</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Human erythrocyte membranes were enriched or depleted of cholesterol and effects on membrane proteins assessed with a membrane-impermeant sulfhydryl reagent, [35S]glutathione-maleimide. Reaction of the probe with intact cells quantifies exofacial sulfhydryl groups and reaction with leaky ghost membranes permits quantification of endofacial sulfhydryl groups. The mean endofacial sulfhydryl titer of cholesterol-enriched membranes exceeded that of cholesterol-depleted membrane by approximately 45 nmol/mg of protein or 64%. The corresponding exofacial titer of cholesterol-enriched cells was less than that of cholesterol-depleted cells by approximately 0.4 nmol/mg of protein, or 14%. Labeled membranes were examined by autoradiography of sodium dodecyl sulfate-polyacrylamide gel electropherograms to determine the labeling patterns of individual protein bands. Cholesterol enrichment enhanced the surface labeling of Coomassie brilliant blue stained bands 1,2,3, and 5, decreased the labeling of band 6, and did not change significantly that of band 4. The results demonstrate that changes in membrane cholesterol which influence lipid fluidity can alter the surface labeling of both intrinsic and extrinsic membrane proteins.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Borochov</LastName>
+<ForeName>H</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author>
+<LastName>Abbott</LastName>
+<ForeName>R E</ForeName>
+<Initials>RE</Initials>
+</Author>
+<Author>
+<LastName>Schachter</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author>
+<LastName>Shinitzky</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Maleimides</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Membrane Lipids</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Membrane Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>57-88-5</RegistryNumber>
+<NameOfSubstance>Cholesterol</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>70-18-8</RegistryNumber>
+<NameOfSubstance>Glutathione</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Cholesterol</DescriptorName>
+<QualifierName MajorTopicYN="Y">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Erythrocyte Membrane</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+<QualifierName>metabolism</QualifierName>
+<QualifierName MajorTopicYN="Y">ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Erythrocytes</DescriptorName>
+<QualifierName MajorTopicYN="Y">ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Glutathione</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Maleimides</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Membrane Fluidity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Membrane Lipids</DescriptorName>
+<QualifierName MajorTopicYN="Y">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Membrane Proteins</DescriptorName>
+<QualifierName MajorTopicYN="Y">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, Non-P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

@@ -1,0 +1,107 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011731</MedlineID>
+<PMID>369653</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0007-1447</ISSN>
+<JournalIssue>
+<Volume>1</Volume>
+<Issue>6158</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>27</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Treatment of mastalgia with bromocriptine: a double-blind cross-over study.</ArticleTitle>
+<Pagination>
+<MedlinePgn>237</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Blichert-Toft</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author>
+<LastName>Anderson</LastName>
+<ForeName>A N</ForeName>
+<Initials>AN</Initials>
+</Author>
+<Author>
+<LastName>Henriksen</LastName>
+<ForeName>O B</ForeName>
+<Initials>OB</Initials>
+</Author>
+<Author>
+<LastName>Mygind</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Clinical Trial</PublicationType>
+<PublicationType>Journal Article</PublicationType>
+<PublicationType>Randomized Controlled Trial</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Br Med J</MedlineTA>
+<NlmUniqueID>0372673</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>25614-03-3</RegistryNumber>
+<NameOfSubstance>Bromocriptine</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Breast Diseases</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Bromocriptine</DescriptorName>
+<QualifierName MajorTopicYN="Y">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Clinical Trials</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Double-Blind Method</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Pain</DescriptorName>
+<QualifierName>drug therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Random Allocation</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

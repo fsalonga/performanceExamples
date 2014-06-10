@@ -1,0 +1,116 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011889</MedlineID>
+<PMID>217499</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>11</Month>
+<Day>14</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-8993</ISSN>
+<JournalIssue>
+<Volume>166</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Apr</Month>
+<Day>20</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Correlation between acetylcholine receptor localization and spontaneous synaptic potentials in cultures of nerve and muscle.</ArticleTitle>
+<Pagination>
+<MedlinePgn>185-90</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Anderson</LastName>
+<ForeName>M J</ForeName>
+<Initials>MJ</Initials>
+</Author>
+<Author>
+<LastName>Kidokoro</LastName>
+<ForeName>Y</ForeName>
+<Initials>Y</Initials>
+</Author>
+<Author>
+<LastName>Gruener</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Brain Res</MedlineTA>
+<NlmUniqueID>0045503</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Receptors, Cholinergic</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>51-84-3</RegistryNumber>
+<NameOfSubstance>Acetylcholine</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<CitationSubset>S</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Acetylcholine</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Membrane Potentials</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Microscopy, Fluorescence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neuromuscular Junction</DescriptorName>
+<QualifierName>anatomy &#38; histology</QualifierName>
+<QualifierName MajorTopicYN="Y">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Receptors, Cholinergic</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Synapses</DescriptorName>
+<QualifierName MajorTopicYN="Y">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Synaptic Transmission</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Tissue Culture</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Xenopus</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<OtherID Source="NASA">79125492</OtherID>
+</MedlineCitation>

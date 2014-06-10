@@ -1,0 +1,90 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011225</MedlineID>
+<PMID>420755</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0007-1145</ISSN>
+<JournalIssue>
+<Volume>41</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Estimates of maintenance requirement of growing lambs.</ArticleTitle>
+<Pagination>
+<MedlinePgn>223-9</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>1. Total body energy retention (ER) and metabolizable energy intake (MEI) values from experiments with 231 lambs (Suffolk male x (Border Leicester male x Cheviot female) female) housed indoors and given thirteen forage diets were used to estimate the metabolizable energy (ME) required for maintenance. 2. ER was measured using the comparative slaughter technique, and the lambs were fed at several planes of nutrition above maintenance between 2 and 5 months of age. 3. The daily ER and MEI results were scaled to live weight (kg0.75) and linear regression lines fitted to the values for individual diets. Extrapolation of the fitted lines to zero ER gave estimates of maintenance requirement ranging from 141 to 466 kJ ME/kg0.75 per d and values for the efficiency of utilization of ME for growth and fattening (Kf) of 0.25-0.53 (mean 0.39). 4. An alternative analysis constrained the estimated maintenance requirement to be the same for all diets. An iterative search procedure indicated minimal residual variation at 339 kJ/kg0.75 per d. This common value of ME for maintenance gave Kf values ranging from 0.30 to 0.54 (mean 0.39). 5. The implications of the technique were considered together with some discussion of the variability of the estimate. Allowing the minimum RSD to vary by 10% gave a maintenance requirement of between 231 and 408 kJ/kg0.75 per d.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Thomson</LastName>
+<ForeName>D J</ForeName>
+<Initials>DJ</Initials>
+</Author>
+<Author>
+<LastName>Fenlon</LastName>
+<ForeName>J S</ForeName>
+<Initials>JS</Initials>
+</Author>
+<Author>
+<LastName>Cammell</LastName>
+<ForeName>S B</ForeName>
+<Initials>SB</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Br J Nutr</MedlineTA>
+<NlmUniqueID>0372547</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Body Weight</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Energy Intake</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Energy Metabolism</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Nutrition</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Nutritional Requirements</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Sheep</DescriptorName>
+<QualifierName MajorTopicYN="Y">growth &#38; development</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

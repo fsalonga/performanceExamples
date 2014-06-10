@@ -1,0 +1,108 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011429</MedlineID>
+<PMID>420850</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>561</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>26</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Synthesis of high molecular weight thyroglobulin peptides by thyroid polysome in vitro.</ArticleTitle>
+<Pagination>
+<MedlinePgn>215-22</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Bovine thyroid polysomes were isolated under conditions which had yielded large polysomes in other systems. Between 25 and 40% of the protein synthesized by these polysomes could be precipitated by thyroglobulin antibody. When these immunoprecipitates were separated by dodecyl sulfate-polyacrylamide gel electrophoresis (4% running gel), over 50% of the radioactivity was located in the regions of polypeptides greater than 100,000 daltons. Between 11 and 13% of the total radioactivity was found as a single peak co-migrating with the main band of bovine thyroglobulin (Mr = 330,000). Peaks of radioactivity were also found in regions of molecular weights between 130,000 and 200,000. When the immunoprecipitates were separated in a 10% running gel, about 50% of the radioactivity was located in the top 8 mm of the gel. Most of the remaining radioactivity was distributed in regions corresponding to molecular weights greater than 68,000. No peak of radioactivity was seen corresponding to peptides of 15,000 daltons.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>See</LastName>
+<ForeName>Y P</ForeName>
+<Initials>YP</Initials>
+</Author>
+<Author>
+<LastName>Burrow</LastName>
+<ForeName>G N</ForeName>
+<Initials>GN</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Macromolecular Systems</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9010-34-8</RegistryNumber>
+<NameOfSubstance>Thyroglobulin</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Antigen-Antibody Reactions</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cattle</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cell-Free System</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Electrophoresis, Polyacrylamide Gel</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Macromolecular Systems</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Molecular Weight</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Polyribosomes</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Thyroglobulin</DescriptorName>
+<QualifierName MajorTopicYN="Y">biosynthesis</QualifierName>
+<QualifierName>immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Thyroid Gland</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

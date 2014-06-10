@@ -1,0 +1,91 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011653</MedlineID>
+<PMID>420991</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0007-1323</ISSN>
+<JournalIssue>
+<Volume>66</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Sequential patterns of haemodynamic and metabolic changes in experimental hypovolaemic shock. II. Responses to reinfusion of shed blood.</ArticleTitle>
+<Pagination>
+<MedlinePgn>89-92</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The haemodynamic and metabolic effects which follow the infusion of blood in experimental hypovolaemia have not been studied in detail. The 10 dogs that survived 90 min of hypovolaemia in a study of bleeding (Pardy and Dudley, 1979) were investigated during and shortly after the reinfusion of shed blood using the same techniques. Data from 9 animals were suitable for analysis. As with bleeding, 6 sequential phases were identified; reinfusion of blood was completed in the fifth phase. Initial reinfusion was associated with a rapid improvement in haemodynamic and metabolic status, although mean arterial pH fell because carbon dioxide production increased. Maximum metabolically effective tissue perfusion was probably attained in phase II, but haemodynamic improvement continued until phase IV. Arterial pH did not rise above the pre-infusion value until phase V, and this rise was the result of a fall in PaCO2 secondary to a reduction in physiological dead space and an increase in buffering capacity. Pulmonary artery pressure was superior to systemic artery pressure as a predictor of cardiac output during blood volume restoration. A number of conclusions pertaining to clinical practice are drawn.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Pardy</LastName>
+<ForeName>B J</ForeName>
+<Initials>BJ</Initials>
+</Author>
+<Author>
+<LastName>Dudley</LastName>
+<ForeName>H A</ForeName>
+<Initials>HA</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Br J Surg</MedlineTA>
+<NlmUniqueID>0372553</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Blood Transfusion</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Dogs</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Hemodynamics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hemorrhage</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+<QualifierName>physiopathology</QualifierName>
+<QualifierName>therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Shock</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+<QualifierName MajorTopicYN="Y">physiopathology</QualifierName>
+<QualifierName>therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Time Factors</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

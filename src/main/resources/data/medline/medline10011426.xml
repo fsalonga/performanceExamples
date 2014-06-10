@@ -1,0 +1,115 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011426</MedlineID>
+<PMID>420849</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>561</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>26</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Isolation of the transfer RNA genes of bacteriophage T4 and transfer RNA synthesis in vitro.</ArticleTitle>
+<Pagination>
+<MedlinePgn>184-93</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Non-glucosylated T4 DNA was restricted with the endonuclease EcoRI and the mixture of DNA fragments separated by gel electrophoresis and transcribed with purified Escherichia coli RNA polymerase. Three purified fragments were shown to act as templates for tRNA synthesis. A smaller fragment, shown to be hybridizable to 32P-labeled T4 tRNA was not transcribable. It was concluded that the promoter for T4 tRNA synthesis had been separated from the structural genes in the smaller fragment by EcoRI and that the distal portion of the tRNA gene cluster lacks internal promoters which display in vitro activity. Preparations of non-glucosylated T4 DNA were never fully restricted with EcoRI and when the larger purified fragments carrying the tRNA were restricted with excess enzyme only a slight cleavage to yield the smaller fragments was obtained. The property of the DNA-limiting complete restriction is not know.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Kaplan</LastName>
+<ForeName>D A</ForeName>
+<Initials>DA</Initials>
+</Author>
+<Author>
+<LastName>Nierlich</LastName>
+<ForeName>D P</ForeName>
+<Initials>DP</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Nucleic Acid Precursors</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>RNA, Bacterial</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9014-25-9</RegistryNumber>
+<NameOfSubstance>RNA, Transfer</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.7.7.6</RegistryNumber>
+<NameOfSubstance>DNA-Directed RNA Polymerase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Cell-Free System</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Coliphages</DescriptorName>
+<QualifierName MajorTopicYN="Y">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>DNA-Directed RNA Polymerase</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Genes, Structural</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Nucleic Acid Precursors</DescriptorName>
+<QualifierName>biosynthesis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>RNA, Bacterial</DescriptorName>
+<QualifierName MajorTopicYN="Y">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>RNA, Transfer</DescriptorName>
+<QualifierName>biosynthesis</QualifierName>
+<QualifierName MajorTopicYN="Y">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Transcription, Genetic</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

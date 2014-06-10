@@ -1,0 +1,99 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011017</MedlineID>
+<PMID>420605</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0003-9942</ISSN>
+<JournalIssue>
+<Volume>36</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>The syndrome of painful ophthalmoplegia. A case with intraorbital mass and hypervascularity.</ArticleTitle>
+<Pagination>
+<MedlinePgn>41-3</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>A patient diagnosed as having Tolosa-Hunt syndrome on clinical grounds was found by arteriography to have an intraorbital mass with hypervascularity. To our knowledge, this radiologic finding has not previously been reported in either Tolosa-Hunt syndrome or in the syndrome of orbital pseudotumor, and supports the proposition that these two conditions are anatomical variants of the same pathological process.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Rosenbaum</LastName>
+<ForeName>D H</ForeName>
+<Initials>DH</Initials>
+</Author>
+<Author>
+<LastName>Davis</LastName>
+<ForeName>M J</ForeName>
+<Initials>MJ</Initials>
+</Author>
+<Author>
+<LastName>Song</LastName>
+<ForeName>I S</ForeName>
+<Initials>IS</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Arch Neurol</MedlineTA>
+<NlmUniqueID>0372436</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Case Report</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cerebral Angiography</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Ophthalmoplegia</DescriptorName>
+<QualifierName MajorTopicYN="Y">radiography</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Orbit</DescriptorName>
+<QualifierName>blood supply</QualifierName>
+<QualifierName MajorTopicYN="Y">radiography</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Pain</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Syndrome</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

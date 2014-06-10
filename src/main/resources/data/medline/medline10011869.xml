@@ -1,0 +1,120 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011869</MedlineID>
+<PMID>84698</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-8993</ISSN>
+<JournalIssue>
+<Volume>165</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Apr</Month>
+<Day>13</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Dual projections of single neurons are visualized simultaneously: use of enzymatically inactive [3H]HRP.</ArticleTitle>
+<Pagination>
+<MedlinePgn>321-6</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Hayes</LastName>
+<ForeName>N L</ForeName>
+<Initials>NL</Initials>
+</Author>
+<Author>
+<LastName>Rustioni</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Brain Res</MedlineTA>
+<NlmUniqueID>0045503</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>EC 1.11.1.</RegistryNumber>
+<NameOfSubstance>Peroxidases</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 1.11.1.-</RegistryNumber>
+<NameOfSubstance>Horseradish Peroxidase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Autoradiography</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Axonal Transport</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cerebellar Cortex</DescriptorName>
+<QualifierName>anatomy &#38; histology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Ganglia, Spinal</DescriptorName>
+<QualifierName MajorTopicYN="Y">anatomy &#38; histology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Horseradish Peroxidase</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neural Pathways</DescriptorName>
+<QualifierName>anatomy &#38; histology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neurons</DescriptorName>
+<QualifierName MajorTopicYN="Y">ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Peroxidases</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Somatosensory Cortex</DescriptorName>
+<QualifierName>anatomy &#38; histology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Spinal Cord</DescriptorName>
+<QualifierName>anatomy &#38; histology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Thalamus</DescriptorName>
+<QualifierName MajorTopicYN="Y">anatomy &#38; histology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

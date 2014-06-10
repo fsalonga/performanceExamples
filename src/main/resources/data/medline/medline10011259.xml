@@ -1,0 +1,110 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011259</MedlineID>
+<PMID>369597</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>9</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Reconstitution of ubiquinone-linked functions in membrane vesicles from a double quinone mutant of Escherichia coli.</ArticleTitle>
+<Pagination>
+<MedlinePgn>226-31</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Stroobant</LastName>
+<ForeName>P</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author>
+<LastName>Kaback</LastName>
+<ForeName>H R</ForeName>
+<Initials>HR</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Quinones</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>1339-63-5</RegistryNumber>
+<NameOfSubstance>Ubiquinone</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>147-85-3</RegistryNumber>
+<NameOfSubstance>Proline</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Biological Transport</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cell Membrane</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Escherichia coli</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mutation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Oxygen Consumption</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Proline</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Quinones</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Species Specificity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Ubiquinone</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

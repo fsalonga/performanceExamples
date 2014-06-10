@@ -1,0 +1,104 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011612</MedlineID>
+<PMID>420959</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0025-9284</ISSN>
+<JournalIssue>
+<Volume>43</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Impact of the outside world upon the developing primate brain. Perspective from neurobiology.</ArticleTitle>
+<Pagination>
+<MedlinePgn>20-8</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Goldman</LastName>
+<ForeName>P S</ForeName>
+<Initials>PS</Initials>
+</Author>
+<Author>
+<LastName>Rakic</LastName>
+<ForeName>P T</ForeName>
+<Initials>PT</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Bull Menninger Clin</MedlineTA>
+<NlmUniqueID>7507032</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animals, Newborn</DescriptorName>
+<QualifierName MajorTopicYN="Y">growth &#38; development</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Brain</DescriptorName>
+<QualifierName MajorTopicYN="Y">growth &#38; development</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cognition</DescriptorName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Critical Period (Psychology)</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Environment</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Fetus</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neurons</DescriptorName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Perception</DescriptorName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Primates</DescriptorName>
+<QualifierName MajorTopicYN="Y">growth &#38; development</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Synapses</DescriptorName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Visual Pathways</DescriptorName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

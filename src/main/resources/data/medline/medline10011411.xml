@@ -1,0 +1,133 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011411</MedlineID>
+<PMID>217433</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>551</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+<Day>8</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>The effect of cyclic nucleotides and protein phosphorylation on calcium permeability and binding in the sarcoplasmic reticulum.</ArticleTitle>
+<Pagination>
+<MedlinePgn>406-19</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>In the absence of cyclic nucleotides heart microsomes have two classes of calcium binding sites with binding constants of 0.69 and 0.071 micron-1 and capacities of 2.2 and 9.7 nmol/mg protein, respectively. Neither cyclic AMP nor monobutyryl cyclic AMP affect binding but cyclic GMP and monobutyryl cyclic GMP cause the complete loss of the high affinity calcium binding sites, Cyclic GMP (but not monobutyryl cyclic GMP) also causes a decrease in the binding constant of the low affinity binding sites. AMP, GMP and Tris-butyrate do not affect calcium binding. The effects of the cyclic nucleotides are direct and are not mediated by protein phosphorylation. Phosphorylation of microsomal proteins increases the binding constant but not the capacity of the high affinity calcium binding sites. The capacity and also, perhaps, binding constant of the low affinity sites is also increased by phosphorylation. In additon to their effects on calcium binding the cyclic nucleotides also affect the movements of calcium into and out of the microsomes. The effects are again direct and not mediated by protein phosphorylation. Cyclic GMP decreases the rate of Ca2+ efflux from preloaded cardiac microsomes and also appears to decrease the rate of uptake of Ca2+ by cardiac microsomes though this effect is less clear cut than the action on efflux. The cyclic nucleotide has a half maximal effect at a concentration of 100 microns. By contrast cyclic AMP increases the rate of influx of Ca2+ into heart microsomes and the rate of efflux of Ca2+ from preloaded preparations. The effect is, however, rather slight. It is suggested that the most obvious interpretation of these results is that cyclic GMP decreases the Ca2+ permeability of the cardiac microsomal membrane while cyclic AMP increases the permeability. In contrast to the results found with membrane preparations from certain other tissues phosphorylation of cardiac microsomal proteins does not appear to alter Ca2+ efflux or influx out of, or into, cardiac microsomal preparations. It is thus concluded that phosphorylation of cardiac microsomal proteins does not affect the Ca2+ permeability of the microsomal membrane.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Weller</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author>
+<LastName>Laing</LastName>
+<ForeName>W</ForeName>
+<Initials>W</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Muscle Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>60-92-4</RegistryNumber>
+<NameOfSubstance>Cyclic AMP</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7440-70-2</RegistryNumber>
+<NameOfSubstance>Calcium</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7665-99-8</RegistryNumber>
+<NameOfSubstance>Cyclic GMP</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Biological Transport</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Calcium</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cyclic AMP</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cyclic GMP</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Microsomes</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Muscle Proteins</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Myocardium</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Permeability</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phosphorylation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Protein Binding</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Sarcoplasmic Reticulum</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

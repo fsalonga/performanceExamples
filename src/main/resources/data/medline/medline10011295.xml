@@ -1,0 +1,145 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011295</MedlineID>
+<PMID>217412</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>23</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Cyclic nucleotide dependent protein kinase and the phosphorylation of endogenous proteins of retinal rod outer segments.</ArticleTitle>
+<Pagination>
+<MedlinePgn>370-8</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Cyclic nucleotide dependent protein kinase has been extracted wiht Tris or Lubrol PX from purified rod outer segments (ROS) of bovine retina. The activity of the enzyme is unaffected by light but is stimulated by either cyclic guanosine 3',5'-monophosphate (cGMP) or cyclic adenosine 3',5'-monophosphate (cAMP). Most of the solubilized enzyme elutes from DEAE-cellulose with about 0.18 M NaCl (type II protein kinase). An endogenous 30,000 molecular weight protein of the soluble fraction of ROS as well as exogenous histone are phosphorylated by the protein kinase in a cyclic nucleotide dependent manner. The Tris-extracted enzyme can be reassociated in the presence of Mg2+ with ROS membranes that are depleted of protein kinase activity. The reassociated protein kinase is insensitive to exogenous cyclic nucleotides, and it catalyzes the phosphorylation of the membrane protein, bleached rhodopsin. While the soluble and membrane-associated protein kinases may be interchangeable, they appear to be modulated by different biological signals; soluble protein kinase activity is increased by cyclic nucleotides whereas membrane-bound activity is enhanced when rhodopsin is bleached by light.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Farber</LastName>
+<ForeName>D B</ForeName>
+<Initials>DB</Initials>
+</Author>
+<Author>
+<LastName>Brown</LastName>
+<ForeName>B M</ForeName>
+<Initials>BM</Initials>
+</Author>
+<Author>
+<LastName>Lllley</LastName>
+<ForeName>R N</ForeName>
+<Initials>RN</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>60-92-4</RegistryNumber>
+<NameOfSubstance>Cyclic AMP</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7665-99-8</RegistryNumber>
+<NameOfSubstance>Cyclic GMP</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.7.1.37</RegistryNumber>
+<NameOfSubstance>Protein Kinases</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.7.1.70</RegistryNumber>
+<NameOfSubstance>Protamine Kinase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cattle</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cell Membrane</DescriptorName>
+<QualifierName>enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cyclic AMP</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cyclic GMP</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cytosol</DescriptorName>
+<QualifierName>enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Darkness</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Enzyme Activation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Light</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Molecular Weight</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phosphorylation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Photoreceptors</DescriptorName>
+<QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Protamine Kinase</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Protein Kinases</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, Non-P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

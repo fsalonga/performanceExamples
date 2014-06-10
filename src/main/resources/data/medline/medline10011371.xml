@@ -1,0 +1,150 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011371</MedlineID>
+<PMID>217427</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>5</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+<Day>6</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Cyclic adenosine monophosphate dependent and independent phosphorylation of sarcolemma membrane proteins in perfused rat heart.</ArticleTitle>
+<Pagination>
+<MedlinePgn>871-7</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>This study was initiated in order to elaborate further on the mechanism by which epinephrine modulates cardiac function via protein phosphorylation. A membrane fraction has been isolated from freeze-clamped perfused rat heart that contains two phosphoproteins. These proteins have molecular weights of 36,000 (A protein) and 27,000 (B protein). The phosphorylation of the A protein occurs during the equilibration of the heart with inorganic [32P]phosphate. The phosphorylation of the B protein occurs in response to epinephrine. The A and B proteins are apparently identical with two phosphoproteins in enriched preparations of sarcolemma. The protein of the sarcolemma preparation equivalent to the A protein is phosphorylated in vitro by both cAMP-independent and cAMP-dependent protein kinases. The phosphorylation of the protein of the sarcolemma preparation equivalent to the B protein is catalyzed by the cAMP-dependent protein kinase. Thus the patterns of phosphorylation of these proteins in vivo and in vitro are compatible. The phosphorylation of the B protein has been documented in vitro to modulate calcium transport (Will, H., et al. (1973) Acta Biol. Med. Ger. 31, 45-52), but the response to epinephrine in the perfused heart is not apparently coordinated with the catecholamine-induced inotropic effect.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Walsh</LastName>
+<ForeName>D A</ForeName>
+<Initials>DA</Initials>
+</Author>
+<Author>
+<LastName>Clippinger</LastName>
+<ForeName>M S</ForeName>
+<Initials>MS</Initials>
+</Author>
+<Author>
+<LastName>Sivaramakrishnan</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author>
+<LastName>McCullough</LastName>
+<ForeName>T E</ForeName>
+<Initials>TE</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Membrane Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Phosphoproteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>51-43-4</RegistryNumber>
+<NameOfSubstance>Epinephrine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>60-92-4</RegistryNumber>
+<NameOfSubstance>Cyclic AMP</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.7.1.37</RegistryNumber>
+<NameOfSubstance>Protein Kinases</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cell Fractionation</DescriptorName>
+<QualifierName>methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Comparative Study</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cyclic AMP</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Epinephrine</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Membrane Proteins</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Molecular Weight</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Myocardium</DescriptorName>
+<QualifierName>enzymology</QualifierName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phosphoproteins</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phosphorylation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Protein Kinases</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Sarcolemma</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

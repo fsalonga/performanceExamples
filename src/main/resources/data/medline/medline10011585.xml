@@ -1,0 +1,124 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011585</MedlineID>
+<PMID>420932</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0365-9615</ISSN>
+<JournalIssue>
+<Volume>87</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>[Changes in active 14C-noradrenaline uptake by cerebral synaptosomes during elaboration of a conditioned reflex]</ArticleTitle>
+<Pagination>
+<MedlinePgn>137-9</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>It was shown that active noradrenaline-14C (NA) uptake by the rat brain synaptosomes is inhibited by ouabain (0.1 M) and K-depolarization. Acquisition of the defensive conditioned reflex leads to inhibition of active NA uptake by the synaptosomes. This effect may be connected both with changes in the presynaptic membrane state and possible enhancement of the postsynaptic adrenoreceptor function.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Bazian</LastName>
+<ForeName>A S</ForeName>
+<Initials>AS</Initials>
+</Author>
+<Author>
+<LastName>Glebov</LastName>
+<ForeName>R N</ForeName>
+<Initials>RN</Initials>
+</Author>
+</AuthorList>
+<Language>rus</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+<VernacularTitle>Izmenenie aktivnogo zakhvata noradrenalina-14C sinaptosomami mozga krys pri vyrabotke uslovnogo refleksa.</VernacularTitle>
+</Article>
+<MedlineJournalInfo>
+<Country>USSR</Country>
+<MedlineTA>Biull Eksp Biol Med</MedlineTA>
+<NlmUniqueID>0370627</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>51-41-2</RegistryNumber>
+<NameOfSubstance>Norepinephrine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>630-60-4</RegistryNumber>
+<NameOfSubstance>Ouabain</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7440-09-7</RegistryNumber>
+<NameOfSubstance>Potassium</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Absorption</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Brain</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Comparative Study</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Conditioning, Classical</DescriptorName>
+<QualifierName MajorTopicYN="Y">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>English Abstract</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>In Vitro</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Norepinephrine</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Ouabain</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Potassium</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Synaptosomes</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

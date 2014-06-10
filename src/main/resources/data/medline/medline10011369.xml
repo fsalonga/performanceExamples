@@ -1,0 +1,132 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011369</MedlineID>
+<PMID>84684</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>5</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+<Day>6</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Photoaffinity labeling of the catalytic site of prenyltransferase.</ArticleTitle>
+<Pagination>
+<MedlinePgn>860-4</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Three photoreactive substrate analogues, o-azidophenethyl pyrophosphate, p-azidophenethyl pyrophosphate, and 3-azido-1-butyl pyrophosphate, have been synthesized as site-directed probes to label the catalytic site of prenyltransferase. Due to the relatively poor affinity of p-azidophenethyl pyrophosphate and 3-azido-1-butyl pyrophosphate for the enzyme, only o-azidophenethyl pyrophosphate (aryl azide) was utilized for photoaffinity labeling. This aryl azide has a UV absorption maximum at 250 nm. In the absence of activating light, binding studies demonstrate that the o-aryl azide competes for binding with both the natural substrates, isopentenyl pyrophosphate and geranyl pyrophosphate. More than 90% enzymatic activity is lost when enzyme is irradiated in the presence of the aryl azide as compared to irradiation in the absence of the azide, and the protein loses its capacity for substrate binding in direct proportion to photolabeling. A stoichiometry of 2 mol of affinity label covalently bound per mol of enzyme dimer was established with [1-3H]-o-azidophenethyl pyrophosphate. Since there are two catalytic sites per enzyme dimer, the o-aryl azide appears specifically to label the enzyme at its catalytic sites. Additional evidence that the reagent was specific for the catalytic site came from the observation that farnesyl pyrophosphate afforded complete protection against photoinactivation, while isopentenyl pyrophosphate provided partial protection. Gel isoelectric focusing verified this stoichiometry and indicated that the labeled enzyme has a more acidic isoelectric point than the native enzyme.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Brems</LastName>
+<ForeName>D N</ForeName>
+<Initials>DN</Initials>
+</Author>
+<Author>
+<LastName>Rilling</LastName>
+<ForeName>H C</ForeName>
+<Initials>HC</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Affinity Labels</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Azides</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>60-12-8</RegistryNumber>
+<NameOfSubstance>Phenylethyl Alcohol</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.</RegistryNumber>
+<NameOfSubstance>Transferases</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.5.1.1</RegistryNumber>
+<NameOfSubstance>Dimethylallyltranstransferase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Affinity Labels</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Azides</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Binding Sites</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Catalysis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Dimethylallyltranstransferase</DescriptorName>
+<QualifierName>antagonists &#38; inhibitors</QualifierName>
+<QualifierName>metabolism</QualifierName>
+<QualifierName MajorTopicYN="Y">radiation effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Liver</DescriptorName>
+<QualifierName>enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phenylethyl Alcohol</DescriptorName>
+<QualifierName>analogs &#38; derivatives</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Photolysis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Substrate Specificity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Transferases</DescriptorName>
+<QualifierName MajorTopicYN="Y">radiation effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Ultraviolet Rays</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

@@ -1,0 +1,92 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011808</MedlineID>
+<PMID>421113</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0007-1447</ISSN>
+<JournalIssue>
+<Volume>1</Volume>
+<Issue>6159</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>3</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Hazards of sulphinpyrazone.</ArticleTitle>
+<Pagination>
+<MedlinePgn>344-5</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Ahmad</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Letter</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Br Med J</MedlineTA>
+<NlmUniqueID>0372673</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Hypoglycemic Agents</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Uricosuric Agents</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>57-96-5</RegistryNumber>
+<NameOfSubstance>Sulfinpyrazone</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Drug Synergism</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hematologic Diseases</DescriptorName>
+<QualifierName>chemically induced</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hypoglycemic Agents</DescriptorName>
+<QualifierName>therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Sulfinpyrazone</DescriptorName>
+<QualifierName MajorTopicYN="Y">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Uricosuric Agents</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

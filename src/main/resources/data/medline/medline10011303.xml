@@ -1,0 +1,115 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011303</MedlineID>
+<PMID>217415</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>6</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Role of peripheral side chains of vitamin B12 coenzymes in the reaction catalyzed by dioldehydrase.</ArticleTitle>
+<Pagination>
+<MedlinePgn>417-26</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Toraya</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author>
+<LastName>Krodel</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author>
+<LastName>Mildvan</LastName>
+<ForeName>A S</ForeName>
+<Initials>AS</Initials>
+</Author>
+<Author>
+<LastName>Abeles</LastName>
+<ForeName>R H</ForeName>
+<Initials>RH</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>68-19-9</RegistryNumber>
+<NameOfSubstance>Vitamin B 12</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 4.2.1.</RegistryNumber>
+<NameOfSubstance>Hydro-Lyases</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 4.2.1.28</RegistryNumber>
+<NameOfSubstance>Propanediol Dehydratase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Electron Spin Resonance Spectroscopy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hydro-Lyases</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Klebsiella pneumoniae</DescriptorName>
+<QualifierName>enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Propanediol Dehydratase</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Spectrophotometry</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Structure-Activity Relationship</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Vitamin B 12</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

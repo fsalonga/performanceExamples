@@ -1,0 +1,92 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011654</MedlineID>
+<PMID>420992</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0007-1323</ISSN>
+<JournalIssue>
+<Volume>66</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>The reproducibility of the station pullthrough technique for measuring lower oesophageal sphincter pressure.</ArticleTitle>
+<Pagination>
+<MedlinePgn>93-7</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The results are presented of two studies of the station pullthrough technique for lower oesophageal manometry. The first part of the work is an assessment of the reproducibility of this technique using both an infused tube system and a system of subminiature, intraluminal strain gauge transducers. The second part of this report describes a study into the effect that the position of the recording hole on the probe may have in relation to the measured pressure for the lower oesophageal sphincter.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Hay</LastName>
+<ForeName>D J</ForeName>
+<Initials>DJ</Initials>
+</Author>
+<Author>
+<LastName>Goodall</LastName>
+<ForeName>R J</ForeName>
+<Initials>RJ</Initials>
+</Author>
+<Author>
+<LastName>Temple</LastName>
+<ForeName>J G</ForeName>
+<Initials>JG</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Br J Surg</MedlineTA>
+<NlmUniqueID>0372553</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Catheterization</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Esophagogastric Junction</DescriptorName>
+<QualifierName MajorTopicYN="Y">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Manometry</DescriptorName>
+<QualifierName>methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Pressure</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Transducers</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

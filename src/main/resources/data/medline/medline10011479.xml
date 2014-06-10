@@ -1,0 +1,133 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011479</MedlineID>
+<PMID>420866</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>582</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>1</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>A simplified method for the preparation of pure UDP[14C] glucose.</ArticleTitle>
+<Pagination>
+<MedlinePgn>543-7</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>A two-step enzymatic synthesis of UDP[14C] glucose was described which resulted in high yield. Separation of product from labelled intermediates and other contaminants was achieved by a simple ion exchange chromatography method.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Tan</LastName>
+<ForeName>A W</ForeName>
+<Initials>AW</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Carbon Radioisotopes</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Uridine Diphosphate Sugars</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>133-89-1</RegistryNumber>
+<NameOfSubstance>Uridine Diphosphate Glucose</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>50-99-7</RegistryNumber>
+<NameOfSubstance>Glucose</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>63-39-8</RegistryNumber>
+<NameOfSubstance>Uridine Triphosphate</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.7.1.1</RegistryNumber>
+<NameOfSubstance>Hexokinase</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.7.7.9</RegistryNumber>
+<NameOfSubstance>UTP-Glucose-1-Phosphate Uridylyltransferase</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.6.1.-</RegistryNumber>
+<NameOfSubstance>Pyrophosphatases</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 5.4.2.2</RegistryNumber>
+<NameOfSubstance>Phosphoglucomutase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Carbon Radioisotopes</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Glucose</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hexokinase</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phosphoglucomutase</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Pyrophosphatases</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>UTP-Glucose-1-Phosphate Uridylyltransferase</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Uridine Diphosphate Glucose</DescriptorName>
+<QualifierName MajorTopicYN="Y">biosynthesis</QualifierName>
+<QualifierName>isolation &#38; purification</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Uridine Diphosphate Sugars</DescriptorName>
+<QualifierName MajorTopicYN="Y">biosynthesis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Uridine Triphosphate</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

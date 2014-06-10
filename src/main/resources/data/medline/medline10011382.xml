@@ -1,0 +1,142 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011382</MedlineID>
+<PMID>420825</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>550</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>2</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Interaction of insecticides with lipid membranes.</ArticleTitle>
+<Pagination>
+<MedlinePgn>384-92</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The permeability of liposome membranes is increased by organophosphorus and organochlorinated insecticides at concentrations of 10(-5)--10(-4) M. The order of effectiveness is similar to the toxicity of the compounds to mammals, and is the following for permeation of non-electrolytes and for valinomycin-induced permeation of K+: parathion greater than 1,1,1-trichloro-2,2-bis(p-chlorophenyl) ethane (DDT) approximately aldrin greater than malathion greater than lindane. The degree of effectiveness for X-537A-induced permeation of Ca2+ was the following: aldrin greater than or equal to DDT greater than parathion greater than malathion greater than lindane. The organophosphorus compound, ethyl azinphos (10(-4) M), dramatically increases the permeability of liposome membranes to all the tested substances, probably as a consequence of surfactant effects. Some organochlorinated insecticides appear to react with cation ionophores and modulate their motion across lipid membranes. It is suggested that the insecticides may exert some of their toxic actions by modifying certain mechanisms in the cell membrane.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Antunes-Madeira</LastName>
+<ForeName>M C</ForeName>
+<Initials>MC</Initials>
+</Author>
+<Author>
+<LastName>Madeira</LastName>
+<ForeName>V M</ForeName>
+<Initials>VM</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Ammonium Compounds</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Insecticides, Organochlorine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Insecticides, Organophosphate</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Liposomes</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>149-32-6</RegistryNumber>
+<NameOfSubstance>Erythritol</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>2001-95-8</RegistryNumber>
+<NameOfSubstance>Valinomycin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>555-60-2</RegistryNumber>
+<NameOfSubstance>Carbonyl Cyanide m-Chlorophenyl Hydrazone</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>57-13-6</RegistryNumber>
+<NameOfSubstance>Urea</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7440-09-7</RegistryNumber>
+<NameOfSubstance>Potassium</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7440-70-2</RegistryNumber>
+<NameOfSubstance>Calcium</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Ammonium Compounds</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Calcium</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Carbonyl Cyanide m-Chlorophenyl Hydrazone</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Erythritol</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Insecticides, Organochlorine</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Insecticides, Organophosphate</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Liposomes</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Permeability</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Potassium</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Thermodynamics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Urea</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Valinomycin</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

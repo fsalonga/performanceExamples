@@ -1,0 +1,85 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011576</MedlineID>
+<PMID>420926</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0365-9615</ISSN>
+<JournalIssue>
+<Volume>87</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>[Spread of excitation through the heart upon electrical stimulation of the atrioventricular valves]</ArticleTitle>
+<Pagination>
+<MedlinePgn>111-4</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Experiments were conducted on the isolated hearts of rabbits and dogs. Synchronous recording of the electrical activity of the right auricle, the right ventricle, and tricuspid valve demonstrated the existence of definite functional associations between the auricular, ventricular and valvular depolarization. The spread of excitation in the heart in electrical stimulation of the atrio-ventricular valves was investigated. The impulses from the heterotopic excitation focus localized in these valves could be conducted to the other parts of the heart and thus lead to cardiac arrhythmias.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Kosharskaia</LastName>
+<ForeName>I L</ForeName>
+<Initials>IL</Initials>
+</Author>
+</AuthorList>
+<Language>rus</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+<VernacularTitle>Rasprostranenie vozbuzhdeniia v serdtse pri élektricheskoĭ stimuliatsii atrioventrikuliarnykh klapanov.</VernacularTitle>
+</Article>
+<MedlineJournalInfo>
+<Country>USSR</Country>
+<MedlineTA>Biull Eksp Biol Med</MedlineTA>
+<NlmUniqueID>0370627</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Dogs</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Electric Stimulation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Electrophysiology</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>English Abstract</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Heart</DescriptorName>
+<QualifierName MajorTopicYN="Y">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rabbits</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Tricuspid Valve</DescriptorName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

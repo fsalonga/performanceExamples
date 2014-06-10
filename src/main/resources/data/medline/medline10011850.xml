@@ -1,0 +1,106 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011850</MedlineID>
+<PMID>105782</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>03</Month>
+<Day>23</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-8993</ISSN>
+<JournalIssue>
+<Volume>161</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>9</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Distribution of trigeminothalamic projection cells in cat and monkey.</ArticleTitle>
+<Pagination>
+<MedlinePgn>515-21</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Burton</LastName>
+<ForeName>H</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author>
+<LastName>Craig</LastName>
+<ForeName>A D</ForeName>
+<Initials>AD</Initials>
+<Suffix>Jr</Suffix>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Brain Res</MedlineTA>
+<NlmUniqueID>0045503</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>EC 1.11.1.-</RegistryNumber>
+<NameOfSubstance>Horseradish Peroxidase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Haplorhini</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Horseradish Peroxidase</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Macaca fascicularis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neural Pathways</DescriptorName>
+<QualifierName>anatomy &#38; histology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Spinal Cord</DescriptorName>
+<QualifierName>anatomy &#38; histology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Thalamic Nuclei</DescriptorName>
+<QualifierName>anatomy &#38; histology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Thalamus</DescriptorName>
+<QualifierName MajorTopicYN="Y">anatomy &#38; histology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Trigeminal Nerve</DescriptorName>
+<QualifierName MajorTopicYN="Y">anatomy &#38; histology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

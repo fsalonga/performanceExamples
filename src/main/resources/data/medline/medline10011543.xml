@@ -1,0 +1,113 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011543</MedlineID>
+<PMID>420903</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3223</ISSN>
+<JournalIssue>
+<Volume>14</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>14C-labeled tryptophan uptake and anxiety.</ArticleTitle>
+<Pagination>
+<MedlinePgn>221-3</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Hendrie</LastName>
+<ForeName>H C</ForeName>
+<Initials>HC</Initials>
+</Author>
+<Author>
+<LastName>Ward</LastName>
+<ForeName>V L</ForeName>
+<Initials>VL</Initials>
+</Author>
+<Author>
+<LastName>Erb</LastName>
+<ForeName>J L</ForeName>
+<Initials>JL</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biol Psychiatry</MedlineTA>
+<NlmUniqueID>0213264</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Carbon Radioisotopes</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>50-23-7</RegistryNumber>
+<NameOfSubstance>Hydrocortisone</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>73-22-3</RegistryNumber>
+<NameOfSubstance>Tryptophan</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Anxiety</DescriptorName>
+<QualifierName MajorTopicYN="Y">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Carbon Radioisotopes</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Chickens</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Erythrocytes</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hydrocortisone</DescriptorName>
+<QualifierName>blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Tryptophan</DescriptorName>
+<QualifierName MajorTopicYN="Y">blood</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

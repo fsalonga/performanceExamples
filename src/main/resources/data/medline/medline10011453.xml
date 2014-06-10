@@ -1,0 +1,122 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011453</MedlineID>
+<PMID>33716</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>566</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>9</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Affinity chromatography and separation of the molecular forms of monkey brain alpha-L-fucosidase on fucose-linked sepharose.</ArticleTitle>
+<Pagination>
+<MedlinePgn>327-34</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>A simple affinity system which required coupling of alpha-L-fucose to Sepharose 4B by epichlorohydrin treatment of Sepharose 4B in the presence of alpha-L-fucose under alkaline conditions has been described. A partially purified preparation of monkey brain alpha-L-fucosidase (alpha-L-fucoside fucohydrolase, EC 3.2.1.51) was resolved at pH 5.0 into two major fractions: one bound and one retarded. The enzyme bound to the affinity column and specifically eluted by 2 mM alpha-L-fucose at pH 5.0 appeared to be homogeneous by polyacrylamide gel electrophoresis and was constituted mainly by the tetrameric form of the enzyme. The enzyme fraction retarded by the affinity column was found to contain mainly the monomeric form of the enzyme. Additional evidence for the different molecular forms of the enzyme in the bound and retarded fractions came from pH activity profiles and heat inactivation studies. The fucose-Sepharose appeared to bind the tetrameric form of the enzyme specifically and, further, alpha-L-fucose helped to retain the molecular integrity of the tetrameric enzyme.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Alam</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author>
+<LastName>Balasubramanian</LastName>
+<ForeName>A S</ForeName>
+<Initials>AS</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Isoenzymes</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Macromolecular Systems</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>3713-31-3</RegistryNumber>
+<NameOfSubstance>Fucose</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.2.1.51</RegistryNumber>
+<NameOfSubstance>alpha-L-Fucosidase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Brain</DescriptorName>
+<QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Chromatography, Affinity</DescriptorName>
+<QualifierName>methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Fucose</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Haplorhini</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Heat</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hydrogen-Ion Concentration</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Isoenzymes</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Macaca radiata</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Macromolecular Systems</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Molecular Weight</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>alpha-L-Fucosidase</DescriptorName>
+<QualifierName MajorTopicYN="Y">isolation &#38; purification</QualifierName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

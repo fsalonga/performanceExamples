@@ -1,0 +1,111 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011218</MedlineID>
+<PMID>420748</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0007-1145</ISSN>
+<JournalIssue>
+<Volume>41</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Carotid or jugular amino acid infusions and food intake in the cockerel.</ArticleTitle>
+<Pagination>
+<MedlinePgn>157-62</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>1. Infusions of histidine into the carotid arteries of cockerels receiving a histidine-limiting, imbalanced diet caused an increase in food intake, whereas similar infusions into the jugular veins did not. 2. Infusions of lysine into the carotid arteries or jugular veins of young cockerels receiving a balanced, low-protein diet caused decreases in food intake. There was evidence of a more marked effect of carotid infusion. 3. The mechanisms of food intake regulation by amino acids in mammals are applicable to birds and excesses of single amino acids do seem to affect food intake directly.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Tobin</LastName>
+<ForeName>G</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author>
+<LastName>Boorman</LastName>
+<ForeName>K N</ForeName>
+<Initials>KN</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Br J Nutr</MedlineTA>
+<NlmUniqueID>0372547</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>56-87-1</RegistryNumber>
+<NameOfSubstance>Lysine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>71-00-1</RegistryNumber>
+<NameOfSubstance>Histidine</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Carotid Arteries</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Chickens</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Eating</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Histidine</DescriptorName>
+<QualifierName>administration &#38; dosage</QualifierName>
+<QualifierName>blood</QualifierName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Injections, Intra-Arterial</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Injections, Intravenous</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Jugular Veins</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Lysine</DescriptorName>
+<QualifierName>administration &#38; dosage</QualifierName>
+<QualifierName>blood</QualifierName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

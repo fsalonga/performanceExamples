@@ -1,0 +1,111 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011499</MedlineID>
+<PMID>369620</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>11</Month>
+<Day>19</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0320-9725</ISSN>
+<JournalIssue>
+<Volume>44</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>[Isolation and properties of DNA-cytosine-methylase I from Escherichia coli MRE 600]</ArticleTitle>
+<Pagination>
+<MedlinePgn>130-41</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>DNA-cytosine-methylase I was isolated and purified to homogeneity. The yield made up to about 30% of total activity. The enzyme molecular weight as determined by centrifugation in a sucrose gradient, by gel filtration and by electrophoresis in polyacrylamide gel in the presence of sodium dodecyl sulfate was found to be 45,000. The Michaelis constant was 1,8 . 10(-6) M for SAM and 2 . 10(-4) M for DNA. DNA-cytosine-methylase I modifies phage lambda DNA in 60 sites. This modification does not protect DNA from the effects of restriction endonucleases HpaII and BsuRI. The enzyme methylates DNA in the nucleotide sequence: 5'...Pur-MC-C-G-G-Pyr...3'.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Nesterenko</LastName>
+<ForeName>V F</ForeName>
+<Initials>VF</Initials>
+</Author>
+<Author>
+<LastName>Bur'ianov</LastName>
+<ForeName>Ia I</ForeName>
+<Initials>IaI</Initials>
+</Author>
+<Author>
+<LastName>Baev</LastName>
+<ForeName>A A</ForeName>
+<Initials>AA</Initials>
+</Author>
+</AuthorList>
+<Language>rus</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+<VernacularTitle>Vydelenie i svoĭstva DNK-tsitozin-menilazy I iz Escherichia coli MRE600.</VernacularTitle>
+</Article>
+<MedlineJournalInfo>
+<Country>USSR</Country>
+<MedlineTA>Biokhimiia</MedlineTA>
+<NlmUniqueID>0372667</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>DNA, Viral</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.1.1.</RegistryNumber>
+<NameOfSubstance>Methyltransferases</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.1.1.37</RegistryNumber>
+<NameOfSubstance>DNA (Cytosine-5-)-Methyltransferase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>DNA (Cytosine-5-)-Methyltransferase</DescriptorName>
+<QualifierName MajorTopicYN="Y">isolation &#38; purification</QualifierName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>DNA, Viral</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>English Abstract</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Escherichia coli</DescriptorName>
+<QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Methyltransferases</DescriptorName>
+<QualifierName MajorTopicYN="Y">isolation &#38; purification</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Molecular Weight</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Substrate Specificity</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

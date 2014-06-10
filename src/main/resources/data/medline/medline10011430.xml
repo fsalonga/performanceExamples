@@ -1,0 +1,143 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011430</MedlineID>
+<PMID>84687</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>561</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>26</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>The enzymatic hydrolysis of the phosphate ester bond in some thionucleotides.</ArticleTitle>
+<Pagination>
+<MedlinePgn>223-31</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>We prepared the 5'- and 3'-O-phosphorothioate esters of the antitumor agent O2 : 2'-anhydro-1-beta-D-arabinosylcytosine. We also included in this study esters of 2'-thio-2'-deoxycytidine, namely, 2'-S-dCyd-2' : 3'-P, 2'-S-dCyd-2'-P, and 2'-S-dCyd-3'-P, along with natural nucleotides. These compounds were subjected to the action of Escherichia coli alkaline phosphatase, potato acid phosphatase, and bovine pancreatic ribonuclease A. The data were analyzed by Lineweaver-Burk plots to obtain Km and KI values. Only 2'-S-dCyd-2'-P was a substrate for alkaline phosphatase; the anhydro-araCyt phosphorothioates were good competitive inhibitors, while 2'-S-dCyd-3'-P did not associate with the enzyme. Acid phosphatase hydrolyzed all four monoesters investigated, including the S-phosphorothioate. The cyclic phosphorothioate, 2'-S-dCyd-2' : 3'-P was neither hydrolyzed by, nor associated with, ribonuclease A. ORD spectroscopy was also used in an attempt to relate the structural features of analogs to the peculiarity of their hydrolysis.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Lee</LastName>
+<ForeName>C C</ForeName>
+<Initials>CC</Initials>
+</Author>
+<Author>
+<LastName>Schrier</LastName>
+<ForeName>W H</ForeName>
+<Initials>WH</Initials>
+</Author>
+<Author>
+<LastName>Nagyvary</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Deoxycytosine Nucleotides</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Thionucleotides</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>147-94-4</RegistryNumber>
+<NameOfSubstance>Cytarabine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>31698-14-3</RegistryNumber>
+<NameOfSubstance>Ancitabine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.1.-</RegistryNumber>
+<NameOfSubstance>Ribonucleases</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.1.3.1</RegistryNumber>
+<NameOfSubstance>Alkaline Phosphatase</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.1.3.2</RegistryNumber>
+<NameOfSubstance>Acid Phosphatase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Acid Phosphatase</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Alkaline Phosphatase</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Ancitabine</DescriptorName>
+<QualifierName>analogs &#38; derivatives</QualifierName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cytarabine</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Deoxycytosine Nucleotides</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hydrolysis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Optical Rotatory Dispersion</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Ribonucleases</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Structure-Activity Relationship</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Substrate Specificity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Thionucleotides</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

@@ -1,0 +1,154 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011492</MedlineID>
+<PMID>420870</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>583</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>19</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Cadmium accumulation and metabolism by rat liver parenchymal cells in primary monolayer culture.</ArticleTitle>
+<Pagination>
+<MedlinePgn>63-72</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Primary cultures of adult rat liver parenchymal cells, isolated by the collagenase perfusion technique and maintained as a monolayer, were used to investigate the characteristics of hepatic cadmium accumulation and metabolism. Cadmium accumulation was found to be a temperature- and concentration-dependent process that required sulfhydryl groups and was significantly stimulated by the addition of dexamethasone to the medium. Once taken up, cadmium was less available for exit-exchange processes than its biologically required congener, zinc. Moreover, cadmium influx enhanced zinc efflux. While most of the intracellular cadmium was located in the cytosol, its distribution within this fraction was altered with time. Initially the metal was bound to both high molecular weight species (less than 50 000) and metallothionein. As the incubation period increased, the cytosol concentration of cadmium and the percentage of this metal associated with metallothionein was likewise increased. [3H]Amino acid incorporation studies indicated that the accumulation of cadmium resulted in de novo synthesis of the 1 and 2 forms of metallothionein.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Failla</LastName>
+<ForeName>M L</ForeName>
+<Initials>ML</Initials>
+</Author>
+<Author>
+<LastName>Cousins</LastName>
+<ForeName>R J</ForeName>
+<Initials>RJ</Initials>
+</Author>
+<Author>
+<LastName>Mascenik</LastName>
+<ForeName>M J</ForeName>
+<Initials>MJ</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Amino Acids</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>128-53-0</RegistryNumber>
+<NameOfSubstance>Ethylmaleimide</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>144-48-9</RegistryNumber>
+<NameOfSubstance>Iodoacetamide</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>50-02-2</RegistryNumber>
+<NameOfSubstance>Dexamethasone</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7440-43-9</RegistryNumber>
+<NameOfSubstance>Cadmium</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7440-66-6</RegistryNumber>
+<NameOfSubstance>Zinc</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9038-94-2</RegistryNumber>
+<NameOfSubstance>Metallothionein</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Amino Acids</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cadmium</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cells, Cultured</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cytosol</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Dexamethasone</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Ethylmaleimide</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Iodoacetamide</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Liver</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Metallothionein</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Subcellular Fractions</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Temperature</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Zinc</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

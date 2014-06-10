@@ -1,0 +1,96 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011001</MedlineID>
+<PMID>420591</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>28</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>28</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0004-1556</ISSN>
+<JournalIssue>
+<Volume>36</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Naproxen nephrotoxicity.</ArticleTitle>
+<Pagination>
+<MedlinePgn>124-6</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Cartwright</LastName>
+<ForeName>K C</ForeName>
+<Initials>KC</Initials>
+</Author>
+<Author>
+<LastName>Trotter</LastName>
+<ForeName>T L</ForeName>
+<Initials>TL</Initials>
+</Author>
+<Author>
+<LastName>Cohen</LastName>
+<ForeName>M L</ForeName>
+<Initials>ML</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Ariz Med</MedlineTA>
+<NlmUniqueID>0372465</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>22204-53-1</RegistryNumber>
+<NameOfSubstance>Naproxen</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adolescence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Arthritis, Rheumatoid</DescriptorName>
+<QualifierName>drug therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Case Report</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Naproxen</DescriptorName>
+<QualifierName MajorTopicYN="Y">adverse effects</QualifierName>
+<QualifierName>therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Nephritis, Interstitial</DescriptorName>
+<QualifierName MajorTopicYN="Y">chemically induced</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

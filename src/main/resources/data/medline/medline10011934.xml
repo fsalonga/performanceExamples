@@ -1,0 +1,147 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011934</MedlineID>
+<PMID>421174</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0008-543X</ISSN>
+<JournalIssue>
+<Volume>43</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Electrocardiographic changes after adriamycin chemotherapy.</ArticleTitle>
+<Pagination>
+<MedlinePgn>465-71</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The electrocardiograms of 146 patients with metastatic carcinoma of the breast were reviewed before, during, and after the patients received Adriamycin (Doxorubicin) chemotherapy (AD). The most significant electrocardiographic change occurred in the amplitude of the QRS voltage. Seven patients developed cardiomyopathy after AD and showed a significant decrease in QRS voltage. This decrease, however, was more severe at the onset of congestive heart failure that at conclusion of Adriamycin. In 35 patients with pleural effusion, there was an inverse relation between the extent of the effusion and the amplitude of QRS voltage in the absence of congestive heart failure. These results indicate that 1) the sudden and relatively severe decrease in QRS voltage with the onset of CHF limits the value of this ECG criterion for predicting early Adriamycin toxicity, and 2) caution should be exercised in the interpretation of QRS voltage changes in patients with significant pleural effusion.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Ali</LastName>
+<ForeName>M K</ForeName>
+<Initials>MK</Initials>
+</Author>
+<Author>
+<LastName>Soto</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author>
+<LastName>Maroongroge</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author>
+<LastName>Bekheit-Saad</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author>
+<LastName>Buzdar</LastName>
+<ForeName>A U</ForeName>
+<Initials>AU</Initials>
+</Author>
+<Author>
+<LastName>Blumenschein</LastName>
+<ForeName>G R</ForeName>
+<Initials>GR</Initials>
+</Author>
+<Author>
+<LastName>Hortobagyi</LastName>
+<ForeName>G N</ForeName>
+<Initials>GN</Initials>
+</Author>
+<Author>
+<LastName>Tashima</LastName>
+<ForeName>C K</ForeName>
+<Initials>CK</Initials>
+</Author>
+<Author>
+<LastName>Wiseman</LastName>
+<ForeName>C L</ForeName>
+<Initials>CL</Initials>
+</Author>
+<Author>
+<LastName>Shullenberger</LastName>
+<ForeName>C C</ForeName>
+<Initials>CC</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Cancer</MedlineTA>
+<NlmUniqueID>0374236</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>23214-92-8</RegistryNumber>
+<NameOfSubstance>Doxorubicin</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Breast Neoplasms</DescriptorName>
+<QualifierName>drug therapy</QualifierName>
+<QualifierName>physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Doxorubicin</DescriptorName>
+<QualifierName MajorTopicYN="Y">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Electrocardiography</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Heart</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Heart Failure, Congestive</DescriptorName>
+<QualifierName MajorTopicYN="Y">chemically induced</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Middle Age</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neoplasm Metastasis</DescriptorName>
+<QualifierName>drug therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Pleural Effusion</DescriptorName>
+<QualifierName>physiopathology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

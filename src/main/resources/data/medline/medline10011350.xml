@@ -1,0 +1,125 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011350</MedlineID>
+<PMID>420811</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>20</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Isolation of galactoprotein a from hamster embryo fibroblasts and characterization of the carbohydrate unit.</ArticleTitle>
+<Pagination>
+<MedlinePgn>730-8</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>A major cell surface labeled glycoprotein of hamster embryo fibroblasts, with a subunit molecular weight of 230 000, which is deleted on viral transformation [Gahmberg, C. G., &#38; Hakomori, S. (1973) Proc. Natl. Acad. Sci. U.S.A. 70, 3329--3333; Hynes, R. O. (1973) Proc. Natl. Acad. Sci. U.S.A. 70, 3170--3174], was quantitatively extracted and purified on an insolubilized Ricinus communis lectin--poly(acrylhydrazido)agarose column. A glycopeptide with a molecular weight of 2000 was isolated from the glycoprotein after exhaustive digestion with protease of Streptomyces griseus. The carbohydrate structure of the isolated glycopeptide was determined, as seen in Figure 7, by carbohydrate analysis, stepwise degradation by exoglycosidases followed by hydrolysis with endo-beta-N-acetylglucosaminidase of Diplococcus pneumoniae, methylation analysis with gas chromatography--mass spectrometry, and direct probe mass spectrometry of the methylated core oligosaccharide, released by endo-beta-N-acetylglucosaminidase.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Carter</LastName>
+<ForeName>W G</ForeName>
+<Initials>WG</Initials>
+</Author>
+<Author>
+<LastName>Hakomori</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Carbohydrates</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Glycoproteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Macromolecular Systems</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>26566-61-0</RegistryNumber>
+<NameOfSubstance>Galactose</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Carbohydrates</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cells, Cultured</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Embryo</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Fibroblasts</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Galactose</DescriptorName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Glycoproteins</DescriptorName>
+<QualifierName MajorTopicYN="Y">isolation &#38; purification</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hamsters</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Macromolecular Systems</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mesocricetus</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Molecular Weight</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Spectrum Analysis, Mass</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

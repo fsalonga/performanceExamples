@@ -1,0 +1,84 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011195</MedlineID>
+<PMID>369590</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>11</Month>
+<Day>02</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0007-1048</ISSN>
+<JournalIssue>
+<Volume>41</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Metamorphosis of chronic granulocytic leukaemia: diagnosis, classification, and management.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1-7</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Spiers</LastName>
+<ForeName>A S</ForeName>
+<Initials>AS</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+<PublicationType>Review</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Br J Haematol</MedlineTA>
+<NlmUniqueID>0372544</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Blood Cell Count</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Blood Transfusion</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Chromosome Aberrations</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Drug Therapy, Combination</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Leukemia, Myeloid</DescriptorName>
+<QualifierName>diagnosis</QualifierName>
+<QualifierName MajorTopicYN="Y">pathology</QualifierName>
+<QualifierName>therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neoplasm Staging</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Prognosis</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<NumberOfReferences>52</NumberOfReferences>
+</MedlineCitation>

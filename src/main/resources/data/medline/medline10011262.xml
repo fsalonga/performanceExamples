@@ -1,0 +1,104 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011262</MedlineID>
+<PMID>420776</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>9</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Melting-profile analysis of thermal stability of thermolysin. A formulation of temperature-scanning kinetics.</ArticleTitle>
+<Pagination>
+<MedlinePgn>24-8</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The melting-profile method consists of a continuous observation of a structural parameter while the temperature of the sample is raised at a constant rate [Fugita, S. C., &#38; Imahori, K. (1974) IN Peptides, Polypeptides and Proteins (Blout, E. R., Bovey, F. A., Goodman, M., &#38; Lotan, N., Eds.) p 217, Wiley, New York, N.Y.]. An analytical solution to the melting profile was formulated for the two-state irreversible process and called temperature-scanning kinetics. The theory was tested with thermolysin with consistent results, and the thermodynamic parameters of thermal denaturation were calculated: deltaH identical to = 80.3 kcal/mol, deltaS identical to = 153 eu. These values agreed with the corresponding values obtained from the classical constant-temperature relaxation kinetics. The possibilities of temperature-scanning kinetics are discussed.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Fujita</LastName>
+<ForeName>S C</ForeName>
+<Initials>SC</Initials>
+</Author>
+<Author>
+<LastName>Go</LastName>
+<ForeName>N</ForeName>
+<Initials>N</Initials>
+</Author>
+<Author>
+<LastName>Imahori</LastName>
+<ForeName>K</ForeName>
+<Initials>K</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>7440-70-2</RegistryNumber>
+<NameOfSubstance>Calcium</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.4.24.27</RegistryNumber>
+<NameOfSubstance>Thermolysin</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Calcium</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mathematics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Protein Conformation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Protein Denaturation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Temperature</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Thermodynamics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Thermolysin</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

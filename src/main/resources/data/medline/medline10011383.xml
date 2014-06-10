@@ -1,0 +1,152 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011383</MedlineID>
+<PMID>420826</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>550</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>2</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Permeability of human erythrocyte membrane vesicles to alkali cations.</ArticleTitle>
+<Pagination>
+<MedlinePgn>393-406</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The permeability of inside-out and right-side-out vesicles from erythrocyte membranes to inorganic cations was determined quantitatively. Using 86Rb as a K analog, we have measured the rate constant of 86Rb efflux from vesicles under equilibrium exchange conditions, using a dialysis procedure. The permeability coefficients of the vesicles to Rb are only about an order of magnitude greater than that of whole erythrocytes. Furthermore, we have measured many of the specialized transport systems known to exist in erythrocytes and have shown that glucose, sulfate, ATP-dependent Ca and ATP-dependent Na transport activities are retained by the vesicle membranes. These results suggest that inside-out and right-side-out vesicles can be used effectively to study transport properties of erythrocyte membranes.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Sze</LastName>
+<ForeName>H</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author>
+<LastName>Solomon</LastName>
+<ForeName>A K</ForeName>
+<Initials>AK</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Cations, Monovalent</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Sulfates</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>50-99-7</RegistryNumber>
+<NameOfSubstance>Glucose</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>56-65-5</RegistryNumber>
+<NameOfSubstance>Adenosine Triphosphate</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7440-09-7</RegistryNumber>
+<NameOfSubstance>Potassium</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7440-17-7</RegistryNumber>
+<NameOfSubstance>Rubidium</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7440-23-5</RegistryNumber>
+<NameOfSubstance>Sodium</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7440-70-2</RegistryNumber>
+<NameOfSubstance>Calcium</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adenosine Triphosphate</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Calcium</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cations, Monovalent</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Cell Membrane Permeability</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Comparative Study</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Erythrocyte Membrane</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Erythrocytes</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Glucose</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Potassium</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rubidium</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Sodium</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Sulfates</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

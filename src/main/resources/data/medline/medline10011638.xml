@@ -1,0 +1,101 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011638</MedlineID>
+<PMID>369645</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0007-1323</ISSN>
+<JournalIssue>
+<Volume>66</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>A clinical trial of endolymphatic therapy in malignant melanoma: interim report of the progress of the Medical Research Council trial.</ArticleTitle>
+<Pagination>
+<MedlinePgn>9-13</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>This report presents the interim results of the MRC trial on the treatment of Stage I melanoma of the lower limb by endolymphatic therapy. Over a 10-year period a group of 146 patients has been entered into the trial. Although total recurrence rates were not significantly affected by endolymphatic therapy, recurrence in the lymph nodes was largely prevented. More patients in the standard treatment group needed the more major procedure of block dissection. The survival rates for the endolymphatic and standard treatment groups did not differ significantly.</AbstractText>
+</Abstract>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Clinical Trial</PublicationType>
+<PublicationType>Journal Article</PublicationType>
+<PublicationType>Randomized Controlled Trial</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Br J Surg</MedlineTA>
+<NlmUniqueID>0372553</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adolescence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Clinical Trials</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Endolymph</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Injections, Intralymphatic</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Leg</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Lymphography</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Melanoma</DescriptorName>
+<QualifierName>mortality</QualifierName>
+<QualifierName MajorTopicYN="Y">radiotherapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Methods</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Middle Age</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Random Allocation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Recurrence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Time Factors</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

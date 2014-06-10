@@ -1,0 +1,114 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011839</MedlineID>
+<PMID>33746</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-8993</ISSN>
+<JournalIssue>
+<Volume>161</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>9</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Correlation between presynaptic dense bodies and transmitter output at lobster neuromuscular terminals by serial section electron microscopy.</ArticleTitle>
+<Pagination>
+<MedlinePgn>377-88</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Lobster neuromuscular terminals releasing comparatively small (low-output type) and large (high-output type) amounts of transmitter but arising from the single excitatory motor axon to the proximal accessory flexor muscle were serially sectioned for electron microscopy. The three-dimensional reconstruction showed the two types of terminals to have a complex branching pattern in which thin branches of the motor axon often enlarged into synapse bearing terminal regions. Quantitative comparison showed that the mean surface area of a synapse is similar in the two types of terminals. However, the low-output terminal has a higher synaptic density and devotes a greater part of its surface area to synapses compared to its high-output counterpart suggesting that transmitter output is not directly related to synaptic area. The mean surface area of a presynaptic dense body is not significantly different between low- and high-output synapses, but there is a significantly greater density of these active zones in the high-output terminal. This results in the ratio of mean dense body area to mean synaptic area being approximately 3 X greater in the high-output synapses than the low-output ones. This significant difference in the surface area of presynaptic dense bodies between low- and high-output synapses correlates with the difference in transmitter output at these two synapses, and implicates the dense bodies in the mechanism of transmitter release at lobster neuromuscular synapses.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Govind</LastName>
+<ForeName>C K</ForeName>
+<Initials>CK</Initials>
+</Author>
+<Author>
+<LastName>Chiang</LastName>
+<ForeName>R G</ForeName>
+<Initials>RG</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Brain Res</MedlineTA>
+<NlmUniqueID>0045503</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Neurotransmitters</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Axons</DescriptorName>
+<QualifierName>ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Lobsters</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Motor Neurons</DescriptorName>
+<QualifierName>ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Muscles</DescriptorName>
+<QualifierName>innervation</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neural Inhibition</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neuromuscular Junction</DescriptorName>
+<QualifierName MajorTopicYN="Y">ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neurotransmitters</DescriptorName>
+<QualifierName MajorTopicYN="Y">secretion</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Synapses</DescriptorName>
+<QualifierName MajorTopicYN="Y">ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Synaptic Membranes</DescriptorName>
+<QualifierName>ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Synaptic Transmission</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Synaptic Vesicles</DescriptorName>
+<QualifierName>ultrastructure</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

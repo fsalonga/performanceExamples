@@ -1,0 +1,89 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011085</MedlineID>
+<PMID>420658</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>28</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>28</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0003-9977</ISSN>
+<JournalIssue>
+<Volume>105</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Resident's page. Pathologic quiz case 2. Cholesterol granuloma.</ArticleTitle>
+<Pagination>
+<MedlinePgn>164-5, 167</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Templeton</LastName>
+<ForeName>T P</ForeName>
+<Initials>TP</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Arch Otolaryngol</MedlineTA>
+<NlmUniqueID>0376526</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>57-88-5</RegistryNumber>
+<NameOfSubstance>Cholesterol</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Case Report</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Cholesterol</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Ear Diseases</DescriptorName>
+<QualifierName>pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Ear, Middle</DescriptorName>
+<QualifierName MajorTopicYN="Y">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Granuloma</DescriptorName>
+<QualifierName MajorTopicYN="Y">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

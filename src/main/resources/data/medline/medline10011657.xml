@@ -1,0 +1,81 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011657</MedlineID>
+<PMID>420994</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0007-1447</ISSN>
+<JournalIssue>
+<Volume>1</Volume>
+<Issue>6157</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>20</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Management of refractory oedema.</ArticleTitle>
+<Pagination>
+<MedlinePgn>148-9</MedlinePgn>
+</Pagination>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Editorial</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Br Med J</MedlineTA>
+<NlmUniqueID>0372673</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Blood Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Diuretics</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Blood Proteins</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Blood Volume</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Diuretics</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+<QualifierName MajorTopicYN="Y">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Edema</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Water-Electrolyte Balance</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

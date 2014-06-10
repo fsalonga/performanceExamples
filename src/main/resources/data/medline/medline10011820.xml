@@ -1,0 +1,123 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011820</MedlineID>
+<PMID>105779</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-8993</ISSN>
+<JournalIssue>
+<Volume>160</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>19</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Origin of the fornix system in the squirrel monkey.</ArticleTitle>
+<Pagination>
+<MedlinePgn>401-11</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Wit the use of the horseradish peroxidase retrograde axonal transport technique this experiment attempted to identify the cell bodies of origin whose axons supply the septal area, mammillary bodies and the anterior thalamic complex in the squirrel monkey. It was noted that axons which innervate the anterior thalamic complex arise predominantly from the deepest cell layer of both the retrosplenial cortex and adjoining portions of subicular cortex. Hippocampal afferents to the mammillary bodies arise principally from all cell layers of the subiculum proper and to a lesser extent from the presubiculum. Afferents which innervate the septal area originate from all cell fields of the cornu Ammonis and adjacent prosubicular cortex. It was further noted that axons which are distributed to caudal levels of the septum probably arise from both the cornu Ammonis and adjacent prosubiculum, whereas axons which innervate more rostral levels of septum originate exclusively from the prosubicular cortex.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Krayniak</LastName>
+<ForeName>P F</ForeName>
+<Initials>PF</Initials>
+</Author>
+<Author>
+<LastName>Siegel</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author>
+<LastName>Meibach</LastName>
+<ForeName>R C</ForeName>
+<Initials>RC</Initials>
+</Author>
+<Author>
+<LastName>Fruchtman</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author>
+<LastName>Scrimenti</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Brain Res</MedlineTA>
+<NlmUniqueID>0045503</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>EC 1.11.1.-</RegistryNumber>
+<NameOfSubstance>Horseradish Peroxidase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Haplorhini</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hippocampus</DescriptorName>
+<QualifierName MajorTopicYN="Y">anatomy &#38; histology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Horseradish Peroxidase</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mamillary Bodies</DescriptorName>
+<QualifierName MajorTopicYN="Y">anatomy &#38; histology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neural Pathways</DescriptorName>
+<QualifierName>anatomy &#38; histology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Saimiri</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Septal Nuclei</DescriptorName>
+<QualifierName MajorTopicYN="Y">anatomy &#38; histology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Thalamic Nuclei</DescriptorName>
+<QualifierName MajorTopicYN="Y">anatomy &#38; histology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

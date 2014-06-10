@@ -1,0 +1,126 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011779</MedlineID>
+<PMID>421088</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0007-1447</ISSN>
+<JournalIssue>
+<Volume>1</Volume>
+<Issue>6159</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>3</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Comparison of intravenous and oral high-dose methotrexate in treatment of solid tumours.</ArticleTitle>
+<Pagination>
+<MedlinePgn>298-300</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>An outpatient regimen of oral high-dose methotrexate was studied in 14 patients with solid tumours over 12 months. Detailed pharmacokinetic analysis in five patients showed high oral bioavailability (mean +/- SE of mean 87.6 +/- 1.5%), indicating that with this regimen oral methotrexate was well absorbed and the first-pass effect low. Oral administration resulted in peak plasma methotrexate concentrations of 8.4 +/- 0.5 mumol/l (382 +/- 23 microgram/100 ml) and was almost as effective as intravenous administration, which achieved peak concentrations of 9.9 +/- 0.4 mumol/l (450 +/- 18 microgram/100 ml). In all 14 patients the clinical response to oral treatment was comparable to that reported to intravenous administration of high-dose methotrexate used in combination with other cytotoxic drugs. The disease-free interval in cases of adult sarcoma was 7.4 +/- 1.3 months and the relapse rate 29%. Out of four patients with small-cell carcinoma, two showed an objective response to oral treatment. We suggest that oral high-dose methotrexate given in divided doses is a rational alternative to expensive intravenous high-dose methotrexate regimens, but further clinical evaluation is necessary.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Christophidis</LastName>
+<ForeName>N</ForeName>
+<Initials>N</Initials>
+</Author>
+<Author>
+<LastName>Vajda</LastName>
+<ForeName>F J</ForeName>
+<Initials>FJ</Initials>
+</Author>
+<Author>
+<LastName>Lucas</LastName>
+<ForeName>I</ForeName>
+<Initials>I</Initials>
+</Author>
+<Author>
+<LastName>Moon</LastName>
+<ForeName>W J</ForeName>
+<Initials>WJ</Initials>
+</Author>
+<Author>
+<LastName>Louis</LastName>
+<ForeName>W J</ForeName>
+<Initials>WJ</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Br Med J</MedlineTA>
+<NlmUniqueID>0372673</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>59-05-2</RegistryNumber>
+<NameOfSubstance>Methotrexate</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Administration, Oral</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Biological Availability</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Comparative Study</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Half-Life</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Injections, Intravenous</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Methotrexate</DescriptorName>
+<QualifierName MajorTopicYN="Y">administration &#38; dosage</QualifierName>
+<QualifierName>blood</QualifierName>
+<QualifierName>therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Middle Age</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug therapy</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

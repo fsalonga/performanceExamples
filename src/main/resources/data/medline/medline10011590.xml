@@ -1,0 +1,137 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011590</MedlineID>
+<PMID>420935</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0365-9615</ISSN>
+<JournalIssue>
+<Volume>87</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>[Effect of sigetin on the concentration of triglycerides and cholesterol in rat blood and liver]</ArticleTitle>
+<Pagination>
+<MedlinePgn>151-3</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>It was shown in experiments on male rats that sygethin an analogue of synesterol devoid of estrogenic effect decreased cholesterol level in the intact animals and diminished hypercholesterolemia induced by dexamethasone. Sygethin inhibited the hypertriglyceridemia induced by diethylstilbestrol, as well as by ethanol and dexamethasone.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Svergun</LastName>
+<ForeName>V T</ForeName>
+<Initials>VT</Initials>
+</Author>
+</AuthorList>
+<Language>rus</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+<VernacularTitle>Vliianie sigetina na soderzhanie triglitseridov i kholesterina v krovi i pecheni krys.</VernacularTitle>
+</Article>
+<MedlineJournalInfo>
+<Country>USSR</Country>
+<MedlineTA>Biull Eksp Biol Med</MedlineTA>
+<NlmUniqueID>0370627</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Antilipemic Agents</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Benzenesulfonates</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Estrogens, Synthetic</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Triglycerides</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>56-53-1</RegistryNumber>
+<NameOfSubstance>Diethylstilbestrol</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>57-88-5</RegistryNumber>
+<NameOfSubstance>Cholesterol</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Antilipemic Agents</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Benzenesulfonates</DescriptorName>
+<QualifierName>administration &#38; dosage</QualifierName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+<QualifierName>therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cholesterol</DescriptorName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+<QualifierName>blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Comparative Study</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Diethylstilbestrol</DescriptorName>
+<QualifierName>administration &#38; dosage</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>English Abstract</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Estrogens, Synthetic</DescriptorName>
+<QualifierName>administration &#38; dosage</QualifierName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+<QualifierName>therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hyperlipidemia</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Liver</DescriptorName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Triglycerides</DescriptorName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+<QualifierName>blood</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

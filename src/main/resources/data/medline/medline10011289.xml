@@ -1,0 +1,119 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011289</MedlineID>
+<PMID>570409</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>03</Month>
+<Day>23</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>23</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Acyl-coenzyme A dehydrogenase from pig kidney. Purification and properties.</ArticleTitle>
+<Pagination>
+<MedlinePgn>331-7</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Thorpe</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author>
+<LastName>Matthews</LastName>
+<ForeName>R G</ForeName>
+<Initials>RG</Initials>
+</Author>
+<Author>
+<LastName>Williams</LastName>
+<ForeName>C H</ForeName>
+<Initials>CH</Initials>
+<Suffix>Jr</Suffix>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Amino Acids</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>14844-07-6</RegistryNumber>
+<NameOfSubstance>Dithionite</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>1763-10-6</RegistryNumber>
+<NameOfSubstance>Palmitoyl Coenzyme A</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 1.14.99.-</RegistryNumber>
+<NameOfSubstance>Fatty Acid Desaturases</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Amino Acids</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Dithionite</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Fatty Acid Desaturases</DescriptorName>
+<QualifierName MajorTopicYN="Y">isolation &#38; purification</QualifierName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kidney</DescriptorName>
+<QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Palmitoyl Coenzyme A</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Spectrophotometry</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Swine</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

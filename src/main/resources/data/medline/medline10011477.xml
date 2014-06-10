@@ -1,0 +1,126 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011477</MedlineID>
+<PMID>217443</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>582</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>1</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Decreased number of beta-adrenergic receptors in hypertensive vessels.</ArticleTitle>
+<Pagination>
+<MedlinePgn>533-6</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Responsiveness to inotropic agents is altered in hypertension and may contribute to its initiation and maintenance. A biochemical basis for this change was provided by the observation that the number of beta-adrenergic receptors, as reflected in specific [3H]dihydroalprenolol binding, was diminished in both arteries and veins of spontaneously hypertensive rats. There was no change in the affinity of dihydroalprenolol for the binding sites or in the capacity of isoproterenol to displace dihydroalprenolol. The decline in beta-adrenergic receptor numbers is not secondary to blood pressure elevation but may, instead, contribute to the pathogenesis of hypertension.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Limas</LastName>
+<ForeName>C J</ForeName>
+<Initials>CJ</Initials>
+</Author>
+<Author>
+<LastName>Limas</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Receptors, Adrenergic</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Receptors, Adrenergic, beta</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>13655-52-2</RegistryNumber>
+<NameOfSubstance>Alprenolol</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7683-59-2</RegistryNumber>
+<NameOfSubstance>Isoproterenol</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Alprenolol</DescriptorName>
+<QualifierName>analogs &#38; derivatives</QualifierName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Binding Sites</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Binding, Competitive</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Blood Vessels</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cell Membrane</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Comparative Study</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hypertension</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Isoproterenol</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Receptors, Adrenergic</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Receptors, Adrenergic, beta</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

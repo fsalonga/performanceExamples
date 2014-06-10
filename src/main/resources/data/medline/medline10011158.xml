@@ -1,0 +1,99 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011158</MedlineID>
+<PMID>420710</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0004-3591</ISSN>
+<JournalIssue>
+<Volume>22</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Penicillamine-induced myasthenia gravis.</ArticleTitle>
+<Pagination>
+<MedlinePgn>197-8</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Sundstrom</LastName>
+<ForeName>W R</ForeName>
+<Initials>WR</Initials>
+</Author>
+<Author>
+<LastName>Schuna</LastName>
+<ForeName>A A</ForeName>
+<Initials>AA</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Arthritis Rheum</MedlineTA>
+<NlmUniqueID>0370605</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>52-67-5</RegistryNumber>
+<NameOfSubstance>Penicillamine</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Arthritis, Rheumatoid</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Case Report</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Middle Age</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Myasthenia Gravis</DescriptorName>
+<QualifierName MajorTopicYN="Y">chemically induced</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Penicillamine</DescriptorName>
+<QualifierName>administration &#38; dosage</QualifierName>
+<QualifierName MajorTopicYN="Y">adverse effects</QualifierName>
+<QualifierName>therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, Non-P.H.S.</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

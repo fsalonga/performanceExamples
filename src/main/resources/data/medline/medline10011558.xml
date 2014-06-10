@@ -1,0 +1,144 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011558</MedlineID>
+<PMID>369631</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0306-042X</ISSN>
+<JournalIssue>
+<Volume>6</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Analysis of the venom of the Sydney funnel-web spider, Atrax robustus using gas chromatography mass spectrometry.</ArticleTitle>
+<Pagination>
+<MedlinePgn>105-8</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Thirteen compounds have been identified using gas chromatography mass spectrometry in the venom of the Sydney funnel-web spider, Atrax robustus. The compounds were identified as their trimethylsilyl or pentafluoropropionate derivatives and were citric acid, lactic acid, phosphoric acid, glycerol, urea, glucose, gamma-aminobutyric acid, glycine, spermidine, spermine, tyramine and octopamine. Female venom contained trace quantities of 5-methyoxytryptamine which was not detected in male venom. Quantitative determination of tyramine and octopamine was achieved using chemical ionization (CH4) gas chromatography mass spectrometry and deuterated internal standards.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Duffield</LastName>
+<ForeName>P H</ForeName>
+<Initials>PH</Initials>
+</Author>
+<Author>
+<LastName>Duffield</LastName>
+<ForeName>A M</ForeName>
+<Initials>AM</Initials>
+</Author>
+<Author>
+<LastName>Carroll</LastName>
+<ForeName>P R</ForeName>
+<Initials>PR</Initials>
+</Author>
+<Author>
+<LastName>Morgans</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Biomed Mass Spectrom</MedlineTA>
+<NlmUniqueID>0430246</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Arthropod Venoms</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Ions</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Propionates</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Spider Venoms</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Trimethylsilyl Compounds</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>104-14-3</RegistryNumber>
+<NameOfSubstance>Octopamine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>51-67-2</RegistryNumber>
+<NameOfSubstance>Tyramine</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Arthropod Venoms</DescriptorName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Chromatography, Gas</DescriptorName>
+<QualifierName>methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Electrons</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Ions</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Octopamine</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Propionates</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Spectrum Analysis, Mass</DescriptorName>
+<QualifierName>methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Spider Venoms</DescriptorName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Spiders</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Trimethylsilyl Compounds</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Tyramine</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

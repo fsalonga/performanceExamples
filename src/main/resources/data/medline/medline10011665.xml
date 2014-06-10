@@ -1,0 +1,87 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011665</MedlineID>
+<PMID>421000</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0007-1447</ISSN>
+<JournalIssue>
+<Volume>1</Volume>
+<Issue>6157</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>20</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Delayed haemorrhagic disease of the newborn with extradural haematoma.</ArticleTitle>
+<Pagination>
+<MedlinePgn>164-5</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Cooper</LastName>
+<ForeName>N A</ForeName>
+<Initials>NA</Initials>
+</Author>
+<Author>
+<LastName>Lynch</LastName>
+<ForeName>M A</ForeName>
+<Initials>MA</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Br Med J</MedlineTA>
+<NlmUniqueID>0372673</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Breast Feeding</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hematoma, Epidural</DescriptorName>
+<QualifierName MajorTopicYN="Y">etiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hemorrhagic Disease of Newborn</DescriptorName>
+<QualifierName MajorTopicYN="Y">complications</QualifierName>
+<QualifierName>etiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Infant</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Vitamin K Deficiency</DescriptorName>
+<QualifierName>complications</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

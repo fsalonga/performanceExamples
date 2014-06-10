@@ -1,0 +1,145 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011987</MedlineID>
+<PMID>217531</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0008-5472</ISSN>
+<JournalIssue>
+<Volume>39</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Apr</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Role of superoxide dismutase in cancer: a review.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1141-9</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Diminished amounts of manganese-containing superoxide dismutase have been found in all the tumors examined to date. Lowered amounts of the copper-zinc-containing superoxide dismutase have been found in many, but not all, tumors. At the same time, tumors have been shown to produce superoxide radicals. It is shown how diminished enzyme activities along with radical production may lead to many of the observed properties of cancer cells. The apparent exploitation of the differences between normal and cancer cell superoxide dismutase activity in the treatment of cancer is discussed.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Oberley</LastName>
+<ForeName>L W</ForeName>
+<Initials>LW</Initials>
+</Author>
+<Author>
+<LastName>Buettner</LastName>
+<ForeName>G R</ForeName>
+<Initials>GR</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+<PublicationType>Review</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Cancer Res</MedlineTA>
+<NlmUniqueID>2984705R</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Sulfhydryl Compounds</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>11062-77-4</RegistryNumber>
+<NameOfSubstance>Superoxides</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7439-89-6</RegistryNumber>
+<NameOfSubstance>Iron</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7439-96-5</RegistryNumber>
+<NameOfSubstance>Manganese</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7722-84-1</RegistryNumber>
+<NameOfSubstance>Hydrogen Peroxide</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 1.15.1.1</RegistryNumber>
+<NameOfSubstance>Superoxide Dismutase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cell Transformation, Neoplastic</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cells, Cultured</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Comparative Study</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hydrogen Peroxide</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Iron</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Manganese</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Models, Biological</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neoplasms</DescriptorName>
+<QualifierName>drug therapy</QualifierName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Oxidation-Reduction</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Sulfhydryl Compounds</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Superoxide Dismutase</DescriptorName>
+<QualifierName MajorTopicYN="Y">deficiency</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Superoxides</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+<QualifierName>therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<NumberOfReferences>104</NumberOfReferences>
+</MedlineCitation>

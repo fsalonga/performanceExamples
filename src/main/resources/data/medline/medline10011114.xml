@@ -1,0 +1,96 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011114</MedlineID>
+<PMID>420685</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0005-9366</ISSN>
+<JournalIssue>
+<Volume>92</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>1</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>[Azaperone (Stresnil) as a sedative for dogs]</ArticleTitle>
+<Pagination>
+<MedlinePgn>12-5</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Gerbig</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+</Author>
+</AuthorList>
+<Language>ger</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+<VernacularTitle>Azaperone (Stresnil) als Sedativum beim Hund.</VernacularTitle>
+</Article>
+<MedlineJournalInfo>
+<Country>GERMANY, WEST</Country>
+<MedlineTA>Berl Munch Tierarztl Wochenschr</MedlineTA>
+<NlmUniqueID>0003163</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Butyrophenones</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Hypnotics and Sedatives</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>1649-18-9</RegistryNumber>
+<NameOfSubstance>Azaperone</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Azaperone</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Behavior, Animal</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Butyrophenones</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Dogs</DescriptorName>
+<QualifierName MajorTopicYN="Y">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>English Abstract</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Hypnotics and Sedatives</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

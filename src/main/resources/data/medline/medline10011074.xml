@@ -1,0 +1,100 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011074</MedlineID>
+<PMID>420648</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>28</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>28</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0003-9977</ISSN>
+<JournalIssue>
+<Volume>105</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Function of the acoustic reflex in discrimination of intense speech.</ArticleTitle>
+<Pagination>
+<MedlinePgn>119-23</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>It is known that the middle ear acoustic reflex (AR) alters the transmission characteristics of the auditory system; however, disagreement exists on how these changes may influence the ears; transfer of speech stimuli. In this study, speech with and without a competing message was delivered at supra-AR levels to cat ears that demonstrated an active and a pharmaceutically inactivated middle ear reflex mechanism. Resulting cochlear potentials were tape recorded and subsequently presented to 18 human subjects with normal hearing. Findings suggest word and sentence discrimination is enhanced in the presence of a functioning AR, with implications for hearing aid use and stapedectomy procedure.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Mahoney</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author>
+<LastName>Vernon</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author>
+<LastName>Meikle</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Arch Otolaryngol</MedlineTA>
+<NlmUniqueID>0376526</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cochlea</DescriptorName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Ear, Middle</DescriptorName>
+<QualifierName MajorTopicYN="Y">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Electrophysiology</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Reflex</DescriptorName>
+<QualifierName MajorTopicYN="Y">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Speech Perception</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Stapedius</DescriptorName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

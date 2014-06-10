@@ -1,0 +1,145 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011443</MedlineID>
+<PMID>33711</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>566</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>9</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Amidination of amino groups of aldehyde reductase from human liver.</ArticleTitle>
+<Pagination>
+<MedlinePgn>237-44</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Amidination of human liver aldehyde reductase (alcohol:NADP+ oxidoreductase, EC 1.1.1.2) with monofunctional n-alkane methylimidates increased the enzymic activity by 10--30%, whereas analogous bifunctional imidoesters caused a loss of activity of about 80%. Both effects were prevented in the presence of the coenzyme NADPH or NADP+, but not of the substrate 4-nitrobenzaldehyde. Amidination increased the apparent Michaelis constant of both the coenzyme (up to 20-fold) and the substrate (about 5-fold). Bifunctional imidoesters with at least 4 carbon atoms between the functional groups (approx. 0.7 nm) crosslinked the enzyme intramolecularly. This reaction was retarded in the presence of the coenzyme, whereas 4-nitrobenzaldehyde had no effect. The results suggest the presence of reactive amino groups at the coenzyme binding site of aldehyde reductase.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Wermuth</LastName>
+<ForeName>B</ForeName>
+<Initials>B</Initials>
+</Author>
+<Author>
+<LastName>Münch</LastName>
+<ForeName>J D</ForeName>
+<Initials>JD</Initials>
+</Author>
+<Author>
+<LastName>Hajdu</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author>
+<LastName>von Wartburg</LastName>
+<ForeName>J P</ForeName>
+<Initials>JP</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Amines</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Benzaldehydes</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Imides</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>13139-70-3</RegistryNumber>
+<NameOfSubstance>Dimethyl Adipimidate</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>29878-26-0</RegistryNumber>
+<NameOfSubstance>Dimethyl Suberimidate</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>53-59-8</RegistryNumber>
+<NameOfSubstance>NADP</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 1.1</RegistryNumber>
+<NameOfSubstance>Alcohol Oxidoreductases</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Alcohol Oxidoreductases</DescriptorName>
+<QualifierName>antagonists &#38; inhibitors</QualifierName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Amines</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Benzaldehydes</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Binding Sites</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Dimethyl Adipimidate</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Dimethyl Suberimidate</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Imides</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Liver</DescriptorName>
+<QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>NADP</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Structure-Activity Relationship</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

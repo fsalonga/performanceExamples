@@ -1,0 +1,96 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011092</MedlineID>
+<PMID>420664</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>11</Month>
+<Day>14</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0095-6562</ISSN>
+<JournalIssue>
+<Volume>50</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Correlation of choice reaction time performance with biorhythmic criticality and cycle phase.</ArticleTitle>
+<Pagination>
+<MedlinePgn>34-9</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The biorhythm theory correlates behavior to physical, emotional, and intellectual cycles. It states that an individual's behavior is influenced by these three cycles which begin at the moment of birth and operate thereafter simultaneously. The theory is commonly tested when the occurrence of accidents is compared to the phase of the biorhythm cycles. If the theory is true, more accidents would occur on a critical day than would be expected by a random distribution. A second method to test the theory is used in this paper, where actual performance of a laboratory task is correlated with the phases of the cycle. Performance was measured in a choice reaction time (CRT) task with each task composed of 400 light flashes. The methods and results are presented and discussed. The conclusion reached from analyses of the data was that performance in the CRT task was no influenced by biorhythms.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Wolcott</LastName>
+<ForeName>J H</ForeName>
+<Initials>JH</Initials>
+</Author>
+<Author>
+<LastName>Hanson</LastName>
+<ForeName>C A</ForeName>
+<Initials>CA</Initials>
+</Author>
+<Author>
+<LastName>Foster</LastName>
+<ForeName>W D</ForeName>
+<Initials>WD</Initials>
+</Author>
+<Author>
+<LastName>Kay</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Aviat Space Environ Med</MedlineTA>
+<NlmUniqueID>7501714</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<CitationSubset>S</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Achievement</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Adolescence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Biological Clocks</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Choice Behavior</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Reaction Time</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<OtherID Source="NASA">79123723</OtherID>
+</MedlineCitation>

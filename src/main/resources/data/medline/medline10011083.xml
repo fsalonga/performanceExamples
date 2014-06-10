@@ -1,0 +1,79 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011083</MedlineID>
+<PMID>420656</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>28</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>28</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0003-9977</ISSN>
+<JournalIssue>
+<Volume>105</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Clinical vs histopathologic staging in laryngeal cancer.</ArticleTitle>
+<Pagination>
+<MedlinePgn>157-9</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>One hundred fourteen serially sectioned, nonirradiated, laryngeal specimens that were removed for cancer have been examined to determine the accuracy of preoperative staging. Characteristics of the primary lesion, which indicate invasion of the laryngeal framework, have been demonstrated for each region in the larynx. Pathologic findings, such as submucosal extension, growth into the preepiglottic space, infraglottic extension, and involvement of the laryngeal ventricle, have been correlated with clinical staging. The relationship between tumor size and accuracy of clinical staging has been evaluated. For multiregional lesions, the location that yielded the highest probability of metastasis was designated as the primary site. Our findings indicate inaccurate staging for 37% of glottic tumors, 38% of supraglottic tumors, 50% of transglottic tumors, and 13% of subglottic lesions. In 89% of the cases that were staged inaccurately, the error was one of underestimation. Depth of tumor invasion was the most difficult measurement to determine.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Pillsbury</LastName>
+<ForeName>H R</ForeName>
+<Initials>HR</Initials>
+</Author>
+<Author>
+<LastName>Kirchner</LastName>
+<ForeName>J A</ForeName>
+<Initials>JA</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Arch Otolaryngol</MedlineTA>
+<NlmUniqueID>0376526</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Comparative Study</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Laryngeal Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y">pathology</QualifierName>
+<QualifierName>therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neoplasm Staging</DescriptorName>
+<QualifierName>methods</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

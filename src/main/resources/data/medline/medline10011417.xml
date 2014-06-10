@@ -1,0 +1,97 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011417</MedlineID>
+<PMID>420845</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>561</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>26</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Kinetoplast DNA from normal and dyskinetoplastic strains of Trypanosoma equiperdum.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1-9</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Isolated kinetoplast DNA (kDNA) from a normal kinetoplastic strain of Trypanosoma equiperdum exists as a high molecular weight, covalently closed network composed of catenated minicircles and maxicircles. Analytical cesium chloride ultracentrifugation shows the kDNA (rho = 1.692 g/cm3) to be retained in normal amounts and of normal base composition in two dyskinetoplastic strains of T. equiperdum. Kinetoplast DNA isolated from these mutant cells by CsCl-DAPI (4,6diamino-2-phenylindole) equilibrium ultracentrifugation lacks the complex networks found in the normal strain and no minicircles are detectable. Large circular molecules, approximately 5 micrometer in contour length, are present in isolated kDNA from both dyskinetoplastic strains. These molecules probably correspond to the maxicircles in the normal kDNA networks. We conclude that the presence of a complex kDNA network is not essential to the bloodstream trypanosome and that the kDNA network of the normal strain of T. equiperdum is structurally dependent on the presence of catenated minicircles.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Hajduk</LastName>
+<ForeName>S L</ForeName>
+<Initials>SL</Initials>
+</Author>
+<Author>
+<LastName>Cosgrove</LastName>
+<ForeName>W B</ForeName>
+<Initials>WB</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>DNA, Circular</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cilia</DescriptorName>
+<QualifierName>ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>DNA, Circular</DescriptorName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Molecular Weight</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mutation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Organoids</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Trypanosoma</DescriptorName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+<QualifierName>genetics</QualifierName>
+<QualifierName>ultrastructure</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

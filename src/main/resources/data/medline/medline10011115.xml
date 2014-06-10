@@ -1,0 +1,75 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011115</MedlineID>
+<PMID>369546</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0005-9366</ISSN>
+<JournalIssue>
+<Volume>92</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>1</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>[In memoriam Professor E. Becker]</ArticleTitle>
+<Pagination>
+<MedlinePgn>20</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Wintzer</LastName>
+</Author>
+</AuthorList>
+<Language>ger</Language>
+<PublicationTypeList>
+<PublicationType>Biography</PublicationType>
+<PublicationType>Historical Article</PublicationType>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+<VernacularTitle>Professor Dr. E. Becker.</VernacularTitle>
+</Article>
+<MedlineJournalInfo>
+<Country>GERMANY, WEST</Country>
+<MedlineTA>Berl Munch Tierarztl Wochenschr</MedlineTA>
+<NlmUniqueID>0003163</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<CitationSubset>Q</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Berlin</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>History of Medicine, 20th Cent.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Veterinary Medicine</DescriptorName>
+<QualifierName>history</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+<PersonalNameSubjectList>
+<PersonalNameSubject>
+<LastName>Becker</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+</PersonalNameSubject>
+</PersonalNameSubjectList>
+</MedlineCitation>

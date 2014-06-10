@@ -1,0 +1,148 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011408</MedlineID>
+<PMID>420840</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>551</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+<Day>8</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Effects of phospholipase A2 and filipin on the activation of adenylate cyclase.</ArticleTitle>
+<Pagination>
+<MedlinePgn>368-81</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Rat liver plasma membranes were incubated with phospholipase A2 (purified from snake venom) or with filipin, a polyene antibiotic, followed by analysis of the binding of glucagon to receptors, effects of GTP on the glucagon-receptor complex, and the activity and responses of adenylate cyclase to glucagon + GTP, GTP, Gpp(NH)p, and F-. Phospholipase A2 treatment resulted in concomitant lossess of glucagon binding and of activation of cyclase by glucagon + GTP. Greater than 85% of maximal hydrolysis of membrane phospholipids was required before significant effects of phospholipase A2 on receptor binding and activity response to glucagon were observed. The stimulatory effects of Gpp(NH)p or F- remained essentially unaffected even at maximal hydrolysis of phospholipids, whereas the stimulatory effect of GTP was reduced. Detailed analysis of receptor binding indicates that phospholipase A2 treatment affected the affinity but not the number of glucagon receptors. The receptors remain sensitive to the effects of GTP on hormone binding. Filipin also caused marked reduction in activation by glucagon + GTP. However, in contrast to phospholipase A2 treatment, the binding of glucagon to receptors was unaffected. The effect of GTP on the binding process was also not affected. The most sensitive parameter of activity altered by filipin was stimulation by GTP or Gpp(NH)p; basal and fluoride-stimulated activities were least affected. It is concluded from these findings that phospholipase A2 and filipin, as was previously shown with phospholipase C, are valuable tools for differentially affecting the components involved in hormone, guanyl nucleotide, and fluoride action on hepatic adenylate cyclase.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Lad</LastName>
+<ForeName>P M</ForeName>
+<Initials>PM</Initials>
+</Author>
+<Author>
+<LastName>Preston</LastName>
+<ForeName>M S</ForeName>
+<Initials>MS</Initials>
+</Author>
+<Author>
+<LastName>Welton</LastName>
+<ForeName>A F</ForeName>
+<Initials>AF</Initials>
+</Author>
+<Author>
+<LastName>Nielsen</LastName>
+<ForeName>T B</ForeName>
+<Initials>TB</Initials>
+</Author>
+<Author>
+<LastName>Rodbell</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Polyenes</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>480-49-9</RegistryNumber>
+<NameOfSubstance>Filipin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>56-65-5</RegistryNumber>
+<NameOfSubstance>Adenosine Triphosphate</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9007-92-5</RegistryNumber>
+<NameOfSubstance>Glucagon</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.1.-</RegistryNumber>
+<NameOfSubstance>Phospholipases</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 4.6.1.1</RegistryNumber>
+<NameOfSubstance>Adenylate Cyclase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adenosine Triphosphate</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Adenylate Cyclase</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cell Membrane</DescriptorName>
+<QualifierName>enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Enzyme Activation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Filipin</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Glucagon</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Liver</DescriptorName>
+<QualifierName>enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phospholipases</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Polyenes</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

@@ -1,0 +1,142 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011498</MedlineID>
+<PMID>33726</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0320-9725</ISSN>
+<JournalIssue>
+<Volume>44</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>[Effect of lecithin on liver microsomal lipid peroxidation]</ArticleTitle>
+<Pagination>
+<MedlinePgn>125-9</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The effect of exogeneous (egg) lecithin on peroxidation of microsomal lipids was studied with the view of elucidating the role of various components of lipid substrate in the overall oxidation rate of the lipids. The following processes were studied a) NADPH-dependent microsomal lipid peroxidation in the presence of lecithin; b) ascorbate-dependent microsomal lipid peroxidation in the presence of lecithin; c) oxidation of lipid mixture, isolated from the microsomes, and that of lecithin in the presence of the Fe2+ + ascorbate system; 4) oxidation of lecithin induced by the Fe2+ + ascorbate system. It was found that in the presence of exogeneous lecithin the oxidation of microsomal lipids in inhibited, which is probably due to the peculiarities of lecithin oxidation. It was shown that the specific rate of lecithin oxidation is decreased with an increase in lecithin concentration. Possible mechanisms of lecithin effect on microsomal lipid peroxidation are discussed.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Aristarkhova</LastName>
+<ForeName>S A</ForeName>
+<Initials>SA</Initials>
+</Author>
+<Author>
+<LastName>Burlakova</LastName>
+<ForeName>E B</ForeName>
+<Initials>EB</Initials>
+</Author>
+<Author>
+<LastName>Sheludchenko</LastName>
+<ForeName>N I</ForeName>
+<Initials>NI</Initials>
+</Author>
+</AuthorList>
+<Language>rus</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+<VernacularTitle>Vliianie letsitina na perekisnoe okislenie lipidov v mikrosomakh pecheni.</VernacularTitle>
+</Article>
+<MedlineJournalInfo>
+<Country>USSR</Country>
+<MedlineTA>Biokhimiia</MedlineTA>
+<NlmUniqueID>0372667</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Lipids</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Peroxides</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Phosphatidylcholines</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>50-81-7</RegistryNumber>
+<NameOfSubstance>Ascorbic Acid</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>53-59-8</RegistryNumber>
+<NameOfSubstance>NADP</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7439-89-6</RegistryNumber>
+<NameOfSubstance>Iron</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 1.11.1.</RegistryNumber>
+<NameOfSubstance>Peroxidases</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Ascorbic Acid</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>English Abstract</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Iron</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Lipids</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mice</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Microsomes, Liver</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>NADP</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Peroxidases</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Peroxides</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phosphatidylcholines</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

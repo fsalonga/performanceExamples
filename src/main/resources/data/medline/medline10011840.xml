@@ -1,0 +1,109 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011840</MedlineID>
+<PMID>84697</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-8993</ISSN>
+<JournalIssue>
+<Volume>161</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>9</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>The olivocerebellar projections to the flocculus and paraflocculus in the cat, compared to those in the rabbit. A study using horseradish peroxidase as a tracer.</ArticleTitle>
+<Pagination>
+<MedlinePgn>389-98</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The projections from the inferior olive to the flocculus and paraflocculus in the cat have been mapped by means of the method of retrograde axonal transport of horseradish peroxidase. The findings show that the afferents to the flocculus are derived from the dorsal cap, ventrolateral outgrowth, the principal olive (the caudal parts of the ventral and dorsal lamella) and from the rostral part of the medial accessory olive. The fibres to the paraflocculus come from the caudal part of the principal and from the rostral part of the medial accessory olive. Details in the projections are seen from Figs. 1 and 2. Concerning some points the findings are at variance with those made in the rabbit by Hoddevik and Brodal, and suggest that there are species differences hitherto not known.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Walberg</LastName>
+<ForeName>F</ForeName>
+<Initials>F</Initials>
+</Author>
+<Author>
+<LastName>Kotchabhakdi</LastName>
+<ForeName>N</ForeName>
+<Initials>N</Initials>
+</Author>
+<Author>
+<LastName>Hoddevik</LastName>
+<ForeName>G H</ForeName>
+<Initials>GH</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Brain Res</MedlineTA>
+<NlmUniqueID>0045503</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>EC 1.11.1.-</RegistryNumber>
+<NameOfSubstance>Horseradish Peroxidase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Axonal Transport</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cerebellum</DescriptorName>
+<QualifierName MajorTopicYN="Y">anatomy &#38; histology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Comparative Study</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Dominance, Cerebral</DescriptorName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Horseradish Peroxidase</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neural Pathways</DescriptorName>
+<QualifierName>anatomy &#38; histology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Olivary Nucleus</DescriptorName>
+<QualifierName MajorTopicYN="Y">anatomy &#38; histology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rabbits</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

@@ -1,0 +1,92 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011014</MedlineID>
+<PMID>420602</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0003-9942</ISSN>
+<JournalIssue>
+<Volume>36</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Plexiform neurofibroma infiltrating the facial nerve.</ArticleTitle>
+<Pagination>
+<MedlinePgn>35-7</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>A plexiform neurofibroma was unusual in that it extensively infiltrated the main trunk and branches of the left facial nerve without compromising function, rather than forming a circumscribed, compressive mass. Histologic sections showed diffuse involvement of even minute branches of the facial nerve. Electron microscopy disclosed Schwann cell and fibroblastic proliferation in a collagenous matrix. Collagen fibrogenesis by fibroblasts, but not by Schwann cells, was noted. Many of the Schwann cells were free of any association with nerve axons, which suggests that some release of the Schwann cell from its usually well-defined functions is involved in neurofibroma formation.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Osebold</LastName>
+<ForeName>W</ForeName>
+<Initials>W</Initials>
+</Author>
+<Author>
+<LastName>Moore</LastName>
+<ForeName>K C</ForeName>
+<Initials>KC</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Arch Neurol</MedlineTA>
+<NlmUniqueID>0372436</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Case Report</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Child</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cranial Nerve Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y">ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Facial Nerve</DescriptorName>
+<QualifierName>ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neurofibroma</DescriptorName>
+<QualifierName MajorTopicYN="Y">ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Schwann Cells</DescriptorName>
+<QualifierName>ultrastructure</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

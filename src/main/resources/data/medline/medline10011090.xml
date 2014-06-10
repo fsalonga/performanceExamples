@@ -1,0 +1,118 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011090</MedlineID>
+<PMID>420662</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>11</Month>
+<Day>14</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0095-6562</ISSN>
+<JournalIssue>
+<Volume>50</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Effect of alcohol and marijuana on eye movements.</ArticleTitle>
+<Pagination>
+<MedlinePgn>18-23</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The effects of alcohol and marijuana (tetrahydrocannabinol-THC) on saccades, smooth pursuit, and optokinetic nystagmus were quantitatively evaluated in 24 normal subjects using electro-oculographic recordings. Each subject was given an initial trial run and then tested three times (at weekly intervals) with either 0.0microgram THC or 100 microgram THC/kg bodyweight while at three different blood alcohol concentrations (0.0, 0.05 and 0.1%). A 2X3 factorial design was used. Saccades and smooth pursuit were induced by a dot of light moving in steps and ramps on a modified television set. Optokinetic nystagmus was induced by a cloth drum completely surrounding the subject and moving at a constant velocity of 30 degrees/s. Alcohol (0.05 and 0.1%) alone produced significant (p less than 0.05) impairment of saccade maximum velocity and reaction time, smooth pursuit velocity, and optokinetic slow-component velocity. The addition of THC caused performance to further deteriorate at each blood alcohol level but, in all but one instance, the added effect was not statistically significant ( greater than 0.05). At the THC and alcohol concentrations used in this study, the eye movement effects of alcohol over-shadowed those of marijuana.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Baloh</LastName>
+<ForeName>R W</ForeName>
+<Initials>RW</Initials>
+</Author>
+<Author>
+<LastName>Sharma</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author>
+<LastName>Moskowitz</LastName>
+<ForeName>H</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author>
+<LastName>Griffith</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Aviat Space Environ Med</MedlineTA>
+<NlmUniqueID>7501714</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>1972-08-3</RegistryNumber>
+<NameOfSubstance>Tetrahydrocannabinol</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>64-17-5</RegistryNumber>
+<NameOfSubstance>Ethanol</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<CitationSubset>S</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Alcohol Drinking</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Dose-Response Relationship, Drug</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Drug Interactions</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Ethanol</DescriptorName>
+<QualifierName>blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Eye Movements</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Saccades</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Tetrahydrocannabinol</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

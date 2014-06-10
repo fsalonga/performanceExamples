@@ -1,0 +1,123 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011210</MedlineID>
+<PMID>420740</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0007-1048</ISSN>
+<JournalIssue>
+<Volume>41</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Serial changes in coagulation and viscosity during sickle-cell crisis.</ArticleTitle>
+<Pagination>
+<MedlinePgn>95-103</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Coagulation activity and whole-blood viscosity were measured in the steady state, and serially during painful crisis, in eight patients with sickle-cell anaemia. Platelet and coagulation activation occurred in the steady state and became more pronounced early in crisis. Whole-blood viscosity increased during crisis in parallel with plasma fibrinogen. Similar changes were found in a parallel study of 20 patients with localized bacterial or viral infection who did not have sickle-cell anaemia. Reports of platelet activation, hypercoagulability, and hyperviscosity during painful crisis therefore reflect secondary changes arising from vascular stasis, precipitating infection, and an acute-phase protein reaction. Although secondary, these changes may contribute to vascular occlusion by an additive effect in vessels already partially occluded by sickled cells.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Richardson</LastName>
+<ForeName>S G</ForeName>
+<Initials>SG</Initials>
+</Author>
+<Author>
+<LastName>Matthews</LastName>
+<ForeName>K B</ForeName>
+<Initials>KB</Initials>
+</Author>
+<Author>
+<LastName>Stuart</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author>
+<LastName>Geddes</LastName>
+<ForeName>A M</ForeName>
+<Initials>AM</Initials>
+</Author>
+<Author>
+<LastName>Wilcox</LastName>
+<ForeName>R M</ForeName>
+<Initials>RM</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Br J Haematol</MedlineTA>
+<NlmUniqueID>0372544</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>9001-32-5</RegistryNumber>
+<NameOfSubstance>Fibrinogen</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adolescence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Anemia, Sickle Cell</DescriptorName>
+<QualifierName MajorTopicYN="Y">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Blood Coagulation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Blood Coagulation Tests</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Blood Viscosity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Child</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cold</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Fibrinogen</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Infection</DescriptorName>
+<QualifierName>blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Middle Age</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

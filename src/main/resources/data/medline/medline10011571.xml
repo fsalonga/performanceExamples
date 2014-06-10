@@ -1,0 +1,119 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011571</MedlineID>
+<PMID>420922</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3592</ISSN>
+<JournalIssue>
+<Volume>21</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Apr</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Immobilization of phenol hydroxylase.</ArticleTitle>
+<Pagination>
+<MedlinePgn>715-9</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Kjellén</LastName>
+<ForeName>K G</ForeName>
+<Initials>KG</Initials>
+</Author>
+<Author>
+<LastName>Neujahr</LastName>
+<ForeName>H Y</ForeName>
+<Initials>HY</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biotechnol Bioeng</MedlineTA>
+<NlmUniqueID>7502021</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Acrylamides</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Carbodiimides</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Enzymes, Immobilized</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Gels</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Phenols</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Polymers</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 1.14.</RegistryNumber>
+<NameOfSubstance>Hydroxylases</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Acrylamides</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Adsorption</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Carbodiimides</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Chemistry, Physical</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Enzymes, Immobilized</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Gels</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Hydroxylases</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phenols</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Polymers</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

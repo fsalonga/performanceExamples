@@ -1,0 +1,117 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011270</MedlineID>
+<PMID>369598</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>9</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>S1 nuclease as a probe for the conformation of a dimeric tRNA precursor.</ArticleTitle>
+<Pagination>
+<MedlinePgn>77-83</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>We have employed S1 nuclease to probe the structure of an intermediate in tRNA biosynthesis available only in radiochemical purity. The dimeric precursor to tRNAGln and tRNALeu from bacteriophage T4 was digested with the single-strand specific nuclease, and the products of the reaction were compared with the S1 digestion products of the mature cognate tRNA'S. Quantitation and sequence analysis of the products revealed that the location and accessibility of S1 cleavage sites in the precursor were substantially identical with those in the mature forms. Based on these conclusions, it is argued that the dimer is comprised of two domains in which the specific features of both secondary and tertiary conformation closely resemble those found in the mature molecules; at the same time we noted small but apparently significant differences in certain regions of the molecule which may reflect signals for various maturation events. Finally, we have determined that the sites of precursor cleavage by RNase P, the endonuclease which generates the mature 5' termini of these tRNAs, were completely inaccessible to S1 digestion.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Manale</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author>
+<LastName>Guthrie</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author>
+<LastName>Colby</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Anticodon</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Oligoribonucleotides</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9014-25-9</RegistryNumber>
+<NameOfSubstance>RNA, Transfer</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.1.-</RegistryNumber>
+<NameOfSubstance>Ribonucleases</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Anticodon</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Base Sequence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Escherichia coli</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Nucleic Acid Conformation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Oligoribonucleotides</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">RNA, Transfer</DescriptorName>
+<QualifierName>biosynthesis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Ribonucleases</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, Non-P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

@@ -1,0 +1,105 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011356</MedlineID>
+<PMID>33701</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>5</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+<Day>6</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>1H NMR and ESR studies of oxidized cytochrome c551 from Pseudomonas aeruginosa.</ArticleTitle>
+<Pagination>
+<MedlinePgn>774-9</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Near neutral pH, Fe(III) cytochrome c551 exhibits an ESR absorption due primarily to a single species with g values of 3.24, 2.06, and 1.48. These g values are somewhat different from those of horse heart cytochrome c and can be interpreted by the generalizations of Brautigan et al. [(1977) J. Biol. Chem. 252, 574] to be due to Fe binding by the imidazole anion of histidine rather than by neutral imidazole. The NMR spectrum of Fe(III) cytochrome c551 exhibits a number of hyperfine-shifted peaks whose pattern shows similarities to but many differences from that of horse heart cytochrome c. Variation in shifts of some of the peaks in the pH range 5--9 is ascribed to ionization of a somewhat buried propionic acid side chain (pK = 5.8) and to ionization of the N-terminal NH3+ group (pK = 7.7). At alkaline pH greater than 9.4, as shown by a variety of optical and ESR spectral changes, the Met-61 S ligand is replaced by other ligands.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Chao</LastName>
+<ForeName>Y Y</ForeName>
+<Initials>YY</Initials>
+</Author>
+<Author>
+<LastName>Bersohn</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author>
+<LastName>Aisen</LastName>
+<ForeName>P</ForeName>
+<Initials>P</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Cytochromes</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Comparative Study</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Cytochromes</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Electron Spin Resonance Spectroscopy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hydrogen-Ion Concentration</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Magnetic Resonance Spectroscopy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Oxidation-Reduction</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Pseudomonas aeruginosa</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Species Specificity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Temperature</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

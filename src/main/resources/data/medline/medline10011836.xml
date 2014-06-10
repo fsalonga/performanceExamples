@@ -1,0 +1,140 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011836</MedlineID>
+<PMID>217485</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-8993</ISSN>
+<JournalIssue>
+<Volume>160</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>19</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Synaptic responses of lumbar alpha-motoneurones to chemical algesic stimulation of skeletal muscle in spinal cats.</ArticleTitle>
+<Pagination>
+<MedlinePgn>549-52</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Kniffki</LastName>
+<ForeName>K D</ForeName>
+<Initials>KD</Initials>
+</Author>
+<Author>
+<LastName>Schomburg</LastName>
+<ForeName>E D</ForeName>
+<Initials>ED</Initials>
+</Author>
+<Author>
+<LastName>Steffens</LastName>
+<ForeName>H</ForeName>
+<Initials>H</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Brain Res</MedlineTA>
+<NlmUniqueID>0045503</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>58-82-2</RegistryNumber>
+<NameOfSubstance>Bradykinin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7447-40-7</RegistryNumber>
+<NameOfSubstance>Potassium Chloride</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Bradykinin</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Decerebrate State</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Evoked Potentials</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hindlimb</DescriptorName>
+<QualifierName>innervation</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Motor Endplate</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Motor Neurons</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Muscles</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neurons, Afferent</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Potassium Chloride</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Reaction Time</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Reflex</DescriptorName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Spinal Cord</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Synapses</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Synaptic Transmission</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

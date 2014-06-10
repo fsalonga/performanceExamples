@@ -1,0 +1,113 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011941</MedlineID>
+<PMID>421179</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0008-543X</ISSN>
+<JournalIssue>
+<Volume>43</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>A comparative study including ultrastructure of intramuscular myxoma and myxoid liposarcoma.</ArticleTitle>
+<Pagination>
+<MedlinePgn>512-25</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The clinicopathological data of ten intramuscular myxomas (IMM) and three myxoid liposarcomas (MLS) are presented with emphasis on their ultrastructure. Electron microscopy of three of the IMM demonstrated the principal cell of the IMM to be similar to a fibroblast with prominent R.E.R., well-developed Golgi apparatus and cytoplasmic filaments. Intracytoplasmic lipid droplets were very rare. The matrix was composed of finely granular material, collagen fibers, fibrils and few capillaries. In contrast with the IMM, the cytoplasm of the MLS contained extensive lipid droplets. Capillaries were very abundant and in close proximity to the lipoblasts. The distinction between an IMM and MLS is usually clear-cut by light microscopy. Dissimilar ultrastructural features provide additional data to separate these two tumors. Ultrastructure confirmed Enzinger's impression that the cell of origin of the IMM is similar to a fibroblast with features that support the hypothesis that these cells are the source of production of the excessive amount of mucopolysaccharides in the matrix.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Feldman</LastName>
+<ForeName>P S</ForeName>
+<Initials>PS</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Cancer</MedlineTA>
+<NlmUniqueID>0374236</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Lipids</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Comparative Study</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Diagnosis, Differential</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Lipids</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Liposarcoma</DescriptorName>
+<QualifierName>blood supply</QualifierName>
+<QualifierName>metabolism</QualifierName>
+<QualifierName MajorTopicYN="Y">ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Microscopy, Electron</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Middle Age</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Muscular Diseases</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+<QualifierName MajorTopicYN="Y">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Myxoma</DescriptorName>
+<QualifierName>blood supply</QualifierName>
+<QualifierName>metabolism</QualifierName>
+<QualifierName MajorTopicYN="Y">ultrastructure</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

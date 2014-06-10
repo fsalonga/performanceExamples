@@ -1,0 +1,110 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011510</MedlineID>
+<PMID>420879</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>11</Month>
+<Day>19</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0320-9725</ISSN>
+<JournalIssue>
+<Volume>44</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>[Effect of cations on the quantum yield and the lifetime of the chloroplast fluorescence]</ArticleTitle>
+<Pagination>
+<MedlinePgn>40-9</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The interrelationship between the cation-induced fluorescence changes and the state of the photosystem 2 (PS-2) reaction centers for pea chloroplasts and their osmotic fragments was studied. The effects of K+ and Mg2+ on the fluorescence quantum yield (phi f1) under varying light intensities as well as on the fluorescence lifetime (tau f1) in the saturating light were demonstrated. K+ induces the decrease in tau f1; Mg2+ exerts an opposite effect. The effects were more pronounced when the reaction centers of PS-2 were converted into an inactive state by illuminating the sample with a saturating light or by adding DCMU. Under these conditions the cations' effect on tau f1 was accompanied by proportional changes in tau f1. It was concluded that in Mg-deficient chloroplasts an efficient channel of the excitation quenching appears in antenna chlorophyll of PS-2 with the rate constant of 7 . 10(8) s-1. The simultaneous measurements of tau f1 by phase and modulation type techniques allowed to reveal the emission heterogeneity within the nanosecond time interval and the DCMU-sensitive delayed fluorescence with the lifetime exceeding 10(-7) s and the overall quantum yield approximately equal to 2 . 10(-3).</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Il'ina</LastName>
+<ForeName>M D</ForeName>
+<Initials>MD</Initials>
+</Author>
+<Author>
+<LastName>Borisov</LastName>
+<ForeName>A Iu</ForeName>
+<Initials>AIu</Initials>
+</Author>
+</AuthorList>
+<Language>rus</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+<VernacularTitle>Izmeneniia vykhoda i vremeni zhizni fluorestsentsii khloroplastov pod deĭstviem kationov.</VernacularTitle>
+</Article>
+<MedlineJournalInfo>
+<Country>USSR</Country>
+<MedlineTA>Biokhimiia</MedlineTA>
+<NlmUniqueID>0372667</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>330-54-1</RegistryNumber>
+<NameOfSubstance>Diuron</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7439-95-4</RegistryNumber>
+<NameOfSubstance>Magnesium</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7440-09-7</RegistryNumber>
+<NameOfSubstance>Potassium</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Chloroplasts</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Diuron</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>English Abstract</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Magnesium</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Plants</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Potassium</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Quantum Theory</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Spectrometry, Fluorescence</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

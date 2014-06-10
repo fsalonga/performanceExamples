@@ -1,0 +1,124 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011416</MedlineID>
+<PMID>420844</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>551</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+<Day>8</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Tris(hydroxymethyl)aminomethane inhibits calcium uptake in vascular smooth muscle.</ArticleTitle>
+<Pagination>
+<MedlinePgn>459-62</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>This report demonstrates that the commonly used buffering agent Tris(hydroxymethyl)aminomethane (Tris) in concentrations of 5 and 30 mM inhibits calcium (Ca2+) uptake in both rat aortic and portal venous smooth muscle. The data indicates that total exchangeable Ca2+ in portal vein is reduced by about 35% in 5 or 30 mM Tris, while the intracellular exchangeable Ca2+ is not significantly altered. On the other hand, in aortic smooth muscle, while 30 mM Tris reduces total exchangeable Ca2+ by about 20%, intracellular Ca2+ is reduced by 44% in 5 mM Tris and by 55% in 30 mM Tris. The present studies, thus, reveal that Tris exerts significant inhibitory effects on exchangeability and transmembrane movement of Ca2+ in at least two different types of smooth muscle.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Turlapaty</LastName>
+<ForeName>P D</ForeName>
+<Initials>PD</Initials>
+</Author>
+<Author>
+<LastName>Altura</LastName>
+<ForeName>B T</ForeName>
+<Initials>BT</Initials>
+</Author>
+<Author>
+<LastName>Altura</LastName>
+<ForeName>B M</ForeName>
+<Initials>BM</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>7440-70-2</RegistryNumber>
+<NameOfSubstance>Calcium</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>77-86-1</RegistryNumber>
+<NameOfSubstance>Tromethamine</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Aorta</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Biological Transport, Active</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Calcium</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Comparative Study</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Muscle, Smooth</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Organ Specificity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Portal Vein</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Tromethamine</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

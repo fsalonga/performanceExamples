@@ -1,0 +1,103 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011155</MedlineID>
+<PMID>420708</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0004-3591</ISSN>
+<JournalIssue>
+<Volume>22</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Rheumatoid arthritis, amyloidosis, and chylous effusions.</ArticleTitle>
+<Pagination>
+<MedlinePgn>182-5</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Baim</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author>
+<LastName>Samuelson</LastName>
+<ForeName>C O</ForeName>
+<Initials>CO</Initials>
+</Author>
+<Author>
+<LastName>Ward</LastName>
+<ForeName>J R</ForeName>
+<Initials>JR</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Arthritis Rheum</MedlineTA>
+<NlmUniqueID>0370605</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Amyloidosis</DescriptorName>
+<QualifierName MajorTopicYN="Y">complications</QualifierName>
+<QualifierName>pathology</QualifierName>
+<QualifierName>radiography</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Arthritis, Rheumatoid</DescriptorName>
+<QualifierName MajorTopicYN="Y">complications</QualifierName>
+<QualifierName>pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Case Report</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Chylothorax</DescriptorName>
+<QualifierName MajorTopicYN="Y">etiology</QualifierName>
+<QualifierName>pathology</QualifierName>
+<QualifierName>radiography</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Lymph Nodes</DescriptorName>
+<QualifierName>pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Middle Age</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Thoracic Duct</DescriptorName>
+<QualifierName>radiography</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

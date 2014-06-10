@@ -1,0 +1,110 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011838</MedlineID>
+<PMID>421126</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-8993</ISSN>
+<JournalIssue>
+<Volume>160</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>19</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Effects of partial cooling of cerebellar cortex at lobules V and IV of the intermediate part in the decerebrate walking cats under monitoring vertical floor reaction forces.</ArticleTitle>
+<Pagination>
+<MedlinePgn>559-64</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Udo</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author>
+<LastName>Matsukawa</LastName>
+<ForeName>K</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author>
+<LastName>Kamei</LastName>
+<ForeName>H</ForeName>
+<Initials>H</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Brain Res</MedlineTA>
+<NlmUniqueID>0045503</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Biophysics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cerebellar Cortex</DescriptorName>
+<QualifierName MajorTopicYN="Y">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Cold</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Decerebrate State</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Dominance, Cerebral</DescriptorName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Electromyography</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Forelimb</DescriptorName>
+<QualifierName>innervation</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hindlimb</DescriptorName>
+<QualifierName>innervation</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Joints</DescriptorName>
+<QualifierName>innervation</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Locomotion</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Muscle Contraction</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

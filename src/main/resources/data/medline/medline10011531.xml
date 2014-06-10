@@ -1,0 +1,119 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011531</MedlineID>
+<PMID>420891</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3126</ISSN>
+<JournalIssue>
+<Volume>35</Volume>
+<Issue>1-2</Issue>
+<PubDate>
+<Year>1979</Year>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Cold stress influence on lung lecithin in the newborn rabbit.</ArticleTitle>
+<Pagination>
+<MedlinePgn>90-4</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Term, food-water deprived newborn rabbits exposed to a cold environment for 48 h demonstrated a significant decrease in total lung lipid (p less than 0.01), total triglyceride (p less than 0.001), total phospholipid (p less than 0.05), and total phosphatidylcholine (p less than 0.025). Disaturated phosphatidylcholine remained unchanged. Fatty acid methyl esters of total and disaturated phosphatidylcholine were not influenced by cold stress. Likewise, there was no alteration in pulmonary function as determined by deflation pressure-volume relationships.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Mims</LastName>
+<ForeName>L C</ForeName>
+<Initials>LC</Initials>
+</Author>
+<Author>
+<LastName>Pascale</LastName>
+<ForeName>J A</ForeName>
+<Initials>JA</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>SWITZERLAND</Country>
+<MedlineTA>Biol Neonate</MedlineTA>
+<NlmUniqueID>0247551</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Glycerides</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Lipids</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Phosphatidylcholines</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Phospholipids</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animals, Newborn</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Cold</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Food Deprivation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Glycerides</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Lipids</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Lung</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phosphatidylcholines</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phospholipids</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rabbits</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Time Factors</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

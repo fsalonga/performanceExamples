@@ -1,0 +1,102 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011412</MedlineID>
+<PMID>420843</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>551</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+<Day>8</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>A comparison of the intrinsic protein kinase activities of membrane preparations from various tissues.</ArticleTitle>
+<Pagination>
+<MedlinePgn>420-31</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The ability of membrane preparations from different tissues to catalyse the phosphorylation of their endogenous protein (intrinsic protein kinase activity) was determined. It was found that membrane fragments prepared from a large variety of tissues contain this activity although the actual level varies quite widely. Preparations from vas deferens and brain have nearly ten times more activity than preparations from heart, kidney, or erythrocytes. Plasma membranes from skeletal muscle have no detectable activity. The intrinsic protein kinase activity of membrane fragments from most tissues is stimulated by cyclic AMP although the phosphorylation of proteins in preparations of kidney microsomes or heart plasma membranes, is not affected. cyclic GMP (10 micronM) has no effect on the intrinsic protein kinase activity of any membrane preparation examined. A specific inhibitor of soluble, cyclic AMP-stimulated, protein kinase has no effect on the intrinsic protein kinase activity of any of the membrane preparations examined. This suggests that the intrinsic protein kinase activity of membrane preparations may be due to the presence of a specific protein kinase. It is suggested that an examination of the distribution of membrane-bound intrinsic protein kinase activity among different tissues may be helpful in determining the function of the reaction.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Carstens</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author>
+<LastName>Weller</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>EC 2.7.1.37</RegistryNumber>
+<NameOfSubstance>Protein Kinases</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cell Membrane</DescriptorName>
+<QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Comparative Study</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Endoplasmic Reticulum</DescriptorName>
+<QualifierName>enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Intracellular Membranes</DescriptorName>
+<QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mitochondria</DescriptorName>
+<QualifierName>enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Protein Kinases</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Tissue Distribution</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

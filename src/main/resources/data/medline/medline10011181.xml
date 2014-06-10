@@ -1,0 +1,110 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011181</MedlineID>
+<PMID>420723</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>28</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>28</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0004-3591</ISSN>
+<JournalIssue>
+<Volume>22</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>HIA-B27 in Mexican patients with ankylosing spondylitis.</ArticleTitle>
+<Pagination>
+<MedlinePgn>302</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Fraga</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author>
+<LastName>Gorodezky</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author>
+<LastName>Lavalle</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author>
+<LastName>Castro-Escobar</LastName>
+<ForeName>L E</ForeName>
+<Initials>LE</Initials>
+</Author>
+<Author>
+<LastName>Magaña</LastName>
+<ForeName>L</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author>
+<LastName>Escobar-Gutiérrez</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Arthritis Rheum</MedlineTA>
+<NlmUniqueID>0370605</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>HLA Antigens</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Caucasoid Race</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Gene Frequency</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">HLA Antigens</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Indians, North American</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mexico</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Spondylitis, Ankylosing</DescriptorName>
+<QualifierName MajorTopicYN="Y">genetics</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

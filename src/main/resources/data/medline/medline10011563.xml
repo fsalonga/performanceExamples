@@ -1,0 +1,144 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011563</MedlineID>
+<PMID>420918</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0306-042X</ISSN>
+<JournalIssue>
+<Volume>6</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Mass spectrometric peptide sequencing: cyclochlorotine.</ArticleTitle>
+<Pagination>
+<MedlinePgn>129-34</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>A potent toxin isolated from Penicillium islandicum Sopp was found to have the composition C24H31N5O7Cl2. Mass spectrometric investigation of a partial acid hydrolyzate showed that it has the structure of cyclochlorotine. The mass spectral characteristics of polyamino alcohol-related derivatives of peptides containing beta-phenylalanine, alpha-amino butyric acid and dichloroproline were determined in the course of this work.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Anderegg</LastName>
+<ForeName>R J</ForeName>
+<Initials>RJ</Initials>
+</Author>
+<Author>
+<LastName>Biemann</LastName>
+<ForeName>K</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author>
+<LastName>Manmade</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author>
+<LastName>Ghosh</LastName>
+<ForeName>A C</ForeName>
+<Initials>AC</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Biomed Mass Spectrom</MedlineTA>
+<NlmUniqueID>0430246</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Aminobutyric Acids</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Bacterial Toxins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Mycotoxins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Peptides, Cyclic</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>147-85-3</RegistryNumber>
+<NameOfSubstance>Proline</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>63-91-2</RegistryNumber>
+<NameOfSubstance>Phenylalanine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7782-50-5</RegistryNumber>
+<NameOfSubstance>Chlorine</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Amino Acid Sequence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Aminobutyric Acids</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Bacterial Toxins</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Chlorine</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mycotoxins</DescriptorName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Penicillium</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Peptides, Cyclic</DescriptorName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phenylalanine</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Proline</DescriptorName>
+<QualifierName>analogs &#38; derivatives</QualifierName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Spectrum Analysis, Mass</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

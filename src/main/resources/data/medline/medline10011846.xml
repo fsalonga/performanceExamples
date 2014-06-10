@@ -1,0 +1,135 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011846</MedlineID>
+<PMID>421132</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-8993</ISSN>
+<JournalIssue>
+<Volume>161</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>9</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Sequential effects of thyroxine on the developing cerebellum of rats made hypothyroid by propylthiouracil.</ArticleTitle>
+<Pagination>
+<MedlinePgn>469-79</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Young rats made hypothyroid by propylthiouracil (PTU) received a daily physiological dose of thyroxine (T4) from day 0, 4, 6, 8, 10, 11, 12 or 13 and their cerebella were studied on day 14. With the very low doses of T4 used and when the treatment was started at birth, cerebellar development was nearly normal in terms of the parameters studied (cell formation, migration, maturation and death). The effect of T4 on cell formation appeared after two days. With the same latency, T4 induced migration of the newly-formed granule cells. The effects on those processes requiring cell movements over long distances, e.g. the number of cells in the internal granular layer or the thickness of the molecular layer, were longer to appear. The most rapidly affected parameter was the pyknotic index in the internal granular layer. This index was half. The increased cell death in the cerebellum of hypothyroid rats is probably related to the decreased synaptogenetic competence of Purkinje cells. The rapidity of the effect of T4 on the pyknotic index may be related to an important effect of this hormone on the formation of synapses and, more generally, on the mechanisms of neuronal maturation.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Rabié</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author>
+<LastName>Favre</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author>
+<LastName>Clavel</LastName>
+<ForeName>M C</ForeName>
+<Initials>MC</Initials>
+</Author>
+<Author>
+<LastName>Legrand</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Brain Res</MedlineTA>
+<NlmUniqueID>0045503</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Thyroid Hormones</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>51-52-5</RegistryNumber>
+<NameOfSubstance>Propylthiouracil</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7488-70-2</RegistryNumber>
+<NameOfSubstance>Thyroxine</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cell Count</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cell Differentiation</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cell Movement</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cell Survival</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cerebellum</DescriptorName>
+<QualifierName MajorTopicYN="Y">cytology</QualifierName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mitosis</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Propylthiouracil</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Thyroid Gland</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Thyroid Hormones</DescriptorName>
+<QualifierName MajorTopicYN="Y">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Thyroxine</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

@@ -1,0 +1,121 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011530</MedlineID>
+<PMID>420890</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3126</ISSN>
+<JournalIssue>
+<Volume>35</Volume>
+<Issue>1-2</Issue>
+<PubDate>
+<Year>1979</Year>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Effects of upper respiratory tract stimuli on neonatal respiration: reflex and single neuron analyses in the kitten.</ArticleTitle>
+<Pagination>
+<MedlinePgn>82-9</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Respiratory effects of electrical and chemical stimuli applied to nerves or sites associated with the respiratory tract were tested in kittens aged 6-70 days. Cessation of respiration occurred especially with superior laryngeal nerve stimulation and infusion of water and sodium bicarbonate into the larynx. The apneic reflex was more powerful and prolonged than that previously noted in adult cats and was sometimes irreversible. Brain stem respiratory neurons of the neonate also showed marked susceptibility to these stimuli: the respiratory-related rhythm of 80% could be powerfully suppressed, and only 25% received excitatory inputs. The susceptibility of the neonatal respiratory system to these stimuli may have physiopathological significance in conditions such as the sudden infant (crib) death syndrome.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Lucier</LastName>
+<ForeName>G E</ForeName>
+<Initials>GE</Initials>
+</Author>
+<Author>
+<LastName>Storey</LastName>
+<ForeName>A T</ForeName>
+<Initials>AT</Initials>
+</Author>
+<Author>
+<LastName>Sessle</LastName>
+<ForeName>B J</ForeName>
+<Initials>BJ</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>SWITZERLAND</Country>
+<MedlineTA>Biol Neonate</MedlineTA>
+<NlmUniqueID>0247551</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Bicarbonates</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7732-18-5</RegistryNumber>
+<NameOfSubstance>Water</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Age Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animals, Newborn</DescriptorName>
+<QualifierName MajorTopicYN="Y">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Apnea</DescriptorName>
+<QualifierName>physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Bicarbonates</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Electric Stimulation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Laryngeal Nerves</DescriptorName>
+<QualifierName MajorTopicYN="Y">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Respiration</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Stimulation, Chemical</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Water</DescriptorName>
+<QualifierName>administration &#38; dosage</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

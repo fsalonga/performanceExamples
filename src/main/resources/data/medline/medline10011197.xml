@@ -1,0 +1,121 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011197</MedlineID>
+<PMID>154342</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0007-1048</ISSN>
+<JournalIssue>
+<Volume>41</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Congenital non-spherocytic haemolytic anaemia variants with primary and secondary pyruvate kinase deficiency. I. Erythrokinetic patterns.</ArticleTitle>
+<Pagination>
+<MedlinePgn>115-24</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The patterns of survival of isotope-labelled erythrocytes were examined in patients suffering from two variants of congenital non-spherocytic haemolytic anaemia with decreased erythrocyte pyruvate kinase (PK) activity. In one variant, with primary PK defect (PPKD) random destruction of erythrocytes was predominant in the process of haemolysis. In the second variant, with primary magnesium activated adenosine triphosphatase (ATP-ase) (Mg++) deficiency and a secondary decrease in PK activity, erythrocytes were destroyed by senescence. Two subpopulations of labelled erythrocytes with different destruction rates were observed in all patients examined, except one with the second variant, with very mild haemolysis. Splenectomy, performed on two patient, was successful only in the variant with PPKD.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Wazewska-Czyzewska</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author>
+<LastName>Gumińska</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Br J Haematol</MedlineTA>
+<NlmUniqueID>0372544</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>EC 2.7.1.40</RegistryNumber>
+<NameOfSubstance>Pyruvate Kinase</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.6.1.3</RegistryNumber>
+<NameOfSubstance>Adenosinetriphosphatase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adenosinetriphosphatase</DescriptorName>
+<QualifierName>deficiency</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Anemia, Hemolytic, Congenital Nonspherocytic</DescriptorName>
+<QualifierName MajorTopicYN="Y">blood</QualifierName>
+<QualifierName>enzymology</QualifierName>
+<QualifierName>surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Case Report</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Erythrocyte Aging</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Erythrocyte Volume</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Erythrocytes</DescriptorName>
+<QualifierName MajorTopicYN="Y">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Middle Age</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Pyruvate Kinase</DescriptorName>
+<QualifierName>deficiency</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Splenectomy</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

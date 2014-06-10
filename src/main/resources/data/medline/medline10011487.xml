@@ -1,0 +1,141 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011487</MedlineID>
+<PMID>369614</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>583</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>19</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Stimulation of renin secretion from the intact kidney and from isolated glomeruli by the calcium ionophore A23187.</ArticleTitle>
+<Pagination>
+<MedlinePgn>20-7</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The ionophore A23187 evoked a dose-dependent release of renin from the isolated perfused cat kidney, which was inhibited by calcium deprivation and adrenergic blockade. The latter finding indicates that the effects of A23187 on the intact kidney are mediated mainly by catecholamine release from sympathetic nerve endings. Ionophore also elicited a concentration-dependent enhancement of renin secretion from a pure preparation of glomeruli isolated from cat kidney; this stimulation was still manifest when the glomeruli were superfused with a calcium-free solution. These findings indicate that A23187 evokes renin secretion from juxtaglomerular cells by mobilizing cellular calcium and support the view that an increase in intracellular calcium is intimately involved in the mechanism of renin secretion.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Harada</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author>
+<LastName>Lester</LastName>
+<ForeName>G E</ForeName>
+<Initials>GE</Initials>
+</Author>
+<Author>
+<LastName>Rubin</LastName>
+<ForeName>R P</ForeName>
+<Initials>RP</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Antibiotics</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>50-55-5</RegistryNumber>
+<NameOfSubstance>Reserpine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>52665-69-7</RegistryNumber>
+<NameOfSubstance>Calcimycin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7440-70-2</RegistryNumber>
+<NameOfSubstance>Calcium</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7683-59-2</RegistryNumber>
+<NameOfSubstance>Isoproterenol</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.4.23.15</RegistryNumber>
+<NameOfSubstance>Renin</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Antibiotics</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Calcimycin</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Calcium</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Dose-Response Relationship, Drug</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Isoproterenol</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kidney</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+<QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kidney Glomerulus</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+<QualifierName>enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Renin</DescriptorName>
+<QualifierName MajorTopicYN="Y">secretion</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Reserpine</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

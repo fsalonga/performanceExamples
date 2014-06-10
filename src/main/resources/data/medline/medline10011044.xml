@@ -1,0 +1,116 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011044</MedlineID>
+<PMID>420627</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>28</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>28</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0003-9942</ISSN>
+<JournalIssue>
+<Volume>36</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Brain stem auditory evoked responses: studies of waveform variations in 50 normal human subjects.</ArticleTitle>
+<Pagination>
+<MedlinePgn>81-7</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Brain stem auditory evoked responses (BAERs) were recorded in 50 normal adult subjects at various click rates. Attention was paid to absolute latencies, interwave latencies, interear interwave latencies, absolute amplitudes, and various amplitude ratios. The variability of waves VI and VII suggests that the clinical utility of these waves is restricted-their absence is not necessarily due to a CNS lesion. The wave IV-V complex appears with six different patterns. These variations must therefore be considered normal; none should be misconstrued as indicative of disease of the CNS. Repeated studies over a period of two to nine months showed no statistically significant changes in amplitude or latency measurements with the passage of time. Knowledge of these normal values and their variations, as a precondition for establishing criteria for abnormality, is essential to the interpretation of BAERs in clinical situations.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Chiappa</LastName>
+<ForeName>K H</ForeName>
+<Initials>KH</Initials>
+</Author>
+<Author>
+<LastName>Gladstone</LastName>
+<ForeName>K J</ForeName>
+<Initials>KJ</Initials>
+</Author>
+<Author>
+<LastName>Young</LastName>
+<ForeName>R R</ForeName>
+<Initials>RR</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Arch Neurol</MedlineTA>
+<NlmUniqueID>0372436</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Acoustic Stimulation</DescriptorName>
+<QualifierName MajorTopicYN="Y">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Adolescence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Auditory Pathways</DescriptorName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Auditory Perception</DescriptorName>
+<QualifierName MajorTopicYN="Y">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Brain Stem</DescriptorName>
+<QualifierName MajorTopicYN="Y">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Evoked Potentials</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Inferior Colliculus</DescriptorName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Middle Age</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Perceptual Masking</DescriptorName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Reaction Time</DescriptorName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Vestibulocochlear Nerve</DescriptorName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

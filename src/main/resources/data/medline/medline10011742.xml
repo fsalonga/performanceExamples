@@ -1,0 +1,103 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011742</MedlineID>
+<PMID>421060</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0007-1447</ISSN>
+<JournalIssue>
+<Volume>1</Volume>
+<Issue>6158</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>27</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Hepatotoxic effects of repeated anaesthetics.</ArticleTitle>
+<Pagination>
+<MedlinePgn>265</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Dundee</LastName>
+<ForeName>J W</ForeName>
+<Initials>JW</Initials>
+</Author>
+<Author>
+<LastName>Black</LastName>
+<ForeName>G W</ForeName>
+<Initials>GW</Initials>
+</Author>
+<Author>
+<LastName>Neill</LastName>
+<ForeName>D W</ForeName>
+<Initials>DW</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Letter</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Br Med J</MedlineTA>
+<NlmUniqueID>0372673</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Methyl Ethers</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>13838-16-9</RegistryNumber>
+<NameOfSubstance>Enflurane</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>151-67-7</RegistryNumber>
+<NameOfSubstance>Halothane</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Comparative Study</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Enflurane</DescriptorName>
+<QualifierName MajorTopicYN="Y">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Halothane</DescriptorName>
+<QualifierName MajorTopicYN="Y">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Liver Diseases</DescriptorName>
+<QualifierName MajorTopicYN="Y">chemically induced</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Methyl Ethers</DescriptorName>
+<QualifierName MajorTopicYN="Y">adverse effects</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

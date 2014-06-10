@@ -1,0 +1,131 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011255</MedlineID>
+<PMID>217406</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>9</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Cation-induced regulatory mechanism of GTPase activity dependent on polypeptide initiation factor 2.</ArticleTitle>
+<Pagination>
+<MedlinePgn>202-7</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Initiation factor IF-2 ribosome dependent GTP hydrolysis (uncoupled GTPase) presents a bell-shaped pH profile which is shifted by changes in ionic strength. At low ionic strength (I = 25 mM) the maximal hydrolytic activity occurs at pH 7.5; when the ionic strength is increased the pH optimum of the reaction is shifted toward more acidic values. Such behavior can be satisfactorily explained as the effect of an electrostatic potential developed by a neighboring polyanion, presumably RNA, on the catalytic site. The addition of fMet-tRNAfMet or AcPhe-tRNAPhe and messenger RNA (coupled GTPase) changes the ionic strength--pH characteristics of the reaction. Thus there is an effect, direct or indirect, of components located at the ribosomal P site. Investigation of the effect of neighboring polyanions on the catalytic activity of the factor-dependent ribosomal GTPases can be seen to provide information about their functional significance that is complementary to that gained from direct structural studies.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Beaudry</LastName>
+<ForeName>P</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author>
+<LastName>Sander</LastName>
+<ForeName>G</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author>
+<LastName>Grunberg-Manago</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author>
+<LastName>Douzou</LastName>
+<ForeName>P</ForeName>
+<Initials>P</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Ammonium Compounds</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Peptide Initiation Factors</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7439-95-4</RegistryNumber>
+<NameOfSubstance>Magnesium</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.1.3</RegistryNumber>
+<NameOfSubstance>Phosphoric Monoester Hydrolases</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.6.1.-</RegistryNumber>
+<NameOfSubstance>GTP Phosphohydrolases</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Ammonium Compounds</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Escherichia coli</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>GTP Phosphohydrolases</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Magnesium</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Peptide Chain Initiation</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Peptide Initiation Factors</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phosphoric Monoester Hydrolases</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Ribosomes</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

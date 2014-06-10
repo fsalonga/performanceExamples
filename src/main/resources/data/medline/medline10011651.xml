@@ -1,0 +1,99 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011651</MedlineID>
+<PMID>420990</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0007-1323</ISSN>
+<JournalIssue>
+<Volume>66</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Volume infusion in experimental refractory shock.</ArticleTitle>
+<Pagination>
+<MedlinePgn>80-3</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The postulated contribution of primary myocardial failure to the pathogenesis of refractoriness of shock to conventional therapy is in direct contradiction to the widely advocated clinical practice of infusion of large volumes of fluid in shock resuscitation. A standard volumes of fluid in shock resuscitation. A standard canine haemorrhagic shock model, in which refractory shock is induced by maintaining an arterial blood pressure of 40 mmHg for 2 h, has been used to assess the effects of volume infusion to maintain a central venous pressure of 0--2 mmHg for a further 2 h and the tolerance of such an infusion by the heart in refractory shock. Fluid infusion ensured significantly better figures for oxygen balance than in those animals where additional fluid was not given, and the volumes required appeared to be well tolerated by the shocked myocardium. Primary myocardial failure does not appear to be a major aetiological factor in refractory shock, and provided that the usual monitoring parameters are recorded, volume infusion remains a major part of shock resuscitation.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Smith</LastName>
+<ForeName>J A</ForeName>
+<Initials>JA</Initials>
+</Author>
+<Author>
+<LastName>Norman</LastName>
+<ForeName>J N</ForeName>
+<Initials>JN</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Br J Surg</MedlineTA>
+<NlmUniqueID>0372553</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>7782-44-7</RegistryNumber>
+<NameOfSubstance>Oxygen</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Blood Transfusion</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cardiac Output</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Dogs</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Fluid Therapy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Oxygen</DescriptorName>
+<QualifierName>blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Shock, Hemorrhagic</DescriptorName>
+<QualifierName MajorTopicYN="Y">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Time Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Venous Pressure</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

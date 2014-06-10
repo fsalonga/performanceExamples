@@ -1,0 +1,136 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011345</MedlineID>
+<PMID>84683</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>20</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>New procedures for preparation and isolation of conjugates of proteins and a synthetic copolymer of D-amino acids and immunochemical characterization of such conjugates.</ArticleTitle>
+<Pagination>
+<MedlinePgn>690-3</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Liu</LastName>
+<ForeName>F T</ForeName>
+<Initials>FT</Initials>
+</Author>
+<Author>
+<LastName>Zinnecker</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author>
+<LastName>Hamaoka</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author>
+<LastName>Katz</LastName>
+<ForeName>D H</ForeName>
+<Initials>DH</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Epitopes</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Glutamates</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Haptens</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Peptides</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>11061-68-0</RegistryNumber>
+<NameOfSubstance>Insulin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>56-87-1</RegistryNumber>
+<NameOfSubstance>Lysine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9006-59-1</RegistryNumber>
+<NameOfSubstance>Ovalbumin</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Chemistry</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Epitopes</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Glutamates</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Haptens</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Insulin</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Lysine</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Ovalbumin</DescriptorName>
+<QualifierName>isolation &#38; purification</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Peptides</DescriptorName>
+<QualifierName>isolation &#38; purification</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Precipitin Tests</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Protein Binding</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

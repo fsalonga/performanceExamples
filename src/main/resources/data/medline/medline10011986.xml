@@ -1,0 +1,85 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011986</MedlineID>
+<PMID>421197</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0304-3835</ISSN>
+<JournalIssue>
+<Volume>6</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>n-Nitrosamines in the diet of experimental animals.</ArticleTitle>
+<Pagination>
+<MedlinePgn>175-8</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Walker</LastName>
+<ForeName>E A</ForeName>
+<Initials>EA</Initials>
+</Author>
+<Author>
+<LastName>Castegnaro</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author>
+<LastName>Griciute</LastName>
+<ForeName>L</ForeName>
+<Initials>L</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Cancer Lett</MedlineTA>
+<NlmUniqueID>7600053</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Nitrosamines</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal Feed</DescriptorName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Animals, Laboratory</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Nitrosamines</DescriptorName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

@@ -1,0 +1,106 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011944</MedlineID>
+<PMID>421180</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>03</Month>
+<Day>23</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0008-543X</ISSN>
+<JournalIssue>
+<Volume>43</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Mixed Brenner and adenomatoid tumor of the testis: an ultrastructural study and histogenetic considerations.</ArticleTitle>
+<Pagination>
+<MedlinePgn>539-43</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>A previously unreported association of Brenner and adenomatoid tumor found in the tunica vaginalis testis is presented. Many ultrastructural features found in mesothelial cells such as intercellular spaces, deeply indented nuclei, tonofilaments and tight desmosomes, were also shared by cells present in both neoplastic patterns. The previous histogenetic origins ascribed to testicular Brenner tumors are discussed and the evidence for their origin in the mesothelium considered.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Nogales</LastName>
+<ForeName>F F</ForeName>
+<Initials>FF</Initials>
+<Suffix>Jr</Suffix>
+</Author>
+<Author>
+<LastName>Matilla</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author>
+<LastName>Ortega</LastName>
+<ForeName>I</ForeName>
+<Initials>I</Initials>
+</Author>
+<Author>
+<LastName>Alvarez</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Cancer</MedlineTA>
+<NlmUniqueID>0374236</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Brenner Tumor</DescriptorName>
+<QualifierName>etiology</QualifierName>
+<QualifierName MajorTopicYN="Y">ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Epithelium</DescriptorName>
+<QualifierName>ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Microscopy, Electron</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Teratoma</DescriptorName>
+<QualifierName>etiology</QualifierName>
+<QualifierName MajorTopicYN="Y">ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Testicular Neoplasms</DescriptorName>
+<QualifierName>etiology</QualifierName>
+<QualifierName MajorTopicYN="Y">ultrastructure</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

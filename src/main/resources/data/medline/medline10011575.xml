@@ -1,0 +1,109 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011575</MedlineID>
+<PMID>420925</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0365-9615</ISSN>
+<JournalIssue>
+<Volume>87</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>[Thyroid gland activity and motor activity during dog ontogenesis]</ArticleTitle>
+<Pagination>
+<MedlinePgn>108-10</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The locomotor activity (LA) and the level of the protein-bound iodine (PBI) in the blood serum were investigated in 62 puppies at the age of 1--12 months. A parallel elevation of PBI and the LA was observed the first 4 months after birth. The second peak of the LA at the age of 7--9 months was not accompanied by any PBI rise. Inhibition of the thyroid function with mercasolyl increased the LA at the age of 1--3 months and decreased it at the age of 7 months. An increase of the LA one month after thyroidectomy was found at the age of 1 and 3.5 months. The activity of puppies operated on at the age of one month showed a sharp fall after 2--4 months. The data on various effect of thyroid hormones on puppies of different age pointed to the complex relation between the LA and the thyroid gland function.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Komarova</LastName>
+<ForeName>T F</ForeName>
+<Initials>TF</Initials>
+</Author>
+<Author>
+<LastName>Kassil'</LastName>
+<ForeName>V G</ForeName>
+<Initials>VG</Initials>
+</Author>
+</AuthorList>
+<Language>rus</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+<VernacularTitle>Deiatel'nost' shchitovidnoĭ zhelezy i dvigatel'naia aktivnost' v ontogeneze u sobak.</VernacularTitle>
+</Article>
+<MedlineJournalInfo>
+<Country>USSR</Country>
+<MedlineTA>Biull Eksp Biol Med</MedlineTA>
+<NlmUniqueID>0370627</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Blood Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7553-56-2</RegistryNumber>
+<NameOfSubstance>Iodine</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Blood Proteins</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Dogs</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>English Abstract</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hypothyroidism</DescriptorName>
+<QualifierName>physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Iodine</DescriptorName>
+<QualifierName>blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Motor Activity</DescriptorName>
+<QualifierName MajorTopicYN="Y">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Protein Binding</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Thyroid Gland</DescriptorName>
+<QualifierName>growth &#38; development</QualifierName>
+<QualifierName MajorTopicYN="Y">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Thyroidectomy</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

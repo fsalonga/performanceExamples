@@ -1,0 +1,120 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011848</MedlineID>
+<PMID>217487</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-8993</ISSN>
+<JournalIssue>
+<Volume>161</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>9</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Pharmacological distinction between the excitatory junctional potential and the glutamate potential revealed by concanavalin A at the crayfish neuromuscular junction.</ArticleTitle>
+<Pagination>
+<MedlinePgn>493-501</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The effect of concanavalin A(Con A) on desensitization of the glutamate receptor was investigated in the crayfish opener muscle. The depolarization of the crayfish muscle fiber caused by bath-applied L-glutamate was greatly augmented by Con A. The time course of the appearance of the augmentation was slow. Con A completely prevented the development of desensitization of the glutamate receptor. When L-glutamate was applied iontophoretically with a constant current pulse, a decline of the depolarization was seen during the course of the drug application which was presumably due to desensitization of the glutamate receptor. The glutamate potential was slightly increased by Con A, though the increase was transient. On the other hand, the amplitude of excitatory junctional potentials (EJPs) was not increased but decreased by addition of Con A. In normal saline, the amplitudes of both glutamate potentials and EJPs remarkably decreased because of desensitization of the glutamate receptor, but the decrease in amplitude of the glutamate potential was completely prevented by previous application of Con A. On the other hand, Con A had no influence upon the decrease in amplitude of EJPs. These results show that there is a pharmacological difference between the glutamate potential and EJPs.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Shinozaki</LastName>
+<ForeName>H</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author>
+<LastName>Ishida</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Brain Res</MedlineTA>
+<NlmUniqueID>0045503</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Glutamates</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Receptors, Neurotransmitter</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>11028-71-0</RegistryNumber>
+<NameOfSubstance>Concanavalin A</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Concanavalin A</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Crayfish</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Electric Stimulation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Evoked Potentials</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Glutamates</DescriptorName>
+<QualifierName>administration &#38; dosage</QualifierName>
+<QualifierName MajorTopicYN="Y">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Iontophoresis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Muscles</DescriptorName>
+<QualifierName>innervation</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neuromuscular Junction</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+<QualifierName MajorTopicYN="Y">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Receptors, Neurotransmitter</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Synaptic Transmission</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

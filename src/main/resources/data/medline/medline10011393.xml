@@ -1,0 +1,163 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011393</MedlineID>
+<PMID>84685</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>11</Month>
+<Day>02</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>550</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>2</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Association of bacteriorhodopsin with lipid-impregnated filters. Evidence for fusion of bacteriorhodopsin-containing vesicles with the lipid phase of the filter.</ArticleTitle>
+<Pagination>
+<MedlinePgn>527-42</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Bacteriorhodopsin vesicles were associated with cellulose-nitrate filters impregnated with a solution of phospholipids in hexadecane. The generation of (photo)potentials upon illumination of the filter was studied in the absence and presence of ionophores, phospholipase A2, EDTA or polyene antibiotics. From these experiments the following conclusions are drawn. 1. Upon illumination of the filter, bacteriorhodopsin pumps protons into aqueous compartments located in the filter. 2. These aqueous compartments possibly do not originate from the compartments enclosed by the bacteriorhodopsin vesicles. Evidence is obtained that aqueous compartments are present in the surface layers of the lipid-impregnated filters. 3. The results are explained most easily by a mechanism, whereby fusion occurs between the vesicles and the lipids of the filter.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Blok</LastName>
+<ForeName>M C</ForeName>
+<Initials>MC</Initials>
+</Author>
+<Author>
+<LastName>van Dam</LastName>
+<ForeName>K</ForeName>
+<Initials>K</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Ionophores</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Phospholipids</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>1397-89-3</RegistryNumber>
+<NameOfSubstance>Amphotericin B</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>1405-97-6</RegistryNumber>
+<NameOfSubstance>Gramicidin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>2001-95-8</RegistryNumber>
+<NameOfSubstance>Valinomycin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>36-88-4</RegistryNumber>
+<NameOfSubstance>Carotenoids</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>53026-44-1</RegistryNumber>
+<NameOfSubstance>Bacteriorhodopsins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>57-88-5</RegistryNumber>
+<NameOfSubstance>Cholesterol</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7440-70-2</RegistryNumber>
+<NameOfSubstance>Calcium</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9004-34-6</RegistryNumber>
+<NameOfSubstance>Cellulose</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.1.-</RegistryNumber>
+<NameOfSubstance>Phospholipases</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Amphotericin B</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Bacteriorhodopsins</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+<QualifierName>radiation effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Calcium</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Carotenoids</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cellulose</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cholesterol</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Filtration</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Gramicidin</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hydrogen-Ion Concentration</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Ionophores</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phospholipases</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phospholipids</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Photochemistry</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Valinomycin</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

@@ -1,0 +1,156 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011454</MedlineID>
+<PMID>33717</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>11</Month>
+<Day>02</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>566</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>9</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Interaction of rat muscle AMP deaminase with myosin. I. Biochemical study of the interaction of AMP deaminase and myosin in rat muscle.</ArticleTitle>
+<Pagination>
+<MedlinePgn>335-44</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>AMP deaminase was completely solubilized from rat skeletal muscle with 50 mM Tris-HCl buffer (pH 7.0) containing KCl at a concentration of 0.3 M or more. The purified enzyme was found to be bound to rat muscle myosin or actomyosin, but not to F-actin at KCl concentrations of less than 0.3 M. Kinetic analysis indicated that 1 mol of AMP deaminase was bound to 3 mol of myosin and that the dissociation constant (Kd) of this binding was 0.06 micrometer. It was also shown that AMP deaminase from muscle interacted mainly with the light meromyosin portion of the myosin molecule. This finding differs from that of Ashby and coworkers on rabbit muscle AMP deaminase, probably due to a difference in the properties of rat and rabbit muscle AMP deaminase. AMP deaminase isozymes from rat liver, kidney and cardiac muscle did not interact with rat muscle myosin. The physiological significance of this binding of AMP deaminase to myosin is discussed.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Shiraki</LastName>
+<ForeName>H</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author>
+<LastName>Ogawa</LastName>
+<ForeName>H</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author>
+<LastName>Matsuda</LastName>
+<ForeName>Y</ForeName>
+<Initials>Y</Initials>
+</Author>
+<Author>
+<LastName>Nakagawa</LastName>
+<ForeName>H</ForeName>
+<Initials>H</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Isoenzymes</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Myosin Subfragments</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7447-40-7</RegistryNumber>
+<NameOfSubstance>Potassium Chloride</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.5.4</RegistryNumber>
+<NameOfSubstance>Nucleotide Deaminases</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.5.4.6</RegistryNumber>
+<NameOfSubstance>AMP Deaminase</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.6.1.4</RegistryNumber>
+<NameOfSubstance>Myosins</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>AMP Deaminase</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Comparative Study</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hydrogen-Ion Concentration</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Isoenzymes</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Muscles</DescriptorName>
+<QualifierName>enzymology</QualifierName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Myosin Subfragments</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Myosins</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Nucleotide Deaminases</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Organ Specificity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Osmolar Concentration</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Potassium Chloride</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Protein Binding</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Species Specificity</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

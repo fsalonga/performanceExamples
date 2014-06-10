@@ -1,0 +1,147 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011556</MedlineID>
+<PMID>420912</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0306-042X</ISSN>
+<JournalIssue>
+<Volume>6</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Mass spectrometric analysis of deuterium dual labeled blood lipids.</ArticleTitle>
+<Pagination>
+<MedlinePgn>67-71</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>A gas chromatography selected ion monitoring mass spectrometer technique was developed to analyze deuterium dual labeled blood lipid samples from a human feeding experiment. In the metabolism experiment, described elsewhere. [2H2] labeled cis and [2H4] labeled trans fatty acids were fed to a human sujbect as a single pulse in order to determine whether the human body differentiates between cis and trans fatty acids in the diet. The analytical method described here was developed to accurately measure the ratio of [2H2]methyl oleate to [2H4]methyl elaidate in the presence of large amounts of [2H0] methyl oleate in samples derived from separated fractions of blood lipids. The technique is different from most selected ion monitoring methods in that the internal standard was fed to the subject along with the experimental material; the samples contained large amounts of unlabeled material chemically identical to the labeled material and the ratio of [2H2] to [2H4] fatty esters was of principal interest rather than the absolute value. Nine standards were analyzed eight or more times to form a basis for statistical evaluation of the method. Analysis of the plasma phosphatidyl ethanolamine fraction from the metabolic experiment is given as an example.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Rohwedder</LastName>
+<ForeName>W K</ForeName>
+<Initials>WK</Initials>
+</Author>
+<Author>
+<LastName>Kwolek</LastName>
+<ForeName>W F</ForeName>
+<Initials>WF</Initials>
+</Author>
+<Author>
+<LastName>Wolf</LastName>
+<ForeName>D J</ForeName>
+<Initials>DJ</Initials>
+</Author>
+<Author>
+<LastName>Everhart</LastName>
+<ForeName>W L</ForeName>
+<Initials>WL</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Biomed Mass Spectrom</MedlineTA>
+<NlmUniqueID>0430246</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Dietary Fats</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Fatty Acids</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Oleic Acids</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Phosphatidylethanolamines</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Triglycerides</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7782-39-0</RegistryNumber>
+<NameOfSubstance>Deuterium</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Analog-Digital Conversion</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Chromatography, Gas</DescriptorName>
+<QualifierName MajorTopicYN="Y">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Comparative Study</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Deuterium</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Dietary Fats</DescriptorName>
+<QualifierName MajorTopicYN="Y">administration &#38; dosage</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Fatty Acids</DescriptorName>
+<QualifierName>blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Isotope Labeling</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Oleic Acids</DescriptorName>
+<QualifierName>administration &#38; dosage</QualifierName>
+<QualifierName MajorTopicYN="Y">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phosphatidylethanolamines</DescriptorName>
+<QualifierName>blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Spectrum Analysis, Mass</DescriptorName>
+<QualifierName MajorTopicYN="Y">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Stereoisomerism</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Triglycerides</DescriptorName>
+<QualifierName>administration &#38; dosage</QualifierName>
+<QualifierName MajorTopicYN="Y">blood</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

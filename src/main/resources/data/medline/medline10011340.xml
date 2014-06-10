@@ -1,0 +1,124 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011340</MedlineID>
+<PMID>420808</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>20</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Analysis of chromatin reconstitutiion.</ArticleTitle>
+<Pagination>
+<MedlinePgn>659-68</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The ability of high molecular weight chicken erythrocyte chromatin to spontaneously self-assemble into native-like material, after dissociation by high ionic strength and reassociation by salt gradient dialysis, was critically examined. The native conformational state of the reassembled nucleoprotein complex was regenerated to the extent reflected by circular dichroism spectra and thermally induced helix--coil transition of the nucleoprotein DNA. However, internucleosomal packing of approximately 205 base pairs of DNA per repeating unit, as probed by digestion with micrococcal nuclease, was not regenerated upon reassembly and was replaced by a packing of approximately 160 base pairs per repeating unit. Thus, high molecular weight chromatin containing only lysine-rich histones (H1 and H5) and core histones (H2A, H2B, H3, and H4) is not a true self-assembling system in vitro using the salt gradient dialysis system used herein. Circular dichroism and thermal denaturation studies on core chromatin (lysine-rich histones removed) showed that core histones alone are not capable of reassembling high molecular weight DNA into native-like core  particles at low temperature (4 degree C). Reassembly at 21 degree C restored the circular dichroism but not the thermal denaturation properties to those characteristic of undissociated core chromatin. Nonetheless, micrococcal nuclease digestions of both reassembled core chromatin products were identical with undissociated native core chromatin. Ressembly in the presence of the complete complement of histones, followed by removal of the lysine-rich histones, did regenerate the thermal denaturation properties of undissociated native core particles. These results indicated multiple functions of the lysine-rich histones in the in vitro assembly of high molecular weight chromatin.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Fulmer</LastName>
+<ForeName>A W</ForeName>
+<Initials>AW</Initials>
+</Author>
+<Author>
+<LastName>Fasman</LastName>
+<ForeName>G D</ForeName>
+<Initials>GD</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Chromatin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Nucleoproteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9007-49-2</RegistryNumber>
+<NameOfSubstance>DNA</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Chickens</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Chromatin</DescriptorName>
+<QualifierName MajorTopicYN="Y">ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Circular Dichroism</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>DNA</DescriptorName>
+<QualifierName>blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Erythrocytes</DescriptorName>
+<QualifierName>ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Molecular Weight</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Nucleic Acid Conformation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Nucleic Acid Denaturation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Nucleoproteins</DescriptorName>
+<QualifierName>blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Osmolar Concentration</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Protein Conformation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, Non-P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

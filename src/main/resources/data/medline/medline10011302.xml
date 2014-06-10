@@ -1,0 +1,94 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011302</MedlineID>
+<PMID>33698</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>6</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Reactivity of the imino acids formed in the amino acid oxidase reaction.</ArticleTitle>
+<Pagination>
+<MedlinePgn>411-7</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The reactivity of the imino acids formed in the D- or L-amino acid oxidase reaction was studied. It was found that: (1) When imino acids reacted with the alpha-amino group of glycine or other amino acids, transimination yielded derivatives less stable to hydrolysis than the parent imino acids. In contrast, when imino acids reacted with the epsilon-amino group of lysine or other primary amines, transimination yielded derivatives more stable to hydrolysis than the parent imino acids. (2) Imino acids react rapidly with hydrazine and semicarbazide, forming stable hydrazones and semicarbazones. At pH 7.7, the rate of reaction of the imino acid analogue of leucine with semicarbazide was 10(4) times greater than that of the corresponding keto acid. The reaction of imino acids with these reagents is rapid enough to permit one to follow spectrophotometrically the amino acid oxidase reaction. Imino acids also reacted with cyanide to yield stable adducts. (3) The rate of hydrolysis of the imino acid analogue of leucine was independent of pH above pH 8.5. At lower pH values, the rate of hydrolysis increased with decreasing pH. At 25 degrees C  and in the absence of added amino compounds, this imino acid had a half-life of 22 s at pH 8.5. Its half-life was 9.9 s at pH 7.9.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Hafner</LastName>
+<ForeName>E W</ForeName>
+<Initials>EW</Initials>
+</Author>
+<Author>
+<LastName>Wellner</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Imino Acids</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 1.4.3.3</RegistryNumber>
+<NameOfSubstance>D-Amino-Acid Oxidase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>D-Amino-Acid Oxidase</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Imino Acids</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Klebsiella pneumoniae</DescriptorName>
+<QualifierName>enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Oxidation-Reduction</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Substrate Specificity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

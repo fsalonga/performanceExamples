@@ -1,0 +1,110 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011272</MedlineID>
+<PMID>420780</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>9</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Influence of different levels of 2-thiocytidine on physical and template properties of cytidine--2-thiocytidine copolymers.</ArticleTitle>
+<Pagination>
+<MedlinePgn>91-5</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Kröger</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author>
+<LastName>Singer</LastName>
+<ForeName>B</ForeName>
+<Initials>B</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Polyribonucleotides</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>65-46-3</RegistryNumber>
+<NameOfSubstance>Cytidine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.7.7.8</RegistryNumber>
+<NameOfSubstance>Polyribonucleotide Nucleotidyltransferase</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.1.-</RegistryNumber>
+<NameOfSubstance>Ribonucleases</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Cytidine</DescriptorName>
+<QualifierName MajorTopicYN="Y">analogs &#38; derivatives</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Micrococcus</DescriptorName>
+<QualifierName>enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Polyribonucleotide Nucleotidyltransferase</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Polyribonucleotides</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Ribonucleases</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Templates</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Transcription, Genetic</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

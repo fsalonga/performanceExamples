@@ -1,0 +1,128 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011354</MedlineID>
+<PMID>420814</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>5</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+<Day>6</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>An octamer of core histones in solution: central role of the H3-H4 tetramer in the self-assembly.</ArticleTitle>
+<Pagination>
+<MedlinePgn>760-8</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The association of histones H2A, H2B, H3, and H4 in solution has been studied. In 2 M NaCl and at neutral pH they can assemble in a complex in which each histone is present in equimolar amounts. The complex has a weight average molecular weight of 98,000 (+/- 3700) and a sedimentation coefficient (so20,w) of 4.8. The value of the weight average molecular weight and the histone stoichiometry indicate that the complex is an octamer. The pairs of histones H2A,H2B and H3,H4 studied separately under identical conditions only associated as equimolar complexes consistent with dimeric and tetrameric structures, respectively. The stability of the core histone octamer is a function of the ionic strength, pH, and concentration of protein. The octamer dissociates by losing dimers of H2A,H2B until the main complexes existing in solution are the H3.H4 tetramer and the H2A.H2B dimer. This process is reversible upon reestablishing the original conditions.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Ruiz-Carrillo</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author>
+<LastName>Jorcano</LastName>
+<ForeName>J L</ForeName>
+<Initials>JL</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Histones</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Macromolecular Systems</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Solutions</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Alkylation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cell Fractionation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Centrifugation, Density Gradient</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Chickens</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Chromatography, Gel</DescriptorName>
+<QualifierName>methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Drug Stability</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Electrophoresis, Polyacrylamide Gel</DescriptorName>
+<QualifierName>methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Erythrocytes</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Histones</DescriptorName>
+<QualifierName MajorTopicYN="Y">blood</QualifierName>
+<QualifierName>isolation &#38; purification</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Macromolecular Systems</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Molecular Weight</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Osmolar Concentration</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Solutions</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

@@ -1,0 +1,137 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011780</MedlineID>
+<PMID>369659</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>11</Month>
+<Day>02</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0007-1447</ISSN>
+<JournalIssue>
+<Volume>1</Volume>
+<Issue>6159</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>3</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Urinary excretion of factor VIII after renal transplantation.</ArticleTitle>
+<Pagination>
+<MedlinePgn>300-3</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The urinary excretion of factor-VIII-related antigen (VIIIRAg) was measured in 72 patients with kidney transplants and compared with that of two end-products of fibrin-fibrinogen lysis (fragments D and E) to assess their usefulness in monitoring the onset of rejection episodes. Specific and sensitive radioimmunoassays were used to measure the three proteins. Unconcentrated urine samples of 24-hour collections were obtained from 20 healthy subjects, 48 patients with stable transplants, and 24 patients with recent transplants serially followed up from the day of transplantation. Factor VIIIRAg and fragments E and D were not detectable in the urine from healthy subjects but were present in 39%, 60%, and 100% respectively of samples from patients with stable transplants. During 33 acute rejection episodes in 19 patients with recent transplants factor VIIIRAg and fragments E and D were significantly increased above the values observed in patients with stable transplants in 82%, 73%, and 64% of samples respectively; in patients with recent transplants showing no clinical sign of rejection increased excretion of these proteins was observed in 11%, 26%, and 22% of samples respectively. The presence of factor VIIIRAg in urine from patients with kidney allografts suggests that endothelial cell-factor VIII-platelet interactions might pay a key part in the pathogenesis of acute rejection. The results suggest that the assay of factor VIIIRAg in urine is more useful than assays of fragments D and E as a corroborative index of transplant rejection.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Ruggeri</LastName>
+<ForeName>Z M</ForeName>
+<Initials>ZM</Initials>
+</Author>
+<Author>
+<LastName>Gordon</LastName>
+<ForeName>Y B</ForeName>
+<Initials>YB</Initials>
+</Author>
+<Author>
+<LastName>Ardaillou</LastName>
+<ForeName>N</ForeName>
+<Initials>N</Initials>
+</Author>
+<Author>
+<LastName>Larrieu</LastName>
+<ForeName>M J</ForeName>
+<Initials>MJ</Initials>
+</Author>
+<Author>
+<LastName>Tarantino</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author>
+<LastName>Coppola</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author>
+<LastName>Ponticelli</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author>
+<LastName>Mannucci</LastName>
+<ForeName>P M</ForeName>
+<Initials>PM</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Br Med J</MedlineTA>
+<NlmUniqueID>0372673</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Antigens</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Fibrin Fibrinogen Degradation Products</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9001-27-8</RegistryNumber>
+<NameOfSubstance>Factor VIII</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Antigens</DescriptorName>
+<QualifierName>urine</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Factor VIII</DescriptorName>
+<QualifierName>immunology</QualifierName>
+<QualifierName MajorTopicYN="Y">urine</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Fibrin Fibrinogen Degradation Products</DescriptorName>
+<QualifierName>urine</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Graft Rejection</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Kidney Transplantation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Time Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Transplantation, Homologous</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

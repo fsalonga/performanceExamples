@@ -1,0 +1,128 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011441</MedlineID>
+<PMID>420856</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>561</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>26</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>DNA repair in lens cells during chick embryo development.</ArticleTitle>
+<Pagination>
+<MedlinePgn>85-98</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>When chick lens epithelium is cultured in vitro, differentiation into lens fiber cells is accompanied by DNA degradation. This phenomenom of terminal differentiation was studied in the epithelium from embryos at the 6th and 11th days of development. DNA size and the ability of the cells to repair DNA damage induced by X-rays were analysed in alkaline sucrose gradients. In the 6-day epithelium a rapid degradation and complete lack of DNA repair were recorded. Similar observations have been made in previous studies on the 11-day sample, but here degradation is progressive and occurs after a lag of several days. In the younger epithelium, internal irradiation by [3H]thymidine also had a drastic effect resembling that caused by X-rays. In order to assess the process of differentiation in our experimental system the synthesis of delta- and alpha-crystallins was monitored. Stage-related modifications in the rates of synthesis were recorded. The results confirm that the DNA repair system is impaired during terminal differentiation. The differences observed between the two stages may reflect either a developmental modification in DNA repair mechanisms or a change in the relative proportions of differentiating cells. An hypothesis is proposed in support of the latter case.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Counis</LastName>
+<ForeName>M F</ForeName>
+<Initials>MF</Initials>
+</Author>
+<Author>
+<LastName>Chaudun</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author>
+<LastName>Simonneau</LastName>
+<ForeName>L</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author>
+<LastName>Courtois</LastName>
+<ForeName>Y</ForeName>
+<Initials>Y</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Carbon Radioisotopes</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Crystallins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>10028-17-8</RegistryNumber>
+<NameOfSubstance>Tritium</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9007-49-2</RegistryNumber>
+<NameOfSubstance>DNA</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Age Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Carbon Radioisotopes</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cell Differentiation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Chick Embryo</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Crystallins</DescriptorName>
+<QualifierName>biosynthesis</QualifierName>
+<QualifierName>genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>DNA</DescriptorName>
+<QualifierName>radiation effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">DNA Repair</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Lens, Crystalline</DescriptorName>
+<QualifierName>cytology</QualifierName>
+<QualifierName MajorTopicYN="Y">embryology</QualifierName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Tritium</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

@@ -1,0 +1,106 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011265</MedlineID>
+<PMID>570405</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>9</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Evidence suggesting that some proteolytic enzymes may cleave only the trans form of the peptide bond.</ArticleTitle>
+<Pagination>
+<MedlinePgn>43-7</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The rates of hydrolysis of glycy-L-proline and L-phenylalanyl-L-proline, catalyzed by prolidase, have been measured at several temperatures under conditions where a high ratio of prolidase activity to substrate concentration existed. Two well-separated kinetic phases, which can be adequately treated as two first-order reactions, were observed for the hydrolysis. The relative amplitudes of the two phases are nearly independent of temperature, but strongly dependent on the initial state of protonation of the dipeptides. It was found that the amplitude of the slow phase is strictly proportional to the known amount of cis isomer, while the amplitude of the fast phase correlates with the amount of the trans isomer. Furthermore, the relaxation time and activation energy of the slow phase of hydrolysis are in good agreement with the same parameters determined for cis-trans isomerization of the dipeptides, as measured by a pH-jump method for samples not being hydrolyzed. These results lead us to the conclusion that the slow phase seen for hydrolysis is rate limited by cis-trans isomerization of the X-pro peptide bond. Thus, this proline-specific protease appears to have an absolute requirement for the trans form of the peptide bond and appears not to cleave the cis form or to cleave it extremely slowly.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Lin</LastName>
+<ForeName>L N</ForeName>
+<Initials>LN</Initials>
+</Author>
+<Author>
+<LastName>Brandts</LastName>
+<ForeName>J F</ForeName>
+<Initials>JF</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>147-85-3</RegistryNumber>
+<NameOfSubstance>Proline</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.4.13</RegistryNumber>
+<NameOfSubstance>Dipeptidases</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Dipeptidases</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Isomerism</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kidney</DescriptorName>
+<QualifierName>enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Proline</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Substrate Specificity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Swine</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Thermodynamics</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

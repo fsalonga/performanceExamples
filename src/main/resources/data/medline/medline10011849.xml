@@ -1,0 +1,124 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011849</MedlineID>
+<PMID>421134</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-8993</ISSN>
+<JournalIssue>
+<Volume>161</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>9</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Preparation of viable astrocytes from the developing cerebellum.</ArticleTitle>
+<Pagination>
+<MedlinePgn>503-14</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>A cell fraction enriched in viable astrocytes has been prepared from the developing rat cerebellum. The isolated astrocytes were identified by indirect immunofluorescence using antiserum to glial fibrillary acidic protein (GFAP). In comparison with the low incidence (6%) of GFAP-positive cells in the unfractionated cell suspension from trypsinized cerebellar tissue, these accounted for half of the cells in the final preparation. This was achieved by treatment at 6 days of age with hydroxyurea (an inhibitor of DNA synthesis) which enriched the tissue in GFAP-positive astrocytes at day 8. At the same time, by selectively removing the heterogeneously sized replicating cells, hydroxyurea treatment allowed resolution of a fraction enriched in GFAP-positive cells using unit gravity sedimentation. The isolated astrocytes differentiated in culture producing, by 3 days in vitro, a dense network of fine GFAP-containing processes.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Cohen</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author>
+<LastName>Woodhams</LastName>
+<ForeName>P L</ForeName>
+<Initials>PL</Initials>
+</Author>
+<Author>
+<LastName>Balázs</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Brain Res</MedlineTA>
+<NlmUniqueID>0045503</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>127-07-1</RegistryNumber>
+<NameOfSubstance>Hydroxyurea</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9007-49-2</RegistryNumber>
+<NameOfSubstance>DNA</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Astrocytes</DescriptorName>
+<QualifierName MajorTopicYN="Y">cytology</QualifierName>
+<QualifierName>drug effects</QualifierName>
+<QualifierName>ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Body Weight</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cell Count</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cell Separation</DescriptorName>
+<QualifierName MajorTopicYN="Y">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cells, Cultured</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cerebellum</DescriptorName>
+<QualifierName MajorTopicYN="Y">cytology</QualifierName>
+<QualifierName>drug effects</QualifierName>
+<QualifierName>ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>DNA</DescriptorName>
+<QualifierName>biosynthesis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hydroxyurea</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mitosis</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

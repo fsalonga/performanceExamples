@@ -1,0 +1,133 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011834</MedlineID>
+<PMID>33745</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-8993</ISSN>
+<JournalIssue>
+<Volume>160</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>19</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Glutaminase and glutamine synthetase activity in synaptosomes, bulk-isolated glia and neurons.</ArticleTitle>
+<Pagination>
+<MedlinePgn>539-43</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Weiler</LastName>
+<ForeName>C T</ForeName>
+<Initials>CT</Initials>
+</Author>
+<Author>
+<LastName>Nyström</LastName>
+<ForeName>B</ForeName>
+<Initials>B</Initials>
+</Author>
+<Author>
+<LastName>Hamberger</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Brain Res</MedlineTA>
+<NlmUniqueID>0045503</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Phosphates</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7664-41-7</RegistryNumber>
+<NameOfSubstance>Ammonia</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 1.1.1.27</RegistryNumber>
+<NameOfSubstance>Lactate Dehydrogenase</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.5.1.2</RegistryNumber>
+<NameOfSubstance>Glutaminase</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 6.3.1.2</RegistryNumber>
+<NameOfSubstance>Glutamate-Ammonia Ligase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Ammonia</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cerebral Cortex</DescriptorName>
+<QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Glutamate-Ammonia Ligase</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Glutaminase</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Lactate Dehydrogenase</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neuroglia</DescriptorName>
+<QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neurons</DescriptorName>
+<QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phosphates</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rabbits</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Synaptosomes</DescriptorName>
+<QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

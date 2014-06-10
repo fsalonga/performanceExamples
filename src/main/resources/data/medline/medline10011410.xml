@@ -1,0 +1,108 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011410</MedlineID>
+<PMID>420842</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>551</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+<Day>8</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Temperature effects on 1,8-anilinonaphthalene sulfonic acid fluorescence with sarcolemma vesicles.</ArticleTitle>
+<Pagination>
+<MedlinePgn>389-405</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Increased temperature produces a red shift and decreased fluorescence intensity of the emission peak of 1,8-anilinonaphthalene sulfonic acid (ANS) in suspensions of biomembrane vesicles. These changes have been attributed to a conjectured increase in polarity of the microenvironment of ANS. If the conjecture is correct, fluorescence lifetimes must be decreased with warming. We showed than ANS binds to both protein and lipid protein of sarcolemma, that there are two kinds of sarcolemma-lipid ANS-binding sites, and that there are three fluorescence lifetimes of excited sarcolemma-bound ANS. The three fluroescence lifetimes were unchanged on warming, or decreased too little to account for the observations. Fluorescence lifetime data were consistent with the notion that the effect of increasing temperature is to decrease the amount of ANS bound to sarcolemma. From studies of liposomes prepared from lipid extracts of sarcolemma, and of proteins from sarcolemma it was deduced that warming reducted the amount of ANS bound to both of these sarcolemma components, probably mainly by reducing binding capacity. There might also be a shift of affinities such that the ratio, KA sarcolemma lipid/KA sarcolemma protein, is larger at higher temperature. Except at very small concentration ratios of ANS/sarcolemma, more than twice as much ANS was bound to sarcolemma lipids as to proteins.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Zierler</LastName>
+<ForeName>K</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author>
+<LastName>Rogus</LastName>
+<ForeName>E M</ForeName>
+<Initials>EM</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Anilino Naphthalenesulfonates</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Anilino Naphthalenesulfonates</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Light</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mathematics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Muscles</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Sarcolemma</DescriptorName>
+<QualifierName MajorTopicYN="Y">ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Scattering, Radiation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Spectrometry, Fluorescence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Temperature</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

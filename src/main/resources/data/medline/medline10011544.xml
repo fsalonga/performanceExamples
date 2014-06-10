@@ -1,0 +1,83 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011544</MedlineID>
+<PMID>420904</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3223</ISSN>
+<JournalIssue>
+<Volume>14</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Antidiuretic hormone elevation in psychosis.</ArticleTitle>
+<Pagination>
+<MedlinePgn>225-6</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Jose</LastName>
+<ForeName>C J</ForeName>
+<Initials>CJ</Initials>
+</Author>
+<Author>
+<LastName>Barton</LastName>
+<ForeName>J L</ForeName>
+<Initials>JL</Initials>
+</Author>
+<Author>
+<LastName>Perez-Cruet</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Letter</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biol Psychiatry</MedlineTA>
+<NlmUniqueID>0213264</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>11000-17-2</RegistryNumber>
+<NameOfSubstance>Vasopressins</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Psychotic Disorders</DescriptorName>
+<QualifierName MajorTopicYN="Y">blood</QualifierName>
+<QualifierName>drug therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Vasopressins</DescriptorName>
+<QualifierName MajorTopicYN="Y">blood</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

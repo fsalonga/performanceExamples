@@ -1,0 +1,78 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011186</MedlineID>
+<PMID>105741</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>28</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>28</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0004-3591</ISSN>
+<JournalIssue>
+<Volume>22</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Cost of nerve conduction studies in carpal tunnel syndrome.</ArticleTitle>
+<Pagination>
+<MedlinePgn>308-9</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Hanauer</LastName>
+<ForeName>L B</ForeName>
+<Initials>LB</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Letter</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Arthritis Rheum</MedlineTA>
+<NlmUniqueID>0370605</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Carpal Tunnel Syndrome</DescriptorName>
+<QualifierName MajorTopicYN="Y">diagnosis</QualifierName>
+<QualifierName>physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cost-Benefit Analysis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Median Nerve</DescriptorName>
+<QualifierName MajorTopicYN="Y">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Neural Conduction</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neurologic Examination</DescriptorName>
+<QualifierName MajorTopicYN="Y">economics</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

@@ -1,0 +1,160 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011237</MedlineID>
+<PMID>369591</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>11</Month>
+<Day>02</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>9</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Lactose carrier protein of Escherichia coli. Transport and binding of 2'-(N-dansyl)aminoethyl beta-D-thiogalactopyranoside and p-nitrophenyl alpha-d-galactopyranoside.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1-11</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The elevated level of lactose carrier protein present in cytoplasmic membranes derived from Escherichia coli strain T31RT, which carries the Y gene of the lac operon on a plasmid vector (Teather, R. M., et al. (1978) Mol. Gen. Genet. 159, 239--248), has allowed the detection of a complex between the carrier and the fluorescent substrate 2'-(N-dansyl)-aminoethyl beta-D-thiogalactopyranoside (Dns2-S-Gal). Binding is accompanied by a 50-nm blue shift in the emission maximum of the dansyl residue. The complex (dissociation constant, KD = 30 micron) rapidly dissociates upon addition of competing substrates such as beta-D-galactopyranosyl 1-thio-beta-D-galactopyranoside or upon reaction with the thiol reagent p-chloromercuribenzenesulfonate. Binding of both Dns2-S-Gal and p-nitrophenyl alpha-D-galactopyranoside (alpha-NPG) occurs spontaneously in the absence of an electrochemical potential gradient across the membrane. Comparison of equilibrium binding experiments using Dns2-S-Gal or alpha-NPG and differential labeling of the carrier with radioactive amino acids shows that the carrier binds 1 mol of substrate per mol of polypeptide (molecular weight 30 000). In addition to specific binding to the lactose carrier, Dns2-S-gal binds unspecifically to lipid vesicles or membranes, as described by a partition coefficient, K = 60, resulting in a 25-nm blue shift in the emission maximum of the dansyl group. Both Dns2-S-Gal and alpha-NPG are not only bound by the lactose carrier but also transported across the membrane by this transport protein in cells and membrane vesicles. The fluorescence changes observed with dansylated galactosides in membrane vesicles in the presence of an electrochemical gradient (Schuldiner et al. (1975) J. Biol. Chem. 250, 1361--1370)) are interpreted as an increase in unspecific binding after translocation.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Overath</LastName>
+<ForeName>P</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author>
+<LastName>Teather</LastName>
+<ForeName>R M</ForeName>
+<Initials>RM</Initials>
+</Author>
+<Author>
+<LastName>Simoni</LastName>
+<ForeName>R D</ForeName>
+<Initials>RD</Initials>
+</Author>
+<Author>
+<LastName>Aichele</LastName>
+<ForeName>G</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author>
+<LastName>Wilhelm</LastName>
+<ForeName>U</ForeName>
+<Initials>U</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Carrier Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Glycosides</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Membrane Transport Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Thiogalactosides</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Thioglycosides</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>28347-45-7</RegistryNumber>
+<NameOfSubstance>Nitrophenylgalactosides</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>63-42-3</RegistryNumber>
+<NameOfSubstance>Lactose</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Biological Transport, Active</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Carrier Proteins</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cell Membrane</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Escherichia coli</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Glycosides</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Lactose</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Membrane Transport Proteins</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Molecular Weight</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Nitrophenylgalactosides</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Protein Binding</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Spectrophotometry</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Thiogalactosides</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Thioglycosides</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

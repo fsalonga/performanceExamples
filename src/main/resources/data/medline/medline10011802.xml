@@ -1,0 +1,104 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011802</MedlineID>
+<PMID>421108</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0007-1447</ISSN>
+<JournalIssue>
+<Volume>1</Volume>
+<Issue>6159</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>3</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Acute poisoning with Distalgesic.</ArticleTitle>
+<Pagination>
+<MedlinePgn>342-3</MedlinePgn>
+</Pagination>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Letter</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Br Med J</MedlineTA>
+<NlmUniqueID>0372673</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Drug Combinations</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>103-90-2</RegistryNumber>
+<NameOfSubstance>Acetaminophen</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>469-62-5</RegistryNumber>
+<NameOfSubstance>Propoxyphene</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Acetaminophen</DescriptorName>
+<QualifierName MajorTopicYN="Y">poisoning</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Adolescence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Apnea</DescriptorName>
+<QualifierName>chemically induced</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Brain Damage, Chronic</DescriptorName>
+<QualifierName>chemically induced</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Case Report</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Drug Combinations</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Middle Age</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Propoxyphene</DescriptorName>
+<QualifierName MajorTopicYN="Y">poisoning</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

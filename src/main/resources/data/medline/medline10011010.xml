@@ -1,0 +1,110 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011010</MedlineID>
+<PMID>420598</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>03</Month>
+<Day>23</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0003-9942</ISSN>
+<JournalIssue>
+<Volume>36</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Use of computerized tomography in nonsurgical management of brain abscess.</ArticleTitle>
+<Pagination>
+<MedlinePgn>25-6</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Two patients with hematogenous brain abscesses demonstrated by computerized tomographic (CT) scans were successfully treated without surgical intervention. The first patient had congenital cyanotic heart disease and multiple brain abscesses complicated by presumed rupture into the ventricles. By the time these clinical diagnoses were established, she had shown substantial improvement after antibiotic therapy alone. The second patient with bronchiectasis had a single abscess in the dominant hemisphere. Medical management was successful. Subsequent CT scans in both patients provided reassurance that clinical improvement was accompanied by anatomical healing. The use of noninvasive diagnostic techniques should encourage the formulation of new criteria for the management of cerebral abscess in carefully evaluated and closely observed patients.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Rotheram</LastName>
+<ForeName>E B</ForeName>
+<Initials>EB</Initials>
+<Suffix>Jr</Suffix>
+</Author>
+<Author>
+<LastName>Kessler</LastName>
+<ForeName>L A</ForeName>
+<Initials>LA</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Arch Neurol</MedlineTA>
+<NlmUniqueID>0372436</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>61-33-6</RegistryNumber>
+<NameOfSubstance>Penicillin G</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Brain</DescriptorName>
+<QualifierName>radiography</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Brain Abscess</DescriptorName>
+<QualifierName>drug therapy</QualifierName>
+<QualifierName MajorTopicYN="Y">radiography</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Bronchiectasis</DescriptorName>
+<QualifierName>complications</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Case Report</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Heart Septal Defects, Ventricular</DescriptorName>
+<QualifierName>complications</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Penicillin G</DescriptorName>
+<QualifierName>therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Tomography, X-Ray Computed</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

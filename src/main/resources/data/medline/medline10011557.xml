@@ -1,0 +1,98 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011557</MedlineID>
+<PMID>420913</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0306-042X</ISSN>
+<JournalIssue>
+<Volume>6</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Quantitation of plasma warfarin levels by gas chromatography chemical ionization mass spectrometry.</ArticleTitle>
+<Pagination>
+<MedlinePgn>101-4</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>A quantitative assay for plasma concentrations of warfarin has been developed using a deuterated warfarin analogue as internal standard. The method employs methylation (diazomethane) of warfarin to its 4'-methoxy derivative and gas chromatography chemical ionization mass spectrometry. Selected ion monitoring was used to relate the response of warfarin methyl ether and the internal standard. This technique can measure warfarin plasma concentrations five days after a single oral (25 mg) dose. Warfarin half-lives were determined in 12 healthy male volunteers. Each plasma analysis required six minutes of instrument time.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Duffield</LastName>
+<ForeName>P H</ForeName>
+<Initials>PH</Initials>
+</Author>
+<Author>
+<LastName>Birkett</LastName>
+<ForeName>D J</ForeName>
+<Initials>DJ</Initials>
+</Author>
+<Author>
+<LastName>Wade</LastName>
+<ForeName>D N</ForeName>
+<Initials>DN</Initials>
+</Author>
+<Author>
+<LastName>Duffield</LastName>
+<ForeName>A M</ForeName>
+<Initials>AM</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Biomed Mass Spectrom</MedlineTA>
+<NlmUniqueID>0430246</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>81-81-2</RegistryNumber>
+<NameOfSubstance>Warfarin</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Chromatography, Gas</DescriptorName>
+<QualifierName>methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Spectrum Analysis, Mass</DescriptorName>
+<QualifierName>methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Warfarin</DescriptorName>
+<QualifierName>analogs &#38; derivatives</QualifierName>
+<QualifierName MajorTopicYN="Y">blood</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

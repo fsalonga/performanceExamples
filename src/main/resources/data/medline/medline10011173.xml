@@ -1,0 +1,188 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011173</MedlineID>
+<PMID>420716</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>28</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>28</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>03</Month>
+<Day>23</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0004-3591</ISSN>
+<JournalIssue>
+<Volume>22</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Connective tissue activation. XIV. Composition and actions of a human platelet autacoid mediator.</ArticleTitle>
+<Pagination>
+<MedlinePgn>260-72</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Connective tissue activating peptide-III (CTAP-III) isolated from human platelets is a potent mitogen for human connective tissue cells in culture in addition to stimulating glycosaminoglycan synthesis, glucose consumption, and lactate formation. The amino acid composition of apparently homogeneous CTAP-III was determined, confirming the presence of two disulfide links and providing a calculated molecular weight of 11,633 daltons. Comparison of the mitogenic activity of serum and plasma-serum suggests that CTAP-III is a major mitogenic component of human serum. Seventeen strains of human connective tissue cells (synovial, cartilage, dermal and thyroid) incorporated [3H]-thymidine at up to 30 times control at levels under the influence of microgram quantities of CTAP-III and caused detectable increases in thymidine incorporation at levels as low as 10-29 ng/ml. Prostaglandin E1 (0.01 microgram/ml) and dibutyryl cyclic AMP (25 microgram/ml) potentiated the glycosaminoglycan stimulating effect of CTAP-III, but not its mitogenic effect. Cycloheximide and actinomycin D blocked the biologic actions of CTAP-III. Cortisol and penicillamine had little effect on the mitogenic activity of CTAP-III, whereas antirheumatic agents such as acetylsalicylic acid and phenylbutazone opposed the mitogenic activity when added to cultures at clinically relevant concentrations. A weak antiheparin factor secreted by platelets, low affinity platelet factor 4 (LA-PF4), was shown to be similar to CTAP-III in biologic actions, electrophoretic mobility, amino acid composition, and antigenic determinants.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Castor</LastName>
+<ForeName>C W</ForeName>
+<Initials>CW</Initials>
+</Author>
+<Author>
+<LastName>Ritchie</LastName>
+<ForeName>J C</ForeName>
+<Initials>JC</Initials>
+</Author>
+<Author>
+<LastName>Williams</LastName>
+<ForeName>C H</ForeName>
+<Initials>CH</Initials>
+<Suffix>Jr</Suffix>
+</Author>
+<Author>
+<LastName>Scott</LastName>
+<ForeName>M E</ForeName>
+<Initials>ME</Initials>
+</Author>
+<Author>
+<LastName>Whitney</LastName>
+<ForeName>S L</ForeName>
+<Initials>SL</Initials>
+</Author>
+<Author>
+<LastName>Myers</LastName>
+<ForeName>S L</ForeName>
+<Initials>SL</Initials>
+</Author>
+<Author>
+<LastName>Sloan</LastName>
+<ForeName>T B</ForeName>
+<Initials>TB</Initials>
+</Author>
+<Author>
+<LastName>Anderson</LastName>
+<ForeName>B E</ForeName>
+<Initials>BE</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Arthritis Rheum</MedlineTA>
+<NlmUniqueID>0370605</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Amino Acids</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Glycosaminoglycans</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Lactates</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Mitogens</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Peptides</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>50-99-7</RegistryNumber>
+<NameOfSubstance>Glucose</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9007-49-2</RegistryNumber>
+<NameOfSubstance>DNA</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Amino Acids</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Blood Platelets</DescriptorName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cartilage, Articular</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cells, Cultured</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Connective Tissue</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>DNA</DescriptorName>
+<QualifierName>biosynthesis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Glucose</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Glycosaminoglycans</DescriptorName>
+<QualifierName MajorTopicYN="Y">biosynthesis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Lactates</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Mitogens</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Molecular Weight</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Peptides</DescriptorName>
+<QualifierName>analysis</QualifierName>
+<QualifierName>isolation &#38; purification</QualifierName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Stimulation, Chemical</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Synovial Membrane</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

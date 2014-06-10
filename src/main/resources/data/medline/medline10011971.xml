@@ -1,0 +1,128 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011971</MedlineID>
+<PMID>283880</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0008-543X</ISSN>
+<JournalIssue>
+<Volume>43</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Management of asparaginase induced hemorrhagic pancreatitis complicated by pseudocyst.</ArticleTitle>
+<Pagination>
+<MedlinePgn>718-22</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Asparaginase induced hemorrhagic pancreatitis is a rare but serious development occurring in less than 0.5% of patients treated with this drug. Severe pancreatitis with progressive abdominal distention, toxemia, hypotension and respiratory insufficiency occurred in an 18-year-old patient with acute lymphoblastic leukemia following treatment with asparaginase. There was a dramatic response to high flow peritoneal lavage with rapid recovery within 24 hours from a moribund state. The subsequent development of a pseudocyst, with progressive increase in size and development of obstructive symptoms, required surgical decompression. Transgastric cystogastrostomy was successfully carried out.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Greenstein</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author>
+<LastName>Nogeire</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author>
+<LastName>Ohnuma</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author>
+<LastName>Greenstein</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Cancer</MedlineTA>
+<NlmUniqueID>0374236</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>EC 3.5.1.1</RegistryNumber>
+<NameOfSubstance>Asparaginase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adolescence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Asparaginase</DescriptorName>
+<QualifierName MajorTopicYN="Y">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Case Report</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hemorrhage</DescriptorName>
+<QualifierName MajorTopicYN="Y">chemically induced</QualifierName>
+<QualifierName>complications</QualifierName>
+<QualifierName>therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Leukemia, Lymphocytic</DescriptorName>
+<QualifierName>drug therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Pancreatic Cyst</DescriptorName>
+<QualifierName MajorTopicYN="Y">complications</QualifierName>
+<QualifierName>etiology</QualifierName>
+<QualifierName>surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Pancreatitis</DescriptorName>
+<QualifierName MajorTopicYN="Y">chemically induced</QualifierName>
+<QualifierName>complications</QualifierName>
+<QualifierName>therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Peritoneal Dialysis</DescriptorName>
+<QualifierName>adverse effects</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

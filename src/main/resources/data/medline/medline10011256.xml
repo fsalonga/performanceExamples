@@ -1,0 +1,153 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011256</MedlineID>
+<PMID>369596</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>9</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Rapid purification of biologically active individual histone messenger RNAs by hybridization to cloned DNA linked to cellulose.</ArticleTitle>
+<Pagination>
+<MedlinePgn>208-13</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>We describe a rapid and simple method for the purification of biologically active messenger RNAs. The method allows the isolation in a few hours of specific mRNAs from either whole cell or polysomal RNA even if the RNA represents less than 1% of the starting molecules. We used, as a model, cloned sea urchin (Strongylocentrotus purpuratus) histone gene fragments linked to cellulose by the method of B. E. Noyes &#38; G. R. Stark (1975) Cell 5, 301--310) as hybridization probes to isolate specific histone mRNAs from whole cell and polysomal RNA extracts. RNAs isolated in this manner maintain their biological activity, serving as templates for histone proteins in a wheat-germ, cell-free protein translation system. In addition, radiolabeled histone-specific RNA purified from cleavage stage sea urchin embryos, pulse labeled for short periods of time and analyzed on denaturing polyacrylamide gels, was the same size as mature histone mRNA's.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Childs</LastName>
+<ForeName>G</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author>
+<LastName>Levy</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author>
+<LastName>Kedes</LastName>
+<ForeName>L H</ForeName>
+<Initials>LH</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>DNA, Recombinant</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Histones</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Plasmids</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>RNA, Messenger</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>RNA, Ribosomal</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Chromatography, Affinity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">DNA, Recombinant</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Embryo, Nonmammalian</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Escherichia coli</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Histones</DescriptorName>
+<QualifierName MajorTopicYN="Y">biosynthesis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Molecular Weight</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Nucleic Acid Hybridization</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Plants</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Plasmids</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>RNA, Messenger</DescriptorName>
+<QualifierName MajorTopicYN="Y">isolation &#38; purification</QualifierName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>RNA, Ribosomal</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Sea Urchins</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, Non-P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Translation, Genetic</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Wheat</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

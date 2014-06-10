@@ -1,0 +1,130 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011844</MedlineID>
+<PMID>421130</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-8993</ISSN>
+<JournalIssue>
+<Volume>161</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>9</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>The lipid and protein content of cholinergic synaptic vesicles from the electric organ of Torpedo marmorata purified to constant composition: implications for vesicle structure.</ArticleTitle>
+<Pagination>
+<MedlinePgn>447-57</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The lipid, protein, acetylcholine and ATP content of cholinergic synaptic vesicles isolated from the richly innervated electric organ of Torpedo marmorata and purified to constant composition has been determined. The number of vesicles present in the preparations has been estimated by quantitative electron microscopy and the mean composition of the vesicle deduced. The acetylcholine content of the purest preparations was considerably greater than that previously attained and reached a mean of 6.10 mmole/g of protein and 2.6 X 10(5) molecules/vesicle; the mean values, for all determinations, were 4.1 +/- S.E.M. 0.6 and 2.6 X 10(5) +/- S.E.M. 0.6 X 10(5) respectively. The lipid and protein content of the vesicle (about 140 and 80 ag/vesicle respectively) is relatively low, indicating a thin, lipid-rich membrane and a highly hydrated core of which not more than 1-2% can be occupied by protein. These findings are consistent with conclusions drawn from recent density determinations made at different osmotic pressures using penetrating and non-penetrating gradients.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Ohsawa</LastName>
+<ForeName>K</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author>
+<LastName>Dowe</LastName>
+<ForeName>G H</ForeName>
+<Initials>GH</Initials>
+</Author>
+<Author>
+<LastName>Morris</LastName>
+<ForeName>S J</ForeName>
+<Initials>SJ</Initials>
+</Author>
+<Author>
+<LastName>Whittaker</LastName>
+<ForeName>V P</ForeName>
+<Initials>VP</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Brain Res</MedlineTA>
+<NlmUniqueID>0045503</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Lipids</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Nerve Tissue Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>51-84-3</RegistryNumber>
+<NameOfSubstance>Acetylcholine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>56-65-5</RegistryNumber>
+<NameOfSubstance>Adenosine Triphosphate</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Acetylcholine</DescriptorName>
+<QualifierName>isolation &#38; purification</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Adenosine Triphosphate</DescriptorName>
+<QualifierName>isolation &#38; purification</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cell Fractionation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cholinergic Fibers</DescriptorName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Electric Organ</DescriptorName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Fishes</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Lipids</DescriptorName>
+<QualifierName MajorTopicYN="Y">isolation &#38; purification</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Nerve Tissue Proteins</DescriptorName>
+<QualifierName MajorTopicYN="Y">isolation &#38; purification</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Synaptic Vesicles</DescriptorName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+<QualifierName>ultrastructure</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

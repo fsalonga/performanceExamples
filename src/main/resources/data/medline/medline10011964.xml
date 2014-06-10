@@ -1,0 +1,172 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011964</MedlineID>
+<PMID>217526</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0008-543X</ISSN>
+<JournalIssue>
+<Volume>43</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Genetic mechanisms in cancer predisposition: report of a cancer family.</ArticleTitle>
+<Pagination>
+<MedlinePgn>679-89</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>A family is described in which four children developed cancer affecting different organs:lymphoma, meningeal sarcoma, osteogenic sarcoma, and adenocarcinoma of the cecum. Since there was only one other case of cancer in previous generations of this family, an hypothesis is put forth to explain this unusual aggregation on the basis of recombination of common genes. It is postulated that each parent carried a different combination of genes which, though not associated with increased cancer predisposition in the combinations in which they were present in the parents, due to independent assortment resulted in a combination producing cancer susceptibility in half of the offspring. Such genetic loci could include factors similar to an oncogene which is normally held in control by genes at another locus; thus the dominant oncogene without the dominant controlling genes would make for cancer susceptibility, while the controlling genes without the oncogene would be associated with cancer resistance since two mutations would then be required for malignant development. To explain the occurrence of lymphoma in one of the children in this family, a third set of genes is included in this model--genes affecting immunocompetence, in which the normal allele is dominant. This three locus model has the advantage of being able to explain not only the occasional cancer family, but also the distribution of cancer susceptibility and resistance in the general population.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Meisner</LastName>
+<ForeName>L F</ForeName>
+<Initials>LF</Initials>
+</Author>
+<Author>
+<LastName>Gilbert</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author>
+<LastName>Ris</LastName>
+<ForeName>H W</ForeName>
+<Initials>HW</Initials>
+</Author>
+<Author>
+<LastName>Haverty</LastName>
+<ForeName>G</ForeName>
+<Initials>G</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Cancer</MedlineTA>
+<NlmUniqueID>0374236</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Antibodies, Viral</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adenocarcinoma</DescriptorName>
+<QualifierName>genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Adolescence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Antibodies, Viral</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Bone Neoplasms</DescriptorName>
+<QualifierName>genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Case Report</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cecal Neoplasms</DescriptorName>
+<QualifierName>genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Child</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Child, Preschool</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Chromosome Aberrations</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Chromosomes, Human, 16-18</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Genes</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Herpesvirus 4, Human</DescriptorName>
+<QualifierName>immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Immunity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Lymphoma</DescriptorName>
+<QualifierName>genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Meningeal Neoplasms</DescriptorName>
+<QualifierName>genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Middle Age</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Models, Biological</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mutation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y">genetics</QualifierName>
+<QualifierName>immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Osteosarcoma</DescriptorName>
+<QualifierName>genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Pedigree</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Sarcoma</DescriptorName>
+<QualifierName>genetics</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

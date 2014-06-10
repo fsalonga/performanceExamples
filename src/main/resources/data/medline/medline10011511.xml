@@ -1,0 +1,116 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011511</MedlineID>
+<PMID>217454</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0320-9725</ISSN>
+<JournalIssue>
+<Volume>44</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>[Mechanisms of rat liver thiamine pyrophosphokinase activation by magnesium ions]</ArticleTitle>
+<Pagination>
+<MedlinePgn>50-6</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The role of Mg2+ in the activation of thiamine pyrophosphokinase from rat liver was studied. The dependence of the thiamine pyrophosphokinase reaction rate on total and free ATP concentrations suggests that the role of the metal comes down to optimization of conditions of the active enzyme-substrate complex formation due to incorporation of the reactions of Mg2+ and ATP-4 consecutive acception, the affinity of the latter for the enzyme being higher than that of Mg-ATP-2. The kinetic parameters of the reaction were determined. In the absence of ATP-4 free Mg2+ ions were shown to compete with the Mg-ATP-2 complex (Ki = 18 . 10(-3) M). Thiamine pyrophosphokinase is also inhibited by free ATP-4 with Ki = 3 . 10(-3) M.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Vinogradov</LastName>
+<ForeName>V V</ForeName>
+<Initials>VV</Initials>
+</Author>
+<Author>
+<LastName>Strumilo</LastName>
+<ForeName>S A</ForeName>
+<Initials>SA</Initials>
+</Author>
+</AuthorList>
+<Language>rus</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+<VernacularTitle>Mekhanizm aktivatsii tiaminpirofosfokinazy iz pecheni krys ionami magniia.</VernacularTitle>
+</Article>
+<MedlineJournalInfo>
+<Country>USSR</Country>
+<MedlineTA>Biokhimiia</MedlineTA>
+<NlmUniqueID>0372667</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>56-65-5</RegistryNumber>
+<NameOfSubstance>Adenosine Triphosphate</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7439-95-4</RegistryNumber>
+<NameOfSubstance>Magnesium</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.7</RegistryNumber>
+<NameOfSubstance>Phosphotransferases</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.7.6.2</RegistryNumber>
+<NameOfSubstance>Thiamin Pyrophosphokinase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adenosine Triphosphate</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>English Abstract</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Enzyme Activation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Liver</DescriptorName>
+<QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Magnesium</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phosphotransferases</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Thiamin Pyrophosphokinase</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

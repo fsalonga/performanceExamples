@@ -1,0 +1,132 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011993</MedlineID>
+<PMID>421201</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0008-5472</ISSN>
+<JournalIssue>
+<Volume>39</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Apr</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Purification and mechanism of action of macromomycin.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1180-4</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Macromomycin (MCR), a polypeptide antibiotic previously shown to have antitumor activity in experimental tumors, has been purified into an electrophoretically homogeneous component with an approximate molecular weight of 12,500. MCR has alanine as an NH2-terminal amino acid, 4 cysteine residues, and no arginine or methionine residues. With a fluorescence assay and agarose gel electrophoresis, MCR was shown to induce strand breaks in PM2 DNA in vitro. 2-Mercaptoethanol inhibited the DNA cleavage activity of MCR. When incubated with Novikoff hepatoma ascites cells in tissue culture, MCR caused Novikoff hepatoma ascites cell DNA degradation as observed by the slower sedimentation of DNA on alkaline sucrose density gradient centrifugation when compared to untreated cell DNA. DNA synthesis in Novikoff hepatoma ascites cells was inhibited by 80% after a two-hr treatment with MCR (0.03 microgram/ml). RNA and protein syntheses were inhibited by 25 and less than 10%, respectively, at this concentration of drug. At a concentration of MCR (1.0 microgram/ml), syntheses of DNA and RNA in Novikoff hepatoma ascites cells were totally inhibited. The results of this study suggest that MCR may inhibit tumor cell growth by causing DNA breakage with subsequent inhibition of DNA and other macromolecule syntheses.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Sawyer</LastName>
+<ForeName>T H</ForeName>
+<Initials>TH</Initials>
+</Author>
+<Author>
+<LastName>Prestayko</LastName>
+<ForeName>A W</ForeName>
+<Initials>AW</Initials>
+</Author>
+<Author>
+<LastName>Crooke</LastName>
+<ForeName>S T</ForeName>
+<Initials>ST</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Cancer Res</MedlineTA>
+<NlmUniqueID>2984705R</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Antibiotics, Antineoplastic</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>DNA, Neoplasm</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>DNA, Single-Stranded</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>DNA, Viral</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Peptides</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Antibiotics, Antineoplastic</DescriptorName>
+<QualifierName>isolation &#38; purification</QualifierName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cells, Cultured</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>DNA, Neoplasm</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>DNA, Single-Stranded</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>DNA, Viral</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>In Vitro</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Liver Neoplasms, Experimental</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug therapy</QualifierName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Peptides</DescriptorName>
+<QualifierName>isolation &#38; purification</QualifierName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

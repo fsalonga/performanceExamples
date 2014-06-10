@@ -1,0 +1,97 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011091</MedlineID>
+<PMID>420663</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>11</Month>
+<Day>14</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0095-6562</ISSN>
+<JournalIssue>
+<Volume>50</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Cardiovascular regulatory response to lower body negative pressure following blood volume loss.</ArticleTitle>
+<Pagination>
+<MedlinePgn>24-33</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Shimizu</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author>
+<LastName>Ghista</LastName>
+<ForeName>D N</ForeName>
+<Initials>DN</Initials>
+</Author>
+<Author>
+<LastName>Sandler</LastName>
+<ForeName>H</ForeName>
+<Initials>H</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Aviat Space Environ Med</MedlineTA>
+<NlmUniqueID>7501714</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<CitationSubset>S</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Bed Rest</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Blood Pressure</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Blood Volume</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Heart Rate</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Hemodynamics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mathematics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Models, Theoretical</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Stroke Volume</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Weightlessness</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<OtherID Source="NASA">79123722</OtherID>
+</MedlineCitation>

@@ -1,0 +1,110 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011841</MedlineID>
+<PMID>421127</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-8993</ISSN>
+<JournalIssue>
+<Volume>161</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>9</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Corticotectal and other corticofugal projections in neonatal cat.</ArticleTitle>
+<Pagination>
+<MedlinePgn>399-409</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Adult physiological properties of cat superior colliculus cells develop gradually during the first two months of life. Since many of the neuronal properties in the adult cat appear to depend upon the integrity of visual cortex, it was postulated that the maturation of superior colliculus cells is, in large part, a reflection of corticotectal maturation. An attempt was made to study the development of the corticotectal pathway with the autoradiographic tracing technique. Injections of [3H]leucine were made in the visual cortex of kittens 6 h to 12 days of age and animals were sacrificed 20-24 h later. A dense projection from visual cortex to the superior colliculus and to the lateral geniculate nucleus was noted in all animals. Both projections appeared to be topographically organized. In addition, cortical projections to the lateral posterior-pulvinar region and sparse projections to the contralateral visual cortex were noted. Two, non-mutually exclusive, explanations for the presence of a corticotectal pathway in the absence of mature cell properties in the superior colliculus are most apparent: (a) corticotectal synapses are incompletely formed at birth and require many weeks to develop, and (b) corticotectal cells are immature during early postnatal life and cannot impress adult-like characteristics upon the superior colliculus cells until they, themselves, 'mature'.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Stein</LastName>
+<ForeName>B E</ForeName>
+<Initials>BE</Initials>
+</Author>
+<Author>
+<LastName>Edwards</LastName>
+<ForeName>S B</ForeName>
+<Initials>SB</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Brain Res</MedlineTA>
+<NlmUniqueID>0045503</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Age Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Animals, Newborn</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Autoradiography</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Corpus Callosum</DescriptorName>
+<QualifierName>anatomy &#38; histology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Dominance, Cerebral</DescriptorName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Geniculate Bodies</DescriptorName>
+<QualifierName>anatomy &#38; histology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Superior Colliculus</DescriptorName>
+<QualifierName MajorTopicYN="Y">anatomy &#38; histology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Thalamus</DescriptorName>
+<QualifierName>anatomy &#38; histology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Visual Cortex</DescriptorName>
+<QualifierName MajorTopicYN="Y">anatomy &#38; histology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Visual Pathways</DescriptorName>
+<QualifierName MajorTopicYN="Y">anatomy &#38; histology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

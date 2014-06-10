@@ -1,0 +1,127 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011400</MedlineID>
+<PMID>420834</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>551</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+<Day>8</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>The interaction of spectrin-actin and synthetic phospholipids. II. The interaction with phosphatidylserine.</ArticleTitle>
+<Pagination>
+<MedlinePgn>271-81</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Sonicated vesicles of phosphatidylserine and phosphatidylserine/phosphatidylcholine mixtures were recombined with spectrin-actin from human erythrocyte ghosts. Morphological properties and physicochemical characteristics of the recombinates were studied with freeze etch electron microscopy, 31P NMR and differential scanning calorimetry. Sonicated dimyristoyl phosphatidylserine vesicles show a decrease in enthalpy change of the lipid phase transition upon addition of spectrin-actin. These vesicles collapse and fuse, into multilamellar structures in the presence of spectrin-actin, as demonstrated by freeze fracturing and NMR. Spectrin-actin cannot prevent the salt formation between phosphatidylserine and Ca2+, all phosphatidylserine is withdrawn from the lipid phase transition. In contrast a protection against the action of Mg2+ could be observed. Mixed bilayers of dimyristoyl phosphatidylserine/dimyristoyl phosphatidylcholine show phase separations at molar ratios above 1/1 (van Dijck, P.W.M., de Kruijff, B., Verkleij, A.J., van Deenen, L.L.M. and de Gier, J. (1978) Biochim. Biophys. Acta 512, 84--96). These phase spearations can be prevented by spectrin-actin. Ca2+-induced lateral phase separations in cocrystallizing phosphatidylserine/phosphatidylcholine mixtures, can be reduced by spectrin-actin. Formation of the Ca2+-phosphatidylserine salt, occurring in addition to lateral phase separation when mixtures contain more than 30 mol % phosphatidylserine, cannot be prevented by spectrin-actin.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Mombers</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author>
+<LastName>Verkleij</LastName>
+<ForeName>A J</ForeName>
+<Initials>AJ</Initials>
+</Author>
+<Author>
+<LastName>de Gier</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author>
+<LastName>van Deenen</LastName>
+<ForeName>L L</ForeName>
+<Initials>LL</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Actins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Membrane Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Phosphatidylcholines</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Phosphatidylserines</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>12634-43-4</RegistryNumber>
+<NameOfSubstance>Spectrin</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Actins</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Erythrocyte Membrane</DescriptorName>
+<QualifierName>ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Freeze Fracturing</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Membrane Proteins</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Membranes, Artificial</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phosphatidylcholines</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Phosphatidylserines</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Spectrin</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Thermodynamics</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

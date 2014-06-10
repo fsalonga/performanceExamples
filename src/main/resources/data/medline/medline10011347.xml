@@ -1,0 +1,120 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011347</MedlineID>
+<PMID>105756</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>20</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Comparative in vivo nitrogen-15 nuclear magnetic resonance study of the cell wall components of five Gram-positive bacteria.</ArticleTitle>
+<Pagination>
+<MedlinePgn>704-14</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The proton-decoupled 9.12 MHz 15N NMR spectra of 15N-labeled Bacillus subtilis, Bacillus licheniformis, Staphylococcus auresu, Streptococcus faecalis, and Micrococcus lysodeikticus intact cells, isolated cells walls, and cell wall digests have been examined. The general characteristics of Gram-positive bacteria 15N NMR spectra and described and spectral assignments are provided, which allow in vivo 15N NMR to be applied to a wide range of problems in bacterial cell wall research. The qualitative similarity of the intact cell and cell wall spectra found in each bacteria allowed the 15 N resonances observed in the proton broad-band noise-decoupled 15N NMR spectra of intact cells to be assigned to cell wall components. Each of the five Gram-positive bacteria displayed a unique set of cell wall 15N resonances, which reflected variations in the primary structure of peptidoglycans and the amounts of teichoic acid and teichuronic acid in the cell wall, as well as the dynamic properties of the cell wall polymers. Spectral assignments of cell wall 15 N resonances assigned to teichoic D-Ala residues, teichuronic acid and acetamido groups, and peptidoglycan acetamido, amide, peptide, and free amino groups have been made on the basis of specific isotopic labeling and dilution experiments, comparison of chemical shifts to literature values, determination of pH titration shifts, cell wall fractionation experiments, and comparative analysis of the cell wall lysozyme digest spectra in terms of the known primary sequences of peptide chains. All the peptidoglycan 15N peptide resonances observed in the intact cells and isolated cell walls could be accounted for by residues in the bridge or crossbar regions of the peptide chains, which indicated that only the cross-linking groups had a high degree of motional freedom. Thermal- and pH-induced conformational changes around the cross-linking D-Ala residues were detected in the B. licheniformis cell wall lysozyme digest products. Comparison of the proton broad-band noise-decoupled and gated decoupled intact cell and cell wall 15N spectra indicated that broad-band proton decoupling resulted in nulling of cytoplasmic resonances and enhancement of the cell wall resonances by the 15N [1H5 nuclear Overhauser effect.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Lapidot</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author>
+<LastName>Irving</LastName>
+<ForeName>C S</ForeName>
+<Initials>CS</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Nitrogen Isotopes</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Polysaccharides, Bacterial</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Teichoic Acids</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Bacillus</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Bacillus subtilis</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Bacteria</DescriptorName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cell Wall</DescriptorName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Enterococcus faecalis</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Magnetic Resonance Spectroscopy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Micrococcus</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Nitrogen Isotopes</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Polysaccharides, Bacterial</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Staphylococcus aureus</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Teichoic Acids</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

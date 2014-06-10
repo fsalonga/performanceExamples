@@ -1,0 +1,118 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011540</MedlineID>
+<PMID>420900</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3223</ISSN>
+<JournalIssue>
+<Volume>14</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Genetic markers for schizotaxia.</ArticleTitle>
+<Pagination>
+<MedlinePgn>177-206</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Evidence is presented for the occurrence of a locus for schizotaxia on the short arm of chromosome 6. This derives from study of 63 informative members of seven pedigrees in which the proband and a parent (or a sib of parent) suffered with schizophrenia and other kin were either normal or fell within a spectrum of conditions related to schizophrenia. For linkage of HLA and schizotaxia a Lod score, 2.57, at recombination frequency 0.15 is reported, which gives p = 0.008. This is in contrast to data on 54 informative members of six pedigrees with atypical (schizo-affective or mixed) psychoses in two generations. Glyoxalase isoenzymes were of value in linkage analysis in two pedigrees. No evidence for linkage was found for any erythrocyte surface antigen nor for 15 other genetic markers. Details for each pedigree are provided.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Turner</LastName>
+<ForeName>W J</ForeName>
+<Initials>WJ</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biol Psychiatry</MedlineTA>
+<NlmUniqueID>0213264</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>HLA Antigens</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Isoenzymes</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 4.4.1.5</RegistryNumber>
+<NameOfSubstance>Lactoylglutathione Lyase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Chromosomes</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>HLA Antigens</DescriptorName>
+<QualifierName>genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Heterozygote Detection</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Isoenzymes</DescriptorName>
+<QualifierName>genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Karyotyping</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Lactoylglutathione Lyase</DescriptorName>
+<QualifierName>genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Linkage (Genetics)</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Pedigree</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Recombination, Genetic</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Schizotypal Personality Disorder</DescriptorName>
+<QualifierName MajorTopicYN="Y">genetics</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

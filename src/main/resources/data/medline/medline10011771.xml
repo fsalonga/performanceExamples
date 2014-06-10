@@ -1,0 +1,75 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011771</MedlineID>
+<PMID>369658</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>11</Month>
+<Day>27</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0007-1447</ISSN>
+<JournalIssue>
+<Volume>1</Volume>
+<Issue>6159</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>3</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Emotion and empiricism.</ArticleTitle>
+<Pagination>
+<MedlinePgn>288-9</MedlinePgn>
+</Pagination>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Clinical Trial</PublicationType>
+<PublicationType>Editorial</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Br Med J</MedlineTA>
+<NlmUniqueID>0372673</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>E</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Clinical Trials</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Drug Evaluation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Ethics, Medical</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Random Allocation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Research Design</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<OtherID Source="KIE">08264</OtherID>
+<KeywordList Owner="KIE">
+<Keyword>Control Groups</Keyword>
+</KeywordList>
+<GeneralNote Owner="KIE">KIE BoB Subject Heading: HUMAN EXPERIMENTATION/RANDOM SELECTION</GeneralNote>
+</MedlineCitation>

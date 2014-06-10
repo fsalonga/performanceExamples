@@ -1,0 +1,95 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011194</MedlineID>
+<PMID>420734</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0004-6981</ISSN>
+<JournalIssue>
+<Volume>13</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Estimation of maximum credible atmospheric radioactivity concentrations and dose rates from nuclear tests.</ArticleTitle>
+<Pagination>
+<MedlinePgn>327-34</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Telegadas</LastName>
+<ForeName>K</ForeName>
+<Initials>K</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Atmos Environ</MedlineTA>
+<NlmUniqueID>0100776</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Air Pollutants</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Air Pollutants, Radioactive</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Radioactive Fallout</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Air Pollutants</DescriptorName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Air Pollutants, Radioactive</DescriptorName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Environmental Health</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Maximum Allowable Concentration</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Nuclear Fission</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Nuclear Medicine</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Power Plants</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Radioactive Fallout</DescriptorName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

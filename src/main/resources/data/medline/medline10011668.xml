@@ -1,0 +1,107 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011668</MedlineID>
+<PMID>421002</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0007-1447</ISSN>
+<JournalIssue>
+<Volume>1</Volume>
+<Issue>6157</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>20</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Nocturnal elemental diet for retarded growth in a patient with cystic fibrosis.</ArticleTitle>
+<Pagination>
+<MedlinePgn>167</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Bradley</LastName>
+<ForeName>J A</ForeName>
+<Initials>JA</Initials>
+</Author>
+<Author>
+<LastName>Axon</LastName>
+<ForeName>A T</ForeName>
+<Initials>AT</Initials>
+</Author>
+<Author>
+<LastName>Hill</LastName>
+<ForeName>G L</ForeName>
+<Initials>GL</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Br Med J</MedlineTA>
+<NlmUniqueID>0372673</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>7440-09-7</RegistryNumber>
+<NameOfSubstance>Potassium</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adolescence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Body Weight</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Case Report</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cystic Fibrosis</DescriptorName>
+<QualifierName MajorTopicYN="Y">complications</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Food, Formulated</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Intubation, Gastrointestinal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Nutrition Disorders</DescriptorName>
+<QualifierName MajorTopicYN="Y">diet therapy</QualifierName>
+<QualifierName>etiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Potassium</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

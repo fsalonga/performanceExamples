@@ -1,0 +1,131 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011330</MedlineID>
+<PMID>217419</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>20</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Diastereomers of 5'-O-adenosyl 3'-O-uridyl phosphorothioate: chemical synthesis and enzymatic properties.</ArticleTitle>
+<Pagination>
+<MedlinePgn>592-6</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>A procedure is described for the synthesis of the title compounds via phosphotriester intermediates. The 2-cyanoethyl group is used to protect the P-SH function during the course of the synthesis. Resolution of the phosphorus diastereomers is accomplished at the phosphotriester stage. Removal of the 2-cyanoethyl group without racemization, followed by removal of the other protective groups, affords the optically pure diastereomers of 5'-O-adenosyl 3'-O-uridyl phosphorothioate. Their designation as Rp and Sp follows from the stereospecificity in the hydrolysis catalyzed by RNase A. These diastereomers are useful for the investigation of the stereospecificity as well as of the stereochemical course of action of nucleases. Snake venom exonuclease hydrolyses only the Rp diastereomer, whereas both diastereomers are substrates for RNases A and T2. The results with the latter indicate that RNase T2 also operates by an in-line mechanism.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Burgers</LastName>
+<ForeName>P M</ForeName>
+<Initials>PM</Initials>
+</Author>
+<Author>
+<LastName>Eckstein</LastName>
+<ForeName>F</ForeName>
+<Initials>F</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Oligonucleotides</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Oligoribonucleotides</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Snake Venoms</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Thionucleotides</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>58-61-7</RegistryNumber>
+<NameOfSubstance>Adenosine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.1.-</RegistryNumber>
+<NameOfSubstance>Ribonucleases</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.1.4</RegistryNumber>
+<NameOfSubstance>Phosphoric Diester Hydrolases</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adenosine</DescriptorName>
+<QualifierName>analogs &#38; derivatives</QualifierName>
+<QualifierName>chemical synthesis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Methods</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Oligonucleotides</DescriptorName>
+<QualifierName>chemical synthesis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Oligoribonucleotides</DescriptorName>
+<QualifierName>chemical synthesis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phosphoric Diester Hydrolases</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Ribonucleases</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Snake Venoms</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Stereoisomerism</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Thionucleotides</DescriptorName>
+<QualifierName>chemical synthesis</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

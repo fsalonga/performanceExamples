@@ -1,0 +1,124 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011732</MedlineID>
+<PMID>421051</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0007-1447</ISSN>
+<JournalIssue>
+<Volume>1</Volume>
+<Issue>6158</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>27</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Effect of once-daily atenolol on ambulatory blood pressure.</ArticleTitle>
+<Pagination>
+<MedlinePgn>237-8</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Craig</LastName>
+<ForeName>M W</ForeName>
+<Initials>MW</Initials>
+</Author>
+<Author>
+<LastName>Kenny</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author>
+<LastName>Mann</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author>
+<LastName>Balasubramanian</LastName>
+<ForeName>V</ForeName>
+<Initials>V</Initials>
+</Author>
+<Author>
+<LastName>Raftery</LastName>
+<ForeName>E B</ForeName>
+<Initials>EB</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Br Med J</MedlineTA>
+<NlmUniqueID>0372673</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Propanolamines</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>29122-68-7</RegistryNumber>
+<NameOfSubstance>Atenolol</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Atenolol</DescriptorName>
+<QualifierName MajorTopicYN="Y">administration &#38; dosage</QualifierName>
+<QualifierName>therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Blood Pressure Determination</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Circadian Rhythm</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Drug Administration Schedule</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hypertension</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Middle Age</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Propanolamines</DescriptorName>
+<QualifierName MajorTopicYN="Y">administration &#38; dosage</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

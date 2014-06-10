@@ -1,0 +1,109 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011722</MedlineID>
+<PMID>421042</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0007-1447</ISSN>
+<JournalIssue>
+<Volume>1</Volume>
+<Issue>6158</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>27</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Amitriptyline plasma concentration and clinical response.</ArticleTitle>
+<Pagination>
+<MedlinePgn>230-1</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Montgomery</LastName>
+<ForeName>S A</ForeName>
+<Initials>SA</Initials>
+</Author>
+<Author>
+<LastName>McAuley</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author>
+<LastName>Rani</LastName>
+<ForeName>S J</ForeName>
+<Initials>SJ</Initials>
+</Author>
+<Author>
+<LastName>Montgomery</LastName>
+<ForeName>D B</ForeName>
+<Initials>DB</Initials>
+</Author>
+<Author>
+<LastName>Braithwaite</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author>
+<LastName>Dawling</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Br Med J</MedlineTA>
+<NlmUniqueID>0372673</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>50-48-6</RegistryNumber>
+<NameOfSubstance>Amitriptyline</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>72-69-5</RegistryNumber>
+<NameOfSubstance>Nortriptyline</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Amitriptyline</DescriptorName>
+<QualifierName MajorTopicYN="Y">blood</QualifierName>
+<QualifierName>therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Depression</DescriptorName>
+<QualifierName MajorTopicYN="Y">blood</QualifierName>
+<QualifierName>drug therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Nortriptyline</DescriptorName>
+<QualifierName>blood</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

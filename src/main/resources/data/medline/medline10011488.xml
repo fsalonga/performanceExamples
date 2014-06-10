@@ -1,0 +1,147 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011488</MedlineID>
+<PMID>369615</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>583</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>19</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Regulation of glucosamine-6-phosphate deaminase synthesis in yeast.</ArticleTitle>
+<Pagination>
+<MedlinePgn>28-35</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>A basal level of glucosamine-6-phosphate deaminase is detected in yeast cells grown on glucose. However, a burst of enzyme production occurs in the presence of N-acetylglucosamine in pathogenic Candida albicans and non-pathogenic Saccharomyces cervisiae. The enzyme synthesis stops and its concentration in the cells declines rapidly as soon as N-acetylglucosamine is removed from the medium. Experiments with RNA- and protein-synthesis inhibitors indicate that the appearance of new enzyme activity is dependent on concomitant new protein synthesis and the inducer operates at a transcriptional level. However, inhibition of DNA synthesis either by hydroxyurea or by mitomycin-C does not impair the synthesis of glucosamine-6-phosphate deaminase.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Singh</LastName>
+<ForeName>B</ForeName>
+<Initials>B</Initials>
+</Author>
+<Author>
+<LastName>Datta</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Deoxyadenosines</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Mitomycins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>127-07-1</RegistryNumber>
+<NameOfSubstance>Hydroxyurea</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>3416-24-8</RegistryNumber>
+<NameOfSubstance>Glucosamine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>3546-21-2</RegistryNumber>
+<NameOfSubstance>Ethidium</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>50-99-7</RegistryNumber>
+<NameOfSubstance>Glucose</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>66-81-9</RegistryNumber>
+<NameOfSubstance>Cycloheximide</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7512-17-6</RegistryNumber>
+<NameOfSubstance>Acetylglucosamine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 5.1.3</RegistryNumber>
+<NameOfSubstance>Carbohydrate Epimerases</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Acetylglucosamine</DescriptorName>
+<QualifierName>analogs &#38; derivatives</QualifierName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Candida albicans</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Carbohydrate Epimerases</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cycloheximide</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Deoxyadenosines</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Ethidium</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Glucosamine</DescriptorName>
+<QualifierName>analogs &#38; derivatives</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Glucose</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hydroxyurea</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mitomycins</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Saccharomyces cerevisiae</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

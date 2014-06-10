@@ -1,0 +1,122 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011953</MedlineID>
+<PMID>84707</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0008-543X</ISSN>
+<JournalIssue>
+<Volume>43</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Changes in serum alpha 1 antitrypsin, alpha1 acid glycoprotein and beta 2 glycoprotein I in patients with malignant hepatocellular carcinoma.</ArticleTitle>
+<Pagination>
+<MedlinePgn>596-604</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Serum alpha 1 antitrypsin, alpha 1 acid glycoprotein and beta 2 glycoprotein I concentrations were determined in 36 patients with malignant hepatocellularcarcinoma, 30 with cirrhosis and 35 with hepatitis by quantitative immunoelectrophoresis. Serum alpha 1 antitrypsin and alpha 1 acid glycoprotein levels were significantly higher in patients with hepatocellularcarcinoma than in those with cirrhosis (p less than 0.001) or hepatitis (p less than 0.001). Elevated levels of alpha 1 antitrypsin were found in 88.9% of patients with hepatoma compared to 23.3% of patients with cirrhosis and 28.6% of patients with hepatitis. Raised levels of alpha 1 acid glycoprotein were also found in 80.6% of patients with hepatoma compared to 20% of patients with cirrhosis and in only 5.7% of patients with hepatitis. beta 2 glycoprotein I levels were similar in the three conditions and therefore not useful for differential diagnosis. In monitoring the progress of tumor growth alpha 1 antitrypsin and alpha 1 acid glycoprotein levels were found to increase during the growth phase. Measurements of these two glycoproteins are suggested for differential diagnosis of these liver diseases, as tumor markers for the detection of hepatocarcinoma, and for the monitoring of the progress during treatment.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Chio</LastName>
+<ForeName>L F</ForeName>
+<Initials>LF</Initials>
+</Author>
+<Author>
+<LastName>Oon</LastName>
+<ForeName>C J</ForeName>
+<Initials>CJ</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Cancer</MedlineTA>
+<NlmUniqueID>0374236</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Glycoproteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Orosomucoid</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>alpha 1-Antitrypsin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>alpha-Fetoproteins</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Carcinoma, Hepatocellular</DescriptorName>
+<QualifierName MajorTopicYN="Y">blood</QualifierName>
+<QualifierName>diagnosis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Comparative Study</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Glycoproteins</DescriptorName>
+<QualifierName MajorTopicYN="Y">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hepatitis</DescriptorName>
+<QualifierName>blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Liver Cirrhosis</DescriptorName>
+<QualifierName>blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Liver Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y">blood</QualifierName>
+<QualifierName>diagnosis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Orosomucoid</DescriptorName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>alpha 1-Antitrypsin</DescriptorName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>alpha-Fetoproteins</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

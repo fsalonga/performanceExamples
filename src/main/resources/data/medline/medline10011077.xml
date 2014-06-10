@@ -1,0 +1,113 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011077</MedlineID>
+<PMID>311192</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>28</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>28</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>11</Month>
+<Day>14</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0003-9977</ISSN>
+<JournalIssue>
+<Volume>105</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Modification of constant optokinetic nystagmus by vestibular stimuation.</ArticleTitle>
+<Pagination>
+<MedlinePgn>132-6</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Experiments were conducted to quantify the effect of a vestibular stimulation of known magnitude on a constant optokinetic nystagmus (OKN). Ten normal human subjects were tested with varying magnitudes of vestibular stimuli that were superimposed on a constant 30 degrees optokinetic stimulus. The gain of the vestibular system in the dark was 0.42 +/- 0.11, and the gain in the light during superimposition testing was 0.12 +/- 0.02. From these results, predictions were made that the degree of vestibular imbalance necessary to produce an asymmetric OKN would generate a spontaneous nystagmus in the dark, which would be equivalent to 20 to 30 degrees. Data from a large group of patients were used for corroboration of the results.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Jenkins</LastName>
+<ForeName>H A</ForeName>
+<Initials>HA</Initials>
+</Author>
+<Author>
+<LastName>Honrubia</LastName>
+<ForeName>V</ForeName>
+<Initials>V</Initials>
+</Author>
+<Author>
+<LastName>Baloh</LastName>
+<ForeName>R W</ForeName>
+<Initials>RW</Initials>
+</Author>
+<Author>
+<LastName>Yee</LastName>
+<ForeName>R D</ForeName>
+<Initials>RD</Initials>
+</Author>
+<Author>
+<LastName>Lau</LastName>
+<ForeName>C G</ForeName>
+<Initials>CG</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Arch Otolaryngol</MedlineTA>
+<NlmUniqueID>0376526</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<CitationSubset>S</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Electrooculography</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Eye Movements</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Labyrinth Diseases</DescriptorName>
+<QualifierName>physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Vestibular Function Tests</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Vestibule</DescriptorName>
+<QualifierName MajorTopicYN="Y">physiopathology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+<OtherID Source="NASA">79123461</OtherID>
+</MedlineCitation>

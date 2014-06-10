@@ -1,0 +1,122 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011751</MedlineID>
+<PMID>421067</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0007-1447</ISSN>
+<JournalIssue>
+<Volume>1</Volume>
+<Issue>6158</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>27</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Silver poisoning associated with an antismoking lozenge.</ArticleTitle>
+<Pagination>
+<MedlinePgn>267</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Shelton</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author>
+<LastName>Goulding</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Letter</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Br Med J</MedlineTA>
+<NlmUniqueID>0372673</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Drug Combinations</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Drugs, Non-Prescription</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Tablets</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>12125-02-9</RegistryNumber>
+<NameOfSubstance>Ammonium Chloride</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7440-22-4</RegistryNumber>
+<NameOfSubstance>Silver</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Ammonium Chloride</DescriptorName>
+<QualifierName>administration &#38; dosage</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Argyria</DescriptorName>
+<QualifierName MajorTopicYN="Y">etiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Case Report</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Drug Combinations</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Drugs, Non-Prescription</DescriptorName>
+<QualifierName MajorTopicYN="Y">poisoning</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Middle Age</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Silver</DescriptorName>
+<QualifierName>administration &#38; dosage</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Smoking</DescriptorName>
+<QualifierName MajorTopicYN="Y">prevention &#38; control</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Tablets</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

@@ -1,0 +1,124 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011293</MedlineID>
+<PMID>420787</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>23</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Effect of concanavalin A on the kinetics of ecto-5'-adenosine monophosphatase (5'-adenosine monophosphate phosphohydrolase) in the outer surface of intact neural cells in culture.</ArticleTitle>
+<Pagination>
+<MedlinePgn>357-61</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Oncogenic cultured rat C6 astroblastoma cells display strikingly high ecto-5'-adenosine monophosphatase (ecto-5'-AMPase) activity, 4.23 +/- 20 mumol of Pi liberated by intact cells from 3 mM extracellular 5'-AMP (mg of protein-1 h-1, as compared with 0.15 +/- 0.01 for nononcogenic cultured hamster astroblasts. A further rise in C6 cell ecto-5'-AMPase activity occurs with increase in cell density during growth. Less than 2 pg of the lectin, concanavalin A (Con A), bound per cell reversibly inhibits most of the cellular ecto-5'-AMPase activity. Inhibition by Con A binding is independent of cellular temperature. Con A binding suppresses phosphohydrolase activity of a pK=7.4 functional group on the cell surface. A direct proportionality is observed between quantity of Con A bound to the cell surface and simultaneous relative decreases both in Michaelis constant and maximum velocity of ecto-5'-AMPase in the intact cell. The findings suggest that a major consequence of the specific high affinity binding of Con A to the C6 cell surface is the inactivation of the enzyme--substrate complex of ecto-5'-AMPase.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Stefanovic</LastName>
+<ForeName>V</ForeName>
+<Initials>V</Initials>
+</Author>
+<Author>
+<LastName>Mandel</LastName>
+<ForeName>P</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author>
+<LastName>Rosenberg</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>11028-71-0</RegistryNumber>
+<NameOfSubstance>Concanavalin A</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>61-19-8</RegistryNumber>
+<NameOfSubstance>Adenosine Monophosphate</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.1.3.-</RegistryNumber>
+<NameOfSubstance>Nucleotidases</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adenosine Monophosphate</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Astrocytoma</DescriptorName>
+<QualifierName>enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cell Line</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cell Membrane</DescriptorName>
+<QualifierName>enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Concanavalin A</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hamsters</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neoplasms, Experimental</DescriptorName>
+<QualifierName>enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Nucleotidases</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

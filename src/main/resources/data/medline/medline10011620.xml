@@ -1,0 +1,123 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011620</MedlineID>
+<PMID>369641</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>11</Month>
+<Day>02</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0007-1323</ISSN>
+<JournalIssue>
+<Volume>66</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>The medical management of renal artery stenosis in transplant recipients.</ArticleTitle>
+<Pagination>
+<MedlinePgn>19-22</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The investigation, management and clinical course of 12 patients developing stenosis of the renal artery following transplantation are described. The possible aetiology of the three arteriographic patterns of stenosis is discussed. Surgical correction of graft arterial stenosis is difficult and may lead to graft loss, whereas the outcome with antihypertensive drug treatment with or without anticoagulants is good. Surgery should only be contemplated if medical treatment is failing or if renal function is deteriorating.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Jachuck</LastName>
+<ForeName>S J</ForeName>
+<Initials>SJ</Initials>
+</Author>
+<Author>
+<LastName>Wilkinson</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author>
+<LastName>Uldall</LastName>
+<ForeName>P R</ForeName>
+<Initials>PR</Initials>
+</Author>
+<Author>
+<LastName>Elliott</LastName>
+<ForeName>R W</ForeName>
+<Initials>RW</Initials>
+</Author>
+<Author>
+<LastName>Taylor</LastName>
+<ForeName>R M</ForeName>
+<Initials>RM</Initials>
+</Author>
+<Author>
+<LastName>Hacking</LastName>
+<ForeName>P M</ForeName>
+<Initials>PM</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Br J Surg</MedlineTA>
+<NlmUniqueID>0372553</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Anticoagulants</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Antihypertensive Agents</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Anticoagulants</DescriptorName>
+<QualifierName>therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Antihypertensive Agents</DescriptorName>
+<QualifierName>therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Kidney Transplantation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Postoperative Complications</DescriptorName>
+<QualifierName MajorTopicYN="Y">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Renal Artery Obstruction</DescriptorName>
+<QualifierName>etiology</QualifierName>
+<QualifierName MajorTopicYN="Y">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Time Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Transplantation, Homologous</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

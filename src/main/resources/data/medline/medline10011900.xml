@@ -1,0 +1,166 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011900</MedlineID>
+<PMID>217502</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-8993</ISSN>
+<JournalIssue>
+<Volume>166</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Apr</Month>
+<Day>20</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Taurine: stimulation of pineal N-acetyltransferase activity and melatonin production via a beta-adrenergic mechanism.</ArticleTitle>
+<Pagination>
+<MedlinePgn>65-74</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Pineal glands convert [3H]tryptophan to [3H]N-acetylserotonin and [3H]melatonin in organ culture. Taurine treatment increases the rate of production of these compounds 40- and 25-fold respectively by stimulating the activity of N-acetyltransferase. This stimulation is blocked stereospecifically by L-propranolol, indicating that taurine is probably acting via beta-adrenergic receptors. Taurine is active in stimulating N-acetyltransferase activity in denervated glands, suggesting that it might interact directly with the beta-adrenergic receptor, and not by causing the release of norepinephrine from nerve terminals.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Wheler</LastName>
+<ForeName>G H</ForeName>
+<Initials>GH</Initials>
+</Author>
+<Author>
+<LastName>Weller</LastName>
+<ForeName>J L</ForeName>
+<Initials>JL</Initials>
+</Author>
+<Author>
+<LastName>Klein</LastName>
+<ForeName>D C</ForeName>
+<Initials>DC</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Brain Res</MedlineTA>
+<NlmUniqueID>0045503</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Receptors, Adrenergic</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Receptors, Adrenergic, beta</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>107-35-7</RegistryNumber>
+<NameOfSubstance>Taurine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>51-41-2</RegistryNumber>
+<NameOfSubstance>Norepinephrine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>525-66-6</RegistryNumber>
+<NameOfSubstance>Propranolol</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>73-22-3</RegistryNumber>
+<NameOfSubstance>Tryptophan</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>73-31-4</RegistryNumber>
+<NameOfSubstance>Melatonin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.1.1.4</RegistryNumber>
+<NameOfSubstance>Acetylserotonin N-Methyltransferase</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.3.1.</RegistryNumber>
+<NameOfSubstance>Acetyltransferases</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Acetylserotonin N-Methyltransferase</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Acetyltransferases</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Denervation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Melatonin</DescriptorName>
+<QualifierName MajorTopicYN="Y">biosynthesis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Norepinephrine</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Pineal Body</DescriptorName>
+<QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Propranolol</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Receptors, Adrenergic</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Receptors, Adrenergic, beta</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Taurine</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Tissue Culture</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Tryptophan</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

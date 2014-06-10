@@ -1,0 +1,125 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011244</MedlineID>
+<PMID>217402</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>9</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Photoaffinity labeling of the digitalis receptor in the (sodium + potassium)-activated adenosinetriphosphatase.</ArticleTitle>
+<Pagination>
+<MedlinePgn>135-40</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Rogers</LastName>
+<ForeName>T B</ForeName>
+<Initials>TB</Initials>
+</Author>
+<Author>
+<LastName>Lazdunski</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Affinity Labels</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Digitalis Glycosides</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>630-60-4</RegistryNumber>
+<NameOfSubstance>Ouabain</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>66-28-4</RegistryNumber>
+<NameOfSubstance>Strophanthidin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.6.1.37</RegistryNumber>
+<NameOfSubstance>Na(+)-K(+)-Exchanging ATPase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Affinity Labels</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Binding Sites</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Digitalis Glycosides</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Electric Organ</DescriptorName>
+<QualifierName>enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Fishes</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Na(+)-K(+)-Exchanging ATPase</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Ouabain</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Photochemistry</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Protein Binding</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Spectrophotometry</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Strophanthidin</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

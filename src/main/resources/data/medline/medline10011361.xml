@@ -1,0 +1,133 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011361</MedlineID>
+<PMID>420817</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>5</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+<Day>6</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Conformational changes accompanying the binding of antithrombin III to thrombin.</ArticleTitle>
+<Pagination>
+<MedlinePgn>810-7</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The conformational aspects of the binding of antithrombin III to thrombin were investigated by difference spectroscopy, circular dichroism, and optical rotatory dispersion. The CD and ORD studies indicate an increase of 6--8% in alpha-helix content at the expense of the beta structure, while the results from difference spectroscopy showed an increased exposure of approximately seven tyrosine residues. In the presence of heparin there is a slightly greater increase in helicity which is accompanied by exposure of an average of two tryptophan and one tyrosine residues. These spectral results indicate that the thrombin-antithrombin III complex formed in the presence of heparin differs in its conformation from that produced in its absence.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Villanueva</LastName>
+<ForeName>G</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author>
+<LastName>Danishefsky</LastName>
+<ForeName>I</ForeName>
+<Initials>I</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>55520-40-6</RegistryNumber>
+<NameOfSubstance>Tyrosine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>73-22-3</RegistryNumber>
+<NameOfSubstance>Tryptophan</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9000-94-6</RegistryNumber>
+<NameOfSubstance>Antithrombin III</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9005-49-6</RegistryNumber>
+<NameOfSubstance>Heparin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.4.21.5</RegistryNumber>
+<NameOfSubstance>Thrombin</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Antithrombin III</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Circular Dichroism</DescriptorName>
+<QualifierName>methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Heparin</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Optical Rotatory Dispersion</DescriptorName>
+<QualifierName>methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Protein Binding</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Protein Conformation</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Spectrophotometry, Ultraviolet</DescriptorName>
+<QualifierName>methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Structure-Activity Relationship</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Thrombin</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Tryptophan</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Tyrosine</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

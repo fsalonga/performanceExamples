@@ -1,0 +1,130 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011337</MedlineID>
+<PMID>369605</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>20</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Photocross-linking analysis of the contact surface of tRNA Met in complexes with Escherichia coli methionine:tRNA ligase.</ArticleTitle>
+<Pagination>
+<MedlinePgn>637-47</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Photoinduced covalent cross-linking has been used to identify a common surface of four methionine-accepting tRNAs which interact specifically with the Escherichia coli methionine:tRNA ligase (EC 6.1.1.10). tRNA--ligase mixtures were irradiated, and the covalently linked complexes were isolated and digested with T1 RNase (Schimmel &#38; Budzik, 1977). The fragments lost from the elution profile of the T1 RNase digest were considered to have been cross-linked to the protein and therefore in intimate contact with the enzyme. Only specific cognate tRNA--ligase pairs produce covalently linked complexes. The four substrate tRNAs used in this study have substantially different sequences, but all showed a common cross-linking pattern, supporting the view that the sites cross-linked to the enzyme reflect the functionally common contact surface rather than particularly photoreactivity regions of tRNA. The cross-linked contact surface is comprised of three regions: (1) the narrow groove of the anticodon stem and its extension into the anticodon loop; (2) the 3' terminal residues; and (3) the 3' side of the "T arm". Unlike previous studies with other tRNAs, the D arm is not involved and significant radiation damage is suffered by the tRNA which must be taken into account in the analysis. The results are consistent with and complement chemical modification studies [Schulman, L. H., &#38; Pelka, H. (1977) Biochemistry 16, 4256].</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Rosa</LastName>
+<ForeName>J J</ForeName>
+<Initials>JJ</Initials>
+</Author>
+<Author>
+<LastName>Rosa</LastName>
+<ForeName>M D</ForeName>
+<Initials>MD</Initials>
+</Author>
+<Author>
+<LastName>Sigler</LastName>
+<ForeName>P B</ForeName>
+<Initials>PB</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>63-68-3</RegistryNumber>
+<NameOfSubstance>Methionine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9014-25-9</RegistryNumber>
+<NameOfSubstance>RNA, Transfer</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 6.1.1.</RegistryNumber>
+<NameOfSubstance>Amino Acyl-tRNA Ligases</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 6.1.1.10</RegistryNumber>
+<NameOfSubstance>Methionine-tRNA Ligase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Amino Acyl-tRNA Ligases</DescriptorName>
+<QualifierName>radiation effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Base Sequence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Escherichia coli</DescriptorName>
+<QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Methionine</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Methionine-tRNA Ligase</DescriptorName>
+<QualifierName>radiation effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Nucleic Acid Conformation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Protein Binding</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Protein Conformation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">RNA, Transfer</DescriptorName>
+<QualifierName>radiation effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, Non-P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Ultraviolet Rays</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

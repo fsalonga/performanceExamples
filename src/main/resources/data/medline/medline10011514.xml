@@ -1,0 +1,131 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011514</MedlineID>
+<PMID>154350</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0320-9725</ISSN>
+<JournalIssue>
+<Volume>44</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>[Phospholipid composition and enzyme activity of mitochondrial ATPase complexes]</ArticleTitle>
+<Pagination>
+<MedlinePgn>74-7</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The phospholipid composition of oligomycin-sensitive ATPase fractions from mitochondria, precipitated under different ammonium sulfate concentrations according to the Kagawa-Racker method, was studied. The ATPase activity of the isolated fractions was found to be correlated with the levels of their phospholipase and esterase activities.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Kargopolov</LastName>
+<ForeName>A V</ForeName>
+<Initials>AV</Initials>
+</Author>
+<Author>
+<LastName>Gudz'</LastName>
+<ForeName>T I</ForeName>
+<Initials>TI</Initials>
+</Author>
+<Author>
+<LastName>Kartsova</LastName>
+<ForeName>S V</ForeName>
+<Initials>SV</Initials>
+</Author>
+<Author>
+<LastName>Kononenko</LastName>
+<ForeName>V A</ForeName>
+<Initials>VA</Initials>
+</Author>
+<Author>
+<LastName>Kozlov</LastName>
+<ForeName>I A</ForeName>
+<Initials>IA</Initials>
+</Author>
+</AuthorList>
+<Language>rus</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+<VernacularTitle>Fosfolipidnyĭ sostav i fermentativnaia aktivnost' ATPaznogo kompleksa mitokhondriĭ.</VernacularTitle>
+</Article>
+<MedlineJournalInfo>
+<Country>USSR</Country>
+<MedlineTA>Biokhimiia</MedlineTA>
+<NlmUniqueID>0372667</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Oligomycins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Phospholipids</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.1.</RegistryNumber>
+<NameOfSubstance>Esterases</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.1.-</RegistryNumber>
+<NameOfSubstance>Phospholipases</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.6.1.3</RegistryNumber>
+<NameOfSubstance>Adenosinetriphosphatase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Adenosinetriphosphatase</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>English Abstract</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Esterases</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mitochondria</DescriptorName>
+<QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Oligomycins</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phospholipases</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phospholipids</DescriptorName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

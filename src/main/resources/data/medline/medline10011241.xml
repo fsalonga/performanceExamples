@@ -1,0 +1,124 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011241</MedlineID>
+<PMID>420768</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>9</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Antithrombin reactions with alpha- and gamma-thrombins.</ArticleTitle>
+<Pagination>
+<MedlinePgn>113-9</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Human alpha-thrombin with high clotting activity and its proteolyzed derivative gamma-thrombin with virtually no clotting activity reacted in an essentially identical manner with antithrombin. The two enzyme forms bound proflavin with similar constants and showed identical behavior with small substrates. No significant differences were found for the antithrombin reactions (measured by proflavin displacement or active site titration) with respect to kinetics, extent of reaction, or effect of added heparin. The enzyme--antithrombin complexes could not be dissociated with sodium dodecyl sulfate (NaDodSO4) but the NaDodSO4-denatured complexes were dissociated by hydroxylamine treatment. The gamma-thrombin-antithrombin complex has an approximate molecular weight of 75 000 by disc gel electrophoresis as compared with 100 000 for the alpha-complex, consistent with the polypeptide structures of the two proteins. The gamma-thrombin--antithrombin complex did not inhibit clotting catalyzed by alpha-thrombin. In addition, fibrinogen did not affect the reaction of gamma-thrombin with antithrombin or antithrombin--heparin. Thus, the antithrombin and antithrombin--heparin reactions do not involve the fibrinogen recognition sites which are destroyed by proteolytic conversion of alpha-thrombin to the noncoagulant gamma form.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Chang</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author>
+<LastName>Feinman</LastName>
+<ForeName>R D</ForeName>
+<Initials>RD</Initials>
+</Author>
+<Author>
+<LastName>Landis</LastName>
+<ForeName>B H</ForeName>
+<Initials>BH</Initials>
+</Author>
+<Author>
+<LastName>Fenton</LastName>
+<ForeName>J W</ForeName>
+<Initials>JW</Initials>
+<Suffix>2nd</Suffix>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Antithrombins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9001-32-5</RegistryNumber>
+<NameOfSubstance>Fibrinogen</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9005-49-6</RegistryNumber>
+<NameOfSubstance>Heparin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>92-62-6</RegistryNumber>
+<NameOfSubstance>Proflavine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.4.21.5</RegistryNumber>
+<NameOfSubstance>Thrombin</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Antithrombins</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Fibrinogen</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Heparin</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Proflavine</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Spectrophotometry</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Thrombin</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

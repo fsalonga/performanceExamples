@@ -1,0 +1,123 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011059</MedlineID>
+<PMID>311191</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0003-9950</ISSN>
+<JournalIssue>
+<Volume>97</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Corynebacterium endophthalmitis. Laboratory studies and report of a case treated by vitrectomy.</ArticleTitle>
+<Pagination>
+<MedlinePgn>500-2</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>A Corynebacterium sp was isolated from the vitreous humor under aseptic conditions on two separate occasions from a patient with endophthalmitis resulting from a penetrating injury by a metallic foreign body. The metallic foreign body was removed during a pars plana lensectomy and anterior vitrectomy procedure; intravitreously injected methicillin sodium, gentamicin sulfate, and dexamethasone sodium phosphate gave a functional visual result. Intravitreous inoculation of rabbits with the Corynebacterium isolate produced an endophthalmitis similar to that produced in the patient, and subsequent cultures from the vitreous of the inoculated rabbits grew the same Corynebacterium sp. To our knowledge, this is the  first reported case of endophthalmitis in which a Corynebacterium sp was documented by intraocular culture.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Hanscom</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author>
+<LastName>Maxwell</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Arch Ophthalmol</MedlineTA>
+<NlmUniqueID>7706534</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Gentamicins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>50-02-2</RegistryNumber>
+<NameOfSubstance>Dexamethasone</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>61-32-5</RegistryNumber>
+<NameOfSubstance>Methicillin</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Case Report</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Corynebacterium</DescriptorName>
+<QualifierName>isolation &#38; purification</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Corynebacterium Infections</DescriptorName>
+<QualifierName MajorTopicYN="Y">complications</QualifierName>
+<QualifierName>drug therapy</QualifierName>
+<QualifierName>surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Dexamethasone</DescriptorName>
+<QualifierName>therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Endophthalmitis</DescriptorName>
+<QualifierName>drug therapy</QualifierName>
+<QualifierName MajorTopicYN="Y">microbiology</QualifierName>
+<QualifierName>surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Eye Foreign Bodies</DescriptorName>
+<QualifierName MajorTopicYN="Y">complications</QualifierName>
+<QualifierName>surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Gentamicins</DescriptorName>
+<QualifierName>therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Methicillin</DescriptorName>
+<QualifierName>therapeutic use</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

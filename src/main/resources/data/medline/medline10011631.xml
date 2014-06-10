@@ -1,0 +1,96 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011631</MedlineID>
+<PMID>420974</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0007-1323</ISSN>
+<JournalIssue>
+<Volume>66</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Colour lymphography in clinical surgery.</ArticleTitle>
+<Pagination>
+<MedlinePgn>51-2</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>In 38 patients undergoing femoral artery profundaplasty and in 18 having simple mastectomy with pectoral node biopsy, a 6.2 per cent solution of sodium sulphan blue was injected peripherally to outline the lymph nodes in the groin or axilla. Nodes and vessels were easily seen and the technique is now in routine use.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Leaper</LastName>
+<ForeName>D J</ForeName>
+<Initials>DJ</Initials>
+</Author>
+<Author>
+<LastName>Evans</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author>
+<LastName>Pollock</LastName>
+<ForeName>A V</ForeName>
+<Initials>AV</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Br J Surg</MedlineTA>
+<NlmUniqueID>0372553</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Contrast Media</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Breast Neoplasms</DescriptorName>
+<QualifierName>surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Contrast Media</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Femoral Artery</DescriptorName>
+<QualifierName>surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Lymphography</DescriptorName>
+<QualifierName MajorTopicYN="Y">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mastectomy</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

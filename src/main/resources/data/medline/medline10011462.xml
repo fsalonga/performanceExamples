@@ -1,0 +1,154 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011462</MedlineID>
+<PMID>33719</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>582</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>1</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Comparison of AMP deaminase from skeletal muscle of acidotic and normal rats.</ArticleTitle>
+<Pagination>
+<MedlinePgn>369-79</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The deamination of AMP by AMP aminohydrolase (EC 3.5.4.6.) serves as the major source of ammonia production in skeletal muscle. It has been suggested that the ammonia may serve either in a buffering capacity to combat acidosis due to the accumulation of lactic acid produced during prolonged muscular activity, or as a substrate for glutamine formation which can ultimately be utilized by the kidney in adapting to metabolic acidosis. In view of this proposal, the properties of the enzyme obtained from skeletal muscle of acidotic rats have been compared with the enzyme from normal muscle. The specific activity of AMP deaminase in crude homogenates of acidotic muscle was not significantly different from normal levels. The enzyme from acidotic muscle was purified to homogeneity and was found to be identical to the enzyme obtained from normal muscle by the criteria of electrophoretic mobility, pH optimum, molecular weight, sedimentation coefficient, subunit composition, amino acid composition, monovalent cation requirement, substrate saturation, and inhibition by ATP, Pi and creatine-P. Thus, if the enzyme functions to prevent acidosis, the ability to respond to changes in the intracellular environment which accompany acidosis must be built into the structure of the enzyme normally found in skeletal muscle. Three lines of evidence strongly support this viewpoint: (a) the rate of deamination is approximately 2-fold higher at pH 6.5 than at pH 7.0, (b) the activity increases linearly with a decrease in the adenylate energy charge, and (c) within the normal physiological range of the adenylate energy charge, the enzyme is operating at only 10--20% of its maximum capacity.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Solano</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author>
+<LastName>Coffee</LastName>
+<ForeName>C J</ForeName>
+<Initials>CJ</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Adenine Nucleotides</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Cations, Monovalent</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Phosphates</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>56-65-5</RegistryNumber>
+<NameOfSubstance>Adenosine Triphosphate</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>67-07-2</RegistryNumber>
+<NameOfSubstance>Phosphocreatine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.5.4</RegistryNumber>
+<NameOfSubstance>Nucleotide Deaminases</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.5.4.6</RegistryNumber>
+<NameOfSubstance>AMP Deaminase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>AMP Deaminase</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Acidosis</DescriptorName>
+<QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Adenine Nucleotides</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Adenosine Triphosphate</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cations, Monovalent</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Comparative Study</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Heat</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hydrogen-Ion Concentration</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Muscles</DescriptorName>
+<QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Nucleotide Deaminases</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phosphates</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phosphocreatine</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

@@ -1,0 +1,92 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011204</MedlineID>
+<PMID>283836</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0007-1048</ISSN>
+<JournalIssue>
+<Volume>41</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Defective hydrogen peroxide production in chronic granulocytic leukaemia neutrophils.</ArticleTitle>
+<Pagination>
+<MedlinePgn>49-55</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Hydrogen peroxide (H2O2) production by polymorphonuclear neutrophils (PMN) during phagocytosis was fluorometrically vestimated over an incubation period of 80 min during which dead Candida guilliermondii were ingested. Ten patients with chronic granulocytic leukaemia (CGL) were tested and compared with 15 normal subjects. The production of H2O2 by CGL neutrophils was about 29% of normal. There was no correlation between H2O2 production and the impaired killing of Candida guilliermondii by the neutrophils of CGL patients.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>El-Maallem</LastName>
+<ForeName>H</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author>
+<LastName>Fletcher</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Br J Haematol</MedlineTA>
+<NlmUniqueID>0372544</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>7722-84-1</RegistryNumber>
+<NameOfSubstance>Hydrogen Peroxide</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Candida</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hydrogen Peroxide</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Leukemia, Myeloid</DescriptorName>
+<QualifierName MajorTopicYN="Y">blood</QualifierName>
+<QualifierName>immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neutrophils</DescriptorName>
+<QualifierName>immunology</QualifierName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phagocytosis</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

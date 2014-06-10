@@ -1,0 +1,135 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011358</MedlineID>
+<PMID>420816</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>11</Month>
+<Day>02</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>5</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+<Day>6</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Expression of multivalency in the affinity chromatography of antibodies. Appendix: Derivation and evaluation of equations for independent bivalent interacting systems in quantitative affinity chromatography.</ArticleTitle>
+<Pagination>
+<MedlinePgn>790-5</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The expression of multivalency in the interaction of antibody with immobilized antigen was evaluated by quantitative affinity chromatography. Zones of radioisotopically labeled bivalent immunoglobulin A monomer derived from the myeloma protein TEPC 15 were eluted from columns of phosphorylcholine-Sepharose both in the absence and presence of competing soluble phosphorylcholine. At sufficient immobilized phosphorylcholine concentration, the variation of elution volume of bivalent monomer with soluble ligand was found to deviate from that observed for the univalent binding of the corresponding Fab fragment. In addition, the apparent binding affinity of the bivalent monomer increased with immobilized antigen density. Use of equations relating the variation of elution volume with free ligand concentration for a bivalent binding protein allowed calculation of microscopic single-site binding parameters for the bivalent monomeric antibody to both immobilized and soluble phosphorylcholine. The chromatographic data not only demonstrate the effect of multivalency on apparent binding affinity but also offer a relatively simple means to measure microscopic dissociation constants for proteins participating in bivalent interactions with their ligands.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Eilat</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author>
+<LastName>Chaiken</LastName>
+<ForeName>I M</ForeName>
+<Initials>IM</Initials>
+</Author>
+<Author>
+<LastName>McCormick</LastName>
+<ForeName>W M</ForeName>
+<Initials>WM</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Antibodies</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Immunoglobulin A</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Immunoglobulins, Fab</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Macromolecular Systems</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Myeloma Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>107-73-3</RegistryNumber>
+<NameOfSubstance>Phosphorylcholine</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Antibodies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Antibody Affinity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Antigen-Antibody Reactions</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Binding Sites</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Chromatography, Affinity</DescriptorName>
+<QualifierName>methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Immunoglobulin A</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Immunoglobulins, Fab</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Macromolecular Systems</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mathematics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Models, Biological</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Myeloma Proteins</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phosphorylcholine</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Plasmacytoma</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

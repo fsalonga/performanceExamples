@@ -1,0 +1,128 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011043</MedlineID>
+<PMID>420626</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>28</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>28</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>03</Month>
+<Day>23</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0003-9942</ISSN>
+<JournalIssue>
+<Volume>36</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Spirometry in amyotrophic lateral sclerosis.</ArticleTitle>
+<Pagination>
+<MedlinePgn>74-80</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Clinical evaluation and pulmonary function tests were performed in 218 patients with motor neuron disease, mainly amyotrophic lateral sclerosis (ALS). Serial studies were obtained in 103 patients, in 31 until death from ALS. Most patients, regardless of the pattern of motor neuron involvement, had characteristic abnormalities in pulmonary function, including reduced forced vital capacity (FVC) and maximum voluntary ventilation (MVV). Reductions in the FVC and MVV to as low as 50% were commonly missed by clinical evaluators. Spirometry is therefore of value in detecting early involvement of respiratory neurons. Progressively greater reductions in the FVC and MVV in all the fatal cases indicate that serial spirometry has prognostic value in ALS.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Fallat</LastName>
+<ForeName>R J</ForeName>
+<Initials>RJ</Initials>
+</Author>
+<Author>
+<LastName>Jewitt</LastName>
+<ForeName>B</ForeName>
+<Initials>B</Initials>
+</Author>
+<Author>
+<LastName>Bass</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author>
+<LastName>Kamm</LastName>
+<ForeName>B</ForeName>
+<Initials>B</Initials>
+</Author>
+<Author>
+<LastName>Norris</LastName>
+<ForeName>F H</ForeName>
+<Initials>FH</Initials>
+<Suffix>Jr</Suffix>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Arch Neurol</MedlineTA>
+<NlmUniqueID>0372436</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Airway Obstruction</DescriptorName>
+<QualifierName>diagnosis</QualifierName>
+<QualifierName>physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Amyotrophic Lateral Sclerosis</DescriptorName>
+<QualifierName>diagnosis</QualifierName>
+<QualifierName>mortality</QualifierName>
+<QualifierName MajorTopicYN="Y">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Blood Gas Analysis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Lung Volume Measurements</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Middle Age</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Motor Neurons</DescriptorName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Prognosis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Respiratory Function Tests</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Spirometry</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

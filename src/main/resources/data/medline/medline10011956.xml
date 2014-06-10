@@ -1,0 +1,126 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011956</MedlineID>
+<PMID>311242</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0008-543X</ISSN>
+<JournalIssue>
+<Volume>43</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>T-cell leukemia with thymic involution.</ArticleTitle>
+<Pagination>
+<MedlinePgn>622-6</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The prognosis of acute lymphoblastic leukemia is affected adversely by T-cell markers on the malignant lymphoblasts. Direct involvement of the thymus has been assumed because of frequent mediastinal enlargement in these patients and the important role of the thymus in certain mouse leukemias. We report here an adult with T-cell leukemia and mediastinal enlargement who had physiologic involution of the thymus. The possible role of diphenylhydantoin in the pathogenesis of this disease is reviewed. The possible usefulness of Nu/Nu mouse xenografting for the study of this lethal disorder is discussed.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Newcom</LastName>
+<ForeName>S R</ForeName>
+<Initials>SR</Initials>
+</Author>
+<Author>
+<LastName>Kadin</LastName>
+<ForeName>M E</ForeName>
+<Initials>ME</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Cancer</MedlineTA>
+<NlmUniqueID>0374236</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>57-41-0</RegistryNumber>
+<NameOfSubstance>Phenytoin</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Case Report</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Leukemia, Experimental</DescriptorName>
+<QualifierName>pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Leukemia, Lymphocytic</DescriptorName>
+<QualifierName>etiology</QualifierName>
+<QualifierName MajorTopicYN="Y">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mediastinal Neoplasms</DescriptorName>
+<QualifierName>etiology</QualifierName>
+<QualifierName MajorTopicYN="Y">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mice</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mice, Nude</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neoplasm Transplantation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phenytoin</DescriptorName>
+<QualifierName>adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>T-Lymphocytes</DescriptorName>
+<QualifierName MajorTopicYN="Y">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Thymus Gland</DescriptorName>
+<QualifierName MajorTopicYN="Y">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Transplantation, Heterologous</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

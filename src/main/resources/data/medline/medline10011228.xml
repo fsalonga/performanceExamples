@@ -1,0 +1,129 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011228</MedlineID>
+<PMID>420758</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>11</Month>
+<Day>28</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0007-1145</ISSN>
+<JournalIssue>
+<Volume>41</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Effects of dietary proteinase inhibitors from field bean (Vicia faba L.) and field-bean meal on pancreatic function in the rat.</ArticleTitle>
+<Pagination>
+<MedlinePgn>39-45</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Abbey</LastName>
+<ForeName>B W</ForeName>
+<Initials>BW</Initials>
+</Author>
+<Author>
+<LastName>Norton</LastName>
+<ForeName>G</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author>
+<LastName>Neale</LastName>
+<ForeName>R J</ForeName>
+<Initials>RJ</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Br J Nutr</MedlineTA>
+<NlmUniqueID>0372547</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Protease Inhibitors</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.4.21.1</RegistryNumber>
+<NameOfSubstance>Chymotrypsin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.4.21.4</RegistryNumber>
+<NameOfSubstance>Trypsin</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Chymotrypsin</DescriptorName>
+<QualifierName>secretion</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Diet</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Fabaceae</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Intestinal Secretions</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+<QualifierName>enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Organ Weight</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Pancreas</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+<QualifierName>enzymology</QualifierName>
+<QualifierName MajorTopicYN="Y">secretion</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Plants, Medicinal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Protease Inhibitors</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Secretory Rate</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Trypsin</DescriptorName>
+<QualifierName>secretion</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

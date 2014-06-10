@@ -1,0 +1,195 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011150</MedlineID>
+<PMID>33680</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0004-3591</ISSN>
+<JournalIssue>
+<Volume>22</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Ribavirin treatment in murine autoimmune disease. I. Therapeutic efficacy and effect on the immune response.</ArticleTitle>
+<Pagination>
+<MedlinePgn>145-54</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>NZB/W F1 female mice were treated from 20 weeks of age with ribavirin (a broad spectrum antiviral drug), cyclophosphamide, or saline. Treatment with ribavirin (250 mg/kg twice weekly) prolonged survival from 9.8 to 18.5 months, reduced anti-DNA antibodies, and prevented proteinuria. Ability of ribavirin to prolong survival was dose related when given on a twice weekly schedule. However, daily ribavirin (25 mg/kg/day) was as effective as higher intermittent doses. Optimal ribavirin therapy was equal to cyclophosphamide treatment with regard to prolongation of survival. Ribavirin treatment did not significantly alter the body weight, hematocrit, WBC count, serum immunoglobulins, or Coombs reactivity. No alterations in either cellular or humoral immune responses were noted in NZB/W F1 or BALB/c mice treated for prolonged periods with ribavirin. The impressive therapeutic response to a broad spectrum antiviral agent seen in mice already manifesting immune complex nephritis provides a new therapeutic approach to the treatment of autoimmunity.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Klassen</LastName>
+<ForeName>L W</ForeName>
+<Initials>LW</Initials>
+</Author>
+<Author>
+<LastName>Williams</LastName>
+<ForeName>G W</ForeName>
+<Initials>GW</Initials>
+</Author>
+<Author>
+<LastName>Reinertsen</LastName>
+<ForeName>J L</ForeName>
+<Initials>JL</Initials>
+</Author>
+<Author>
+<LastName>Gerber</LastName>
+<ForeName>N L</ForeName>
+<Initials>NL</Initials>
+</Author>
+<Author>
+<LastName>Steinberg</LastName>
+<ForeName>A D</ForeName>
+<Initials>AD</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Arthritis Rheum</MedlineTA>
+<NlmUniqueID>0370605</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Antibodies, Antinuclear</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Ribonucleosides</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>36791-04-5</RegistryNumber>
+<NameOfSubstance>Ribavirin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>50-18-0</RegistryNumber>
+<NameOfSubstance>Cyclophosphamide</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>63231-63-0</RegistryNumber>
+<NameOfSubstance>RNA</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9007-49-2</RegistryNumber>
+<NameOfSubstance>DNA</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Antibodies, Antinuclear</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Antibody Formation</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Autoimmune Diseases</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug therapy</QualifierName>
+<QualifierName>mortality</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cyclophosphamide</DescriptorName>
+<QualifierName>administration &#38; dosage</QualifierName>
+<QualifierName>therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>DNA</DescriptorName>
+<QualifierName>immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Dose-Response Relationship, Drug</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Drug Evaluation, Preclinical</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Glomerulonephritis</DescriptorName>
+<QualifierName>drug therapy</QualifierName>
+<QualifierName MajorTopicYN="Y">immunology</QualifierName>
+<QualifierName>mortality</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Graft Rejection</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Graft vs Host Reaction</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Immune Complex Diseases</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug therapy</QualifierName>
+<QualifierName>mortality</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Immunity, Cellular</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Injections, Intraperitoneal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Lymphocyte Culture Test, Mixed</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mice</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mice, Inbred BALB C</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mice, Inbred NZB</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Proteinuria</DescriptorName>
+<QualifierName>etiology</QualifierName>
+<QualifierName>prevention &#38; control</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>RNA</DescriptorName>
+<QualifierName>immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Ribavirin</DescriptorName>
+<QualifierName>administration &#38; dosage</QualifierName>
+<QualifierName MajorTopicYN="Y">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Ribonucleosides</DescriptorName>
+<QualifierName MajorTopicYN="Y">therapeutic use</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

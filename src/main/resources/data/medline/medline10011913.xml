@@ -1,0 +1,101 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011913</MedlineID>
+<PMID>421163</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0008-4182</ISSN>
+<JournalIssue>
+<Volume>14</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>A spectacle device to treat facial nerve paralysis.</ArticleTitle>
+<Pagination>
+<MedlinePgn>53-4</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>We describe a new method to prevent ocular complications in facial nerve palsy. A device mounted on a spectacle frame senses the blink of the normal eye and closes the lids of the paretic eye by levers which rest on the upper and lower lids. It provides a physiologic replacement of function and prevents corneal exposure.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Howcroft</LastName>
+<ForeName>M J</ForeName>
+<Initials>MJ</Initials>
+</Author>
+<Author>
+<LastName>Hurwitz</LastName>
+<ForeName>J J</ForeName>
+<Initials>JJ</Initials>
+</Author>
+<Author>
+<LastName>Gentles</LastName>
+<ForeName>W</ForeName>
+<Initials>W</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>CANADA</Country>
+<MedlineTA>Can J Ophthalmol</MedlineTA>
+<NlmUniqueID>0045312</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Electronics, Medical</DescriptorName>
+<QualifierName MajorTopicYN="Y">instrumentation</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Eyeglasses</DescriptorName>
+<QualifierName MajorTopicYN="Y">standards</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Eyelid Diseases</DescriptorName>
+<QualifierName>complications</QualifierName>
+<QualifierName MajorTopicYN="Y">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Eyelids</DescriptorName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Facial Paralysis</DescriptorName>
+<QualifierName>complications</QualifierName>
+<QualifierName MajorTopicYN="Y">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Keratitis</DescriptorName>
+<QualifierName>complications</QualifierName>
+<QualifierName>prevention &#38; control</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

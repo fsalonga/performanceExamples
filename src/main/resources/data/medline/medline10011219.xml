@@ -1,0 +1,108 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011219</MedlineID>
+<PMID>420749</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0007-1145</ISSN>
+<JournalIssue>
+<Volume>41</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>The nutritional value and quality of squid (Illex illecebrosus) meal as source of dietary protein for broiler chicken.</ArticleTitle>
+<Pagination>
+<MedlinePgn>163-73</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>1. Squid meal (SqM), produced by grinding and drying the whole squid (Illex illecebrosus) common to the northeast Atlantic and Mediterranean, contained 645 g protein/kg and appeared limiting with respect to lysine, methionine and cystine. 2. Although a comparison of the essential amino acid profiles of SqM with other protein concentrates indicated that SqM was higher than fish meal and soya-bean meal but lower than casein or whole-egg protein, these teported for evaluating protein quality of SqM. It was based on the direct chromatographic determination, of its collagen content, from the amounts of 5-hydroxylysine or 5-hydroxyproline present, and elastin, from the amounts of desmosine or iso-desmosine present. This method can also be routinely used to assess the connective tissue content and protein quality of animal protein supplements such as fish, meat-and-bone meals. 4. A nutritional evaluation of SqM as a source of protein for poultry was carried out using 320 male and 320 female Cobb chicks fed from 1-d-old to 48 d, a control diet containing 50 g/kg fish meal or test diets containing 50 g, 100 g or 150 g SqM/kg. 5. Feeding of SqM at a rate of up to 100 g/kg diet resulted in optimum biological response and monetary returns.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Hulan</LastName>
+<ForeName>H W</ForeName>
+<Initials>HW</Initials>
+</Author>
+<Author>
+<LastName>Proudfoot</LastName>
+<ForeName>F G</ForeName>
+<Initials>FG</Initials>
+</Author>
+<Author>
+<LastName>Zarkadas</LastName>
+<ForeName>C G</ForeName>
+<Initials>CG</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Br J Nutr</MedlineTA>
+<NlmUniqueID>0372547</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Amino Acids</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Dietary Proteins</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Amino Acids</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Body Weight</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Chickens</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Dietary Proteins</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Nutritive Value</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Squid</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

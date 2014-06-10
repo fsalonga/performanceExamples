@@ -1,0 +1,122 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011423</MedlineID>
+<PMID>570419</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>561</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>26</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Nick translation of mammalian DNA.</ArticleTitle>
+<Pagination>
+<MedlinePgn>155-66</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The labelling of mouse DNA by nick translation with DNA polymerase I has been investigated with respect to the time of incubation, requirement for DNAase I, size of the product, and uniformity of labelling, and the hybridisability and stability of the resultant labelled probes. Total mouse DNA and reannealed unique mouse DNA sequences can be labelled by nick translation in the presence of [3H]dCTP and [3H]TTP to a specific activity of 7 . 10(6)--20 . 10(6) cpm/microgram DNA. The hybridisation characteristics of nick-translated whole DNA with an excess of unlabelled mouse-embryo driver DNA indicates that no preferential labelling of repetitive or unique DNA sequence classes occurs. In addition, the proportion of unique DNA sequences labelled by nick translation which hybridises with polyadenylated nuclear RNA from Friend cells is the same as that of unique DNA sequences isolated from cells labelled with [3H]thymidine in vivo, indicating that few (if any) of the unique DNA sequences are unrepresented in the nick-translated probe. Probes which contain [3H]dTMP are unstable, and show a considerable reduction in hybridisability over a period of 6 months at --20 degrees C. The decrease is accompanied by an increase in the number of mismatched sites in duplexes containing the labelled probe (as shown by thermal stability measurements of hybrid molecules) and a decrease in the rate of hybridisation of the probe with total mouse DNA. In contrast, DNA which is labelled with [3H]dCMP alone is stable, and does not show any decrease in hybridisability on prolonged storage.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Balmain</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author>
+<LastName>Birnie</LastName>
+<ForeName>G D</ForeName>
+<Initials>GD</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>DNA, Bacterial</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9007-49-2</RegistryNumber>
+<NameOfSubstance>DNA</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.7.7.-</RegistryNumber>
+<NameOfSubstance>DNA Polymerase I</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.7.7.7</RegistryNumber>
+<NameOfSubstance>DNA-Directed DNA Polymerase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Base Sequence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>DNA</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>DNA Polymerase I</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>DNA, Bacterial</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>DNA-Directed DNA Polymerase</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Methods</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mice</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Nucleic Acid Hybridization</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Substrate Specificity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Templates</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

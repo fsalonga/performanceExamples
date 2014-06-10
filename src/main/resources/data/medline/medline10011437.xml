@@ -1,0 +1,100 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011437</MedlineID>
+<PMID>105759</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>561</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>26</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Base composition heterogeneity of Euglena gracilis chloroplast DNA.</ArticleTitle>
+<Pagination>
+<MedlinePgn>53-8</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Euglena gracilis chloroplast DNA has an average buoyant density of 1.685 gm/cm3, corresponding to 25 mol% G . C base pairs. To test for base compositional heterogeneity within this 130 kilobase pairs (kbp) genome, previously mapped restriction endonuclease fragments were isolated, and characterized by equilibrium buoyant density centrifugation. The chloroplast DNA can be characterized as containing two major buoyant density components. A segment of 17 kbp, representing 13% of the genome and containing the rRNA genes is 43--44 mol% G . C. The remaining 113 kbp, accounting for 87% of the genome, has an average 20--21 mol% G . C content.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Gray</LastName>
+<ForeName>P W</ForeName>
+<Initials>PW</Initials>
+</Author>
+<Author>
+<LastName>Hallick</LastName>
+<ForeName>R B</ForeName>
+<Initials>RB</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>DNA, Circular</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Deoxyribonucleotides</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Base Sequence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Centrifugation, Isopycnic</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Chloroplasts</DescriptorName>
+<QualifierName MajorTopicYN="Y">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>DNA, Circular</DescriptorName>
+<QualifierName>analysis</QualifierName>
+<QualifierName MajorTopicYN="Y">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Deoxyribonucleotides</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Euglena gracilis</DescriptorName>
+<QualifierName MajorTopicYN="Y">genetics</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

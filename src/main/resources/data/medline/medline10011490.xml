@@ -1,0 +1,127 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011490</MedlineID>
+<PMID>217448</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>583</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>19</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Production of cyclic AMP from extracellular ATP by intact LM cells.</ArticleTitle>
+<Pagination>
+<MedlinePgn>47-54</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Intact LM cells, a line of cultured mouse fibroblasts, exhibited an adenylate cyclase (ATP pyrophosphate-lyase (cyclizing), EC 4.6.1.1) activity in the presence of exogenous [alpha-32P]ATP which was 20--30% of that observed with comparable preparations of lysed cells. The extent of NaF and prostaglandin E1 stimulation was comparable in intact cells and lysed cells. 96% of the added ATP and 92% of the cyclic AMP produced by intact cells could be isolated extracellularly in the incubation medium. Cellular integrity under assay conditions was monitored by trypan blue exclusion. These data suggest that LM cells contain an adenylate cyclase activity which is accessible to extracellular ATP.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Westcott</LastName>
+<ForeName>K R</ForeName>
+<Initials>KR</Initials>
+</Author>
+<Author>
+<LastName>Engelhard</LastName>
+<ForeName>V H</ForeName>
+<Initials>VH</Initials>
+</Author>
+<Author>
+<LastName>Storm</LastName>
+<ForeName>D R</ForeName>
+<Initials>DR</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Fluorides</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Prostaglandins E</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>56-65-5</RegistryNumber>
+<NameOfSubstance>Adenosine Triphosphate</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>60-92-4</RegistryNumber>
+<NameOfSubstance>Cyclic AMP</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 4.6.1.1</RegistryNumber>
+<NameOfSubstance>Adenylate Cyclase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adenosine Triphosphate</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Adenylate Cyclase</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cyclic AMP</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Fibroblasts</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Fluorides</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mice</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Prostaglandins E</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, Non-P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

@@ -1,0 +1,103 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011161</MedlineID>
+<PMID>311202</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0004-3591</ISSN>
+<JournalIssue>
+<Volume>22</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Antinuclear factor and anti-DNA in sera of pregnant women.</ArticleTitle>
+<Pagination>
+<MedlinePgn>201-2</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Hinkle</LastName>
+<ForeName>S C</ForeName>
+<Initials>SC</Initials>
+</Author>
+<Author>
+<LastName>Merkatz</LastName>
+<ForeName>I R</ForeName>
+<Initials>IR</Initials>
+</Author>
+<Author>
+<LastName>Gyves</LastName>
+<ForeName>M T</ForeName>
+<Initials>MT</Initials>
+</Author>
+<Author>
+<LastName>Michel</LastName>
+<ForeName>B</ForeName>
+<Initials>B</Initials>
+</Author>
+<Author>
+<LastName>Moskowitz</LastName>
+<ForeName>R W</ForeName>
+<Initials>RW</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Letter</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Arthritis Rheum</MedlineTA>
+<NlmUniqueID>0370605</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Antibodies, Antinuclear</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9007-49-2</RegistryNumber>
+<NameOfSubstance>DNA</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Antibodies, Antinuclear</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>DNA</DescriptorName>
+<QualifierName MajorTopicYN="Y">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Pregnancy</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

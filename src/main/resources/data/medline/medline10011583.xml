@@ -1,0 +1,142 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011583</MedlineID>
+<PMID>217467</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0365-9615</ISSN>
+<JournalIssue>
+<Volume>87</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>[Electron microscopic study of isolated proteoglycans]</ArticleTitle>
+<Pagination>
+<MedlinePgn>132-4</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Chemically isolated separate preparations of the non-aggregating protein-chondroitin-keratin sulphate (PCKS) fraction from the hyaline cartilage and hyaluronic acid (HUA) of the vitreous body and of the umbilicus were investigated by electron microscopy. PCKS and HUA in films without cytochrome c were present in the form of granules and differed by structural organization. The proteoglycans of the cytochrome c films were seen as finely-filamentous-cellular network, and were distinctly differentiated by their macromolecular organization. A mixture of both proteoglycans formed complexes as a result of a noncovalent interaction. Uranyl acetate ensured a good contrasting of proteoglycans, especially of PCKS, without cytochrome c.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Bychkov</LastName>
+<ForeName>S M</ForeName>
+<Initials>SM</Initials>
+</Author>
+<Author>
+<LastName>Vinogradova</LastName>
+<ForeName>E V</ForeName>
+<Initials>EV</Initials>
+</Author>
+<Author>
+<LastName>Mikhailov</LastName>
+<ForeName>I N</ForeName>
+<Initials>IN</Initials>
+</Author>
+<Author>
+<LastName>Kharlamova</LastName>
+<ForeName>V N</ForeName>
+<Initials>VN</Initials>
+</Author>
+</AuthorList>
+<Language>rus</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+<VernacularTitle>Elektronno-mikroskopicheskoe issledovanie izolirovannykh proteoglikanov.</VernacularTitle>
+</Article>
+<MedlineJournalInfo>
+<Country>USSR</Country>
+<MedlineTA>Biull Eksp Biol Med</MedlineTA>
+<NlmUniqueID>0370627</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Acetates</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Proteochondroitin Sulfates</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Proteoglycans</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7440-61-1</RegistryNumber>
+<NameOfSubstance>Uranium</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9004-61-9</RegistryNumber>
+<NameOfSubstance>Hyaluronic Acid</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9007-43-6</RegistryNumber>
+<NameOfSubstance>Cytochrome c</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Acetates</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cattle</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Chemistry</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Chemistry, Physical</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cytochrome c</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>English Abstract</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Hyaluronic Acid</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Microscopy, Electron</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Molecular Weight</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Proteochondroitin Sulfates</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Proteoglycans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Uranium</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

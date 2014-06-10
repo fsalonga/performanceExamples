@@ -1,0 +1,100 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011031</MedlineID>
+<PMID>105690</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0003-9942</ISSN>
+<JournalIssue>
+<Volume>36</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>The prediction of posttraumatic epilepsy. A mathematical approach.</ArticleTitle>
+<Pagination>
+<MedlinePgn>8-12</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Simple mathematical equations can be used to estimate the probability of posttraumatic seizures. Risk factors and time since the injury are taken into consideration in the calculations. The equations are based on a constant probability model derived from published data. When these formulae are applied to data from a variety of published studies, the predicted incidence of posttraumatic epilepsy based on the mathematical model agrees well with the incidence observed in the study groups.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Feeney</LastName>
+<ForeName>D M</ForeName>
+<Initials>DM</Initials>
+</Author>
+<Author>
+<LastName>Walker</LastName>
+<ForeName>A E</ForeName>
+<Initials>AE</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Arch Neurol</MedlineTA>
+<NlmUniqueID>0372436</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Brain Injuries</DescriptorName>
+<QualifierName>cerebrospinal fluid</QualifierName>
+<QualifierName MajorTopicYN="Y">complications</QualifierName>
+<QualifierName>radiography</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Electroencephalography</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Epilepsy, Post-Traumatic</DescriptorName>
+<QualifierName MajorTopicYN="Y">etiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mathematics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Models, Neurological</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Probability</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Skull Fractures</DescriptorName>
+<QualifierName>complications</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Tomography, X-Ray Computed</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Unconsciousness</DescriptorName>
+<QualifierName>complications</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

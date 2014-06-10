@@ -1,0 +1,116 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011253</MedlineID>
+<PMID>369595</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>9</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Triphasic concentration effects of gentamicin on activity and misreading in protein synthesis.</ArticleTitle>
+<Pagination>
+<MedlinePgn>193-8</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Gentamicin is shown to exert a triphasic concentration effect on peptide synthesis in vitro with natural messengers. Low concentrations (up to 2 micron) caused slowing and a decrease in total synthesis, but little misreading (assayed with extracts lacking Glu-tRNA); the inhibition was greater with an initiating system (with phage RNA as messenger) than with pure chain elongation on purified endogenous polysomes of Escherichia coli. Moderate concentrations (up to 100 micron) slowed synthesis less, markedly increased its duration in the noninitiating system, and strongly stimulated misreading; at optimal concentrations total synthesis was even greater than normal. Moreover, with phage RNA these concentrations increased the synthesis of large polypeptides. We conclude that binding of gentamicin to its first site causes inhibition but little misreading; binding to additional site(s) partly reverses the inhibition by first-site binding and markedly stimulates misreading, and the misreading appears to favor "readthrough" of termination codons. In the third phase (greater than 100 micron) synthesis is slowed again but the pattern of misreading does not appear to be altered; this effect need not involve a specific further action on the ribosome.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Tai</LastName>
+<ForeName>P C</ForeName>
+<Initials>PC</Initials>
+</Author>
+<Author>
+<LastName>Davis</LastName>
+<ForeName>B D</ForeName>
+<Initials>BD</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Bacterial Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Gentamicins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>RNA, Messenger</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7439-95-4</RegistryNumber>
+<NameOfSubstance>Magnesium</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Bacterial Proteins</DescriptorName>
+<QualifierName MajorTopicYN="Y">biosynthesis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Escherichia coli</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Genetic Code</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Gentamicins</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Magnesium</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>RNA, Messenger</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Translation, Genetic</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

@@ -1,0 +1,139 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011584</MedlineID>
+<PMID>217468</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0365-9615</ISSN>
+<JournalIssue>
+<Volume>87</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>[Effect of taurine on cyclic AMP and GMP levels in the hearts of rats exposed to stress]</ArticleTitle>
+<Pagination>
+<MedlinePgn>134-7</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Taurine produced no effect on the cyclic nucleotides level in the heart of intact rats but sharply inhibited the cAMP and cGMP level elevation in the rat heart occuring in stress. After atropine pretreatment of the animals no effect of taurine on the heart cGMP level was observed; its effect on the cAMP level was significantly inhibited against the background of partial beta-adrenoreceptors block. It is suggested that taurine is a nonspecific regulator of the myocardial cells sensitivity to the biologically active drugs.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Mal'chikova</LastName>
+<ForeName>L S</ForeName>
+<Initials>LS</Initials>
+</Author>
+<Author>
+<LastName>Speranskaia</LastName>
+<ForeName>N V</ForeName>
+<Initials>NV</Initials>
+</Author>
+<Author>
+<LastName>Elizarova</LastName>
+<ForeName>E P</ForeName>
+<Initials>EP</Initials>
+</Author>
+</AuthorList>
+<Language>rus</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+<VernacularTitle>Vliianie taurina na uroven' tsiklicheskikh AMF i GMF v serdtse krysy pri stresse.</VernacularTitle>
+</Article>
+<MedlineJournalInfo>
+<Country>USSR</Country>
+<MedlineTA>Biull Eksp Biol Med</MedlineTA>
+<NlmUniqueID>0370627</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Receptors, Adrenergic, beta</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Receptors, Muscarinic</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>107-35-7</RegistryNumber>
+<NameOfSubstance>Taurine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>60-92-4</RegistryNumber>
+<NameOfSubstance>Cyclic AMP</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7665-99-8</RegistryNumber>
+<NameOfSubstance>Cyclic GMP</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cyclic AMP</DescriptorName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cyclic GMP</DescriptorName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>English Abstract</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Exertion</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Myocardium</DescriptorName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Receptors, Adrenergic, beta</DescriptorName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Receptors, Muscarinic</DescriptorName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Stress</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug therapy</QualifierName>
+<QualifierName>metabolism</QualifierName>
+<QualifierName>physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Taurine</DescriptorName>
+<QualifierName MajorTopicYN="Y">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Time Factors</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

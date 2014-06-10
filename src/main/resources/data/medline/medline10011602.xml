@@ -1,0 +1,119 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011602</MedlineID>
+<PMID>570437</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>11</Month>
+<Day>19</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0365-9615</ISSN>
+<JournalIssue>
+<Volume>87</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>[Preliminary lymphocyte activation by a mitogen as a condition for demonstrating the ability of the Fab-fragment of normal IgG to inhibit lymphocyte transformation]</ArticleTitle>
+<Pagination>
+<MedlinePgn>182-4</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Peculiarities attending inhibition of the PHA-induced blast-cell transformation of human lymphocytes by F(ab')2 fragment of rabbit IgG were studied. It was shown that the fragment did not affect the intensity of blast-cell transformation if the lymphocytes were preliminarily incubated with the fragment for 24 h at 37 degrees or 4 degrees C and then transferred to the fresh medium containing PHA. However, if the fragment was added to the cells 24 or 48 h following PHA it produced a significant inhibition of the blast-cell transformation. These data may indicate that F(ab')2 fragment interferes with the lymphocyte transformation only when the cells are already activated with PHA.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Margulis</LastName>
+<ForeName>G U</ForeName>
+<Initials>GU</Initials>
+</Author>
+<Author>
+<LastName>Baranova</LastName>
+<ForeName>F S</ForeName>
+<Initials>FS</Initials>
+</Author>
+<Author>
+<LastName>Kul'berg</LastName>
+<ForeName>A Ia</ForeName>
+<Initials>AIa</Initials>
+</Author>
+</AuthorList>
+<Language>rus</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+<VernacularTitle>Predvaritel'naia aktivatsiia limfotsitov mitogenom kak uslovie dlia proiavleniia sposobnosti Fab-fragmentov normal'nogo IgG ingibirovat' transformatsiiu limfotsitov.</VernacularTitle>
+</Article>
+<MedlineJournalInfo>
+<Country>USSR</Country>
+<MedlineTA>Biull Eksp Biol Med</MedlineTA>
+<NlmUniqueID>0370627</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Binding Sites, Antibody</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Immunoglobulin G</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Immunoglobulins, Fab</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Phytohemagglutinins</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Binding Sites, Antibody</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>English Abstract</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Immunoglobulin G</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Immunoglobulins, Fab</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Lymphocyte Transformation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phytohemagglutinins</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rabbits</DescriptorName>
+<QualifierName>immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Time Factors</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

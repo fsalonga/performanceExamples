@@ -1,0 +1,109 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011929</MedlineID>
+<PMID>369675</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0008-543X</ISSN>
+<JournalIssue>
+<Volume>43</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Histiocytic lymphoma of the ileocecal region after chemotherapy for multiple myeloma.</ArticleTitle>
+<Pagination>
+<MedlinePgn>435-9</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Histiocytic lymphoma of the ileocecal region developed in a patient with multiple myeloma following successful long-term alkylating agent therapy. Five and one-half years after the diagnosis of myeloma, while in remission on cyclophosphamide therapy, the patient experienced severe abdominal right lower quadrant pain due to a large cecal lymphoma. A right hemicolectomy was performed with relief of symptoms. However, 9 months later, while still asymptomatic, routine physical examination revealed a recurrent right lower quadrant tumor. Radiation therapy decreased the size of the mass, but five months later partial small bowel obstruction occurred because of recurrent lymphomatous infiltration. The patient died 7 years after the diagnosis of myeloma with extensive abdominal lymphoma. There was no evidence of recurrent myeloma after the initial remission on cyclophosphamide therapy. This patient adds to the growing literature of a second malignancy occurring after prolonged successful chemotherapy of a primary neoplasm.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Kapadia</LastName>
+<ForeName>S B</ForeName>
+<Initials>SB</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Cancer</MedlineTA>
+<NlmUniqueID>0374236</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>50-18-0</RegistryNumber>
+<NameOfSubstance>Cyclophosphamide</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Case Report</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cecal Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y">chemically induced</QualifierName>
+<QualifierName>pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cyclophosphamide</DescriptorName>
+<QualifierName MajorTopicYN="Y">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Ileocecal Valve</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Lymphoma, Large-Cell</DescriptorName>
+<QualifierName MajorTopicYN="Y">chemically induced</QualifierName>
+<QualifierName>pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Middle Age</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Multiple Myeloma</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neoplasms, Multiple Primary</DescriptorName>
+<QualifierName MajorTopicYN="Y">chemically induced</QualifierName>
+<QualifierName>pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Remission, Spontaneous</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Time Factors</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

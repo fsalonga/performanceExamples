@@ -1,0 +1,116 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011224</MedlineID>
+<PMID>420754</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0007-1145</ISSN>
+<JournalIssue>
+<Volume>41</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Studies on the body composition, fat distribution and fat cell size and number of 'Ad', a new obese mutant mouse.</ArticleTitle>
+<Pagination>
+<MedlinePgn>211-21</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>1. Studies have been performed on the body composition, the fat distribution, the fat cell size, and the 'observable' fat cell number of a new obese mutant, the Adipose (Ad) mouse. The serum glucose and insulin concentrations have also been investigated. All studies were undertaken with animals aged 6 months. 2. The obese animals weighed over 50% more than the lean, but there was no difference in the body or tail lengths. 3. The obese animals had an increase in the weight of the liver, but the increase was only proportional to the increase in the total body-weight. 4. The carcasses of the obese mice contained more water as well as more fat than those of the lean. In the males the fat content was 3.9 times greater, while in the females it was increased by 5.5 times. 5. The nitrogen content of the defatted dry carcass was the same in both lean and obese animals but the total body protein was higher in the obese. 6. Fat was dissected from four major depots, gonadal, abdominal, hind subcutaneous and interscapular subcutaneous (including brown adipose tissue), and each was substantially larger in the obese animals. This indicated that the additional fat of the Ad mouse was not localized to any particular site. 7. In Ad males there was no over-all increase in the observed number of adipocytes, all the extra fat being accommodated by an increase in fat cell size (3.8 times). However, in Ad females there was a 3.3 fold increase in the number of observable fat cells as well as a 2.2-fold increase in fat cell size. 8. Non-fasted obese animals were not hyperglycaemic, but there was a 5.3-fold increase in the concentration of serum insulin. Hyperinsulinemia in the presence of normoglycaemia suggested that the obese animals were insulin resistant.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Trayhurn</LastName>
+<ForeName>P</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author>
+<LastName>James</LastName>
+<ForeName>W P</ForeName>
+<Initials>WP</Initials>
+</Author>
+<Author>
+<LastName>Gurr</LastName>
+<ForeName>M I</ForeName>
+<Initials>MI</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Br J Nutr</MedlineTA>
+<NlmUniqueID>0372547</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Blood Glucose</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>11061-68-0</RegistryNumber>
+<NameOfSubstance>Insulin</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adipose Tissue</DescriptorName>
+<QualifierName MajorTopicYN="Y">cytology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Blood Glucose</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Body Composition</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Body Weight</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cell Count</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Insulin</DescriptorName>
+<QualifierName>blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mice</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mice, Obese</DescriptorName>
+<QualifierName MajorTopicYN="Y">anatomy &#38; histology</QualifierName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

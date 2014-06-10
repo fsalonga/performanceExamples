@@ -1,0 +1,114 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011603</MedlineID>
+<PMID>84694</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0365-9615</ISSN>
+<JournalIssue>
+<Volume>87</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>[Inhibition of compound 48--80 induced histamine liberation from mast cells by triton X-100]</ArticleTitle>
+<Pagination>
+<MedlinePgn>185-7</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Triton X-100 at concentrations preceding those which liberated histamine, produced dose-dependent inhibition of compound 48/80-induced histamine release from rat mast cells. Triton X-100 (0.00002 1/1) depleted ATP content in the mast cells and blocked compound 48/80-induced histamine release. The inhibition of compound 48/80-induced histamine release and depletion of the ATP content in the mast cells was reversed by glucose (10 mmole). It is concluded that inhibition by Triton X-100 of histamine release induced by compound 48/80 is dependent on inhibition of energy production.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Gushchin</LastName>
+<ForeName>I S</ForeName>
+<Initials>IS</Initials>
+</Author>
+<Author>
+<LastName>Deriugin</LastName>
+<ForeName>I L</ForeName>
+<Initials>IL</Initials>
+</Author>
+</AuthorList>
+<Language>rus</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+<VernacularTitle>Tormozhenie tritonom X-100 vyzvannogo veshchestvom 48/80 vysvobozhdeniia gistamina iz tuchnykh kletok.</VernacularTitle>
+</Article>
+<MedlineJournalInfo>
+<Country>USSR</Country>
+<MedlineTA>Biull Eksp Biol Med</MedlineTA>
+<NlmUniqueID>0370627</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Polyethylene Glycols</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>4091-50-3</RegistryNumber>
+<NameOfSubstance>p-Methoxy-N-methylphenethylamine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>56-65-5</RegistryNumber>
+<NameOfSubstance>Adenosine Triphosphate</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adenosine Triphosphate</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Dose-Response Relationship, Drug</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>English Abstract</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Histamine Release</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mast Cells</DescriptorName>
+<QualifierName>analysis</QualifierName>
+<QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Polyethylene Glycols</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>p-Methoxy-N-methylphenethylamine</DescriptorName>
+<QualifierName MajorTopicYN="Y">antagonists &#38; inhibitors</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

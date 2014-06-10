@@ -1,0 +1,133 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011166</MedlineID>
+<PMID>420715</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>28</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>28</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>11</Month>
+<Day>02</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0004-3591</ISSN>
+<JournalIssue>
+<Volume>22</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Increased toxoplasma antibodies in idiopathic inflammatory muscle disease. A case-controlled study.</ArticleTitle>
+<Pagination>
+<MedlinePgn>209-14</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Antibodies to Toxoplasma gondii were measured in sera from 69 patients with polymyositis, dermatomyositis, and myositis associated with other connective tissue diseases and compared to 69 age-, race-, and sex-matched controls with unrelated diseases. Complement fixation toxoplasma antibodies were significantly more frequent in polymyositis and correlated with high IgM levels. Other distinguishing clinical or laboratory features of these patients were not found. The high toxoplasma antibodies were not associated with generally hyperactive humoral immunity. The serologic data suggested that inflammatory muscle disease was associated with recent active toxoplasma infection in certain patients. The pathogenetic role of the microorganism remains uncertain.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Phillips</LastName>
+<ForeName>P E</ForeName>
+<Initials>PE</Initials>
+</Author>
+<Author>
+<LastName>Kassan</LastName>
+<ForeName>S S</ForeName>
+<Initials>SS</Initials>
+</Author>
+<Author>
+<LastName>Kagen</LastName>
+<ForeName>L J</ForeName>
+<Initials>LJ</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Arthritis Rheum</MedlineTA>
+<NlmUniqueID>0370605</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Antibodies</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Immunoglobulin M</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adolescence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Antibodies</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Child</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Child, Preschool</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Complement Fixation Tests</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Immunoglobulin M</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Middle Age</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Myositis</DescriptorName>
+<QualifierName>etiology</QualifierName>
+<QualifierName MajorTopicYN="Y">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Toxoplasma</DescriptorName>
+<QualifierName MajorTopicYN="Y">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Toxoplasmosis</DescriptorName>
+<QualifierName MajorTopicYN="Y">complications</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

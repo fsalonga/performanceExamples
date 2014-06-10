@@ -1,0 +1,136 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011391</MedlineID>
+<PMID>217431</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>550</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>2</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Mathematical modelling of ATP, K+ and Na+ interactions with (Na+ + K+)-ATPase occurring under equilibrium conditions.</ArticleTitle>
+<Pagination>
+<MedlinePgn>500-14</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The controlling effect of ATP, K+ and Na+ on the rate of (Na+ + K+)-ATPase inactivation by 7-chloro-4-nitrobenzo-2-oxa-1,3-diazole (NBD-C1) is used for the mathematical modelling of the interaction of the effectors with the enzyme under equilibrium conditions. 1. Of a series of conceivable interaction models, designed without conceptual restrictions to describe the effector control of inactivation kinetics, only one fits the experimental data described in a preceding paper. 2. The model is characterized by the coexistence of two binding sites for ATP and the coexistence of two separate binding sites for K+ and Na+ on the enzyme-ATP complex. On the basis of this model, the effector parameters fitting the experimental data most closely are estimated by means of nonlinear least-squares fits. 3. The apparent dissociation constants for ATP fo the enzyme-ATP complex or of the enzyme-(ATP)2 complex are computed to lie near 0.0024 mM and 0.34 mM, respectively, irrespective of whether K+ and Na+ were absent or K+ and K+ plus Na+, respectively, were present in the experiments. 4. The origin of the high and the low affinity site for binding of ATP to the (Na+ + K+)-ATPase molecule is traced back to the coexistence of two catalytic centres which, although primarily equivalent as to the reactivity of their thiol groups with NBD-C1, are induced into anticooperative communication by ATP binding and thus show an induced geometric asymmetry. 5. On the basis of the interaction model outlined under item 2 the apparent dissociation constant for K+ or Na+ in the (K+ + Na+)-liganded enzyme-ATP complex are computed to be 1.7 mM and 3.5 mM, respectively. 6. The conclusions concerning the coexistence of two primarily equivalent but anticooperatively interacting catalytic centres and the coexistence of two separate ionophoric centres for Na+ and K+ correspond to the appropriate basic postulates of the flip-flop concept of (Na+ + K+)-ATPase mechanism.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Grosse</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author>
+<LastName>Rapoport</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author>
+<LastName>Malur</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author>
+<LastName>Fischer</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author>
+<LastName>Repke</LastName>
+<ForeName>K R</ForeName>
+<Initials>KR</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>10199-89-0</RegistryNumber>
+<NameOfSubstance>4-Chloro-7-nitrobenzofurazan</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>56-65-5</RegistryNumber>
+<NameOfSubstance>Adenosine Triphosphate</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7440-09-7</RegistryNumber>
+<NameOfSubstance>Potassium</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7440-23-5</RegistryNumber>
+<NameOfSubstance>Sodium</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.6.1.37</RegistryNumber>
+<NameOfSubstance>Na(+)-K(+)-Exchanging ATPase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>4-Chloro-7-nitrobenzofurazan</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Adenosine Triphosphate</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Binding Sites</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mathematics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Models, Chemical</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Na(+)-K(+)-Exchanging ATPase</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Potassium</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Protein Binding</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Sodium</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

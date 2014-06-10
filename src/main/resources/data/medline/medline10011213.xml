@@ -1,0 +1,154 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011213</MedlineID>
+<PMID>420743</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0007-1145</ISSN>
+<JournalIssue>
+<Volume>41</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>The effect of varying the quality of dietary protein and energy on food intake and growth in the Zucker rat.</ArticleTitle>
+<Pagination>
+<MedlinePgn>111-24</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>1. Food intake and rates of protein, lipid and energy deposition were measured for lean and obese (fatty) Zucker rats offered to appetite from 34 d of age to slaughter at 66 d of age, one of sixteen semi-synthetic diets. Measurements were also made of the digestibility of dietary protein and the metabolizability of dietary energy. Total carcasses were analysed for protein and lipid, and body energy was calculated thereby. Changes in body constituents were calculated by the comparative-slaughter technique. 2. In Expt 1, four rats of each phenotype and sex were offered one of four diets, each of which contained either 150 or 300 g casein (150 C and 300 C respectively)/kg and either 150 or 300 g cellulose (150 cell and either 150 or 300 g casein (150 C and 300 C respectively)/kg and either 150 or 300 g cellulose (150 CELL and 300 CELL respectively)/kg (diets 150 C/150 CELL, 150 C/300 CELL, 300 C/150 CELL and 300 C/300 CELL. As expected, males ate more and had higher rates of protein deposition than female animals of the same phenotype on all diets. These sex differences were greater for the lean phenotype. The results for animals in this experiment are presented with, and discussed in relation to, those obtained previously for animals of both sexes fed on cellulose-free diets having these two levels of casein. 3. In Expt 2, four female animals of each phenotype were fed one of twelve semi-synthetic diets, each of which contained casein, gluten or zein at one of the following levels (g crude protein (nitrogen x 6.25)/kg diet): 93, 132, 267 or 627. On all diets containing zein both fatty and lean rats had similar, low food intakes and failed to grow. Fatty rats fed on diets containing casein or gluten had higher rates of food intake, weight gain, lipid and energy deposition than lean rats, but similar rates of protein deposition. Rats fed on diets having the two lower levels of casein ate more and grew better than animals of the same phenotype fed on the two corresponding diets containing gluten but at higher protein levels differences in food intake and growth attributable to differences in protein quality disappeared and furthermore, the rate of protein deposition became similar and maximal for both phenotypes. 4. The results from both experiments are discussed in relation to previous work on appetite control in the Zucker rat. It appears that fatty and lean rats eat during growth to attain the maximal rate of protein deposition of which they are capable. The rate of lipid deposition would appear to be of no importance in the food intake regulation of animals depositing protein maximally. 5. Rats given diets that fail to support maximal rates of protein deposition appear to regulate their intake of digestible energy rather than that of digestible protein. They do not overeat protein-deficient diets in order to acquire sufficient protein for maximal growth although the factors that induce satiety in these animals are unknown.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Radcliffe</LastName>
+<ForeName>J D</ForeName>
+<Initials>JD</Initials>
+</Author>
+<Author>
+<LastName>Webster</LastName>
+<ForeName>A J</ForeName>
+<Initials>AJ</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Br J Nutr</MedlineTA>
+<NlmUniqueID>0372547</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Caseins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Dietary Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Lipids</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>57-50-1</RegistryNumber>
+<NameOfSubstance>Sucrose</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>8002-80-0</RegistryNumber>
+<NameOfSubstance>Gluten</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9004-34-6</RegistryNumber>
+<NameOfSubstance>Cellulose</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9010-66-6</RegistryNumber>
+<NameOfSubstance>Zein</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Body Composition</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Body Weight</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Caseins</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cellulose</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Dietary Proteins</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Digestion</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Eating</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Energy Intake</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Gluten</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Lipids</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phenotype</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+<QualifierName>genetics</QualifierName>
+<QualifierName MajorTopicYN="Y">growth &#38; development</QualifierName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Sucrose</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Zein</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

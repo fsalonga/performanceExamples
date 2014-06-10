@@ -1,0 +1,126 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011306</MedlineID>
+<PMID>581743</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>6</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Thermotropic behavior of monoglucocerebroside--dipalmitoylphosphatidylcholine multilamellar liposomes.</ArticleTitle>
+<Pagination>
+<MedlinePgn>442-5</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The thermotropic behavior of multilamellar liposomes prepared from mixtures of glucocerebroside and dipalmitoylphosphatidylcholine has been studied by high-sensitivity scanning calorimetry. It is shown that glucocerebroside has a marked effect on the gel--liquid crystalline transition of dipalmitoylphosphatidylcholine. The pretransition seen in pure samples of dipalmitoylphosphatidylcholine is undetectable at small mode fractions of glucocerebrosides (less than 10%). The main transition is shifted to higher temperatures and becomes broader and less cooperative in the presence of glucocerebroside. The enthalpy change of the main transition decreases with increasing the glucocerebroside content. However, this decrease is not linear with the glucocerebroside/phospholipid mole ratio. Glucocerebroside itself does not show a separate transition in the temperature range of these studies (10--75 degree C). The origin of these effects and their dependence on the glucocerebroside content suggest that the in-plane distribution of glucocerebroside molecules is affected by the physical state of the lipid bilayer and by the glucocerebroside/phospholipid mole ratio.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Correa-Freire</LastName>
+<ForeName>M C</ForeName>
+<Initials>MC</Initials>
+</Author>
+<Author>
+<LastName>Freire</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author>
+<LastName>Barenholz</LastName>
+<ForeName>Y</ForeName>
+<Initials>Y</Initials>
+</Author>
+<Author>
+<LastName>Biltonen</LastName>
+<ForeName>R L</ForeName>
+<Initials>RL</Initials>
+</Author>
+<Author>
+<LastName>Thompson</LastName>
+<ForeName>T E</ForeName>
+<Initials>TE</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Cerebrosides</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Fatty Acids</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Glucosylceramides</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Liposomes</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Pulmonary Surfactants</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Calorimetry, Differential Scanning</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Cerebrosides</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Fatty Acids</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Glucosylceramides</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Liposomes</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Pulmonary Surfactants</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Thermodynamics</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

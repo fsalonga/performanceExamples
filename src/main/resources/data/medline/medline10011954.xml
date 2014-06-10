@@ -1,0 +1,152 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011954</MedlineID>
+<PMID>311241</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0008-543X</ISSN>
+<JournalIssue>
+<Volume>43</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Granulocytosis and colony-stimulating activity (CSA) produced by a human squamous cell carcinoma.</ArticleTitle>
+<Pagination>
+<MedlinePgn>605-10</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>A patient with a squamous cell carcinoma accompanied by a marked granulocytosis (100,000/mm3) of unknown origin was examined for Colony-Stimulating Activity (CSA). The pleural fluid and the tumor extract revealed high CSA. The floating cells in the pleural fluid were successfully transplanted into nude mice as a localized tumor with cyst formation. The tumor invariably caused a marked granulocytosis (100,000--300,000/mm3) with induction of a conspicuous splenic granulopoiesis in the transplanted mice. High CSA were demonstrated in their cystic fluid as well. Media conditioned by the primary cultures of these tumor cells revealed the same CSA, demonstrating the direct production of CSA by the tumor itself. These results indicate the presence of human CSA producing tumor and that such a tumor may in part account for a marked granulocytosis of unknown origin observed in some patients with cancer.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Sato</LastName>
+<ForeName>N</ForeName>
+<Initials>N</Initials>
+</Author>
+<Author>
+<LastName>Asano</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author>
+<LastName>Ueyama</LastName>
+<ForeName>Y</ForeName>
+<Initials>Y</Initials>
+</Author>
+<Author>
+<LastName>Mori</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author>
+<LastName>Okabe</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author>
+<LastName>Kondo</LastName>
+<ForeName>Y</ForeName>
+<Initials>Y</Initials>
+</Author>
+<Author>
+<LastName>Ohsawa</LastName>
+<ForeName>N</ForeName>
+<Initials>N</Initials>
+</Author>
+<Author>
+<LastName>Kosaka</LastName>
+<ForeName>K</ForeName>
+<Initials>K</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Cancer</MedlineTA>
+<NlmUniqueID>0374236</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Colony-Stimulating Factors</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Carcinoma, Squamous Cell</DescriptorName>
+<QualifierName MajorTopicYN="Y">complications</QualifierName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Case Report</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Colony-Stimulating Factors</DescriptorName>
+<QualifierName MajorTopicYN="Y">biosynthesis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Granulocytes</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Leukocytosis</DescriptorName>
+<QualifierName MajorTopicYN="Y">etiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mice</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mice, Nude</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mouth Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y">complications</QualifierName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neoplasm Transplantation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neoplasms, Experimental</DescriptorName>
+<QualifierName>complications</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Transplantation, Heterologous</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

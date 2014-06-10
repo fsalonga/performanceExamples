@@ -1,0 +1,134 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011362</MedlineID>
+<PMID>217425</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>5</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+<Day>6</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Molecular weight of (Na+,K+)ATPase from shark rectal gland.</ArticleTitle>
+<Pagination>
+<MedlinePgn>817-21</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The (Na+,k+)ATPase from the rectal gland of Carcharhinus obscurus has been solubilized in Lubrol WX as an active complex containing 379,900 g of protein and 61 mol of phospholipid. This detergent-lipid-protein complex contains two catalytic subunits of molecular weight 106,400 and four glycopeptide subunits of protein molecular weight 36,600. The latter subunit has a total molecular weight of 51,700 when the carbohydrate is included. Attempts to dissociate this active enzyme complex to smaller size by increasing the detergent concentration led to inactivation. Thus, the smallest active particle in the presence of Lubrol WX contains the two polypeptide subunits in a mole ratio of 2:4 under conditions where the micellar form of detergent is present at a 70:1 molar ratio. This large excess of Lubrol WX eliminates any possibility of artificial togetherness as the result of statistical considerations.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Hastings</LastName>
+<ForeName>D F</ForeName>
+<Initials>DF</Initials>
+</Author>
+<Author>
+<LastName>Reynolds</LastName>
+<ForeName>J A</ForeName>
+<Initials>JA</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Detergents</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Glycopeptides</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Macromolecular Systems</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Phospholipids</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.6.1.37</RegistryNumber>
+<NameOfSubstance>Na(+)-K(+)-Exchanging ATPase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Chemistry</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Detergents</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Glycopeptides</DescriptorName>
+<QualifierName>isolation &#38; purification</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Macromolecular Systems</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Molecular Weight</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Na(+)-K(+)-Exchanging ATPase</DescriptorName>
+<QualifierName MajorTopicYN="Y">isolation &#38; purification</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phospholipids</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Proteins</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rectum</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Salt Gland</DescriptorName>
+<QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Sharks</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Solubility</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

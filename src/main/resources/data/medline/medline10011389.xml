@@ -1,0 +1,99 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011389</MedlineID>
+<PMID>420829</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>550</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>2</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Evidence of multiple operational affinities for D-glucose inside the human erythrocyte membrane.</ArticleTitle>
+<Pagination>
+<MedlinePgn>474-84</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>1. The Michaelis-Menten parameters of labelled D-glucose exit from human erythrocytes at 2 degrees C into external solution containing 50 mM D-galactose were obtained. The Km is 3.4 +/0 0.4 mM, V 17.3 +/- 1.4 MMOL . 1(-1) cell water . min-1 for this infinite-trans exit procedure. 2. The kinetic parameters of equilibrium exchange of D-glucose at 2 degrees C are Km = 25 +/- 3.4 mM, V 30 +/- 4.1 mmol . 1(-1) cell water . min-1. 3. The Km for net exit of D-glucose into solutions containing zero sugar is 15.8 +/- 1.7 mM, V 9.3 +/- 3.3 mmol . 1(-1) cell water . min-1. 4. This experimental evidence corroborates the previous finding of Hankin, B.L., Lieb, W.R. and Stein, W.D. [(1972) Biochim. Biophys. Acta 255, 126--132] that there are sites with both high and low operational affinities for D-glucose at the inner surface of the human erythrocyte membrane. This result is inconsistent with current asymmetric carrier models of sugar transport.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Baker</LastName>
+<ForeName>G F</ForeName>
+<Initials>GF</Initials>
+</Author>
+<Author>
+<LastName>Naftalin</LastName>
+<ForeName>R J</ForeName>
+<Initials>RJ</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>26566-61-0</RegistryNumber>
+<NameOfSubstance>Galactose</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>50-99-7</RegistryNumber>
+<NameOfSubstance>Glucose</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Biological Transport</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Erythrocyte Membrane</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Erythrocytes</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Galactose</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Glucose</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

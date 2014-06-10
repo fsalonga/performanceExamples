@@ -1,0 +1,104 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011553</MedlineID>
+<PMID>420909</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0306-042X</ISSN>
+<JournalIssue>
+<Volume>6</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Energy and metastable characteristics in peptides. 1-Metastable/daughter ion ratios as an aid in peptide sequencing.</ArticleTitle>
+<Pagination>
+<MedlinePgn>45-6</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The metastable/daughter ion ratios, [m*]/[D+] values were measured in the first field free region. The [m*]/[D+] values were found to be influenced by the amino acid sequence in peptide molecules.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Zaretskii</LastName>
+<ForeName>Z V</ForeName>
+<Initials>ZV</Initials>
+</Author>
+<Author>
+<LastName>Dan</LastName>
+<ForeName>P</ForeName>
+<Initials>P</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Biomed Mass Spectrom</MedlineTA>
+<NlmUniqueID>0430246</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Dipeptides</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Esters</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Ions</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>63-91-2</RegistryNumber>
+<NameOfSubstance>Phenylalanine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>76-05-1</RegistryNumber>
+<NameOfSubstance>Trifluoroacetic Acid</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Amino Acid Sequence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Dipeptides</DescriptorName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Esters</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Ions</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Phenylalanine</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Trifluoroacetic Acid</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

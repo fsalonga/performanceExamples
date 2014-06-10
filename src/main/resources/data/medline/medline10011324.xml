@@ -1,0 +1,123 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011324</MedlineID>
+<PMID>420800</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>11</Month>
+<Day>02</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>20</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Amino acid sequence of the VH region of human myeloma cryoimmunoglobulin IgG Hil.</ArticleTitle>
+<Pagination>
+<MedlinePgn>553-60</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Chiu</LastName>
+<ForeName>Y Y</ForeName>
+<Initials>YY</Initials>
+</Author>
+<Author>
+<LastName>López de Castro</LastName>
+<ForeName>J A</ForeName>
+<Initials>JA</Initials>
+</Author>
+<Author>
+<LastName>Poljak</LastName>
+<ForeName>R J</ForeName>
+<Initials>RJ</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Immunoglobulin G</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Myeloma Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Peptide Fragments</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>506-68-3</RegistryNumber>
+<NameOfSubstance>Cyanogen Bromide</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.4.21.1</RegistryNumber>
+<NameOfSubstance>Chymotrypsin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.4.21.4</RegistryNumber>
+<NameOfSubstance>Trypsin</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Amino Acid Sequence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Chymotrypsin</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cyanogen Bromide</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Freezing</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Immunoglobulin G</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Myeloma Proteins</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Peptide Fragments</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Trypsin</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

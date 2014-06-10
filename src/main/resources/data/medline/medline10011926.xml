@@ -1,0 +1,129 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011926</MedlineID>
+<PMID>283874</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>11</Month>
+<Day>02</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0008-543X</ISSN>
+<JournalIssue>
+<Volume>43</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Evolution of karyotypes in Philadelphia (Ph1) chromosome-negative chronic myelogenous leukemia.</ArticleTitle>
+<Pagination>
+<MedlinePgn>411-6</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Ten of 55 patients with chronic myelogenous leukemia (CML) diagnosed between 1972 and 1977 were found to lack the Philadelphia (Ph1) chromosome. Serial clinical, morphologic, and cytogenetic studies of patients with Ph1-negative CML showed that 30% of them had chromosomal abnormalities. Two had an extra chromosome No. 8 at the time of blast crisis, with a morphological picture of myeloblasts in the bone marrow. A third patient had a 6:14 translocation initially Abnormalities of chromosome No. 14 are frequently seen in lymphoproliferative disorders, and the bone marrow and peripheral blood contained a significant population of lymphoblasts as well as myeloblasts. The median survival for the 10 patients was 19 months. The exact nature of Ph1-negative CML is not yet clear; disease appears to be a distinct entity among the myeloproliferative disorders.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Mintz</LastName>
+<ForeName>U</ForeName>
+<Initials>U</Initials>
+</Author>
+<Author>
+<LastName>Vardiman</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author>
+<LastName>Golomb</LastName>
+<ForeName>H M</ForeName>
+<Initials>HM</Initials>
+</Author>
+<Author>
+<LastName>Rowley</LastName>
+<ForeName>J D</ForeName>
+<Initials>JD</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Cancer</MedlineTA>
+<NlmUniqueID>0374236</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>EC 3.1.3.1</RegistryNumber>
+<NameOfSubstance>Alkaline Phosphatase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Alkaline Phosphatase</DescriptorName>
+<QualifierName>blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Aneuploidy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Chromosome Aberrations</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Chromosomes, Human, 13-15</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Chromosomes, Human, 21-22 and Y</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Chromosomes, Human, 6-12 and X</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Leukemia, Myeloid</DescriptorName>
+<QualifierName>enzymology</QualifierName>
+<QualifierName MajorTopicYN="Y">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Leukocytes</DescriptorName>
+<QualifierName>enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Middle Age</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, Non-P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

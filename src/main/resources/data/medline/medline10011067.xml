@@ -1,0 +1,125 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011067</MedlineID>
+<PMID>420641</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0003-9950</ISSN>
+<JournalIssue>
+<Volume>97</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Clindamycin in chronic toxoplasmosis. Effect of periocular injections on recoverability of organisms from healed lesions in the rabbit eye.</ArticleTitle>
+<Pagination>
+<MedlinePgn>542-4</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Bilateral toxoplasmic retinochoroiditic scars were induced in 21 rabbits. Eleven rabbits were treated with clindamycin phosphate and ten rabbits received parallel injections of normal saline solution. All injections were made into Tenon's space. Toxoplasma organisms could be recovered from tissue suspensions of retina and choroid of four (18%) of the clindamycin-treated eyes, compared with recovery from 12(60%) of the 20 control eyes. There were significantly fewer Toxoplasma cysts in the hematoxylin-eosin-stained sections of the treated eyes than in similar sections of the untreated control eyes.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Tabbara</LastName>
+<ForeName>K F</ForeName>
+<Initials>KF</Initials>
+</Author>
+<Author>
+<LastName>Dy-Liacco</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author>
+<LastName>Nozik</LastName>
+<ForeName>R A</ForeName>
+<Initials>RA</Initials>
+</Author>
+<Author>
+<LastName>O'Connor</LastName>
+<ForeName>G R</ForeName>
+<Initials>GR</Initials>
+</Author>
+<Author>
+<LastName>Blackman</LastName>
+<ForeName>H J</ForeName>
+<Initials>HJ</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Arch Ophthalmol</MedlineTA>
+<NlmUniqueID>7706534</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>18323-44-9</RegistryNumber>
+<NameOfSubstance>Clindamycin</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Clindamycin</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+<QualifierName MajorTopicYN="Y">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Injections</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mice</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mice, Inbred Strains</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rabbits</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Toxoplasma</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+<QualifierName MajorTopicYN="Y">isolation &#38; purification</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Toxoplasmosis, Ocular</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug therapy</QualifierName>
+<QualifierName>mortality</QualifierName>
+<QualifierName>pathology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

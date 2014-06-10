@@ -1,0 +1,98 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011094</MedlineID>
+<PMID>217330</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>11</Month>
+<Day>14</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0095-6562</ISSN>
+<JournalIssue>
+<Volume>50</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Application of a bubble formation model to decompression sickness in rats and humans.</ArticleTitle>
+<Pagination>
+<MedlinePgn>44-50</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Although decompression sickness results from bubble formation in blood or tissue, pressure schedules currently in use are essentially empirical and contain little input from cavitation theory. The recent convergence of three lines of investigation suggests that a synthesis of practice and theory may now be possible. The data consist of pressure reduction limits for gelatin, rats, and humans following steady-state exposures. From the gelatin studies, a model has been developed in which bubble formation is initiated by spherical gas nuclei stabilized by surface-active skins of varying gas permeability. We demonstrate that the model is also in good agreement with data on rats and humans over a wide range of pressures and that the model parameters assume sensible values in each case. This suggests that cavitation theory can provide a rationale for current diving practice and can serve to secure, consolidate, and extend this practice.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Yount</LastName>
+<ForeName>D E</ForeName>
+<Initials>DE</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Aviat Space Environ Med</MedlineTA>
+<NlmUniqueID>7501714</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Noble Gases</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<CitationSubset>S</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Atmospheric Pressure</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Biophysics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cell Membrane Permeability</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Decompression Sickness</DescriptorName>
+<QualifierName MajorTopicYN="Y">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Models, Biological</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Noble Gases</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, Non-P.H.S.</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<OtherID Source="NASA">79123725</OtherID>
+</MedlineCitation>

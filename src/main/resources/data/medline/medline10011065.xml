@@ -1,0 +1,89 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011065</MedlineID>
+<PMID>105695</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0003-9950</ISSN>
+<JournalIssue>
+<Volume>97</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>The mechanism of disc pallor in experimental optic atrophy. A fluorescein angiographic study.</ArticleTitle>
+<Pagination>
+<MedlinePgn>532-5</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Ascending optic atrophy was produced in 13 eyes of owl monkeys (Aotestrivirgatus) by retinal photocoagulation. Color fundus photography and fluorescein angiography were used to study and document the evolution of nerve head abnormalities. The optic nerve heads were also studied histopathologically. Except in certain instances of early transient (relative) filling defects, normal disc fluorescent patterns were preserved, despite clinically apparent optic nerve head pallor. Sectorial defects did not persist into the later phases of the angiogram. These findings may suggest a reduced blood flow, but neither angiographic nor histopathologic studies detected a reduced vascularity in the atrophic optic nerve. Pallor of the optic nerve head seems to result from alterations in the tissue reflectance and translucency following axonal loss and glial reorganization rather than from a decreased microvascular bed.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Radius</LastName>
+<ForeName>R L</ForeName>
+<Initials>RL</Initials>
+</Author>
+<Author>
+<LastName>Anderson</LastName>
+<ForeName>D R</ForeName>
+<Initials>DR</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Arch Ophthalmol</MedlineTA>
+<NlmUniqueID>7706534</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Fluorescein Angiography</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Haplorhini</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Light Coagulation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Optic Atrophy</DescriptorName>
+<QualifierName>etiology</QualifierName>
+<QualifierName MajorTopicYN="Y">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Optic Disk</DescriptorName>
+<QualifierName MajorTopicYN="Y">blood supply</QualifierName>
+<QualifierName>pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

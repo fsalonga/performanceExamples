@@ -1,0 +1,119 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011268</MedlineID>
+<PMID>420778</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>9</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Conformations of an ion-binding cyclic peptide analogue of valinomycin, cyclo(L-Val-Gly-Gly-L-Pro)3.</ArticleTitle>
+<Pagination>
+<MedlinePgn>61-7</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>A 270-MHz 1H nuclear magnetic resonance investigation of an ion-binding cyclic peptide analogue of valinomycin, cyclo(L-Val-Gly-Gly-L-Pro)3, and its cation complexes is reported. In CD2Cl2 and CDCl3, the peptide is proposed to occur in a C3-symmetric conformer with the N--H's of all six glycine residues intramolecularly hydrogen bonded. This conformation is different from the familiar valinomycin bracelet structure and lacks any "cavity". Cations do not bind, or bind only weakly, to the peptide in these solvents. Uncomplexed cyclo(L-Val-Gly-Gly-L-Pro)3 in acetonitrile appears to be averaging among several conformations with no evidence found for any preferred intramolecular hydrogen bonds. The strong 1:1 complexes of cyclo(L-Val-Gly-Gly-L-Pro)3 with K+ ANd Ba2+ in acetonitrile are structurally analogous to the bracelet conformation of valinomycin and involve the N--H's of the Val residues and of the Gly's preceding Pro in intramolecular hydrogen bonding. Tl+ was also found to form strong 1:1 complexes with the dodecapeptide.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Easwaran</LastName>
+<ForeName>K R</ForeName>
+<Initials>KR</Initials>
+</Author>
+<Author>
+<LastName>Pease</LastName>
+<ForeName>L G</ForeName>
+<Initials>LG</Initials>
+</Author>
+<Author>
+<LastName>Blout</LastName>
+<ForeName>E R</ForeName>
+<Initials>ER</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Peptides, Cyclic</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>147-85-3</RegistryNumber>
+<NameOfSubstance>Proline</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>2001-95-8</RegistryNumber>
+<NameOfSubstance>Valinomycin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>56-40-6</RegistryNumber>
+<NameOfSubstance>Glycine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7004-03-7</RegistryNumber>
+<NameOfSubstance>Valine</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Glycine</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Magnetic Resonance Spectroscopy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Models, Molecular</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Peptides, Cyclic</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Proline</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Protein Conformation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Valine</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Valinomycin</DescriptorName>
+<QualifierName MajorTopicYN="Y">analogs &#38; derivatives</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

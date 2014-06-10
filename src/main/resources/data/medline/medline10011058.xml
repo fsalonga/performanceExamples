@@ -1,0 +1,137 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011058</MedlineID>
+<PMID>105693</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0003-9950</ISSN>
+<JournalIssue>
+<Volume>97</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Bacillus cereus endogenous panophthalmitis.</ArticleTitle>
+<Pagination>
+<MedlinePgn>498-9</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>A case of severe suppurative endogenous panophthalmitis caused by Bacillus cereus resulted from intravenously administered medications. This is the first, to our knowledge, well-documented case of endogenous endophthalmitis associated with this organism. It is recommended that if on Gram's stain of the anterior chamber fluid, Gram-positive rods are seen, chloramphenicol should be administered in addition to penicillin because of the possibility of B cereus infection.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Bouza</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author>
+<LastName>Grant</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author>
+<LastName>Jordan</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author>
+<LastName>Yook</LastName>
+<ForeName>R H</ForeName>
+<Initials>RH</Initials>
+</Author>
+<Author>
+<LastName>Sulit</LastName>
+<ForeName>H L</ForeName>
+<Initials>HL</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Arch Ophthalmol</MedlineTA>
+<NlmUniqueID>7706534</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Gentamicins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>56-75-7</RegistryNumber>
+<NameOfSubstance>Chloramphenicol</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Aqueous Humor</DescriptorName>
+<QualifierName>microbiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Bacillus cereus</DescriptorName>
+<QualifierName MajorTopicYN="Y">isolation &#38; purification</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Bacterial Infections</DescriptorName>
+<QualifierName MajorTopicYN="Y">diagnosis</QualifierName>
+<QualifierName>drug therapy</QualifierName>
+<QualifierName>etiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Case Report</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Chloramphenicol</DescriptorName>
+<QualifierName>therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Conjunctiva</DescriptorName>
+<QualifierName>microbiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Gentamicins</DescriptorName>
+<QualifierName>therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Injections, Intravenous</DescriptorName>
+<QualifierName>adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Panophthalmitis</DescriptorName>
+<QualifierName>diagnosis</QualifierName>
+<QualifierName>drug therapy</QualifierName>
+<QualifierName MajorTopicYN="Y">microbiology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

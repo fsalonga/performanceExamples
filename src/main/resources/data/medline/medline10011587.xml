@@ -1,0 +1,113 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011587</MedlineID>
+<PMID>217469</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>11</Month>
+<Day>02</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0365-9615</ISSN>
+<JournalIssue>
+<Volume>87</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>[Reproduction of murine encephalomyocarditis virus in enucleated Krebs 2 ascitic carcinoma cells]</ArticleTitle>
+<Pagination>
+<MedlinePgn>142-5</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Enucleated cells of ascites carcinoma Krebs 2 (cytoplasts) were prepared. The cells were centrifugated for this purpose in a discontinuous Ficoll density gradient containing cytochalasine B. The cytoplasts formed turbid bands in Phycol solution at the density of 1.037--1.053 g/ml. The cytoplasts failed to synthesize RNA, but proteins were synthesized for several hours. Encephalomyocarditis virus replicated in the ascites carcinoma cytoplasts, but its yield was 10 to 100-fold lower as compared to that in the intact cells. Apparently the reduction of the virus yield was not due to the low efficiency of early stages of the virus-cytoplast interaction. Viral infection resulted in inhibition of the synthesis of cellular proteins in the cytoplasts as well as in the intact cells.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Maslova</LastName>
+<ForeName>S V</ForeName>
+<Initials>SV</Initials>
+</Author>
+<Author>
+<LastName>Shirman</LastName>
+<ForeName>G A</ForeName>
+<Initials>GA</Initials>
+</Author>
+</AuthorList>
+<Language>rus</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+<VernacularTitle>Reproduktsiia virusa éntsefalomiokardita mysheĭ v bez"iadernykh kletkakh astsitnoĭ kartsinomy Krebs 2.</VernacularTitle>
+</Article>
+<MedlineJournalInfo>
+<Country>USSR</Country>
+<MedlineTA>Biull Eksp Biol Med</MedlineTA>
+<NlmUniqueID>0370627</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>63231-63-0</RegistryNumber>
+<NameOfSubstance>RNA</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Carcinoma, Krebs 2</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+<QualifierName MajorTopicYN="Y">microbiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cell Nucleus</DescriptorName>
+<QualifierName MajorTopicYN="Y">microbiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cells, Cultured</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Encephalomyocarditis virus</DescriptorName>
+<QualifierName MajorTopicYN="Y">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>English Abstract</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Proteins</DescriptorName>
+<QualifierName>biosynthesis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>RNA</DescriptorName>
+<QualifierName>biosynthesis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Virus Replication</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

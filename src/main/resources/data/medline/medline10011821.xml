@@ -1,0 +1,117 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011821</MedlineID>
+<PMID>217477</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>11</Month>
+<Day>14</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-8993</ISSN>
+<JournalIssue>
+<Volume>160</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>19</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Visual receptive fields of units in the pulvinar of cebus monkey.</ArticleTitle>
+<Pagination>
+<MedlinePgn>413-30</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Visually driven units, isolated in the ventrolateral group -- Pv1g (109) and in subnucleus Pmu (33) of the pulvinar of the cebus monkey, were studied in acute and chronic preparations under nitrous oxide N2O/O2 anesthesia during periods of EEG arousal. Taking into consideration the response properties to static or moving stimuli as well as the organization of the receptive fields, units isolated in the pulvinar were subdivided into 8 groups. Units displaying dynamic properties predominate over static ones. Static units were classified in 3 groups; of these, one showed uniform receptive fields; the remaining two groups, with non-uniform RFs, were further subdivided in terms of orientation selectivity. By testing for directional sensitivity, organization of the RFs and orientation selectivity, the dynamic units were divided in 5 groups. Among these there was a predominance of directional units, displaying uniform RFs and showing orientation selectivity. Although the receptive fields would extend into the ipsilateral hemifield (up to 10 degrees), their centers were always located in the contralateral visual hemifield. Binocularly driven units predominate in both static and dynamic categories.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Gattass</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author>
+<LastName>Oswaldo-Cruz</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author>
+<LastName>Sousa</LastName>
+<ForeName>A P</ForeName>
+<Initials>AP</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Brain Res</MedlineTA>
+<NlmUniqueID>0045503</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<CitationSubset>S</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Dominance, Cerebral</DescriptorName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Haplorhini</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neural Inhibition</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neurons</DescriptorName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Orientation</DescriptorName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Photic Stimulation</DescriptorName>
+<QualifierName>methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Retina</DescriptorName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Synaptic Transmission</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Thalamic Nuclei</DescriptorName>
+<QualifierName MajorTopicYN="Y">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Visual Fields</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Visual Pathways</DescriptorName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Visual Perception</DescriptorName>
+<QualifierName MajorTopicYN="Y">physiology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

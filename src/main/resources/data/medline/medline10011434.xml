@@ -1,0 +1,105 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011434</MedlineID>
+<PMID>420852</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>561</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>26</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Chromatin organization in the oomycete Achlya ambisexualis.</ArticleTitle>
+<Pagination>
+<MedlinePgn>261-4</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Nuclei from the Oömycete Achlya ambisexualis and rabbit kidney nuclei were digested with micrococcal nuclease and the resultant DNA fragments analyzed on slab gels. The average DNA repeat size was found to be 159 +/- 1.2 base pairs for Achlya and 199.8 +/- 3.7 base pairs for rabbit kidney. The presence of a DNA repeat size of 159 base pairs for Achlya extends the characterization of eukaryotic chromatins to this most primitive and perhaps unique microbe.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Silver</LastName>
+<ForeName>J C</ForeName>
+<Initials>JC</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Chromatin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9007-49-2</RegistryNumber>
+<NameOfSubstance>DNA</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.1.31.1</RegistryNumber>
+<NameOfSubstance>Micrococcal Nuclease</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Chromatin</DescriptorName>
+<QualifierName MajorTopicYN="Y">ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Comparative Study</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>DNA</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Evolution</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Fungi</DescriptorName>
+<QualifierName MajorTopicYN="Y">ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Micrococcal Nuclease</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Molecular Weight</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Oomycetes</DescriptorName>
+<QualifierName MajorTopicYN="Y">ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Protein Binding</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

@@ -1,0 +1,89 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011480</MedlineID>
+<PMID>33722</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>582</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>1</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>The hydration of a zwitterion, glycine, as a function of pH.</ArticleTitle>
+<Pagination>
+<MedlinePgn>548-50</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>1. The hydration numbers of glycine (concentrations 1--3 M), as a function of concentration, were determined by surface tension measurements, using octan-1-ol as a 'reference' substance. 2. The hydration number of glycine at the isoelectric point decreased from 17.7 to 10.7 upon increasing the concentration from 1 to 3 M. 3. The changes in hydration of glycine as a function of the pH are due to the difference between hydrations of the ionized functional groups (NH+3, COO-) and the added ions (Me+ A-).</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Tschapek</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author>
+<LastName>Wasowski</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>56-40-6</RegistryNumber>
+<NameOfSubstance>Glycine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7732-18-5</RegistryNumber>
+<NameOfSubstance>Water</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Chemistry, Physical</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Glycine</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hydrogen-Ion Concentration</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Surface Tension</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Water</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

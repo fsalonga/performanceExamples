@@ -1,0 +1,134 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011148</MedlineID>
+<PMID>420706</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0004-3591</ISSN>
+<JournalIssue>
+<Volume>22</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Skin thickness and collagen content in progressive systemic sclerosis and localized scleroderma.</ArticleTitle>
+<Pagination>
+<MedlinePgn>130-40</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Skin biopsies of uniform location and surface area (7 mm diameter) were obtained from the extensor aspect of the forearm of 147 patients with progressive systemic sclerosis (PSS) (107 with diffuse scleroderma, 40 with the CREST syndrome variant) and 58 individuals with normal skin. After careful removal of all subcutaneous fatty tissue, the skin cores were weighed and their water and hydroxyproline content determined. Despite recent claims to the contrary, it was found that there is a marked and highly significant increase in the thickness of the skin during the indurative phase of PSS, and that this is associated with a proportionate increase in total dermal collagen content. A similar degree of thickening was found in the skin of patients with eosinophilic fasciitis and acromegaly. A close correlation was observed between clinical estimation of the degree of skin thickening and the weight of the skin biopsy cores. Change in the weight of skin cores was observed during the course of illness of the patients with PSS and may serve as a useful measurement of alteration in the degree of skin thickening.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Rodnan</LastName>
+<ForeName>G P</ForeName>
+<Initials>GP</Initials>
+</Author>
+<Author>
+<LastName>Lipinski</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author>
+<LastName>Luksick</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Arthritis Rheum</MedlineTA>
+<NlmUniqueID>0370605</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>51-35-4</RegistryNumber>
+<NameOfSubstance>Hydroxyproline</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9007-34-5</RegistryNumber>
+<NameOfSubstance>Collagen</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Acromegaly</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+<QualifierName>pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Adolescence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Biopsy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Collagen</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hydroxyproline</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Middle Age</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Scleroderma, Circumscribed</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+<QualifierName MajorTopicYN="Y">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Scleroderma, Systemic</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+<QualifierName MajorTopicYN="Y">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Skin</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+<QualifierName MajorTopicYN="Y">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

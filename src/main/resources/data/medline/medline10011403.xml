@@ -1,0 +1,123 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011403</MedlineID>
+<PMID>420836</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>551</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+<Day>8</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>The lipid composition of plasma membrane and mitochondrial fractions from epididymal adipocytes of cold-acclimated rats.</ArticleTitle>
+<Pagination>
+<MedlinePgn>304-14</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>1. The effects of cold acclimation (5 degrees C) on the lipid composition of plasma membrane and mitochondrial fractions from epididymal adipocytes of rats were studied. 2. The adipocyte plasma membrane fraction of the cold-acclimated rats had lower lipid, phospholipid and cholesterol to protein weight ratios, a lower cholesterol to sphingomyelin molar ratio, and a higher linoleic acid content in the phospholipids than controls. 3. The mitochondrial fraction of the cold-acclimated rat adipocyte had lower ratios of cholesterol to protein (weight), to phospholipid and to cardiolipin (molar), and less sphingomyelin content than did controls. 4. These data, discussed in terms of alterations in physical and biochemical properties, indicate cold-induced changes at the membrane level in rat epididymal adipocytes.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Cherqui</LastName>
+<ForeName>G</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author>
+<LastName>Cadot</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author>
+<LastName>Senault</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author>
+<LastName>Portet</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Membrane Lipids</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Phospholipids</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Acclimatization</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Adipose Tissue</DescriptorName>
+<QualifierName MajorTopicYN="Y">ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cell Membrane</DescriptorName>
+<QualifierName>ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cold</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Intracellular Membranes</DescriptorName>
+<QualifierName MajorTopicYN="Y">ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Membrane Lipids</DescriptorName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mitochondria</DescriptorName>
+<QualifierName MajorTopicYN="Y">ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phospholipids</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

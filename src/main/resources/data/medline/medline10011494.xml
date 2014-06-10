@@ -1,0 +1,137 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011494</MedlineID>
+<PMID>217450</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>11</Month>
+<Day>02</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>583</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>19</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>The heparan sulfates of Swiss mouse 3T3 cells. The effect of transformation.</ArticleTitle>
+<Pagination>
+<MedlinePgn>81-94</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Three major pools of heparan sulfate have been isolated from cultures of Swiss mouse 3T3 and SV40-transformed 3T3 cells: cell-surface, medium, and intracellular heparan sulfates. The cell-surface heparan sulfate is a high molecular weight proteoglycan which is partially degraded by pronase. Before pronase treatment, it has a peak molecular weight (as estimated by gel filtration) of approx. 7.2 . 10(5) in contrast to only 2.4 . 10(5) after pronase treatment. The medium heparan sulfate appears to be similar in structure to the cell-surface heparan sulfate, since they coelute on Bio-Gel A-15m and DEAE-cellulose, and are both proteoglycans. In contrast, the intracellular heparan sulfate has a low molecular weight (6.0 . 10(3)) and has little if any attached protein. Both the medium and intracellular heparan sulfate exhibit the transformation-associated change in structure reported earlier for cell-surface heparan sulfate (Underhill, C.B. and Keller, J.M. )1975) Biochem. Biophys. Res. Commun. 63, 448--454). This transformation-associated change, detected by DEAE-cellulose chromatography is not the result of changes in either molecular weight or protein core. Cellulose acetate electrophoresis of the cell-surface heparan sulfate at pH 1 suggests that the transformation-associated change in structure is due to a difference in sulfate content. Both types of heparan sulfate are produced in mixed cultures of 3T3 and SV3T3 cells, indicating that neither serum factors in the culture medium nor secreted cell products are responsible for the transformation-associated change in heparan sulfate structure. The presented data are discussed with respect to the postulated role of heparan sulfate in cell social behavior.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Johnston</LastName>
+<ForeName>L S</ForeName>
+<Initials>LS</Initials>
+</Author>
+<Author>
+<LastName>Keller</LastName>
+<ForeName>K L</ForeName>
+<Initials>KL</Initials>
+</Author>
+<Author>
+<LastName>Keller</LastName>
+<ForeName>J M</ForeName>
+<Initials>JM</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Culture Media</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Glycosaminoglycans</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9050-30-0</RegistryNumber>
+<NameOfSubstance>Heparitin Sulfate</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.4.24.-</RegistryNumber>
+<NameOfSubstance>Pronase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cell Line</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cell Membrane</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Cell Transformation, Viral</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Comparative Study</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Culture Media</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Fibroblasts</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Glycosaminoglycans</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Heparitin Sulfate</DescriptorName>
+<QualifierName>isolation &#38; purification</QualifierName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mice</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Molecular Weight</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Pronase</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Simian virus 40</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, Non-P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

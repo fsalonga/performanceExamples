@@ -1,0 +1,150 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011663</MedlineID>
+<PMID>369646</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0007-1447</ISSN>
+<JournalIssue>
+<Volume>1</Volume>
+<Issue>6157</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>20</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Beta-adrenoceptor-blocking drugs and blood sugar control in diabetes mellitus.</ArticleTitle>
+<Pagination>
+<MedlinePgn>159-61</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The effects on diabetic control of the relative cardioselective beta-blocker metoprolol and the non-selective drug propranolol were compared in 20 hypertensive diabetic patients receiving diet alone or diet and oral hypoglycaemic agents. Each drug was given for one month in a double-blind, cross-over study. Fasting, noon, and mid-afternoon blood sugar concentrations rose by 1.0-1.5 mmol/l (18-27 mg/100 ml). The rise with propranolol was not significantly greater than with metoprolol. In a few patients the rise was clinically important. The small overall change observed in diabetic control should not deter the use of beta-blockers in non-insulin-dependent diabetics, provided control is carefully monitored at the onset of treatment.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Wright</LastName>
+<ForeName>A D</ForeName>
+<Initials>AD</Initials>
+</Author>
+<Author>
+<LastName>Barber</LastName>
+<ForeName>S G</ForeName>
+<Initials>SG</Initials>
+</Author>
+<Author>
+<LastName>Kendall</LastName>
+<ForeName>M J</ForeName>
+<Initials>MJ</Initials>
+</Author>
+<Author>
+<LastName>Poole</LastName>
+<ForeName>P H</ForeName>
+<Initials>PH</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Clinical Trial</PublicationType>
+<PublicationType>Journal Article</PublicationType>
+<PublicationType>Randomized Controlled Trial</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Br Med J</MedlineTA>
+<NlmUniqueID>0372673</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Blood Glucose</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Propanolamines</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>37350-58-6</RegistryNumber>
+<NameOfSubstance>Metoprolol</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>525-66-6</RegistryNumber>
+<NameOfSubstance>Propranolol</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Blood Glucose</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Clinical Trials</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Comparative Study</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Diabetes Mellitus</DescriptorName>
+<QualifierName MajorTopicYN="Y">blood</QualifierName>
+<QualifierName>complications</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Double-Blind Method</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hypertension</DescriptorName>
+<QualifierName>complications</QualifierName>
+<QualifierName>drug therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Metoprolol</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+<QualifierName>therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Middle Age</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Propanolamines</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Propranolol</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+<QualifierName>therapeutic use</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

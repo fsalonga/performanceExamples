@@ -1,0 +1,101 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011064</MedlineID>
+<PMID>84662</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0003-9950</ISSN>
+<JournalIssue>
+<Volume>97</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Blockade of rapid axonal transport. Effect of intraocular pressure elevation in primate optic nerve.</ArticleTitle>
+<Pagination>
+<MedlinePgn>525-31</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>After acute intraocular pressure (IOP) elevation, an induced disturbance of rapid axonal transport at the optic nerve head began within three hours at the IOP levels tested. The accumulation of radioactive label at the scleral lamina cribrosa increased with time of IOP elevation. There was a 60% decrease in the amount of transported material in the optic nerve, tract, and lateral geniculate body (LGN). Detailed analysis suggests that this decrease is not due to a simple slowdown of transport, but results from a total block of rapid transport in some axons, with no impairment in other axons. This total blockade of rapid transport by elevated IOP in involved axons differs from the apparent slowdown of transport in experimental papilledema, and the difference may explain the response of ganglion cells to the two conditions.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Quigley</LastName>
+<ForeName>H A</ForeName>
+<Initials>HA</Initials>
+</Author>
+<Author>
+<LastName>Guy</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author>
+<LastName>Anderson</LastName>
+<ForeName>D R</ForeName>
+<Initials>DR</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Arch Ophthalmol</MedlineTA>
+<NlmUniqueID>7706534</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Autoradiography</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Axonal Transport</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Axons</DescriptorName>
+<QualifierName MajorTopicYN="Y">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Geniculate Bodies</DescriptorName>
+<QualifierName>physiology</QualifierName>
+<QualifierName>radionuclide imaging</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Haplorhini</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Intraocular Pressure</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Optic Nerve</DescriptorName>
+<QualifierName MajorTopicYN="Y">physiopathology</QualifierName>
+<QualifierName>radionuclide imaging</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

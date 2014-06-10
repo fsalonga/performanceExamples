@@ -1,0 +1,91 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011133</MedlineID>
+<PMID>420697</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0005-9366</ISSN>
+<JournalIssue>
+<Volume>92</Volume>
+<Issue>5</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+<Day>1</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>[Attempts at prevention and therapy of psittacosis using doxycycline in parrots and parakeets]</ArticleTitle>
+<Pagination>
+<MedlinePgn>91-5</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Jakoby</LastName>
+<ForeName>J R</ForeName>
+<Initials>JR</Initials>
+</Author>
+</AuthorList>
+<Language>ger</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+<VernacularTitle>Versuche zur Prophylaxe und Therapie der Psittakose mit Doxycyclin bei Papageien und Sittichen.</VernacularTitle>
+</Article>
+<MedlineJournalInfo>
+<Country>GERMANY, WEST</Country>
+<MedlineTA>Berl Munch Tierarztl Wochenschr</MedlineTA>
+<NlmUniqueID>0003163</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>564-25-0</RegistryNumber>
+<NameOfSubstance>Doxycycline</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Bird Diseases</DescriptorName>
+<QualifierName>drug therapy</QualifierName>
+<QualifierName MajorTopicYN="Y">prevention &#38; control</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Doxycycline</DescriptorName>
+<QualifierName MajorTopicYN="Y">administration &#38; dosage</QualifierName>
+<QualifierName>therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>English Abstract</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Ornithosis</DescriptorName>
+<QualifierName>drug therapy</QualifierName>
+<QualifierName>prevention &#38; control</QualifierName>
+<QualifierName MajorTopicYN="Y">veterinary</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Parakeets</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Parrots</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

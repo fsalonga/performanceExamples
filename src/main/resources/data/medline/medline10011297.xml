@@ -1,0 +1,120 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011297</MedlineID>
+<PMID>217414</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>03</Month>
+<Day>23</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>23</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Lifetimes and NADH quenching of tryptophan fluorescence in pig heart lactate dehydrogenase.</ArticleTitle>
+<Pagination>
+<MedlinePgn>385-90</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The decay of tryptophan emission from pig heart lactate dehydrogenase following pulsed excitation has been recorded in Tris buffer solution at pH 7.4. All tryptophan residues emit. A good least-squares two-component fit is obtained with I(t)-0.53e-t/1.2 + 0.47e-t/68. A longer lived emitter (r=7.4--8.1 ns) is also observed. Bound NADH strongly quenches most of the 6.8-ns emission, but the 1.2-ns component is relatively unaffected. The fluorescence is moderately quenched by acrylamide and only slighty quenched by I- and Cs+. The pulsed and steady-state fluorescence is discussed in terms of a model with three lifetime classes of tryptophan, viz., 1, 4, and 8 ns. The three-dimensional structure of the enzyme--NADH complex is used to develop a description of the individual residues in terms of their lifetimes and sensitivity to NADH and I- quenching. The nonlinear NADH quenching is due to intersubunit energy transfer from Trp-248 to NADH.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Torikata</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author>
+<LastName>Forster</LastName>
+<ForeName>L S</ForeName>
+<Initials>LS</Initials>
+</Author>
+<Author>
+<LastName>O'Neal</LastName>
+<ForeName>C C</ForeName>
+<Initials>CC</Initials>
+<Suffix>Jr</Suffix>
+</Author>
+<Author>
+<LastName>Rupley</LastName>
+<ForeName>J A</ForeName>
+<Initials>JA</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>53-84-9</RegistryNumber>
+<NameOfSubstance>NAD</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>73-22-3</RegistryNumber>
+<NameOfSubstance>Tryptophan</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 1.1.1.27</RegistryNumber>
+<NameOfSubstance>Lactate Dehydrogenase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Lactate Dehydrogenase</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Myocardium</DescriptorName>
+<QualifierName>enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">NAD</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Oxidation-Reduction</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Spectrometry, Fluorescence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Swine</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Tryptophan</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

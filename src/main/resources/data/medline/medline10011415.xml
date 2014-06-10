@@ -1,0 +1,109 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011415</MedlineID>
+<PMID>217434</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>551</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+<Day>8</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Electron spin resonance, hematological, and deformability studies of erythrocytes from patients with Huntington's disease.</ArticleTitle>
+<Pagination>
+<MedlinePgn>452-8</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Electron spin resonance, hematologic, and deformability studies of erythrocytes from patients with Huntington's disease have been performed A decreased deformability of Huntington's disease erythrocytes compared to normal controls was demonstrated. No difference in erythrocyte hematologic indices, osmotic fragility, reticulocyte counts, or intracellular Na+ concentration was found. Huntington's disease serum had no demonstrable effect on electron spin resonance parameters of a protein-specific spin label attached to membrane proteins in control erythrocytes compared to the effect of control serum. This finding suggests that under the conditions employed no serum component or circulating factor is responsible for the changes in the physical state of membrane proteins in Huntington's disease erythrocytes (Butterfield, D.A., Oeswein, J.Q. and Markesbery, W.R. (1977) Nature 267, 453--455). No alteration in lipid fluidity of Huntington's disease erythrocyte membranes could be discerned suggesting that the underlying molecular defect in Huntington's disease involves a membrane protein. The results of the present studies on erythrocytes strongly support the concept that Huntington's disease is associated with a generalized membrane abnormality.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Butterfield</LastName>
+<ForeName>D A</ForeName>
+<Initials>DA</Initials>
+</Author>
+<Author>
+<LastName>Purdy</LastName>
+<ForeName>M J</ForeName>
+<Initials>MJ</Initials>
+</Author>
+<Author>
+<LastName>Markesbery</LastName>
+<ForeName>W R</ForeName>
+<Initials>WR</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>7440-23-5</RegistryNumber>
+<NameOfSubstance>Sodium</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.6.1.37</RegistryNumber>
+<NameOfSubstance>Na(+)-K(+)-Exchanging ATPase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Electron Spin Resonance Spectroscopy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Erythrocyte Membrane</DescriptorName>
+<QualifierName>physiology</QualifierName>
+<QualifierName MajorTopicYN="Y">ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Erythrocytes</DescriptorName>
+<QualifierName MajorTopicYN="Y">ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Huntington Disease</DescriptorName>
+<QualifierName MajorTopicYN="Y">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Na(+)-K(+)-Exchanging ATPase</DescriptorName>
+<QualifierName>blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Sodium</DescriptorName>
+<QualifierName>blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

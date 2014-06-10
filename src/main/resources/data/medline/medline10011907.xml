@@ -1,0 +1,95 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011907</MedlineID>
+<PMID>421160</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0008-4182</ISSN>
+<JournalIssue>
+<Volume>14</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Rat retinal blood vessels.</ArticleTitle>
+<Pagination>
+<MedlinePgn>21-8</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The largest arteries in the rat retina are the arterioles in the nerve fiber layer adjacent to the optic papilla. They are 50 to 100 micrometer in diameter, have an incomplete internal elastic lamina and usually a single layer of smooth muscle. Smaller arterioles of 10 to 50 micrometer have no internal elastic lamina and the media is formed by one or two layers of slender smooth muscle cells. In these vessels, myoendothelial junctions and close contact areas between smooth muscle cells are numerous. Capillaries are present in all layers of the rat retina and from plexuses in the nerve fiber, outer plexiform and exterior part of the inner plexiform layers. In nearly all capillaries, pericytes and their processes from a single layer external to the endothelium with numerous contact points or zones between endothelium and pericytes without any intervening basal laminar material. Areas of close contact between adjacent pericyte processes are frequent. The possible functions of myoendothelial junctions and pericyte-endothelial contacts in relation to vessel tone, mechanical stabilization and metabolic exchange are discussed.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Leeson</LastName>
+<ForeName>T S</ForeName>
+<Initials>TS</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>CANADA</Country>
+<MedlineTA>Can J Ophthalmol</MedlineTA>
+<NlmUniqueID>0045312</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Arteries</DescriptorName>
+<QualifierName MajorTopicYN="Y">anatomy &#38; histology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Arterioles</DescriptorName>
+<QualifierName MajorTopicYN="Y">anatomy &#38; histology</QualifierName>
+<QualifierName>innervation</QualifierName>
+<QualifierName>ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Capillaries</DescriptorName>
+<QualifierName>anatomy &#38; histology</QualifierName>
+<QualifierName>innervation</QualifierName>
+<QualifierName>ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Endothelium</DescriptorName>
+<QualifierName>anatomy &#38; histology</QualifierName>
+<QualifierName>ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Muscle, Smooth</DescriptorName>
+<QualifierName>anatomy &#38; histology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Retinal Vessels</DescriptorName>
+<QualifierName MajorTopicYN="Y">anatomy &#38; histology</QualifierName>
+<QualifierName>innervation</QualifierName>
+<QualifierName>ultrastructure</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

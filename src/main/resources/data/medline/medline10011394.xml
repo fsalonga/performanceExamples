@@ -1,0 +1,100 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011394</MedlineID>
+<PMID>84686</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>550</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>2</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>A study of gramicidin using deuterium oxide.</ArticleTitle>
+<Pagination>
+<MedlinePgn>543-5</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The single channel conductivity of the gramicidin channel has been measured for all the alkali ions using both H2O and 2H2O as a medium. Significant changes in conductivity with medium have been observed in all cases except lithium.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Tredgold</LastName>
+<ForeName>R H</ForeName>
+<Initials>RH</Initials>
+</Author>
+<Author>
+<LastName>Jones</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Cations, Monovalent</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>1405-97-6</RegistryNumber>
+<NameOfSubstance>Gramicidin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7732-18-5</RegistryNumber>
+<NameOfSubstance>Water</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7782-39-0</RegistryNumber>
+<NameOfSubstance>Deuterium</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Cations, Monovalent</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Comparative Study</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Deuterium</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Electric Conductivity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Gramicidin</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Water</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

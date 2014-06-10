@@ -1,0 +1,155 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011883</MedlineID>
+<PMID>33749</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-8993</ISSN>
+<JournalIssue>
+<Volume>166</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Apr</Month>
+<Day>20</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Unit activity of limbic system neurons: effects of morphine, diazepam and neuroleptic agents.</ArticleTitle>
+<Pagination>
+<MedlinePgn>149-59</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The effects of morphine, diazepam and three neuroleptic agents (chloropromazine, perphenazine and haloperiodol) on neuronal firing rats were studied in the limbic system of immobilized cats. Parietal craniotomy was carried out under 1.5--4.0% halothane. Extracellular potentials from single cells in the cingulate gyrus, septum and lateral hypothalamic areas were recorded using glass-coated, platinum-iridium microelectrodes. In general, intravenous adminstration of morphine sulfate augmented the spontaneous firing rates of most of the neurons studied. In contrast, diazepam produced a marked attenuation of both spontaneous and morphine augmented firing rates, whereas the neuroleptic agents had no significant or consistent effects on the morphine augmented firing rates of neurons in these limbic areas. These data indicate that the limbic system may play an important role in the behavioral excitement in cats induced by morphine administration and also the depressant effect of the tranquilizer diazepam. In contrast, the inability of the neuroleptic agents to antagonize the morphine augmented neuronal firing rates suggest these agents may act outside the limbic areas studied here.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Robinson</LastName>
+<ForeName>J H</ForeName>
+<Initials>JH</Initials>
+</Author>
+<Author>
+<LastName>Wang</LastName>
+<ForeName>S C</ForeName>
+<Initials>SC</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Brain Res</MedlineTA>
+<NlmUniqueID>0045503</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Antipsychotic Agents</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>439-14-5</RegistryNumber>
+<NameOfSubstance>Diazepam</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>50-53-3</RegistryNumber>
+<NameOfSubstance>Chlorpromazine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>52-86-8</RegistryNumber>
+<NameOfSubstance>Haloperidol</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>57-27-2</RegistryNumber>
+<NameOfSubstance>Morphine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>58-39-9</RegistryNumber>
+<NameOfSubstance>Perphenazine</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Antipsychotic Agents</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Chlorpromazine</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Diazepam</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Evoked Potentials</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Gyrus Cinguli</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Haloperidol</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hypothalamus</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Limbic System</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Morphine</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neurons</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Perphenazine</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Septum Pellucidum</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

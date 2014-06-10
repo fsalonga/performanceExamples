@@ -1,0 +1,124 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011035</MedlineID>
+<PMID>105691</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>28</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>28</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0003-9942</ISSN>
+<JournalIssue>
+<Volume>36</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Rapid metabolism of phenytoin: a method of calculating proper dosage.</ArticleTitle>
+<Pagination>
+<MedlinePgn>109-10</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The optimal dosage of phenytoin can be accurately determined by a pharmacokinetic method. By plotting the rate of administration of phenytoin acid against the apparent plasma clearance rate, we estimated the maximum rate of metabolism and the serum concentration at which the rate of metabolism was one half the maximum rate for phenytoin and then applied the Michaelis-Menten equation to optimize the dosage of phenytoin in a 48-year-old man with uncontrolled idiopathic generalized seizures and increased metabolism of phenytoin. The patient became seizure free on a regimen of 650 mg of phenytoin daily and experienced no side effects of phenytoin over-dosage. The pharmacokinetic technique described is simple to use and can be applied in an outpatient clinic.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Hawkins</LastName>
+<ForeName>D W</ForeName>
+<Initials>DW</Initials>
+</Author>
+<Author>
+<LastName>Ludden</LastName>
+<ForeName>T M</ForeName>
+<Initials>TM</Initials>
+</Author>
+<Author>
+<LastName>Hoffman</LastName>
+<ForeName>S F</ForeName>
+<Initials>SF</Initials>
+</Author>
+<Author>
+<LastName>Allen</LastName>
+<ForeName>J P</ForeName>
+<Initials>JP</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Arch Neurol</MedlineTA>
+<NlmUniqueID>0372436</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>50-06-6</RegistryNumber>
+<NameOfSubstance>Phenobarbital</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>57-41-0</RegistryNumber>
+<NameOfSubstance>Phenytoin</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Case Report</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Dose-Response Relationship, Drug</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Drug Therapy, Combination</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Epilepsies, Partial</DescriptorName>
+<QualifierName>blood</QualifierName>
+<QualifierName>drug therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Epilepsy, Tonic-Clonic</DescriptorName>
+<QualifierName>blood</QualifierName>
+<QualifierName>drug therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Metabolic Clearance Rate</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Middle Age</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phenobarbital</DescriptorName>
+<QualifierName>therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phenytoin</DescriptorName>
+<QualifierName MajorTopicYN="Y">administration &#38; dosage</QualifierName>
+<QualifierName MajorTopicYN="Y">blood</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

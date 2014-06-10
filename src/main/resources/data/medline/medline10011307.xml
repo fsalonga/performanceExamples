@@ -1,0 +1,124 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011307</MedlineID>
+<PMID>420790</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>6</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Gross structural changes in isolated liver cell plasma membranes upon binding of insulin.</ArticleTitle>
+<Pagination>
+<MedlinePgn>445-50</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The addition of 10(-9) M insulin to a suspension of rat liver plasma membranes increases the overall lipid microviscosity, eta, by about 10--20%. The effect is confined to physiological concentrations of the hormone and is highly specific. The specificity was demonstrated in experiments where insulin analogues were added to liver plasma membranes and where insulin was added to human erythrocyte membranes. In both of these experiments practically no change in eta was detected. Upon in vitro enrichment of the membrane cholesterol, eta exceeded the level mediated by insulin binding, and the addition of 10(-9) M insulin to the cholesterol-enriched membranes did not further increase eta. Concomitant to the increase in eta upon insulin binding, the overall degree of exposure of the membrane protein, presumably to both sides of the membrane, is substantially increased. This effect is in line with the notion of vertical displacement of membrane proteins induced by changes in eta. The observed structural modulation can account for the effect of insulin on unrelated membrane responses, as well as for the negative cooperativity of insulin binding.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Luly</LastName>
+<ForeName>P</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author>
+<LastName>Shinitzky</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Membrane Lipids</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>11061-68-0</RegistryNumber>
+<NameOfSubstance>Insulin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9035-68-1</RegistryNumber>
+<NameOfSubstance>Proinsulin</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cell Membrane</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+<QualifierName>physiology</QualifierName>
+<QualifierName MajorTopicYN="Y">ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Insulin</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Liver</DescriptorName>
+<QualifierName MajorTopicYN="Y">ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Membrane Lipids</DescriptorName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Proinsulin</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Spectrometry, Fluorescence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Structure-Activity Relationship</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Temperature</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Viscosity</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

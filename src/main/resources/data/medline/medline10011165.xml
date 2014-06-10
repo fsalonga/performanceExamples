@@ -1,0 +1,94 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011165</MedlineID>
+<PMID>369569</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0004-3591</ISSN>
+<JournalIssue>
+<Volume>22</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Hemoflagellate kinetoplasts and the diagnosis of SLE.</ArticleTitle>
+<Pagination>
+<MedlinePgn>205-7</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Scheinberg</LastName>
+<ForeName>M A</ForeName>
+<Initials>MA</Initials>
+</Author>
+<Author>
+<LastName>Plessmann de Camargo</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author>
+<LastName>Mendes</LastName>
+<ForeName>N F</ForeName>
+<Initials>NF</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Letter</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Arthritis Rheum</MedlineTA>
+<NlmUniqueID>0370605</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Antibodies, Antinuclear</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Antibodies, Antinuclear</DescriptorName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Crithidia</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Evaluation Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Fluorescent Antibody Technique</DescriptorName>
+<QualifierName MajorTopicYN="Y">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Lupus Erythematosus, Systemic</DescriptorName>
+<QualifierName MajorTopicYN="Y">diagnosis</QualifierName>
+<QualifierName>immunology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

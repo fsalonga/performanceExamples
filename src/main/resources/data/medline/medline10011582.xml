@@ -1,0 +1,111 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011582</MedlineID>
+<PMID>420931</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>11</Month>
+<Day>19</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0365-9615</ISSN>
+<JournalIssue>
+<Volume>87</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>[Dynamics of renin production by the juxtaglomerular and mesangial cells of individual rat kidney glomeruli following adrenalectomy]</ArticleTitle>
+<Pagination>
+<MedlinePgn>128-32</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Adrenal incompetence developed in rats 6 weeks after adrenalectomy without any salt and hormonal compensation. In individual fragments of the isolated glomeruli containing juxtaglomerular cells (JGC) renin activity increased 1.2 times on the average, and there was revealed renin-like activity (RLA) in the fragments containing mesangial cells (MC). Signs of intensified renin secretion (expressed in reduction of granule count, marked development of granular endoplasmic reticulum, Golgi complex and microtubules) were noted in the JGC. In MC such organoids were well developed, but no granules were revealed. The following occurred in 8 to 12 weeks with the restoration of the 11-OCS and sodium level in the plasma: renin JGC activity became normal, RLA activity in MC disappeared, and the initial ultrastructure of both of these cells was restored. The reserve role of MC as the source of renin-like substances was confirmed.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Fedorov</LastName>
+<ForeName>V I</ForeName>
+<Initials>VI</Initials>
+</Author>
+<Author>
+<LastName>Perov</LastName>
+<ForeName>Iu L</ForeName>
+<Initials>IuL</Initials>
+</Author>
+</AuthorList>
+<Language>rus</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+<VernacularTitle>Dinamika produktsii renina iukstaglomeruliarnymi i mezangial'nymi kletkami otdel'nykh pochechnykh klubochkov krys posle adrenaléktomii.</VernacularTitle>
+</Article>
+<MedlineJournalInfo>
+<Country>USSR</Country>
+<MedlineTA>Biull Eksp Biol Med</MedlineTA>
+<NlmUniqueID>0370627</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>EC 3.4.23.15</RegistryNumber>
+<NameOfSubstance>Renin</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adrenal Glands</DescriptorName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Adrenalectomy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>English Abstract</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Juxtaglomerular Apparatus</DescriptorName>
+<QualifierName>cytology</QualifierName>
+<QualifierName>metabolism</QualifierName>
+<QualifierName>ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kidney Glomerulus</DescriptorName>
+<QualifierName MajorTopicYN="Y">cytology</QualifierName>
+<QualifierName>metabolism</QualifierName>
+<QualifierName>ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Microscopy, Electron</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Renin</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

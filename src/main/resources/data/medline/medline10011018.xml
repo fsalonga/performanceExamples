@@ -1,0 +1,98 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011018</MedlineID>
+<PMID>369491</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0003-9942</ISSN>
+<JournalIssue>
+<Volume>36</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Postanoxic action myoclonus (Lance-Adams syndrome) responding to valproate.</ArticleTitle>
+<Pagination>
+<MedlinePgn>44-5</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>A patient with postanoxic action myoclonus (Lance-Adams syndrome) was severely disabled with this movement disorder. Valproate sodium was administered orally, with complete resolution of the myoclonus. This favorable response has been maintained for two years. Excessive yawning, the only side effect encountered, was dose related and was abolished with the addition of pimozide to the drug regimen.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Rollinson</LastName>
+<ForeName>R D</ForeName>
+<Initials>RD</Initials>
+</Author>
+<Author>
+<LastName>Gilligan</LastName>
+<ForeName>B S</ForeName>
+<Initials>BS</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Arch Neurol</MedlineTA>
+<NlmUniqueID>0372436</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>99-66-1</RegistryNumber>
+<NameOfSubstance>Valproic Acid</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Anoxia</DescriptorName>
+<QualifierName MajorTopicYN="Y">complications</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Case Report</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Drowning</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Myoclonus</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug therapy</QualifierName>
+<QualifierName>etiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Valproic Acid</DescriptorName>
+<QualifierName MajorTopicYN="Y">therapeutic use</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

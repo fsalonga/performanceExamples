@@ -1,0 +1,112 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011317</MedlineID>
+<PMID>420795</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>11</Month>
+<Day>02</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>6</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Cell-free translation of mammalian myosin heavy-chain messenger ribonucleic acid from growing and fused-L6E9 myoblasts.</ArticleTitle>
+<Pagination>
+<MedlinePgn>494-500</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>An mRNA-dependent reticulocyte cell-free protein synthesizing system very efficient in the translation of myosin heavy-chain mRNA from a rat myogenic cell line is described. This system exhibits a high degree of fidelity with regard to the spectrum and relative proportion of the different proteins synthesized from a sample of cytoplasmic RNA as compared to the proteins synthesized in vivo by the cells from which the RNA is prepared. The main feature of this system is the use of a K+ and Cl- concentration similar to those of the reticulocyte cytoplasm. Using this system, myosin heavy chain, identified by low-salt precipitation, electrophoretic mobility, and partial peptide analysis, represents 17% of the total protein synthesis when cytoplasmic RNA from well-fused L6E9 cells is used. Furthermore, when RNA preparations from growing myoblasts, that when analyzed in other cell-free translational systems seem not to contain any myosin heavy-chain mRNA, are tested in the system reported here, they are proven to contain high amounts of translatable myosin heavy-chain mRNA.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Benoff</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author>
+<LastName>Nadal-Ginard</LastName>
+<ForeName>B N</ForeName>
+<Initials>BN</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Peptide Fragments</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>RNA, Messenger</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.6.1.4</RegistryNumber>
+<NameOfSubstance>Myosins</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cell Fusion</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cell Line</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Muscles</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Myosins</DescriptorName>
+<QualifierName MajorTopicYN="Y">biosynthesis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Peptide Fragments</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>RNA, Messenger</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rabbits</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Translation, Genetic</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

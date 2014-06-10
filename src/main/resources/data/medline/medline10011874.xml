@@ -1,0 +1,103 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011874</MedlineID>
+<PMID>421144</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-8993</ISSN>
+<JournalIssue>
+<Volume>165</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Apr</Month>
+<Day>13</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Neurogenesis in the amygdaloid nuclear complex in a rodent (the Chinese hamster).</ArticleTitle>
+<Pagination>
+<MedlinePgn>348-53</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>ten Donkelaar</LastName>
+<ForeName>H J</ForeName>
+<Initials>HJ</Initials>
+</Author>
+<Author>
+<LastName>Lammers</LastName>
+<ForeName>G J</ForeName>
+<Initials>GJ</Initials>
+</Author>
+<Author>
+<LastName>Gribnau</LastName>
+<ForeName>A A</ForeName>
+<Initials>AA</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Brain Res</MedlineTA>
+<NlmUniqueID>0045503</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Age Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Amygdala</DescriptorName>
+<QualifierName MajorTopicYN="Y">cytology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Cell Differentiation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cricetulus</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hamsters</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hippocampus</DescriptorName>
+<QualifierName>cytology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neurons</DescriptorName>
+<QualifierName>cytology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Olfactory Pathways</DescriptorName>
+<QualifierName>cytology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Pregnancy</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

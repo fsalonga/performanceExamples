@@ -1,0 +1,113 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011541</MedlineID>
+<PMID>420901</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3223</ISSN>
+<JournalIssue>
+<Volume>14</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>The relationship of the lithium erythrocyte: plasma ratio to plasma lithium level.</ArticleTitle>
+<Pagination>
+<MedlinePgn>207-13</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The relationship of the lithium erythrocyte:plasma ratio to plasma lithium concentration was reviewed in inpatients and outpatients with affective disorders. For some patients, there was a linear correlation between the erythrocyte lithium:plasma lithium ratio and the plasma lithium concentration. For these patients a graph of the slopes and intercepts of the lithium erythrocyte:plasma ratio vs. plasma lithium data formed a line that was not significantly different from the data of Lee et al. (1975). Significant correlations were found between the slopes and intercepts of the lithium erythrocyte:plasma ratio vs. plasma lithium data and the magnitude of active lithium efflux (Ko) from the erythrocyte. Our data confirm the finding of Lee et al. (1975) that the lithium erythrocyte:plasma ratio is dependent on the plasma lithium concentration. We relate this finding to lithium efflux from the erythrocyte.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Schreiner</LastName>
+<ForeName>H C</ForeName>
+<Initials>HC</Initials>
+</Author>
+<Author>
+<LastName>Dunner</LastName>
+<ForeName>D L</ForeName>
+<Initials>DL</Initials>
+</Author>
+<Author>
+<LastName>Meltzer</LastName>
+<ForeName>H L</ForeName>
+<Initials>HL</Initials>
+</Author>
+<Author>
+<LastName>Fieve</LastName>
+<ForeName>R R</ForeName>
+<Initials>RR</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biol Psychiatry</MedlineTA>
+<NlmUniqueID>0213264</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>7439-93-2</RegistryNumber>
+<NameOfSubstance>Lithium</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Bipolar Disorder</DescriptorName>
+<QualifierName MajorTopicYN="Y">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Depression</DescriptorName>
+<QualifierName MajorTopicYN="Y">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Erythrocytes</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Lithium</DescriptorName>
+<QualifierName MajorTopicYN="Y">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Middle Age</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

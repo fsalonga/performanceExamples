@@ -1,0 +1,97 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011215</MedlineID>
+<PMID>420745</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0007-1145</ISSN>
+<JournalIssue>
+<Volume>41</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Studies on digestion and absorption in the intestines of growing pigs. 5. Measurements of the flow of nitrogen.</ArticleTitle>
+<Pagination>
+<MedlinePgn>137-46</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>1. Digesta were collected from twenty-three pigs, initially of 30 kg live weight, and fitted with single Ash re-entrant cannulas in either the duodenum, jejunum or ileum. A further twenty-four pigs were used in a conventional digestibility trial. 2. Three approximately isonitrogenous diets were used; they contained: barley, fine wheat ofal, white fish meal, minerals and vitamins (diet BWF), starch, sucrose, maize oil, cellulose, minerals, vitamins and either groundnut (diet SSG) or casein (diet SSC). 3. The flow-rates of nitrogen (N), liquid-fraction N (LN) and non-protein liquid-fraction N (NPLN) were measured hourly in the duodenum and every 6 h in the ileum during 24 h collection periods. Faeces were collected during 5 d periods. 4. Marked increases in flow of N, LN and NPLN were seen in the duodenum and jejunum after feeding each diet, but not in the ileum. 5. Values for, N output: intake from the duodenal, jejunal or ideal cannulas and in faeces in 24 h periods were respectively: 0.98, 0.88, 0.25 and 0.21 for diet BWF; 1.00, 0.97, 0.22 and 0.24 for diet SSG; 0.98, 0.73, 0.09 and 0.03 for diet SSC. The corresponding values for LN in the duodenum, jejunum and ileum respectively were: 0.53, 0.53 and 0.12 for diet BWF; 0.46, 0.60 AND 0.13 FOR DIet SSG' 0.57, 0.50 and 0.06 for diet SSC. The corresponding values for NPLN in the duodenum, jejunum and ileum respectively were: 0.41, 0.38 and 0.09 for diet BWF; 0.35, 0.36 AND 0.08 FOR DIET SSG; 0.46, 0.38 AND 0.04 for diet SSC. 6. The results are discussed in relation to similar studies, particularly in pigs with duodenal cannulas, in which widely different observations were made.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Low</LastName>
+<ForeName>A G</ForeName>
+<Initials>AG</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Br J Nutr</MedlineTA>
+<NlmUniqueID>0372547</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>7727-37-9</RegistryNumber>
+<NameOfSubstance>Nitrogen</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Diet</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Digestion</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Feces</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Gastrointestinal Motility</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Intestinal Absorption</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Nitrogen</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Swine</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Time Factors</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

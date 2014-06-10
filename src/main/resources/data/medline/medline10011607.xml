@@ -1,0 +1,76 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011607</MedlineID>
+<PMID>33734</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>11</Month>
+<Day>02</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0092-8240</ISSN>
+<JournalIssue>
+<Volume>41</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Catastrophe theory and cellular determination, transdetermination, and differentiation.</ArticleTitle>
+<Pagination>
+<MedlinePgn>101-17</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Woodcock</LastName>
+<ForeName>A E</ForeName>
+<Initials>AE</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Bull Math Biol</MedlineTA>
+<NlmUniqueID>0401404</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cell Differentiation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cell Transplantation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Embryo</DescriptorName>
+<QualifierName MajorTopicYN="Y">cytology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Genes</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Models, Biological</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phenotype</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

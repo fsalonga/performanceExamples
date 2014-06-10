@@ -1,0 +1,123 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011370</MedlineID>
+<PMID>420819</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>5</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+<Day>6</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Iodosylbenzene derivatives as oxygen donors in cytochrome P-450 catalyzed steroid hydroxylations.</ArticleTitle>
+<Pagination>
+<MedlinePgn>865-70</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The mechanism of cytochrome P-450 catalyzed steroid hydroxylations in rat liver microsomes has been investigated by employing derivatives of iodosylbenzene as oxygen donors. The model steroid substrate androstenedione which was hydroxylated in positions 7 alpha, 6 beta, and 16 alpha was used in reactions supported by NADPH, iodosylbenzene, and iodosylbenzene derivatives. Evidence for cytochrome P-450 involvement in iodosylbenzene-sustained androstenedione hydroxylation included inhibition by substrates and modifiers of cytochrome P-450. The most efficient oxygen donors were (diacetoxyiodo)-2-nitrobenzene greater than (diacetoxyiodo)-2-chlorobenzene greater than 2-nitroiodosylbenzene greater than (dinitratoiodo)-2-nitrobenzene greater than (diacetoxyiodo)benzene greater than (diacetoxyiodo)-2-methoxybenzene greater than 4-(diacetoxyiodo)toluene greater than iodosylbenzene. The capacity of the oxidation agents to serve as oxygen donors in cytochrome P-450 dependent steroid hydroxylation is probably dependent upon several factors such as the tendency of iodosyl compounds to associate, which decreases coordination with the heme iron, the presence of bulky substituents in the 2 position (decreases association), and the presence of electron-withdrawing substituents (tends to decrease coordination with the heme iron). The rates of 7 alpha, 6 beta, and i6 alpha hydroxylation of androstenedione catalyzed by (diacetoxyiodo)-2-nitrobenzene were 108-, 130-, and 167-fold higher, respectively, than the rates of the NADPH-supported reactions. These results strongly suggest that the rate-limiting step in NADPH-sustained cytochrome P-450 catalyzed reactions is the rate of reduction of cytochrome P-450.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Gustafsson</LastName>
+<ForeName>J A</ForeName>
+<Initials>JA</Initials>
+</Author>
+<Author>
+<LastName>Rondahl</LastName>
+<ForeName>L</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author>
+<LastName>Bergman</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Iodobenzenes</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>63-05-8</RegistryNumber>
+<NameOfSubstance>Androstenedione</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9035-51-2</RegistryNumber>
+<NameOfSubstance>Cytochrome P-450</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Androstenedione</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cytochrome P-450</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hydroxylation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Iodobenzenes</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Microsomes, Liver</DescriptorName>
+<QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Models, Biological</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Oxidation-Reduction</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Structure-Activity Relationship</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

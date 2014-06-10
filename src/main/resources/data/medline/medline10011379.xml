@@ -1,0 +1,114 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011379</MedlineID>
+<PMID>420823</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>5</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+<Day>6</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Analysis of the message-sequence content of the pulse-labeled poly(A)+ heterogeneous nuclear RNA from HeLa cells by cDNA-excess hybridizations.</ArticleTitle>
+<Pagination>
+<MedlinePgn>916-20</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The message-sequence content of pulse-labeled poly(A)+ HeLa heterogenous nuclear RNA (hnRNA) has been examined by hybridizations to an excess of message cDNA. Control experiments show that the message cDNA accurately reflects the sequence distribution of the complex mixture of poly(A)+ messages present in the HeLa cytoplasm. Pulse-labeled poly(A)+ molecules in both the lamina-associated and shnRNA fractions contain message sequences, and approximately 65% of the poly(A)-adjacent hnRNA sequences are homologous to the 3' ends of mRNA. The majority of the pulse-labeled hnRNA molecules contain abundant message sequences. By use of these techniques it is also shown that some pulse-labeled polyadenylated message sequences are still synthesized in the presence of the adenosine analogue 5,6-dichloro-beta-D-ribofuranosylbenzimidazole under conditions where little or no new cytoplasmic mRNA is produced.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Herman</LastName>
+<ForeName>R C</ForeName>
+<Initials>RC</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>RNA, Heterogeneous Nuclear</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>RNA, Messenger</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>24937-83-5</RegistryNumber>
+<NameOfSubstance>Poly A</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>53-85-0</RegistryNumber>
+<NameOfSubstance>Dichlororibofuranosylbenzimidazole</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9007-49-2</RegistryNumber>
+<NameOfSubstance>DNA</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Base Sequence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cell Nucleus</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Chemistry</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cytoplasm</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>DNA</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Dichlororibofuranosylbenzimidazole</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Nucleic Acid Hybridization</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Poly A</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">RNA, Heterogeneous Nuclear</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">RNA, Messenger</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

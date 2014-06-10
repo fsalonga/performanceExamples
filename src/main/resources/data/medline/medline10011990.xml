@@ -1,0 +1,120 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011990</MedlineID>
+<PMID>421199</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0008-5472</ISSN>
+<JournalIssue>
+<Volume>39</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Apr</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Efficacy of tumor cell extracts in immunotherapy of murine EL-4 leukemia.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1159-67</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Cantrell</LastName>
+<ForeName>J L</ForeName>
+<Initials>JL</Initials>
+</Author>
+<Author>
+<LastName>McLaughlin</LastName>
+<ForeName>C A</ForeName>
+<Initials>CA</Initials>
+</Author>
+<Author>
+<LastName>Ribi</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Cancer Res</MedlineTA>
+<NlmUniqueID>2984705R</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Antigens, Neoplasm</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Emulsions</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Mitomycins</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Antigens, Neoplasm</DescriptorName>
+<QualifierName MajorTopicYN="Y">administration &#38; dosage</QualifierName>
+<QualifierName>isolation &#38; purification</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cytotoxicity, Immunologic</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Emulsions</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Immunotherapy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>In Vitro</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Leukemia, Experimental</DescriptorName>
+<QualifierName>immunology</QualifierName>
+<QualifierName MajorTopicYN="Y">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mice</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mice, Inbred C57BL</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mitomycins</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Solubility</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

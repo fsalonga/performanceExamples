@@ -1,0 +1,127 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011940</MedlineID>
+<PMID>421178</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0008-543X</ISSN>
+<JournalIssue>
+<Volume>43</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Adenomatoid odontogenic tumor: ultrastructural demonstration of two cell types and amyloid.</ArticleTitle>
+<Pagination>
+<MedlinePgn>505-11</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>A typical adenomatoid odontogenic tumor removed from a 13-year-old female was studied by light and electron microscopy. The tumor was composed of two types of epithelial cells: Type I cells were cuboidal and occurred in nests or formed ductlike structures and Type II cells were smaller and spindle shaped. The formation of extracellular masses of amyloid was found in association with Type I epithelial cells, and amyloid formation was not observed in association with Type II cells. Results suggest that the lesion is of enamel organ origin, derived from cells of the inner enamel epithelium at the pre-ameloblastic stage, stellate reticulum and stratum intermedium. The origin of this amyloid material is unknown; however, it may be of enamel protein origin which, like amyloid, may have a beta-protein conformation.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Smith</LastName>
+<ForeName>R R</ForeName>
+<Initials>RR</Initials>
+</Author>
+<Author>
+<LastName>Olson</LastName>
+<ForeName>J L</ForeName>
+<Initials>JL</Initials>
+</Author>
+<Author>
+<LastName>Hutchins</LastName>
+<ForeName>G M</ForeName>
+<Initials>GM</Initials>
+</Author>
+<Author>
+<LastName>Crawley</LastName>
+<ForeName>W A</ForeName>
+<Initials>WA</Initials>
+</Author>
+<Author>
+<LastName>Levin</LastName>
+<ForeName>L S</ForeName>
+<Initials>LS</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Cancer</MedlineTA>
+<NlmUniqueID>0374236</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Amyloid</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adolescence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Amyloid</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Case Report</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Enamel Organ</DescriptorName>
+<QualifierName>ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Epithelium</DescriptorName>
+<QualifierName>ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Maxillary Neoplasms</DescriptorName>
+<QualifierName>etiology</QualifierName>
+<QualifierName>metabolism</QualifierName>
+<QualifierName MajorTopicYN="Y">ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Microscopy, Electron</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Odontogenic Tumors</DescriptorName>
+<QualifierName>etiology</QualifierName>
+<QualifierName>metabolism</QualifierName>
+<QualifierName MajorTopicYN="Y">ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

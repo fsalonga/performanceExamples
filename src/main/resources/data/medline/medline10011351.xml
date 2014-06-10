@@ -1,0 +1,149 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011351</MedlineID>
+<PMID>420812</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>5</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+<Day>6</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Effect of polyene antibiotics on the lectin-induced agglutination of transformed and untransformed cell lines.</ArticleTitle>
+<Pagination>
+<MedlinePgn>739-45</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Treatment of transformed Py3T3, SV101-3T3, and L1210 cells, as well as mitotic and Pronase-treated untransformed 3T3 cells, with the polyene antibiotics filipin, nystatin, and amphotericin B inhibited agglutination by wheat germ agglutinin. The effect of polyene antibiotic treatment was lectin and cell specific. Concanavalin A induced agglutination was not inhibited, wheat germ agglutination induced agglutination of untransformed 3T3 interphase cells was not influenced, and other aggregation phenomena, including those of erythrocytes with blood group specific antibodies or divalent cations, were unaffected by polyene treatments. This suggests that the formation of polyene-cholesterol complexes in transformed and erythrocyte cell membranes may specifically affect wheat germ agglutinin receptors and/or secondary events necessary for wheat germ agglutinin induced agglutination. Fluorescence studies of membrane filipin-cholesterol complexes showed that pretreating the cells with wheat germ agglutinin, but not concanavalin A, perturbed the fluorescence properties of filipin. Electron spin resonance studies with spin-labeled fatty acids revealed at best only a slight decrease in fatty acyl chain flexibility following filipin treatment. These studies indicate that there are not only quantitative differences between the agglutinability of transformed and untransformed cells with wheat germ agglutinin but that qualitative differences exist as well.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Hatten</LastName>
+<ForeName>M E</ForeName>
+<Initials>ME</Initials>
+</Author>
+<Author>
+<LastName>Burger</LastName>
+<ForeName>M M</ForeName>
+<Initials>MM</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Lectins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Polyenes</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>11028-71-0</RegistryNumber>
+<NameOfSubstance>Concanavalin A</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>1397-89-3</RegistryNumber>
+<NameOfSubstance>Amphotericin B</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>1400-61-9</RegistryNumber>
+<NameOfSubstance>Nystatin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>480-49-9</RegistryNumber>
+<NameOfSubstance>Filipin</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Agglutination</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Amphotericin B</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Carcinoma, Ehrlich Tumor</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Cell Transformation, Viral</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Cells, Cultured</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Concanavalin A</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Fibroblasts</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Filipin</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Lectins</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Leukemia L1210</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mice</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mice, Inbred Strains</DescriptorName>
+<QualifierName>embryology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mitosis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Nystatin</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Polyenes</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Structure-Activity Relationship</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

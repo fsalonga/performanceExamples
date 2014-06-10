@@ -1,0 +1,131 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011962</MedlineID>
+<PMID>421187</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0008-543X</ISSN>
+<JournalIssue>
+<Volume>43</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Blood group isoantigen deletion in carcinoma in situ of the urinary bladder.</ArticleTitle>
+<Pagination>
+<MedlinePgn>661-8</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Blood group isoantigens A and H (O) were measured by the Secific Red Cell Adherence (SRCA) Test in nine radical cystectomy specimens removed from patients with extensive carcinoma in situ of the urinary bladder. All bladders had areas of histologically normal epithelium and areas of epithelial atypia in addition to the carcinoma in situ. In eight cases, tissue-associated blood group isoantigens were deleted in areas showing either atypia or carcinoma in situ. Isoantigens were present in these areas in the ninth case. Blood group isoantigens were absent in approximately half of the sections of histologically normal epithelium. We propose that areas of epithelium which appear benign according to conventional histological criteria but in which the blood group isoantigens are absent may represent areas of low grade carcinoma in situ.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Weinstein</LastName>
+<ForeName>R S</ForeName>
+<Initials>RS</Initials>
+</Author>
+<Author>
+<LastName>Alroy</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author>
+<LastName>Farrow</LastName>
+<ForeName>G M</ForeName>
+<Initials>GM</Initials>
+</Author>
+<Author>
+<LastName>Miller</LastName>
+<ForeName>A W</ForeName>
+<Initials>AW</Initials>
+<Suffix>3rd</Suffix>
+</Author>
+<Author>
+<LastName>Davidsohn</LastName>
+<ForeName>I</ForeName>
+<Initials>I</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Cancer</MedlineTA>
+<NlmUniqueID>0374236</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>ABO Blood-Group System</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Isoantigens</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">ABO Blood-Group System</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Bladder Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y">blood</QualifierName>
+<QualifierName>immunology</QualifierName>
+<QualifierName>pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Carcinoma in Situ</DescriptorName>
+<QualifierName MajorTopicYN="Y">blood</QualifierName>
+<QualifierName>immunology</QualifierName>
+<QualifierName>pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Epithelium</DescriptorName>
+<QualifierName>immunology</QualifierName>
+<QualifierName>pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Isoantigens</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Middle Age</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neoplasm Invasiveness</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

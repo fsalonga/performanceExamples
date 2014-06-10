@@ -1,0 +1,131 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011363</MedlineID>
+<PMID>33702</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>5</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+<Day>6</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Mechanism of serine hydroxymethylase catalyzed cleavage of L-erythro-beta-phenylserine: pH dependence of elementary kinetic processes from spectroscopic, pre-steady kinetic, and competitive inhibition studies.</ArticleTitle>
+<Pagination>
+<MedlinePgn>821-30</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Ching</LastName>
+<ForeName>W M</ForeName>
+<Initials>WM</Initials>
+</Author>
+<Author>
+<LastName>Kallen</LastName>
+<ForeName>R G</ForeName>
+<Initials>RG</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>56-40-6</RegistryNumber>
+<NameOfSubstance>Glycine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>63-91-2</RegistryNumber>
+<NameOfSubstance>Phenylalanine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.</RegistryNumber>
+<NameOfSubstance>Transferases</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.1.2.1</RegistryNumber>
+<NameOfSubstance>Glycine Hydroxymethyltransferase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Binding Sites</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Binding, Competitive</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Glycine</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Glycine Hydroxymethyltransferase</DescriptorName>
+<QualifierName>antagonists &#38; inhibitors</QualifierName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hydrogen-Ion Concentration</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Liver</DescriptorName>
+<QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Models, Biological</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phenylalanine</DescriptorName>
+<QualifierName MajorTopicYN="Y">analogs &#38; derivatives</QualifierName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Protein Conformation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Sheep</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Substrate Specificity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Transferases</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

@@ -1,0 +1,129 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011360</MedlineID>
+<PMID>369607</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>5</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+<Day>6</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Studies on the interaction between Escherichia coli pyruvate oxidase and a detergent activator by utilization of the fluorescence probe bis(8-p-toluidino-1-naphthalenesulfonate).</ArticleTitle>
+<Pagination>
+<MedlinePgn>804-9</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>O'Brien</LastName>
+<ForeName>T A</ForeName>
+<Initials>TA</Initials>
+</Author>
+<Author>
+<LastName>Gennis</LastName>
+<ForeName>R B</ForeName>
+<Initials>RB</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Fluorescent Dyes</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Naphthalenesulfonates</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Toluidines</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>151-21-3</RegistryNumber>
+<NameOfSubstance>Sodium Dodecyl Sulfate</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 1.2.3.3</RegistryNumber>
+<NameOfSubstance>Pyruvate Oxidase</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.4</RegistryNumber>
+<NameOfSubstance>Peptide Hydrolases</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Binding Sites</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Enzyme Activation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Escherichia coli</DescriptorName>
+<QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Fluorescence Polarization</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Fluorescent Dyes</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Naphthalenesulfonates</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Peptide Hydrolases</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Protein Binding</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Protein Conformation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Pyruvate Oxidase</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Sodium Dodecyl Sulfate</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Toluidines</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

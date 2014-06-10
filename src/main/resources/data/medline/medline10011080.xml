@@ -1,0 +1,102 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011080</MedlineID>
+<PMID>420653</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>28</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>28</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>03</Month>
+<Day>23</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0003-9977</ISSN>
+<JournalIssue>
+<Volume>105</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Effect of kanamycin sulfate on the endocochlear dc potential of guinea pigs.</ArticleTitle>
+<Pagination>
+<MedlinePgn>145-8</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The magnitudes of the endocochlear dc potential (EP) during adequate ventilation and during five minutes of anoxia were recorded in control guinea pigs and guinea pigs administered various dosages of kanamycin sulfate. The magnitudes of the EP after five minutes of anoxia were -44.6 +/- 5.9 mV in the controls and +26.6 +/- 9.9 mV in the guinea pigs that received kanamycin for seven or ten days. This change occurred after five or six days of administration of kanamycin. However, there was no significant change in the magnitude ot the EP with adequate ventilation with kanamycin intoxication. There is a significant correlation between the magnitude of the negative EP and the maximum output of the cochlear microphonics (r = -.770, P less than .001). These results suggest that the EP may not be the mathematical summation of the positive electrogenic potential and the negative diffusion potential. The mechanism for generating the negative EP during anoxia may have some relationship to hair cell integrity.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Asakuma</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author>
+<LastName>Lowry</LastName>
+<ForeName>L D</ForeName>
+<Initials>LD</Initials>
+</Author>
+<Author>
+<LastName>Snow</LastName>
+<ForeName>J B</ForeName>
+<Initials>JB</Initials>
+<Suffix>Jr</Suffix>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Arch Otolaryngol</MedlineTA>
+<NlmUniqueID>0376526</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>59-01-8</RegistryNumber>
+<NameOfSubstance>Kanamycin</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Anoxia</DescriptorName>
+<QualifierName>physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cochlea</DescriptorName>
+<QualifierName MajorTopicYN="Y">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Guinea Pigs</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hair Cells</DescriptorName>
+<QualifierName>physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kanamycin</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Membrane Potentials</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

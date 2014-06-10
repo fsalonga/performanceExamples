@@ -1,0 +1,140 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011095</MedlineID>
+<PMID>420666</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>11</Month>
+<Day>14</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0095-6562</ISSN>
+<JournalIssue>
+<Volume>50</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Biochemical studies of saturation and saturation/excursion dives breathing O2-N2 mixtures.</ArticleTitle>
+<Pagination>
+<MedlinePgn>51-9</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Heyder</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author>
+<LastName>Jacey</LastName>
+<ForeName>M J</ForeName>
+<Initials>MJ</Initials>
+</Author>
+<Author>
+<LastName>Tappan</LastName>
+<ForeName>D V</ForeName>
+<Initials>DV</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Aviat Space Environ Med</MedlineTA>
+<NlmUniqueID>7501714</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>60-27-5</RegistryNumber>
+<NameOfSubstance>Creatinine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>69-93-2</RegistryNumber>
+<NameOfSubstance>Uric Acid</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7440-09-7</RegistryNumber>
+<NameOfSubstance>Potassium</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7440-23-5</RegistryNumber>
+<NameOfSubstance>Sodium</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7727-37-9</RegistryNumber>
+<NameOfSubstance>Nitrogen</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7782-44-7</RegistryNumber>
+<NameOfSubstance>Oxygen</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<CitationSubset>S</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Atmospheric Pressure</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Blood Urea Nitrogen</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Creatinine</DescriptorName>
+<QualifierName>blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Decompression</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Diving</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Drinking</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Glomerular Filtration Rate</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Nitrogen</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Oxygen</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Potassium</DescriptorName>
+<QualifierName>blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Respiration</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Sodium</DescriptorName>
+<QualifierName>blood</QualifierName>
+<QualifierName>urine</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Uric Acid</DescriptorName>
+<QualifierName>blood</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+<OtherID Source="NASA">79123726</OtherID>
+</MedlineCitation>

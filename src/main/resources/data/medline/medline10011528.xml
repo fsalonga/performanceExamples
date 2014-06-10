@@ -1,0 +1,156 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011528</MedlineID>
+<PMID>217456</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3126</ISSN>
+<JournalIssue>
+<Volume>35</Volume>
+<Issue>1-2</Issue>
+<PubDate>
+<Year>1979</Year>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Hormonal regulation of three urea cycle enzymes in rat fetal liver.</ArticleTitle>
+<Pagination>
+<MedlinePgn>74-81</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The purpose of such studies is to identify the hormones that act on the developmental formation of individual urea cycle enzymes, namely argininosuccinate synthetase, argininosuccinate lyase and arginase in the rat fetal liver. The development of argininosuccinate synthetase activity which is completely blocked by the suppression of glucocorticoids in the fetal liver is affected by neither glucagon nor thyroxine. The activity of argininosuccinate lyase which is never changed by the suppression or addition of glucocorticoids, is under the influences of glucagon and thyroxine at a late fetal period and the enzyme activity can be precociously induced in utero by injection of dibutyryl cyclic AMP to fetuses. Cortisol has been shown to precociously stimulate fetal liver arginase activity after an intraperitoneal injection, but the rise in activity at the late fetal period is not completely prevented by suppression of glucocorticoid and it seems that glucagon and thyroxine may also promote its developmental formation just before birth.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Husson</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author>
+<LastName>Vaillant</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>SWITZERLAND</Country>
+<MedlineTA>Biol Neonate</MedlineTA>
+<NlmUniqueID>0247551</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>362-74-3</RegistryNumber>
+<NameOfSubstance>Bucladesine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>50-23-7</RegistryNumber>
+<NameOfSubstance>Hydrocortisone</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7488-70-2</RegistryNumber>
+<NameOfSubstance>Thyroxine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9007-92-5</RegistryNumber>
+<NameOfSubstance>Glucagon</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.5.3.1</RegistryNumber>
+<NameOfSubstance>Arginase</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 4.</RegistryNumber>
+<NameOfSubstance>Lyases</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 4.3.2.1</RegistryNumber>
+<NameOfSubstance>Argininosuccinate Lyase</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 6.</RegistryNumber>
+<NameOfSubstance>Ligases</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 6.3.4.5</RegistryNumber>
+<NameOfSubstance>Argininosuccinate Synthase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Arginase</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Argininosuccinate Lyase</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Argininosuccinate Synthase</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Bucladesine</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Gestational Age</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Glucagon</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hydrocortisone</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Ligases</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Liver</DescriptorName>
+<QualifierName MajorTopicYN="Y">embryology</QualifierName>
+<QualifierName>enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Lyases</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Pregnancy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Thyroxine</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

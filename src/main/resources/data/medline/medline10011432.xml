@@ -1,0 +1,116 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011432</MedlineID>
+<PMID>420851</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>561</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>26</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>The crystal and molecular structure of 8-methyladenosine 3'-monophosphate dihydrate.</ArticleTitle>
+<Pagination>
+<MedlinePgn>240-7</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>8-Methyladenosine 3'-monophosphate dihydrate was synthesized and crystallized in the monoclinic space group P21 with the unit cell dimensions: a = 9.095(2) A, b = 16.750(3) A, c = 5.405(2) A and beta = 97.61(3) degrees. The structure was determined by the application of the heavy atom method and refined to give a final R factor of 0.047. The pertinent conformations are as follows: the syn conformation about the glycosyl bond (chiCN = 216.8 degrees), the C(2')-endo sugar puckering with the displacement of 0.55 A; and the gauche-gauche conformation about the C(4')-C(5') bond capable of forming an intramolecular hydrogen bonding between N(3) of adenine base and O(5') of the hydroxymethylene group on the ribose. The molecule exists in the zwitterionic form with the N(1) of the adenine base protonated by a phosphate proton and is stabilized by three-dimensional networks of hydrogen bonding through the crystalline water molecules or directly between the adjacent nucleotide molecules; no base stacking was observed.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Yasuniwa</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author>
+<LastName>Tokuoka</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author>
+<LastName>Ogawa</LastName>
+<ForeName>K</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author>
+<LastName>Yamagata</LastName>
+<ForeName>Y</ForeName>
+<Initials>Y</Initials>
+</Author>
+<Author>
+<LastName>Fujii</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author>
+<LastName>Tomita</LastName>
+<ForeName>K I</ForeName>
+<Initials>KI</Initials>
+</Author>
+<Author>
+<LastName>Limn</LastName>
+<ForeName>W</ForeName>
+<Initials>W</Initials>
+</Author>
+<Author>
+<LastName>Ikehara</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>61-19-8</RegistryNumber>
+<NameOfSubstance>Adenosine Monophosphate</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adenosine Monophosphate</DescriptorName>
+<QualifierName MajorTopicYN="Y">analogs &#38; derivatives</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Crystallography</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Models, Molecular</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Molecular Conformation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>X-Ray Diffraction</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

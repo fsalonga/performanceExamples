@@ -1,0 +1,113 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011864</MedlineID>
+<PMID>421140</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>11</Month>
+<Day>02</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-8993</ISSN>
+<JournalIssue>
+<Volume>165</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Apr</Month>
+<Day>13</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Bidirectional movement of gamma-aminobutyric acid in cerebral cortex slices incubated in small volumes of medium.</ArticleTitle>
+<Pagination>
+<MedlinePgn>261-70</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Rat cerebral cortex slices were incubated in small volumes of medium in order to study the bidirectional movements of gamma-aminobutyric acid (GABA) between tissue and medium, and to measure the extent of release of endogenous amino acids of interest as potential neurotransmitters. The apparent uptake, real uptake, and net change of GABA were calculated from the changes in [14C]GABA and endogenous GABA in the medium. The extent of release of endogenous amino acids was dependent upon the amino acid the duration of incubation, and the volume of incubating medium. Substantial amounts of endogenous amino acids may accumulate in the medium under conditions commonly employed in amino acid uptake studies. The accumulation of endogenous GABA may affect the calculation of GABA uptake when this is based on the initial specific activity of exogenous [14C]GABA. The difference between apparent uptake and real uptake was particularly prominent in the presence of the depolarizing agents, potassium or veratridine, which caused a marked increase in GABA release. Exchange or net release of GABA was found when slices were incubated briefly in media containing 1.3 micrometer or 12.5 micrometer exogenous GABA; net uptake accounted for 50% of observed uptake when slices were incubated in media containing 25 micrometer GABA.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Cutler</LastName>
+<ForeName>R W</ForeName>
+<Initials>RW</Initials>
+</Author>
+<Author>
+<LastName>Young</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Brain Res</MedlineTA>
+<NlmUniqueID>0045503</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Amino Acids</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>56-12-2</RegistryNumber>
+<NameOfSubstance>gamma-Aminobutyric Acid</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>71-62-5</RegistryNumber>
+<NameOfSubstance>Veratridine</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Amino Acids</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Biological Transport, Active</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cerebral Cortex</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Tissue Culture</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Veratridine</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>gamma-Aminobutyric Acid</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

@@ -1,0 +1,97 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011997</MedlineID>
+<PMID>421205</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0008-5472</ISSN>
+<JournalIssue>
+<Volume>39</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Apr</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Cell growth recovery after treatments at various supraoptimal temperatures.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1218-23</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The growth recovery kinetics of HeLa cells was investigated after treatments at intermediate (43-45 degrees) or high (49-55 degrees) supraoptimal temperatures for various periods of time (2 to 300 min) or after irradiations with nanosecond infrared CO2-laser pulses at energy densities equivalent to very high temperatures rises. After treatments at intermediate temperatures, single cells developed into colonies smaller than those obtained from nonheated control cells. Daily incorporations of pulsed [3H]thymidine in whole populations and microscopic observations of individual cell proliferation revealed a complex growth recovery for both survivors and dying cells. In contrast, colonies arising from cells treated at temperatures above 49 degrees do not differ in size from those developed from controls, and growth evaluations by [3H]thymidine and microscopy demonstrated that survivors resume normal proliferation immediately after treatments. The results which are supported by other studies on the effects of dose fractionation and metabolism status on cell survival are further discussed in relation to the "multistep" kinetic model for the cell response to hyperthermia.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Landry</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author>
+<LastName>Marceau</LastName>
+<ForeName>N</ForeName>
+<Initials>N</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Cancer Res</MedlineTA>
+<NlmUniqueID>2984705R</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>50-89-5</RegistryNumber>
+<NameOfSubstance>Thymidine</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Cell Division</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Cell Survival</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Clone Cells</DescriptorName>
+<QualifierName>cytology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Heat</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hela Cells</DescriptorName>
+<QualifierName>cytology</QualifierName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Thymidine</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

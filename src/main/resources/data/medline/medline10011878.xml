@@ -1,0 +1,72 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011878</MedlineID>
+<PMID>421147</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-8993</ISSN>
+<JournalIssue>
+<Volume>165</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Apr</Month>
+<Day>13</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Dependence of human arm movements on limb mechanical properties.</ArticleTitle>
+<Pagination>
+<MedlinePgn>366-9</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Cooke</LastName>
+<ForeName>J D</ForeName>
+<Initials>JD</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Brain Res</MedlineTA>
+<NlmUniqueID>0045503</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Arm</DescriptorName>
+<QualifierName MajorTopicYN="Y">innervation</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Biomechanics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Movement</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Muscle Contraction</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

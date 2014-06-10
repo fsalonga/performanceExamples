@@ -1,0 +1,118 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011496</MedlineID>
+<PMID>420872</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0320-9725</ISSN>
+<JournalIssue>
+<Volume>44</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>[Steady state kinetics of pyruvate kinase from muscle]</ArticleTitle>
+<Pagination>
+<MedlinePgn>104-15</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The dependence of the forward pyruvate kinase reaction on the concentrations of ADP and Mg2+ was studied. It was shown that high total ADP concentrations (2-15 mM) exceeding total Mg2+ concentration in the medium lead to the inhibition of the pyruvate kinase reaction, whereas relatively high Mg2+ concentrations (up to 15 mM) do not cause any inhibition. The kinetics of the reaction can be described in the best way by a scheme incorporating the active PEP . E . Mg2+ . Mg . ADP complex and dead-end complexes containing free ADP. An analysis of the experimental data allows to determine all coefficients of the rate equation and to calculate the values of all kinetic parameters. The values of the constants obtained were used for mathematical simulation of the reaction on the basis of the kinetic scheme given. The mathematical model obtained describes satisfactorily the experimentally determined dependences, which is indicative of the correctness of the model.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Kupriianov</LastName>
+<ForeName>V V</ForeName>
+<Initials>VV</Initials>
+</Author>
+<Author>
+<LastName>Seppet</LastName>
+<ForeName>E K</ForeName>
+<Initials>EK</Initials>
+</Author>
+<Author>
+<LastName>Emelin</LastName>
+<ForeName>I V</ForeName>
+<Initials>IV</Initials>
+</Author>
+<Author>
+<LastName>Saks</LastName>
+<ForeName>V A</ForeName>
+<Initials>VA</Initials>
+</Author>
+</AuthorList>
+<Language>rus</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+<VernacularTitle>Statsionarnaia kinetika myshechnoĭ piruvatkinazy.</VernacularTitle>
+</Article>
+<MedlineJournalInfo>
+<Country>USSR</Country>
+<MedlineTA>Biokhimiia</MedlineTA>
+<NlmUniqueID>0372667</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>58-64-0</RegistryNumber>
+<NameOfSubstance>Adenosine Diphosphate</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7439-95-4</RegistryNumber>
+<NameOfSubstance>Magnesium</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.7.1.40</RegistryNumber>
+<NameOfSubstance>Pyruvate Kinase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adenosine Diphosphate</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>English Abstract</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Magnesium</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mathematics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Muscles</DescriptorName>
+<QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Pyruvate Kinase</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rabbits</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

@@ -1,0 +1,141 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011996</MedlineID>
+<PMID>421204</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0008-5472</ISSN>
+<JournalIssue>
+<Volume>39</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Apr</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Promoting effect of saccharin and DL-tryptophan in urinary bladder carcinogenesis.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1207-17</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The existence of at least two stages in bladder carcinogenesis was evaluated in male Fischer rats using N-[14-(5-nitro-2-furyl)-2-thiazolyl]formamide (FANFT) fed for six weeks at a level of 0.2% of the diet as the initiator. Sodium saccharin and DL-tryptophan were fed at levels of 5 and 2% of the diet, respectively, as possible promoting chemicals, and they were fed either immediately after FANFT administration or after six weeks of FANFT plus six weeks of control diet. All surviving rats were killed at the end of two years. Both chemicals significantly increased the incidence of bladder tumors following FANFT feeding compared to six  weeks of FANFT feeding followed by control diet, and the results were similar whether saccharin or tryptophan feeding was started immediately after FANFT feeding was concluded or after a six-week delay. Saccharin was considerably more potent as a promoting agent than was tryptophan, inducing higher incidences of bladder tumors and having a shorter latent period. Long-term administration of FANFT induced a 100% incidence of bladder cancer. Sequential epithelial changes were observed by scanning and transmission electron microscopy as well as by light microscopy. Pleomorphic microvilli were present on the superficial cells of all tumors examined and on the surface cells of hyperplastic bladder epithelium after six weeks of FANFT plus six weeks of saccharin, but not after six weeks of FANFT and six weeks of control diet. Rats fed only saccharin tryptophan, or control diet did not have bladder tumors or pleomorphic microvilli on bladder epithelium. These data suggest that saccharin and tryptophan might act as tumor-promoting agents during bladder carcinogenesis.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Cohen</LastName>
+<ForeName>S M</ForeName>
+<Initials>SM</Initials>
+</Author>
+<Author>
+<LastName>Arai</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author>
+<LastName>Jacobs</LastName>
+<ForeName>J B</ForeName>
+<Initials>JB</Initials>
+</Author>
+<Author>
+<LastName>Friedell</LastName>
+<ForeName>G H</ForeName>
+<Initials>GH</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Cancer Res</MedlineTA>
+<NlmUniqueID>2984705R</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>24554-26-5</RegistryNumber>
+<NameOfSubstance>FANFT</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>73-22-3</RegistryNumber>
+<NameOfSubstance>Tryptophan</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>81-07-2</RegistryNumber>
+<NameOfSubstance>Saccharin</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Bladder</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Bladder Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y">chemically induced</QualifierName>
+<QualifierName>ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Epithelium</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>FANFT</DescriptorName>
+<QualifierName>administration &#38; dosage</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Microscopy, Electron, Scanning</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Microvilli</DescriptorName>
+<QualifierName>ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neoplasms, Experimental</DescriptorName>
+<QualifierName>chemically induced</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats, Inbred F344</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Saccharin</DescriptorName>
+<QualifierName MajorTopicYN="Y">toxicity</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Time Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Tryptophan</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

@@ -1,0 +1,120 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011328</MedlineID>
+<PMID>420801</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>20</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Structure and thermodynamic properties of the complexes between phospholipase A2 and lipid micelles.</ArticleTitle>
+<Pagination>
+<MedlinePgn>580-6</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The interaction between porcine pancreatic phospholipase A2 and a homogeneous population of micelles of the subtrate analogue n-hexadecylphosphorylcholine containing 155 lipid monomers was studied by light scattering, equilibrium gel filtration, and isothermal calorimetry. From the detergent/protein molar ratio and the equivalent "molecular weight" of the resulting complex it is concluded that insertion of the enzyme into the detergent micelle results in a protein--detergent complex containing two phospholipase A2 molecules and 80 lipid monomers at 25 degrees C. The affinity constants and complex composition have been determined at different temperatures, allowing calculation of the thermodynamic parameters of the binding process. It is concluded that the interaction of phospholipase A2 with micellar lipids is predominantly hydrophobic.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>de Araujo</LastName>
+<ForeName>P S</ForeName>
+<Initials>PS</Initials>
+</Author>
+<Author>
+<LastName>Rosseneu</LastName>
+<ForeName>M Y</ForeName>
+<Initials>MY</Initials>
+</Author>
+<Author>
+<LastName>Kremer</LastName>
+<ForeName>J M</ForeName>
+<Initials>JM</Initials>
+</Author>
+<Author>
+<LastName>van Zoelen</LastName>
+<ForeName>E J</ForeName>
+<Initials>EJ</Initials>
+</Author>
+<Author>
+<LastName>de Haas</LastName>
+<ForeName>G H</ForeName>
+<Initials>GH</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Colloids</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.1.-</RegistryNumber>
+<NameOfSubstance>Phospholipases</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Colloids</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mathematics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Micelles</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Pancreas</DescriptorName>
+<QualifierName>enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Phospholipases</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Protein Binding</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Swine</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Thermodynamics</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

@@ -1,0 +1,121 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011439</MedlineID>
+<PMID>369610</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>561</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>26</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>The effects of temperature and ethidium bromide on the banding of heat-denatured DNA in gradients of NaI.</ArticleTitle>
+<Pagination>
+<MedlinePgn>69-76</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The effects of temperature and ethidium bromide on the banding of heat-denatured DNA was studied during equilibrium centrifugation in density gradients of NaI. Centrifugation at 10 degrees C prevents the partial renaturation of Escherichia coli DNA and Clostridium perfringens DNA that occurs at 20 degrees C. A centrifugation temperature of --5 degrees C is required to prevent renaturation of T7 phage DNA. Ethidium bromide decreases renaturation of Escherichia coli DNA during centrifugation at 20 degrees C and causes a small shift in the buoyant density of both denatured and native DNA. Equilibrium centrifugation at lower temperatures prevents DNA renaturation and permits increased utilization of the large buoyant density difference between native and heat-denatured DNA in gradients of NaI.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Strayer</LastName>
+<ForeName>D R</ForeName>
+<Initials>DR</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>DNA, Bacterial</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>DNA, Viral</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>3546-21-2</RegistryNumber>
+<NameOfSubstance>Ethidium</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7681-82-5</RegistryNumber>
+<NameOfSubstance>Sodium Iodide</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9007-49-2</RegistryNumber>
+<NameOfSubstance>DNA</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Centrifugation, Isopycnic</DescriptorName>
+<QualifierName>methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Coliphages</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>DNA</DescriptorName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>DNA, Bacterial</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>DNA, Viral</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Escherichia coli</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Ethidium</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Heat</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Nucleic Acid Denaturation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Sodium Iodide</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, Non-P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Temperature</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

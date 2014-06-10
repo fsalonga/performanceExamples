@@ -1,0 +1,87 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011504</MedlineID>
+<PMID>369621</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0320-9725</ISSN>
+<JournalIssue>
+<Volume>44</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>[Nature of the intermediate compound formed during catalysis by pepsin]</ArticleTitle>
+<Pagination>
+<MedlinePgn>172-6</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The applicability of the free energies linearity principle to catalysis by pepsin may indicate that the mechanism of formation of a covalent pepsin intermediate with the second (amine or alcohol) part of the hydrolyzed substrate is a true one. The choice has been made from consideration of three possible types of mechanisms covalent binding, complex with a nonionized NH2-group and the absence of an activated intermediate.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Kozlov</LastName>
+<ForeName>L V</ForeName>
+<Initials>LV</Initials>
+</Author>
+</AuthorList>
+<Language>rus</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+<VernacularTitle>O prirode promezhutochnogo soedineniia v pepsinovom katalize.</VernacularTitle>
+</Article>
+<MedlineJournalInfo>
+<Country>USSR</Country>
+<MedlineTA>Biokhimiia</MedlineTA>
+<NlmUniqueID>0372667</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>EC 3.4.23.1</RegistryNumber>
+<NameOfSubstance>Pepsin A</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>English Abstract</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Enzyme Activation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mathematics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Pepsin A</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Protein Binding</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Thermodynamics</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

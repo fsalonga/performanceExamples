@@ -1,0 +1,142 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011452</MedlineID>
+<PMID>33715</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>566</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>9</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>The activity of arylsulfatase A and B on tyrosine O-sulfates.</ArticleTitle>
+<Pagination>
+<MedlinePgn>321-6</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>L-Tyrosine O-sulfate was hydrolyzed by pure human arylsulfatase A (arylsufate sulfohydrolase, EC 3.1.6.1). The rate of hydrolysis was 1/20 of the rate with nitrocatechol sulfate, but was comparable to the rate with cerebroside sulfate. The reaction was optimal at pH 5.3--5.5 and displayed zero order kinetics with time and enzyme concentration. The Km was about 35 mM. The enzyme showed no stereospecificity and hydrolyzed D-tyrosine O-sulfate with Km and V similar to those for the L-isomer. Arylsulfatase B was less than 5% as effective as arylsulfatase A in catalyzing the hydrolysis of the tyrosine sulfates. The daily urinary excretion of tyrosine sulfate by a patient with metachromatic leukodystrophy (arylsulfatase A deficiency) was comparable to the excretion by control subjects. The biological relevance of the tyrosine sulfatase activity of arylsulfatase A remains uncertain.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Fluharty</LastName>
+<ForeName>A L</ForeName>
+<Initials>AL</Initials>
+</Author>
+<Author>
+<LastName>Stevens</LastName>
+<ForeName>R L</ForeName>
+<Initials>RL</Initials>
+</Author>
+<Author>
+<LastName>Goldstein</LastName>
+<ForeName>E B</ForeName>
+<Initials>EB</Initials>
+</Author>
+<Author>
+<LastName>Kihara</LastName>
+<ForeName>H</ForeName>
+<Initials>H</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>55520-40-6</RegistryNumber>
+<NameOfSubstance>Tyrosine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.1.6.</RegistryNumber>
+<NameOfSubstance>Sulfatases</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.1.6.8</RegistryNumber>
+<NameOfSubstance>Cerebroside-Sulfatase</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.1.6.9</RegistryNumber>
+<NameOfSubstance>Chondro-4-Sulfatase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Cerebroside-Sulfatase</DescriptorName>
+<QualifierName>deficiency</QualifierName>
+<QualifierName MajorTopicYN="Y">urine</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Child</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Chondro-4-Sulfatase</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Leukodystrophy, Metachromatic</DescriptorName>
+<QualifierName>enzymology</QualifierName>
+<QualifierName>urine</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Placenta</DescriptorName>
+<QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Pregnancy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Substrate Specificity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Sulfatases</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+<QualifierName MajorTopicYN="Y">urine</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Tyrosine</DescriptorName>
+<QualifierName MajorTopicYN="Y">analogs &#38; derivatives</QualifierName>
+<QualifierName>metabolism</QualifierName>
+<QualifierName>urine</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

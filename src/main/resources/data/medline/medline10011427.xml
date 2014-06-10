@@ -1,0 +1,112 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011427</MedlineID>
+<PMID>217435</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>561</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>26</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>The purification of Q-containing tRNAs by periodate modification. Purification and nucleoside composition of two related Drosophila tyrosine tRNAs.</ArticleTitle>
+<Pagination>
+<MedlinePgn>194-205</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>A simple procedure for the purification of Drosophila tRNAs which contain the hypermodified nucleoside Q was developed. The cis-diol group of Q renders it susceptible to attack by sodium periodate, with the resultant formation of a hydrophobic pyrrol ring structure. The increase in hydrophobicity after periodate modification, of those tRNA species which contain the Q nucleoside, causes them to be selectively retarded on benzoylated DEAE-cellulose or RPC-5 columns, and allows their isolation in essentially pure form. Utilizing this property, the Q-containing tyrosine tRNA from Drosophila, tRNATyr1delta, was purified. The non-Q-containing tyrosine tRNA, tRNA, tRNATyr1gamma, was also purified, and the nucleoside compositions of the two were determined and compared. In addition to the Q nucleoside, these tRNAs appear to differ by the presence (tRNATyr1delta) or absence (tRNATyr1gamma) of 5-methylcytidine. In all other respects, these tRNAs appear to be identical, and are probably products of the same gene which differ in their levels of post-transcriptional modification.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Wosnick</LastName>
+<ForeName>M A</ForeName>
+<Initials>MA</Initials>
+</Author>
+<Author>
+<LastName>White</LastName>
+<ForeName>B N</ForeName>
+<Initials>BN</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>10450-60-9</RegistryNumber>
+<NameOfSubstance>Periodic Acid</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>118-00-3</RegistryNumber>
+<NameOfSubstance>Guanosine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>55520-40-6</RegistryNumber>
+<NameOfSubstance>Tyrosine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9014-25-9</RegistryNumber>
+<NameOfSubstance>RNA, Transfer</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Base Sequence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Chromatography</DescriptorName>
+<QualifierName>methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Drosophila</DescriptorName>
+<QualifierName>genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Guanosine</DescriptorName>
+<QualifierName>analogs &#38; derivatives</QualifierName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Periodic Acid</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>RNA, Transfer</DescriptorName>
+<QualifierName>analysis</QualifierName>
+<QualifierName MajorTopicYN="Y">isolation &#38; purification</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Tyrosine</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

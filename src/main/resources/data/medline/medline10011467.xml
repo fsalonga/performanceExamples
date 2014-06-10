@@ -1,0 +1,155 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011467</MedlineID>
+<PMID>217440</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>582</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>1</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Enzymic effects of beta-glucosidase destruction in mice. Changes in glucuronidase levels.</ArticleTitle>
+<Pagination>
+<MedlinePgn>423-33</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>1. The injection into mice of a single dose of conduritol B epoxide, a covalent inhibitor of glucosidases, quickly produced changes in tissue levels of beta-D-glucuronidase (EC 3.2.1.31). The specific activity of the enzyme decreased in liver, spleen and kidney while brain showed little change. The inhibitor did not act on glucuronidase in vitro, so the effect of the inhibitor is complex, possibly a result of the loss of glucosidase activity. Since glucuronidase contains glucose, we suggest that the transport of the enzyme between subcellular regions and tissues involves loss of part of the glucose moieties. 2. Levels of glucocerebrosidase (D-glucosyl-N-acylsphingosine glucohydrolase, EC 3.2.1.45) dropped very rapidly after epoxide injection, reaching a minimum at 1 h in liver. There was a noticeable restoration of activity within the next 1--2 h. Aryl beta-glucosidase (EC 3.2.1.21) decrease somewhat less than cerebrosidase, reaching a minimum within 2 h. It too showed some recovery of activity within 3 h. 3. Acid phosphatase rose slightly in liver but not in brain. alpha-L-Fucosidase and angiotensin-converting enzyme were not affected by the epoxide injection. The latter two enzymes are known to contain glucose. 4. Injection of a hemolyzing agent, phenylhydrazine, produced an increased level of glucuronidase in liver and spleen within 6 days, but not in kidney. This enhancement was a little less in mice previously injected with the glucosidase inhibitor. 5. Mice injected with the epoxide once a day eight times showed a distinct rise in brain glucuronidase level, as well as a rise in brain weight. However, the other organs showed only the same decrease in glucuronidase specific activity noted with the single injection protocol. It is suggested that the difference is due to the blood-brain barrier, which could slow the loss of brain glucuronidase from the extracellular fluid.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Hara</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author>
+<LastName>Radin</LastName>
+<ForeName>N S</ForeName>
+<Initials>NS</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Phenylhydrazines</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.1.3.2</RegistryNumber>
+<NameOfSubstance>Acid Phosphatase</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.2.1.-</RegistryNumber>
+<NameOfSubstance>Glucosidases</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.2.1.21</RegistryNumber>
+<NameOfSubstance>beta-Glucosidase</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.2.1.31</RegistryNumber>
+<NameOfSubstance>Glucuronidase</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.2.1.51</RegistryNumber>
+<NameOfSubstance>alpha-L-Fucosidase</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.4.15.1</RegistryNumber>
+<NameOfSubstance>Peptidyl-Dipeptidase A</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Acid Phosphatase</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Brain</DescriptorName>
+<QualifierName>enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cell Membrane</DescriptorName>
+<QualifierName>enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Glucosidases</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Glucuronidase</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kidney</DescriptorName>
+<QualifierName>enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Liver</DescriptorName>
+<QualifierName>enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mice</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Peptidyl-Dipeptidase A</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phenylhydrazines</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Spleen</DescriptorName>
+<QualifierName>enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Subcellular Fractions</DescriptorName>
+<QualifierName>enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>alpha-L-Fucosidase</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>beta-Glucosidase</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

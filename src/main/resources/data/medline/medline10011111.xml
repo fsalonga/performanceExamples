@@ -1,0 +1,90 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011111</MedlineID>
+<PMID>420682</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0005-8149</ISSN>
+<JournalIssue>
+<Volume>26</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>[Intraoperative circulatory arrest due to low-molecular dextran (Infukoll M 40)-a case report]</ArticleTitle>
+<Pagination>
+<MedlinePgn>49-51</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Liedloff</LastName>
+<ForeName>H</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author>
+<LastName>Näkel</LastName>
+<ForeName>G</ForeName>
+<Initials>G</Initials>
+</Author>
+</AuthorList>
+<Language>ger</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+<VernacularTitle>Intraoperativer Kreislaufstillstand durch niedermolekulares Dextran (Infukoll M 40)- eine Kasuistik.</VernacularTitle>
+</Article>
+<MedlineJournalInfo>
+<Country>GERMANY, EAST</Country>
+<MedlineTA>Beitr Orthop Traumatol</MedlineTA>
+<NlmUniqueID>0372503</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>9004-54-0</RegistryNumber>
+<NameOfSubstance>Dextrans</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Case Report</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Dextrans</DescriptorName>
+<QualifierName MajorTopicYN="Y">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Heart Arrest</DescriptorName>
+<QualifierName MajorTopicYN="Y">chemically induced</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Middle Age</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Surgical Procedures, Operative</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

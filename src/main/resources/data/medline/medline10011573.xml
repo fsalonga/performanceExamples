@@ -1,0 +1,132 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011573</MedlineID>
+<PMID>369634</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>11</Month>
+<Day>02</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0365-9615</ISSN>
+<JournalIssue>
+<Volume>87</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>[Changes in pressor and depressor reactions following partial pancreatectomy]</ArticleTitle>
+<Pagination>
+<MedlinePgn>103-6</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Experiments were conducted on 39 mongrel pubertal dogs. The course of pressor and depressor reactions under conditions of normal vital activity and after partial corporocaudal resection of the pancreas was studied. The principal indices characterizing the changes of pressor reaction to noradrenaline, and of the depressor one -- to bradykinin and kallikrein before and 10 to 12 days after the corporocaudal resection of the pancreas were determined. Resection of the corporo-caudal part of the pancreas intensified the pressor reactions to noradrenaline, and depressor ones to bradykinin and kallikrein; it increased the initial negative chronotropic effect of catecholamines on the heart, and also enhanced the positive chronotropic effect of noradrenaline, kallikrein and bradykinin on the heart.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Rzaev</LastName>
+<ForeName>N M</ForeName>
+<Initials>NM</Initials>
+</Author>
+<Author>
+<LastName>Abaskulieva</LastName>
+<ForeName>L I</ForeName>
+<Initials>LI</Initials>
+</Author>
+<Author>
+<LastName>Khanumova</LastName>
+<ForeName>T A</ForeName>
+<Initials>TA</Initials>
+</Author>
+</AuthorList>
+<Language>rus</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+<VernacularTitle>Izmeneniia pressornykh i depressornykh reaktsiĭ posle chastichnoĭ pankreatéktomii.</VernacularTitle>
+</Article>
+<MedlineJournalInfo>
+<Country>USSR</Country>
+<MedlineTA>Biull Eksp Biol Med</MedlineTA>
+<NlmUniqueID>0370627</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>51-41-2</RegistryNumber>
+<NameOfSubstance>Norepinephrine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>58-82-2</RegistryNumber>
+<NameOfSubstance>Bradykinin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.4.21.-</RegistryNumber>
+<NameOfSubstance>Kallikreins</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Arrhythmia</DescriptorName>
+<QualifierName>etiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Blood Pressure</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Bradykinin</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Cardiovascular Physiology</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Dogs</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>English Abstract</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Heart Conduction System</DescriptorName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Heart Rate</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Islets of Langerhans</DescriptorName>
+<QualifierName MajorTopicYN="Y">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kallikreins</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Norepinephrine</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Pancreatectomy</DescriptorName>
+<QualifierName>adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Venous Pressure</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

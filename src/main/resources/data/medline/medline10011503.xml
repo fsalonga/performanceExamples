@@ -1,0 +1,90 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011503</MedlineID>
+<PMID>33727</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0320-9725</ISSN>
+<JournalIssue>
+<Volume>44</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>[Principle of free energies linearity in chymotrypsin catalysis]</ArticleTitle>
+<Pagination>
+<MedlinePgn>166-71</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The applicability of the previously described principle of free energies linearity for semispecific substrates of chymotrypsin for the derivatives of acetylphenylalanine, acetyltryptophane and acetyltyrosine was demonstrated. The pH dependence of the parameters of a linear equation describing the relationship between the free energy of hydrolysis and the logarithmus of the kcat/Km(app) ratio suggests that at optimal pH the stability of the activation barrier of enzyme acetylation for all semispecific substrates is observed.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Kozlov</LastName>
+<ForeName>L V</ForeName>
+<Initials>LV</Initials>
+</Author>
+</AuthorList>
+<Language>rus</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+<VernacularTitle>Printsip lineĭnosti svobdnykh energiĭ v khimotripsinovom katalize.</VernacularTitle>
+</Article>
+<MedlineJournalInfo>
+<Country>USSR</Country>
+<MedlineTA>Biokhimiia</MedlineTA>
+<NlmUniqueID>0372667</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>EC 3.4.21.1</RegistryNumber>
+<NameOfSubstance>Chymotrypsin</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Chymotrypsin</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>English Abstract</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Enzyme Activation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hydrogen-Ion Concentration</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mathematics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Substrate Specificity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Thermodynamics</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

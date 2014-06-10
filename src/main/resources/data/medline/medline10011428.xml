@@ -1,0 +1,147 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011428</MedlineID>
+<PMID>217436</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>561</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>26</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Thiaisoleucine and protein synthesis.</ArticleTitle>
+<Pagination>
+<MedlinePgn>206-14</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Thiaisoleucine is an isoleucine analogue having the gamma-methylene group of the valerianic carbon chain substituted by a sulphur atom. It has been demonstrated that thiaisoleucine is activated and transferred to tRNAIle by rat liver aminoacyl-tRNA synthetase and inhibits isoleucine incorporation into polypeptides in protein synthesizing systems from rat liver or rabbit reticulocytes, whereas it does not affect either leucine incorporation or ribosome run-off or polypeptide chain elongation rate. All tests were performed in comparison with O-methyl-threonine, an isoleucine analogue with the gamma-methylene group substituted by an oxygen atom. In all the reactions studied, both thiaisoleucine and O-methyl-threonine act as competitive inhibitors of isoleucine. With respect to O-methyl-threonine, thiaisoleucine shows higher activity as an isoleucine inhibitor.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Busiello</LastName>
+<ForeName>V</ForeName>
+<Initials>V</Initials>
+</Author>
+<Author>
+<LastName>Di Girolamo</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author>
+<LastName>De Marco</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Diphosphates</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>RNA, Transfer, Amino Acyl</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>56-65-5</RegistryNumber>
+<NameOfSubstance>Adenosine Triphosphate</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>72-19-5</RegistryNumber>
+<NameOfSubstance>Threonine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>73-32-5</RegistryNumber>
+<NameOfSubstance>Isoleucine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 6.1.1.</RegistryNumber>
+<NameOfSubstance>Amino Acyl-tRNA Ligases</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adenosine Triphosphate</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Amino Acyl-tRNA Ligases</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Diphosphates</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Isoleucine</DescriptorName>
+<QualifierName MajorTopicYN="Y">analogs &#38; derivatives</QualifierName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Proteins</DescriptorName>
+<QualifierName MajorTopicYN="Y">biosynthesis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>RNA, Transfer, Amino Acyl</DescriptorName>
+<QualifierName>biosynthesis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rabbits</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Structure-Activity Relationship</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Substrate Specificity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Threonine</DescriptorName>
+<QualifierName>analogs &#38; derivatives</QualifierName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

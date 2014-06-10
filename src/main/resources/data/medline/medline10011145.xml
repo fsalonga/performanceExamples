@@ -1,0 +1,95 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011145</MedlineID>
+<PMID>311199</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0004-3591</ISSN>
+<JournalIssue>
+<Volume>22</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Alpha-1-antitrypsin phenotypes in rheumatoid arthritis and systemic lupus erythematosus.</ArticleTitle>
+<Pagination>
+<MedlinePgn>111-3</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Alpha-1-antitrypsin phenotypes were determined in 37 patients with rheumatoid arthritis and 40 patients with systemic lupus erythematosus. No significant increase in non-MM phenotypes was found. It appears that alpha-1-antitrypsin phenotypes neither predispose to the development nor enhance the severity of the two rheumatic diseases.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Karsh</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author>
+<LastName>Vergalla</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author>
+<LastName>Jones</LastName>
+<ForeName>E A</ForeName>
+<Initials>EA</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Arthritis Rheum</MedlineTA>
+<NlmUniqueID>0370605</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>alpha 1-Antitrypsin</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Arthritis, Rheumatoid</DescriptorName>
+<QualifierName>blood</QualifierName>
+<QualifierName MajorTopicYN="Y">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Lupus Erythematosus, Systemic</DescriptorName>
+<QualifierName>blood</QualifierName>
+<QualifierName MajorTopicYN="Y">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phenotype</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">alpha 1-Antitrypsin</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

@@ -1,0 +1,107 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011246</MedlineID>
+<PMID>420769</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>9</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Investigations on polysaccharide components of cells of Herpetomonas samuelpessoai grown on various media.</ArticleTitle>
+<Pagination>
+<MedlinePgn>149-54</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Herpetomonas samuelpessoai, when cultured in various media, forms a linear beta-D-(1 leads to 2)-mannopyranan and a branched-chain glucuronoxylan containing D-glucopyranosyluronic acid nonreducing end units connected with alpha- and beta-linked D-xylopyranose units, as depicted in fragmental structures I, II, and III. Traces of amylose and alpha-linked mannopyranose moieties are also present. Mannose-containing materials predominate over glucuronoxylan in cells grown with proline as the carbon source (medium C). In a medium with sucrose as the carbon source and complex supplements (medium A) the proportion of glucuronoxylan is greater, and when the supplements were all chemically defined (medium B), a galactose-containing component is also formed. Glucuronoxylan is liberated from cells with hot aqueous alkali and it could be freed from lower molecular weight mannan by fractional precipitation. Mannan was obtained as the only polymeric component, with lower molecular weight homologues, by extraction of cells with hot water. In terms of ratios of component xylose, mannose, and galactose, the flagella resemble whole cells. However, flagella contain polysaccharide with alpha-D-linked mannopyranose side chains rather than beta-linked linear forms. These data are considered from standpoints of immunochemistry and electron microscopy.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Mendonça-Previato</LastName>
+<ForeName>L</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author>
+<LastName>Gorin</LastName>
+<ForeName>P A</ForeName>
+<Initials>PA</Initials>
+</Author>
+<Author>
+<LastName>Previato</LastName>
+<ForeName>J O</ForeName>
+<Initials>JO</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Carbohydrates</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Culture Media</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Polysaccharides</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Carbohydrates</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Culture Media</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Magnetic Resonance Spectroscopy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mastigophora</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Molecular Conformation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Polysaccharides</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

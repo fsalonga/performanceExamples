@@ -1,0 +1,93 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011016</MedlineID>
+<PMID>420604</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0003-9942</ISSN>
+<JournalIssue>
+<Volume>36</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Metastatic intracranial seminoma.</ArticleTitle>
+<Pagination>
+<MedlinePgn>40</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>A metastatic seminoma of the right temporal fossa, with facial pain, extraocular paresis, otitis, and abdominal symptoms, was found in a 34-year-old man one year after orchidectomy for a primary testicular tumor that had been treated by surgery and radiotherapy. This is an unusual intracranial metastatic tumor that merits active treatment.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Averback</LastName>
+<ForeName>P</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author>
+<LastName>Olivier</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Arch Neurol</MedlineTA>
+<NlmUniqueID>0372436</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Brain Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y">pathology</QualifierName>
+<QualifierName>surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Case Report</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Dysgerminoma</DescriptorName>
+<QualifierName MajorTopicYN="Y">pathology</QualifierName>
+<QualifierName>surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neoplasm Metastasis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Testicular Neoplasms</DescriptorName>
+<QualifierName>therapy</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

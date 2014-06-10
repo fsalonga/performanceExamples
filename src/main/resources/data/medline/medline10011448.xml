@@ -1,0 +1,129 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011448</MedlineID>
+<PMID>105761</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>566</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>9</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>The cell wall-associated levansucrase of Actinomyces viscosus.</ArticleTitle>
+<Pagination>
+<MedlinePgn>274-82</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Actinomyces viscosus produces both a soluble extracellular levansucrase and a cell wall-associated levansucrase. The enzyme from cell walls was solubilized by lysozyme digestion. The soluble extracellular and cell wall-associated forms of the enzyme were compared and appeared to be identical, based on molecular weight estimations, kinetic parameters, and reactions with antisera. The product of both forms of the enzyme was a high molecular weight, branched levan, as shown by its reactivity with myeloma proteins specific for beta(2 leads to 1) and for beta(2 leads to 6) linkages in fructosans. Although levansucrase remained tightly bound to the levan which it synthesized, the enzyme did not bind to exogeneously added levan. Regarding the potential pathogenicity of the levan product, pure levan, produced using purified levansucrase, did weakly activate complement by the alternative pathway. However, the pure levan did not directly cause bone resorption in an in vitro bone resorption assay.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Pabst</LastName>
+<ForeName>M J</ForeName>
+<Initials>MJ</Initials>
+</Author>
+<Author>
+<LastName>Cisar</LastName>
+<ForeName>J O</ForeName>
+<Initials>JO</Initials>
+</Author>
+<Author>
+<LastName>Trummel</LastName>
+<ForeName>C L</ForeName>
+<Initials>CL</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Fructans</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>57-50-1</RegistryNumber>
+<NameOfSubstance>Sucrose</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.4.1.-</RegistryNumber>
+<NameOfSubstance>Hexosyltransferases</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Actinomyces</DescriptorName>
+<QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+<QualifierName>pathogenicity</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Bone Resorption</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cell Wall</DescriptorName>
+<QualifierName>enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Complement Activation</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Fructans</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hexosyltransferases</DescriptorName>
+<QualifierName>isolation &#38; purification</QualifierName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Immunodiffusion</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Molecular Weight</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Periodontal Diseases</DescriptorName>
+<QualifierName>etiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Sucrose</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

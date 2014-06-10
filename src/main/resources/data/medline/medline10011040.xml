@@ -1,0 +1,88 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011040</MedlineID>
+<PMID>420623</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>28</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>28</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>11</Month>
+<Day>02</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0003-9942</ISSN>
+<JournalIssue>
+<Volume>36</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Cerebrospinal fluid oligocional proteins in amyotrophic lateral sclerosis.</ArticleTitle>
+<Pagination>
+<MedlinePgn>119</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Adornato</LastName>
+<ForeName>B T</ForeName>
+<Initials>BT</Initials>
+</Author>
+<Author>
+<LastName>Houff</LastName>
+<ForeName>S A</ForeName>
+<Initials>SA</Initials>
+</Author>
+<Author>
+<LastName>Engel</LastName>
+<ForeName>W K</ForeName>
+<Initials>WK</Initials>
+</Author>
+<Author>
+<LastName>Sever</LastName>
+<ForeName>J L</ForeName>
+<Initials>JL</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Letter</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Arch Neurol</MedlineTA>
+<NlmUniqueID>0372436</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Immunoglobulin G</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Amyotrophic Lateral Sclerosis</DescriptorName>
+<QualifierName MajorTopicYN="Y">cerebrospinal fluid</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Immunoglobulin G</DescriptorName>
+<QualifierName MajorTopicYN="Y">cerebrospinal fluid</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

@@ -1,0 +1,89 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011015</MedlineID>
+<PMID>420603</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0003-9942</ISSN>
+<JournalIssue>
+<Volume>36</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Computerized tomographic correlate of carbon monoxide poisoning.</ArticleTitle>
+<Pagination>
+<MedlinePgn>38-9</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>A 44-year-old man was brought unconscious to the emergency room; he was believed to have suffered anoxic brain damage probably due to carbon monoxide poisoning. Computerized tomography with contrast enhancement helped establish the diagnosis and was correlated with the subsequent clinical improvement of the patient.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Nardizzi</LastName>
+<ForeName>L R</ForeName>
+<Initials>LR</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Arch Neurol</MedlineTA>
+<NlmUniqueID>0372436</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Brain</DescriptorName>
+<QualifierName>radiography</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Carbon Monoxide Poisoning</DescriptorName>
+<QualifierName MajorTopicYN="Y">radiography</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Case Report</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Diagnosis, Differential</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Radiographic Image Enhancement</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Tomography, X-Ray Computed</DescriptorName>
+<QualifierName>methods</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

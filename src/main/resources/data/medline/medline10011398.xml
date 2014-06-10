@@ -1,0 +1,132 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011398</MedlineID>
+<PMID>420832</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>551</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+<Day>8</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>A 13C NMR method for determination of the transbilayer distribution of phosphatidylcholine in large, unilamellar, protein-free and protein-containing vesicles.</ArticleTitle>
+<Pagination>
+<MedlinePgn>248-59</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>(1) Large unilamellar vesicles have been prepared from N-[Ne3-13C]-18 : 1c/18 : 1c-phosphatidylcholine, both with and without the major intrinsic proteins from the human erythrocyte membrane incorporated in the bilayer. (2) It is shown that the inside-outside distribution of the lipid molecules in these large unilamellar structures can be determined using 13C NMR. (3) Large vesicles of 18 : 1c/18 : 1c-phosphatidylcholine containing glycophorin show an enhanced permeability to Dy3+. It is shown that the permeability barrier of these vesicles can be restored by addition of 10 mol% 18 : 1c/18 : 1c-phosphatidylethanolamine or 1-18 : 1c-lysophosphatidylcholine.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Gerritsen</LastName>
+<ForeName>W J</ForeName>
+<Initials>WJ</Initials>
+</Author>
+<Author>
+<LastName>van Zoelen</LastName>
+<ForeName>E J</ForeName>
+<Initials>EJ</Initials>
+</Author>
+<Author>
+<LastName>Verkleij</LastName>
+<ForeName>A J</ForeName>
+<Initials>AJ</Initials>
+</Author>
+<Author>
+<LastName>de Kruijff</LastName>
+<ForeName>B</ForeName>
+<Initials>B</Initials>
+</Author>
+<Author>
+<LastName>van Deenen</LastName>
+<ForeName>L L</ForeName>
+<Initials>LL</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Glycophorin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Membrane Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Phosphatidylcholines</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Erythrocyte Membrane</DescriptorName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Erythrocytes</DescriptorName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Freeze Fracturing</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Glycophorin</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Magnetic Resonance Spectroscopy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Membrane Proteins</DescriptorName>
+<QualifierName MajorTopicYN="Y">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Membranes, Artificial</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Molecular Conformation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Phosphatidylcholines</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Protein Conformation</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

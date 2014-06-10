@@ -1,0 +1,115 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011859</MedlineID>
+<PMID>421137</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>11</Month>
+<Day>14</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-8993</ISSN>
+<JournalIssue>
+<Volume>165</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Apr</Month>
+<Day>13</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Projection from the vestibular nuclei to the inferior olive in the cat: an autoradiographic and horseradish peroxidase study.</ArticleTitle>
+<Pagination>
+<MedlinePgn>189-200</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Injections of horseradish peroxidase (HRP) in the inferior olive of 13 cats resulted in the labeling of neurons in the medial (MVN) and descending vestibular nuclei (DVN) as well as in subgroups g, p.h., s.v., x and z. The contribution of groups p.h. and z. could not be definitively established. Injections of triated leucine in the vestibular nuclei and adjacent reticular formation in 4 cats indicated that the previously identified vestibular nuclei and subgroups project bilaterally to the dorsomedial cell column and ipsilaterally to subnucleus beta of the inferior olive. In view of the known topography of olivocerebellar projections, the present results suggest that climbing fiber-mediated vestibular information may influence the uvula and the fastigial nucleus.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Saint-Cyr</LastName>
+<ForeName>J A</ForeName>
+<Initials>JA</Initials>
+</Author>
+<Author>
+<LastName>Courville</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Brain Res</MedlineTA>
+<NlmUniqueID>0045503</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>61-90-5</RegistryNumber>
+<NameOfSubstance>Leucine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 1.11.1.-</RegistryNumber>
+<NameOfSubstance>Horseradish Peroxidase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<CitationSubset>S</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Autoradiography</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Brain Stem</DescriptorName>
+<QualifierName>anatomy &#38; histology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Horseradish Peroxidase</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Leucine</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Nerve Fibers</DescriptorName>
+<QualifierName>ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neural Pathways</DescriptorName>
+<QualifierName>anatomy &#38; histology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Olivary Nucleus</DescriptorName>
+<QualifierName MajorTopicYN="Y">anatomy &#38; histology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Reticular Formation</DescriptorName>
+<QualifierName>anatomy &#38; histology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Vestibular Nuclei</DescriptorName>
+<QualifierName MajorTopicYN="Y">anatomy &#38; histology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+<OtherID Source="NASA">79125462</OtherID>
+</MedlineCitation>

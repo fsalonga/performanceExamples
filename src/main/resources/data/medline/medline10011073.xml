@@ -1,0 +1,91 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011073</MedlineID>
+<PMID>420647</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>28</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>28</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0003-9977</ISSN>
+<JournalIssue>
+<Volume>105</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Maxillary chondrosarcoma.</ArticleTitle>
+<Pagination>
+<MedlinePgn>116-8</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Chondrosarcoma is a malignant tumor that arises from cartilage. In the maxillary area, the tumors spread locally but may also invade blood vessels and metastasize systemically. Initial surgical resection is the treatment of choice.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Myers</LastName>
+<ForeName>E M</ForeName>
+<Initials>EM</Initials>
+</Author>
+<Author>
+<LastName>Thawley</LastName>
+<ForeName>S E</ForeName>
+<Initials>SE</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Arch Otolaryngol</MedlineTA>
+<NlmUniqueID>0376526</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Case Report</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Chondrosarcoma</DescriptorName>
+<QualifierName>pathology</QualifierName>
+<QualifierName>radiography</QualifierName>
+<QualifierName MajorTopicYN="Y">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Maxillary Neoplasms</DescriptorName>
+<QualifierName>pathology</QualifierName>
+<QualifierName>radiography</QualifierName>
+<QualifierName MajorTopicYN="Y">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Middle Age</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Osteotomy</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

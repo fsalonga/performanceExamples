@@ -1,0 +1,106 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011424</MedlineID>
+<PMID>570420</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>11</Month>
+<Day>14</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>561</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>26</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Sequence organization of the soybean genome.</ArticleTitle>
+<Pagination>
+<MedlinePgn>167-83</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The total complexity of one constituent soybean (Glycine max) genome is estimated to be 1.29 . 10(9) nucleotide pairs, as determined by analysis of the reassociation kinetics of sheared (0.47 kilobase) DNA. Single copy sequences are estimated to represent from 53 to 64% of the genome by analysis of hydroxyapatite binding of repetitive DNA as a function of fragment length. From 65 to 70% of these single copy sequences have a short period interspersion with 1.11--1.36 kilobase lengths alternating with 0.3--0.4 kilobase repetitive sequence elements. The repetitive sequences of soybean DNA are interspersed both among themselves and among single copy regions of the genome.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Gurley</LastName>
+<ForeName>W B</ForeName>
+<Initials>WB</Initials>
+</Author>
+<Author>
+<LastName>Hepburn</LastName>
+<ForeName>A G</ForeName>
+<Initials>AG</Initials>
+</Author>
+<Author>
+<LastName>Key</LastName>
+<ForeName>J L</ForeName>
+<Initials>JL</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>9007-49-2</RegistryNumber>
+<NameOfSubstance>DNA</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<CitationSubset>S</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Base Sequence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>DNA</DescriptorName>
+<QualifierName MajorTopicYN="Y">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Genes, Structural</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Molecular Weight</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Nucleic Acid Denaturation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Nucleic Acid Renaturation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Plants</DescriptorName>
+<QualifierName MajorTopicYN="Y">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Soybeans</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<OtherID Source="NASA">79124795</OtherID>
+</MedlineCitation>

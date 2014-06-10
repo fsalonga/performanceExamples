@@ -1,0 +1,114 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011226</MedlineID>
+<PMID>420756</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0007-1145</ISSN>
+<JournalIssue>
+<Volume>41</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Vitamin B-complex deficiency and visual acuity.</ArticleTitle>
+<Pagination>
+<MedlinePgn>27-30</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>1. A study was carried out on 973 school children to find out any relationship between vitamin B-complex deficiency signs and defective vision, and the effect of supplementation of B-complex vitamins on visual acuity. 2. The results of the study showed a significant association between presence of clinical signs of vitamin B-complex deficiency and defective vision. 3. Supplementation with vitamin B-complex was found to have a beneficial effect in improving the visual-acuity status of defective children and in preventing visual defects from developing. 4. It is concluded, therefore, that from the present study it appears that the relationship between vitamin B-complex deficiency and visual defects could be one of 'cause and effect'.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Damodaran</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author>
+<LastName>Rameshwar Sarma</LastName>
+<ForeName>K V</ForeName>
+<Initials>KV</Initials>
+</Author>
+<Author>
+<LastName>Tiar</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author>
+<LastName>Nadamuni Naidu</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Clinical Trial</PublicationType>
+<PublicationType>Controlled Clinical Trial</PublicationType>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Br J Nutr</MedlineTA>
+<NlmUniqueID>0372547</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>12001-76-2</RegistryNumber>
+<NameOfSubstance>Vitamin B Complex</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adolescence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Child</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Vision Disorders</DescriptorName>
+<QualifierName>drug therapy</QualifierName>
+<QualifierName>etiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Visual Acuity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Vitamin B Complex</DescriptorName>
+<QualifierName>therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Vitamin B Deficiency</DescriptorName>
+<QualifierName>complications</QualifierName>
+<QualifierName>drug therapy</QualifierName>
+<QualifierName MajorTopicYN="Y">physiopathology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

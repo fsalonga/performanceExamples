@@ -1,0 +1,132 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011566</MedlineID>
+<PMID>217465</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3592</ISSN>
+<JournalIssue>
+<Volume>21</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Apr</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Investigation of the significance of a carbon and redox balance to the measurement of gaseous metabolism of Saccharomyces cerevisiae.</ArticleTitle>
+<Pagination>
+<MedlinePgn>609-26</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>A complete carbon and redox balance for Saccharomyces cerevisiae grown in batch culture with ethanol as the limiting carbon and energy source is reported. A novel method, which allowed the determination of carbon dioxide contained in the culture medium and biomass, is described and revealed amounts considerably in excess of what was expected from equilibrium data. Furthermore, elemental composition of the biomass was used to calculate the amount of oxygen required for biosynthetic reactions. When these corrections are applied to experimentally measured gas metabolism data, apparently anomalous results are shown to be consistent with the overall metabolism of bakers' yeast. These findings have wide implications to the quantitative study of the metabolism and energetics of facultative aerobes.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Barford</LastName>
+<ForeName>J P</ForeName>
+<Initials>JP</Initials>
+</Author>
+<Author>
+<LastName>Hall</LastName>
+<ForeName>R J</ForeName>
+<Initials>RJ</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biotechnol Bioeng</MedlineTA>
+<NlmUniqueID>7502021</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>124-38-9</RegistryNumber>
+<NameOfSubstance>Carbon Dioxide</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>1333-74-0</RegistryNumber>
+<NameOfSubstance>Hydrogen</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>53-84-9</RegistryNumber>
+<NameOfSubstance>NAD</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>64-17-5</RegistryNumber>
+<NameOfSubstance>Ethanol</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7440-44-0</RegistryNumber>
+<NameOfSubstance>Carbon</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7727-37-9</RegistryNumber>
+<NameOfSubstance>Nitrogen</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7782-44-7</RegistryNumber>
+<NameOfSubstance>Oxygen</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Carbon</DescriptorName>
+<QualifierName>analysis</QualifierName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Carbon Dioxide</DescriptorName>
+<QualifierName>analysis</QualifierName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Ethanol</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hydrogen</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>NAD</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Nitrogen</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Oxidation-Reduction</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Oxygen</DescriptorName>
+<QualifierName>analysis</QualifierName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Saccharomyces cerevisiae</DescriptorName>
+<QualifierName>analysis</QualifierName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

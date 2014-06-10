@@ -1,0 +1,103 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011318</MedlineID>
+<PMID>420796</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>6</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>alpha and beta-glycopyranosyl phosphates and 1.2-phosphates. Assignments of conformations in solution by 13C and 1H NMR.</ArticleTitle>
+<Pagination>
+<MedlinePgn>500-7</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The 1H and 13C NMR parameters of the anomeric pairs of aldopyranosyl phosphates and their rigid 1,2-phosphate derivatives are reported.The derivatives of D-glucose, D-galactose, and D-mannose exist in the 4C1 conformation while the L-fuco derivatives are in the C4 conformation. As judged by 31P--1H and 31P--13C coupling constants, all of the alpha anomers of the aldopyranosyl phosphates have the phosphate moiety predominantly trans to C(2) while in the beta anomers other rotamers make significant contributions. This relationship remains the same for the biologically important nucleoside diphosphate sugars (UDPGlc, UDPGal, GDPMan, and GDPFuc). From the pH dependence of 13C chemical shifts, observed in 0.5 M solutions, the pK'a2 of the alpha anomers is 6.1 while the pK'a2 of the beta anomers is 0.6--0.8 pH unit lower. In the 1.2-phosphates, the chair conformation of the parent aldose is retained while an envelope conformation is formed by the cyclic phosphate. In the alpha anomers, the plane is formed between C(2), C(1), O(1), and P while O(2) is above the plane. In the beta anomers, O(1) is out of the plane formed by the other atoms. The beta anomers have phosphorus coupled to C(3) with coupling constants of 10.8--11.7 Hz, approximately 2 Hz greater than the maximum reported for trans coupling (Lapper, R. D., &#38; Smith, I. C. P. (1973) J. Am. Chem. Soc. 95, 2880).</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>O'Connor</LastName>
+<ForeName>J V</ForeName>
+<Initials>JV</Initials>
+</Author>
+<Author>
+<LastName>Nunez</LastName>
+<ForeName>H A</ForeName>
+<Initials>HA</Initials>
+</Author>
+<Author>
+<LastName>Barker</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Glucosephosphates</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Hexosephosphates</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Fourier Analysis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Glucosephosphates</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Hexosephosphates</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Isomerism</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Magnetic Resonance Spectroscopy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Molecular Conformation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Structure-Activity Relationship</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

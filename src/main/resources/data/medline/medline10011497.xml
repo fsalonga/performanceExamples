@@ -1,0 +1,91 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011497</MedlineID>
+<PMID>105765</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0320-9725</ISSN>
+<JournalIssue>
+<Volume>44</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>[Isolation and characterization of lipase from Pseudomonas fluorescens 533-5b]</ArticleTitle>
+<Pagination>
+<MedlinePgn>116-24</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The enzyme was isolated from the culture fluid of Pseudomonas fluorescens 533-5b and purified by precipitation with (NH4)SO4 and acetone and by gel filtration through Sephadex G-200. The enzyme was found homogeneous during polyacrylamide gel disc electrophoresis. The effects of metal ions, inhibitors, bile salts, temperature, pH and the substrate specificity of the enzyme were studied. It was shown that the enzyme from Ps. fluorescens 533-5b has a broad specificity. It can use as substrates many vegetable oils (olive, soybean, castor, sunflower, corn, mustard, linseed). In addition, the enzyme is capable to hydrolyze synthetic triglycerides consisting of short-chained saturated fatty acids (butyric and caproic) and solid triglycerides containing saturated fatty acids with long carbon chains (myristic, lauric, stearic). It is assumed that the enzyme is a glycoprotein; its molecular weight (320,000) and the amino acid composition were determined.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Severina</LastName>
+<ForeName>L O</ForeName>
+<Initials>LO</Initials>
+</Author>
+<Author>
+<LastName>Bashkatova</LastName>
+<ForeName>N A</ForeName>
+<Initials>NA</Initials>
+</Author>
+</AuthorList>
+<Language>rus</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+<VernacularTitle>Vydelenie i svoĭstva lipazy nz Pseudomon as fluorescens 533-5b.</VernacularTitle>
+</Article>
+<MedlineJournalInfo>
+<Country>USSR</Country>
+<MedlineTA>Biokhimiia</MedlineTA>
+<NlmUniqueID>0372667</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>EC 3.1.1.3</RegistryNumber>
+<NameOfSubstance>Lipase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>English Abstract</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Lipase</DescriptorName>
+<QualifierName>isolation &#38; purification</QualifierName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Molecular Weight</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Pseudomonas fluorescens</DescriptorName>
+<QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Temperature</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

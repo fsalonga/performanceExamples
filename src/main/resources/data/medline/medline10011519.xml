@@ -1,0 +1,142 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011519</MedlineID>
+<PMID>570427</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3126</ISSN>
+<JournalIssue>
+<Volume>35</Volume>
+<Issue>1-2</Issue>
+<PubDate>
+<Year>1979</Year>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Influence of prenatal and continuous postnatal protein-deficient diets on the development of rats.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1-7</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The influence of prenatal and continuous postnatal protein-restricted diet on the development of rats was investigated. Virgin female rats were maintained for 35 days on isocaloric diets containing 8 or 25% casein, and then mated. The animals were supplied their respective diets during gestation and nursing. It was observed that the offspring of mothers kept on the 8% casein diet had 50% less body weight, and 10-15% less brain weight than the corresponding controls. The peak of rapid brain growth for both groups of animals occurred at age 6 days. The rate of de novo biosynthesis of sterols, following the injection of (2-14C)-mevalonic acid into the midline thalamic area and the cerebellum, was also investigated. A significant shift of the age of peaking of 14C-incorporation into sterols in the cerebellum was noted. Our results indicate that although unlimited amounts of food were supplied to the mothers on the 8% casein diet, this could not offset the detrimental effect of the protein deficiency on the offspring.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Wittstruck</LastName>
+<ForeName>T A</ForeName>
+<Initials>TA</Initials>
+</Author>
+<Author>
+<LastName>Woodward</LastName>
+<ForeName>B E</ForeName>
+<Initials>BE</Initials>
+</Author>
+<Author>
+<LastName>Forbes</LastName>
+<ForeName>W B</ForeName>
+<Initials>WB</Initials>
+</Author>
+<Author>
+<LastName>Caspi</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>SWITZERLAND</Country>
+<MedlineTA>Biol Neonate</MedlineTA>
+<NlmUniqueID>0247551</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Dietary Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Sterols</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>150-97-0</RegistryNumber>
+<NameOfSubstance>Mevalonic Acid</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animals, Newborn</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Body Weight</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Brain</DescriptorName>
+<QualifierName>embryology</QualifierName>
+<QualifierName>growth &#38; development</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cerebellum</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Dietary Proteins</DescriptorName>
+<QualifierName>administration &#38; dosage</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Maternal-Fetal Exchange</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mevalonic Acid</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Organ Weight</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Pregnancy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Protein Deficiency</DescriptorName>
+<QualifierName MajorTopicYN="Y">complications</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+<QualifierName MajorTopicYN="Y">growth &#38; development</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Sterols</DescriptorName>
+<QualifierName>biosynthesis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

@@ -1,0 +1,110 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011484</MedlineID>
+<PMID>420868</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>583</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>19</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>The effect of cancer on the spin-lattice relaxation time of mouse blood and tissue.</ArticleTitle>
+<Pagination>
+<MedlinePgn>119-28</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Spin-lattice relaxation time measurements were made on the muscle, heart, kidneys, spleen, liver, brain and blood of both normal mice and those injected with Sarcoma-180. As well as a marked increase in the relaxation time of the tumour itself, mice injected with Sarcoma-180 showed a rise in the kidney relaxation time, along with blood relaxation times which were often either above or below the range found in normal mice. Correlation coefficients for the relaxation times of the various organs were calculated and found to be very sensitive to the physiological state of the animal. For healthy mice, the correlations were reasonably high, but even mild stress decreased the correlations, whilst the presence of cancer almost completely destroyed the correlations. These findings are all consistent with the hypothesis that cancer affects the water regulatory system of the animal as a whole.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>McLachlan</LastName>
+<ForeName>L A</ForeName>
+<Initials>LA</Initials>
+</Author>
+<Author>
+<LastName>Hamilton</LastName>
+<ForeName>W</ForeName>
+<Initials>W</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Blood</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Brain</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Comparative Study</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cytosol</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kidney</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Liver</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Magnetic Resonance Spectroscopy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mice</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Myocardium</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neoplasm Transplantation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Organ Specificity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Sarcoma 180</DescriptorName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Spleen</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Transplantation Immunology</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

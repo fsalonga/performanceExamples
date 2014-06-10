@@ -1,0 +1,154 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011469</MedlineID>
+<PMID>420862</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>582</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>1</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Polyamine metabolism in the kidneys of castrated and testosterone-treated mice after administration of methylglyoxal bis(guanylhydrazone).</ArticleTitle>
+<Pagination>
+<MedlinePgn>448-57</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The effects of methylglyoxal bis(guanylhydrazone) on S-adenosyl-L-methionine decarboxylase (EC 4.1.1.50) activity were studied in the mouse kidney stimulated to growth by testosterone administration. The drug was found a potent inhibitor of the enzyme in vitrol Administration of methylglyoxal bis(guanylhydrazone) in vivo resulted in a transient inhibition followed by a strong enhancement of the enzyme activity. Dialysis of the kidney extract, to remove remaining methylglyoxal bis(guanylhydrazone), revealed a great and rapid increase in the activity of S-adenosyl-L-methionine decarboxylase. Injections of testosterone to castrated mice resulted in a marked increase in kidney weight and an accumulation of renal putrescine, spermidine and spermine. These effects of testosterone could not be blocked by simultaneous injections of methylglyoxal bis(guanylhydrazone). It appears that due to secondary effects by which the inhibition of methylglyoxal bis(guanylhydrazone) on S-adenosyl-L-methionine decarboxylase activity is circumvented the inhibitor seems to be of uncertain value in attempts to decrease selectively the in vivo levels of polyamines.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Henningsson</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author>
+<LastName>Persson</LastName>
+<ForeName>L</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author>
+<LastName>Rosengren</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Guanidines</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Polyamines</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>124-20-9</RegistryNumber>
+<NameOfSubstance>Spermidine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>459-86-9</RegistryNumber>
+<NameOfSubstance>Mitoguazone</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>462-94-2</RegistryNumber>
+<NameOfSubstance>Cadaverine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>57-85-2</RegistryNumber>
+<NameOfSubstance>Testosterone</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>71-44-3</RegistryNumber>
+<NameOfSubstance>Spermine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 4.1.1.17</RegistryNumber>
+<NameOfSubstance>Ornithine Decarboxylase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cadaverine</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Comparative Study</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Guanidines</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kidney</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mice</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mitoguazone</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Organ Weight</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Ornithine Decarboxylase</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Polyamines</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Spermidine</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Spermine</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Testosterone</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

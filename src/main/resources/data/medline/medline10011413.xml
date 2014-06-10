@@ -1,0 +1,124 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011413</MedlineID>
+<PMID>154347</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>551</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+<Day>8</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Transport characteristics of frog gastric membranes.</ArticleTitle>
+<Pagination>
+<MedlinePgn>432-47</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>ATP-induced transport by fractions of frog gastric microsomes prepared either by density gradient centrifugation of by free flow electrophoresis were K+ dependent and hence considered due to a K+-activated ATPase. Significant activity of this enzyme was, however, only found in the anodic peak of the free flow electrophoretic separation, which in addition to separating transporting from non-transporting particles, also separated membranes containing a phosphorylatable peptide (Mr=105 000) region as the major peptide on SDS-polyacrylamide gel electrophoresis from those containing a peptide (Mr=44 000) on SDS-polyacrylamide gel electrophoresis. H+ uptake, measured either by acridine orange or 3,3'-diethyloxadicarbocyanine + tetrachlorosalicylanilide absorbance changes was dependent on K+ intravesicularly. Using 86Rb+, active extrusion of the cation followed ATP addition. SCN-, an inhibitor of acid secretion did not affect the latter, but blocked signals due to H+ uptake, in contrast to mammalian preparations.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Rabon</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author>
+<LastName>Saccomani</LastName>
+<ForeName>G</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author>
+<LastName>Kasbekar</LastName>
+<ForeName>D K</ForeName>
+<Initials>DK</Initials>
+</Author>
+<Author>
+<LastName>Sachs</LastName>
+<ForeName>G</ForeName>
+<Initials>G</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>EC 3.6.1.3</RegistryNumber>
+<NameOfSubstance>Adenosinetriphosphatase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adenosinetriphosphatase</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Anura</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cell Fractionation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Electrophoresis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Intracellular Membranes</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Microsomes</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+<QualifierName>ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Oxidation-Reduction</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rana catesbeiana</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Stomach</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, Non-P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

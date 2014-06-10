@@ -1,0 +1,117 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011399</MedlineID>
+<PMID>420833</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>551</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+<Day>8</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>The rapid transmembrane movement of cholesterol in small unilamellar vesicles.</ArticleTitle>
+<Pagination>
+<MedlinePgn>260-70</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The exchange of cholesterol between two populations of small unilamellar vesicles has been investigated using a new system. Uniformly sized egg lecithin-cholesterol vesicles containing [3H]cholesterol and the glycolipid N-palmitoyl-DL-dihydrolactocerebroside were used as donors, whereas similar vesicles containing unlabelled cholesterol and no glycolipid were used as cholesterol acceptors. The two populations of vesicles were separated with the castor bean lectin Ricinus communis. It was found that greater than 90% of the cholesterol in the donor vesicle could be exchanged with a single time constant, the half-time for the completion of this exchange process being 1.5 h at 37 degrees C. Therefore, the rate of transmembrane movement or flip-flop of cholesterol in these vesicles must be at least as fast as the intermembrane exchange process. Similar results were obtained using hemoglobin-free human erythrocyte ghosts as the acceptor membrane. If the molecular-sieve chromatography step used to fractionate the vesicles was omitted, a non-exchangeable pool of cholesterol was detected which was shown not to be due to the presence of multilamellar vesicles.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Backer</LastName>
+<ForeName>J M</ForeName>
+<Initials>JM</Initials>
+</Author>
+<Author>
+<LastName>Dawidowicz</LastName>
+<ForeName>E A</ForeName>
+<Initials>EA</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Glycolipids</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Lectins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Phosphatidylcholines</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>57-88-5</RegistryNumber>
+<NameOfSubstance>Cholesterol</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Biological Transport</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Cholesterol</DescriptorName>
+<QualifierName>blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Erythrocyte Membrane</DescriptorName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Glycolipids</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Lectins</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mathematics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Membranes, Artificial</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Phosphatidylcholines</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

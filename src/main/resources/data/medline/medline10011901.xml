@@ -1,0 +1,178 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011901</MedlineID>
+<PMID>217503</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-8993</ISSN>
+<JournalIssue>
+<Volume>166</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Apr</Month>
+<Day>20</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Immunohistochemical mapping of enkephalin containing cell bodies, fibers and nerve terminals in the brain stem of the rat.</ArticleTitle>
+<Pagination>
+<MedlinePgn>75-94</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Enkephalin immunoreactive perikarya, fibers and nerve terminals, visualized by the indirect immunohistofluorescent method in colchicine-pretreated animals, are localized in many discrete regions of the rat brain stem. These specific immunohistofluorescent patterns are similar after staining with selective primary antisera directed against either methionine-enkephalin or leucine-enkephalin. Cell bodies are found in the substantia gelatinosa and interpolaris zones of the trigeminal nuclear complex, the nucleus of the solitary tract, in the vicinity of the nucleus raphé magnus, in the dorsal cochlear, medial vestibular, and paraolivary nuclei and, dorsal to this last region, in the parabrachial nuclei and the dorsal tegmental nucleus of Gudden, in the periaqueductal gray matter and interpeduncular nucleus and along the borders of the lateral lemniscus and medial geniculate. In some areas, such as the parabrachial region, nucleus of the solitary tract and substantia gelatinosa of the trigeminal nucleus, these perikarya are associated with densities of fibers and terminals. Other regions, such as the dorsal cochlear nucleus and the vicinity of the nucleus raphé magnus, contain cell bodies associated with low densities of processes and terminals. In still other nuclei, such as the nucleus of the facial nerve and the locus coeruleus, fiber and terminal densities without associated cell bodies are evident. Many of these enkephalin localizations can be rationalized on the basis of known actions of opiate drugs and the brain stem distribution of opiate receptors.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Uhl</LastName>
+<ForeName>G R</ForeName>
+<Initials>GR</Initials>
+</Author>
+<Author>
+<LastName>Goodman</LastName>
+<ForeName>R R</ForeName>
+<Initials>RR</Initials>
+</Author>
+<Author>
+<LastName>Kuhar</LastName>
+<ForeName>M J</ForeName>
+<Initials>MJ</Initials>
+</Author>
+<Author>
+<LastName>Childers</LastName>
+<ForeName>S R</ForeName>
+<Initials>SR</Initials>
+</Author>
+<Author>
+<LastName>Snyder</LastName>
+<ForeName>S H</ForeName>
+<Initials>SH</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Brain Res</MedlineTA>
+<NlmUniqueID>0045503</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Endorphins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Enkephalins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Receptors, Opioid</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>64-86-8</RegistryNumber>
+<NameOfSubstance>Colchicine</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Brain Mapping</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Brain Stem</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cerebellum</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Colchicine</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Endorphins</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Enkephalins</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Facial Nerve</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Medulla Oblongata</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mesencephalon</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Nerve Fibers</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neural Pathways</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neurons</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Olivary Nucleus</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Raphe Nuclei</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Receptors, Opioid</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Reticular Formation</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Spinal Cord</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Trigeminal Nerve</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

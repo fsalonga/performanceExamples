@@ -1,0 +1,124 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011149</MedlineID>
+<PMID>84676</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>11</Month>
+<Day>02</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0004-3591</ISSN>
+<JournalIssue>
+<Volume>22</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Detection of intermediate complexes by evaluation of the difference between gamma-globulin and IgG concentrations.</ArticleTitle>
+<Pagination>
+<MedlinePgn>141-4</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>A simple analysis based on techniques readily available in the routine clinical laboratory has been presented for identification of patients with moderate and high levels of intermediate complexes. If the gamma-globulin concentration determined by serum protein electrophoresis minus the IgG concentration determined by radial immunodiffusion exceeds 1.0 gm/dl, intermediate complexes of IgG should be present in concentrations greater than 0.5 gm/dl. In principle, any disease association with sufficient polymerization of IgG might cause an abnormal result with this analysis. Furthermore, sera from patients with liver disease and marked beta-gamma-bridging on electrophoresis may also give abnormal values.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Nardella</LastName>
+<ForeName>F A</ForeName>
+<Initials>FA</Initials>
+</Author>
+<Author>
+<LastName>Gilliland</LastName>
+<ForeName>B C</ForeName>
+<Initials>BC</Initials>
+</Author>
+<Author>
+<LastName>Mannik</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Arthritis Rheum</MedlineTA>
+<NlmUniqueID>0370605</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Gamma-Globulins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Immunoglobulin G</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9009-79-4</RegistryNumber>
+<NameOfSubstance>Rheumatoid Factor</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Arthritis, Rheumatoid</DescriptorName>
+<QualifierName>blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Blood Donors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Blood Protein Electrophoresis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Electrophoresis, Cellulose Acetate</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Evaluation Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Gamma-Globulins</DescriptorName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Immunoglobulin G</DescriptorName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Methods</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Purpura</DescriptorName>
+<QualifierName>blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rheumatoid Factor</DescriptorName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

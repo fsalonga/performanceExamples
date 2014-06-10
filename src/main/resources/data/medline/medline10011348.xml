@@ -1,0 +1,145 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011348</MedlineID>
+<PMID>420810</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>20</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Control of growth hormone synthesis in cultured GH1 cells by 3,5,3'-triiodo-L-thyronine and glucocorticoid agonists and antagonists: studies on the independent and synergistic regulation of the growth hormone response.</ArticleTitle>
+<Pagination>
+<MedlinePgn>715-21</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Samuels</LastName>
+<ForeName>H H</ForeName>
+<Initials>HH</Initials>
+</Author>
+<Author>
+<LastName>Stanley</LastName>
+<ForeName>F</ForeName>
+<Initials>F</Initials>
+</Author>
+<Author>
+<LastName>Shapiro</LastName>
+<ForeName>L E</ForeName>
+<Initials>LE</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>RNA, Messenger</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>50-23-7</RegistryNumber>
+<NameOfSubstance>Hydrocortisone</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>57-83-0</RegistryNumber>
+<NameOfSubstance>Progesterone</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>58-18-4</RegistryNumber>
+<NameOfSubstance>Methyltestosterone</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>6893-02-3</RegistryNumber>
+<NameOfSubstance>Triiodothyronine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9002-72-6</RegistryNumber>
+<NameOfSubstance>Somatotropin</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cell Line</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cytosol</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hydrocortisone</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Methyltestosterone</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Pituitary Gland</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Progesterone</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>RNA, Messenger</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Somatotropin</DescriptorName>
+<QualifierName MajorTopicYN="Y">biosynthesis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Translation, Genetic</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Triiodothyronine</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

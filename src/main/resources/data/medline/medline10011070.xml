@@ -1,0 +1,72 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011070</MedlineID>
+<PMID>420644</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>11</Month>
+<Day>02</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0003-9950</ISSN>
+<JournalIssue>
+<Volume>97</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>New instrument.</ArticleTitle>
+<Pagination>
+<MedlinePgn>571</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Cohen</LastName>
+<ForeName>S W</ForeName>
+<Initials>SW</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Letter</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Arch Ophthalmol</MedlineTA>
+<NlmUniqueID>7706534</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Choroid</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Fundus Oculi</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Ophthalmoscopes</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Ophthalmoscopy</DescriptorName>
+<QualifierName>methods</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

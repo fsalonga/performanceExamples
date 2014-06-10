@@ -1,0 +1,128 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011167</MedlineID>
+<PMID>154331</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>28</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>28</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0004-3591</ISSN>
+<JournalIssue>
+<Volume>22</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Long term effectiveness of low dose mithramycin for Paget's disease of bone.</ArticleTitle>
+<Pagination>
+<MedlinePgn>215-8</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Nineteen patients with Paget's disease of bone were studied 7 months to 5 years after therapy with mithramycin in a dose averaging 11.5 microgram/kg body weight daily for 10 days. Thirteen patients, including 3 with the longest followup intervals, remained free of pain. Objective measures of disease activity (serum alkaline phosphatase level and 99mtechnetium pyrophosphate bone scan) were less favorable. There was no evidence of long term toxicity.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Russell</LastName>
+<ForeName>A S</ForeName>
+<Initials>AS</Initials>
+</Author>
+<Author>
+<LastName>Chalmers</LastName>
+<ForeName>I M</ForeName>
+<Initials>IM</Initials>
+</Author>
+<Author>
+<LastName>Percy</LastName>
+<ForeName>J S</ForeName>
+<Initials>JS</Initials>
+</Author>
+<Author>
+<LastName>Lentle</LastName>
+<ForeName>B C</ForeName>
+<Initials>BC</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Arthritis Rheum</MedlineTA>
+<NlmUniqueID>0370605</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>18378-89-7</RegistryNumber>
+<NameOfSubstance>Plicamycin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.1.3.1</RegistryNumber>
+<NameOfSubstance>Alkaline Phosphatase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Alkaline Phosphatase</DescriptorName>
+<QualifierName>blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Bone and Bones</DescriptorName>
+<QualifierName>radionuclide imaging</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Drug Evaluation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Follow-Up Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Middle Age</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Osteitis Deformans</DescriptorName>
+<QualifierName>diagnosis</QualifierName>
+<QualifierName MajorTopicYN="Y">drug therapy</QualifierName>
+<QualifierName>radionuclide imaging</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Plicamycin</DescriptorName>
+<QualifierName>administration &#38; dosage</QualifierName>
+<QualifierName>adverse effects</QualifierName>
+<QualifierName MajorTopicYN="Y">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Time Factors</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

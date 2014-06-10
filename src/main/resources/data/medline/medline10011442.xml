@@ -1,0 +1,116 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011442</MedlineID>
+<PMID>420857</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>11</Month>
+<Day>02</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>561</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>26</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>DNA repair in a Fanconi's anemia fibroblast cell strain.</ArticleTitle>
+<Pagination>
+<MedlinePgn>99-109</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>DNA repair and colony survival were measured in fibroblasts from a patient with Fanconi's anemia, HG 261, and from normal human donors after exposure of these cells to the cross-linking agent mitomycin C, X-rays or ultraviolet light. Survival was similar in HG 261 and normal cells after X-ray or ultraviolet radiation, but was reduced in the Fanconi's anemia cells after treatment with mitomycin C. The level of DNA cross-linking, as measured by the method of alkaline elution, was the same in both cell strains after exposure to various doses of mitomycin C. With incubation after drug treatment, a gradual decrease in the amount of cross-linking was observed; the rate of this apparent repair of cross-link damage was the same in both normal and HG 261 cells. The rejoining of DNA single strand breaks after X-irradiation and the production of excision breaks after ultraviolet radiation were also normal in HG 261 cells as determined by alkaline elution.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Fornace</LastName>
+<ForeName>A J</ForeName>
+<Initials>AJ</Initials>
+<Suffix>Jr</Suffix>
+</Author>
+<Author>
+<LastName>Little</LastName>
+<ForeName>J B</ForeName>
+<Initials>JB</Initials>
+</Author>
+<Author>
+<LastName>Weichselbaum</LastName>
+<ForeName>R R</ForeName>
+<Initials>RR</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Mitomycins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9007-49-2</RegistryNumber>
+<NameOfSubstance>DNA</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Anemia, Aplastic</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cell Line</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cell Survival</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+<QualifierName>radiation effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>DNA</DescriptorName>
+<QualifierName>radiation effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">DNA Repair</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Fanconi Anemia</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mitomycins</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Ultraviolet Rays</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>X-Rays</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

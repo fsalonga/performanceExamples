@@ -1,0 +1,138 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011661</MedlineID>
+<PMID>420998</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0007-1447</ISSN>
+<JournalIssue>
+<Volume>1</Volume>
+<Issue>6157</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>20</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Characteristics affecting fibrinolytic activity and plasma fibrinogen concentrations.</ArticleTitle>
+<Pagination>
+<MedlinePgn>153-6</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>As part of a study to determine the extent to which the haemostatic system is implicated in the onset of clinically manifest ischaemic heart disease, characteristics influencing fibrinolytic activity (FA) and plasma fibrinogen concentrations were examined in 1601 men aged 18-64 and 707 women aged 18-59 in several occupational groups in North-west London. In men FA noticeably decreased till the age of about 58, when there was a small rise. In women a small increase in FA between 18 and about 40 was followed by a slightly larger fall between 40 and 59. There was a pronounced negative association of FA with obesity. FA was significantly less in smokers than non-smokers, though the effect was not large. FA increased with alcohol consumption. FA in men appeared to be greatest in the lower social classes, and men on night shift had poorer FA than those on day work. FA was greater in women using oral contraceptives than in those not using these preparations. In both sexes FA increased with exercise, but there were no associations between any of the characteristics studied and the increase. Plasma fibrinogen concentrations increase with age and obesity, are higher in smokers than non-smokers, and fall with alcohol consumption. In women the concentrations are higher in those using oral contraceptives. The general epidemiology of FA and plasma fibrinogen concentrations suggests that they may well be implicated in the pathogenesis of ischaemic heart disease.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Meade</LastName>
+<ForeName>T W</ForeName>
+<Initials>TW</Initials>
+</Author>
+<Author>
+<LastName>Chakrabarti</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author>
+<LastName>Haines</LastName>
+<ForeName>A P</ForeName>
+<Initials>AP</Initials>
+</Author>
+<Author>
+<LastName>North</LastName>
+<ForeName>W R</ForeName>
+<Initials>WR</Initials>
+</Author>
+<Author>
+<LastName>Stirling</LastName>
+<ForeName>Y</ForeName>
+<Initials>Y</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Br Med J</MedlineTA>
+<NlmUniqueID>0372673</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Contraceptives, Oral</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9001-32-5</RegistryNumber>
+<NameOfSubstance>Fibrinogen</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adolescence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Alcohol Drinking</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Contraceptives, Oral</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Coronary Disease</DescriptorName>
+<QualifierName>blood</QualifierName>
+<QualifierName>etiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Exertion</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Fibrinogen</DescriptorName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Fibrinolysis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Middle Age</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Skinfold Thickness</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Smoking</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Social Class</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

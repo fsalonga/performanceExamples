@@ -1,0 +1,123 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011507</MedlineID>
+<PMID>420876</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0320-9725</ISSN>
+<JournalIssue>
+<Volume>44</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>[Effects of low molecular weight nuclear RNAs on the activity of RNA polymerase II in isolated rat liver nuclei]</ArticleTitle>
+<Pagination>
+<MedlinePgn>27-32</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>An attempt was made to elucidate the possible participation of low molecular weight nuclear RNAs in the transcription process. The parameters of the RNA synthesis cell-free system in isolated rat liver nuclei were studied for this purpose. Tissue homogenization in isotonic sucrose during isolation of the nuclei resulted in a loss of 4S nuclear RNA. The dependence of RNA synthesis on the salt concentration in the incubation medium is indicative of possible initiation of the RNA synthesis in this system. At salt concentration of 0.08 M 50-75% of incorporation is due to the activity of RNA polymerase II. Under these conditions the electrophoretically homogenous individual fractions of low molecular weight nuclear RNAs do not affect specifically the activity of RNA polymerase II. No evidence for the participation of low molecular weight nuclear RNAs in the mechanisms of heterogeneous nuclear RNA synthesis were obtained.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Kozlov</LastName>
+<ForeName>A P</ForeName>
+<Initials>AP</Initials>
+</Author>
+<Author>
+<LastName>Pliusnin</LastName>
+<ForeName>A Z</ForeName>
+<Initials>AZ</Initials>
+</Author>
+<Author>
+<LastName>Evgushenko</LastName>
+<ForeName>V I</ForeName>
+<Initials>VI</Initials>
+</Author>
+<Author>
+<LastName>Seĭts</LastName>
+<ForeName>I F</ForeName>
+<Initials>IF</Initials>
+</Author>
+</AuthorList>
+<Language>rus</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+<VernacularTitle>Izuchenie vliianiia nizkomolekuliarnykh iadernykh RNK na aktivnost' RNK-polimerazy II v iadrakh pecheni krys.</VernacularTitle>
+</Article>
+<MedlineJournalInfo>
+<Country>USSR</Country>
+<MedlineTA>Biokhimiia</MedlineTA>
+<NlmUniqueID>0372667</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>63231-63-0</RegistryNumber>
+<NameOfSubstance>RNA</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.7.7.-</RegistryNumber>
+<NameOfSubstance>RNA Polymerase II</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.7.7.6</RegistryNumber>
+<NameOfSubstance>DNA-Directed RNA Polymerase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cell Nucleus</DescriptorName>
+<QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>DNA-Directed RNA Polymerase</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>English Abstract</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Liver</DescriptorName>
+<QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Molecular Weight</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>RNA</DescriptorName>
+<QualifierName MajorTopicYN="Y">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>RNA Polymerase II</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

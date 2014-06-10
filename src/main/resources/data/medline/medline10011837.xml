@@ -1,0 +1,157 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011837</MedlineID>
+<PMID>217486</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-8993</ISSN>
+<JournalIssue>
+<Volume>160</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>19</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Differential effect of reserpine on dopaminergic receptor function in rat substantia nigra and caudate nucleus.</ArticleTitle>
+<Pagination>
+<MedlinePgn>553-8</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Tonon</LastName>
+<ForeName>G</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author>
+<LastName>Saiani</LastName>
+<ForeName>L</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author>
+<LastName>Spano</LastName>
+<ForeName>P F</ForeName>
+<Initials>PF</Initials>
+</Author>
+<Author>
+<LastName>Trabucchi</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Brain Res</MedlineTA>
+<NlmUniqueID>0045503</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Receptors, Dopamine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>102-32-9</RegistryNumber>
+<NameOfSubstance>3,4-Dihydroxyphenylacetic Acid</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>25614-03-3</RegistryNumber>
+<NameOfSubstance>Bromocriptine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>50-55-5</RegistryNumber>
+<NameOfSubstance>Reserpine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>51-61-6</RegistryNumber>
+<NameOfSubstance>Dopamine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>52-86-8</RegistryNumber>
+<NameOfSubstance>Haloperidol</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>60-92-4</RegistryNumber>
+<NameOfSubstance>Cyclic AMP</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 4.6.1.1</RegistryNumber>
+<NameOfSubstance>Adenylate Cyclase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>3,4-Dihydroxyphenylacetic Acid</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Adenylate Cyclase</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Bromocriptine</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Caudate Nucleus</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+<QualifierName>enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cyclic AMP</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Dopamine</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Haloperidol</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Receptors, Dopamine</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Reserpine</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Substantia Nigra</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+<QualifierName>enzymology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

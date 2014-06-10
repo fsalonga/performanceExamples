@@ -1,0 +1,99 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011346</MedlineID>
+<PMID>217422</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>20</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Improvements in the prediction of protein backbone topography by reduction of statistical errors.</ArticleTitle>
+<Pagination>
+<MedlinePgn>697-704</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Maxfield</LastName>
+<ForeName>F R</ForeName>
+<Initials>FR</Initials>
+</Author>
+<Author>
+<LastName>Scheraga</LastName>
+<ForeName>H A</ForeName>
+<Initials>HA</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9004-22-2</RegistryNumber>
+<NameOfSubstance>Globins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9007-43-6</RegistryNumber>
+<NameOfSubstance>Cytochrome c</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Cytochrome c</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Globins</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mathematics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Protein Conformation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Proteins</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Statistics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, Non-P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

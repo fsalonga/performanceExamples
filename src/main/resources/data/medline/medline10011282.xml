@@ -1,0 +1,93 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011282</MedlineID>
+<PMID>33695</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>23</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Refolding behavior of a kinetic intermediate observed in the low pH unfolding of ribonuclease A.</ArticleTitle>
+<Pagination>
+<MedlinePgn>293-7</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>A transient intermediate (I3) observed previously in the unfolding of ribonuclease A has been studied by employing a sequential mixing instrument to populate selectively this species. This approach has made it possible both to determine the refolding behavior of this species and to characterize further the kinetics of its formation. (1) Formation of I3 represents the earliest detectable change in unfolding. (2) The loss of the 2'CMP binding site occurs in parallel with the exposure of the interior of the protein to solvent. (3) I3 is distinct from previously described intermediates in refolding. (4) Overall condensation of the protein to exclude solvent from the interior, as well as the formation of a substrate binding site, takes place in approximately 30 ms (pH 5.8, 47 degrees C), indicating that the formation of native structure can take place faster than had previously been supposed.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Hagerman</LastName>
+<ForeName>P J</ForeName>
+<Initials>PJ</Initials>
+</Author>
+<Author>
+<LastName>Schmid</LastName>
+<ForeName>F X</ForeName>
+<Initials>FX</Initials>
+</Author>
+<Author>
+<LastName>Baldwin</LastName>
+<ForeName>R L</ForeName>
+<Initials>RL</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>EC 3.1.-</RegistryNumber>
+<NameOfSubstance>Ribonucleases</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Hydrogen-Ion Concentration</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Protein Conformation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Protein Denaturation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Ribonucleases</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Time Factors</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

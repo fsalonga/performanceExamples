@@ -1,0 +1,115 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011144</MedlineID>
+<PMID>105739</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0004-3591</ISSN>
+<JournalIssue>
+<Volume>22</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Long-term chrysotherapy in rheumatoid arthritis.</ArticleTitle>
+<Pagination>
+<MedlinePgn>105-10</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The efficacy of chrysotherapy appears to increase with prolonged administration. In patients who were followed for 3 years after gold therapy was started, remissions occurred in 73% of those who continued chrysotherapy. Only 6% of those who stopped gold injections during the first 18 months subsequently developed "spontaneous" remissions, although initially both groups had comparable moderately severe rheumatoid arthritis of 6 to 8 years' duration. Therefore, in the absence of definite toxicity, maintenance gold injections should be continued indefinitely.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Srinivasan</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author>
+<LastName>Miller</LastName>
+<ForeName>B L</ForeName>
+<Initials>BL</Initials>
+</Author>
+<Author>
+<LastName>Paulus</LastName>
+<ForeName>H E</ForeName>
+<Initials>HE</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Arthritis Rheum</MedlineTA>
+<NlmUniqueID>0370605</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>12244-57-4</RegistryNumber>
+<NameOfSubstance>Gold Sodium Thiomalate</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Arthritis, Rheumatoid</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Blood Sedimentation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Drug Evaluation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Gold Sodium Thiomalate</DescriptorName>
+<QualifierName>administration &#38; dosage</QualifierName>
+<QualifierName>adverse effects</QualifierName>
+<QualifierName MajorTopicYN="Y">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Injections, Intramuscular</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Middle Age</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Time Factors</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

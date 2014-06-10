@@ -1,0 +1,148 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011938</MedlineID>
+<PMID>421176</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0008-543X</ISSN>
+<JournalIssue>
+<Volume>43</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Cellular immunity in Hodgkin's disease.</ArticleTitle>
+<Pagination>
+<MedlinePgn>492-9</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Defective cell-mediated immunity (CMI) occurs early in the course of Hodgkin's disease (HD) and may persist even two years after successful treatment. This has been confirmed by in vivo and in vitro tests performed on 51 untreated and 52 treated patients of HD. The grading of skin reponse in vivo to dinitrochlorobenzene (DNCB) correlated very well with the in vitro leukocyte migration inhibition (LMI) response against phytohemagglutinin (PHA). An inhibitory influence of HD patients' sera was demonstrated by LMI tests in vitro. The response of peripheral leukocytes from HD patients in the LMI tests could be augmented in vitro by addition of levamisole (an immuno-potentiator) to the culture medium, thus pointing to an intrinsic defect in Lymphocytes. The data indicate that defect at multiple sites in the immune system is responsible for persistent anergy in HD.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Advani</LastName>
+<ForeName>S H</ForeName>
+<Initials>SH</Initials>
+</Author>
+<Author>
+<LastName>D'Silva</LastName>
+<ForeName>H</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author>
+<LastName>Gothoskar</LastName>
+<ForeName>B P</ForeName>
+<Initials>BP</Initials>
+</Author>
+<Author>
+<LastName>Dinshaw</LastName>
+<ForeName>K A</ForeName>
+<Initials>KA</Initials>
+</Author>
+<Author>
+<LastName>Nair</LastName>
+<ForeName>C N</ForeName>
+<Initials>CN</Initials>
+</Author>
+<Author>
+<LastName>Gopalkrishna</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author>
+<LastName>Talwalkar</LastName>
+<ForeName>G V</ForeName>
+<Initials>GV</Initials>
+</Author>
+<Author>
+<LastName>Desai</LastName>
+<ForeName>P B</ForeName>
+<Initials>PB</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Cancer</MedlineTA>
+<NlmUniqueID>0374236</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Phytohemagglutinins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>14769-73-4</RegistryNumber>
+<NameOfSubstance>Levamisole</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>97-00-7</RegistryNumber>
+<NameOfSubstance>Dinitrochlorobenzene</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Cell Migration Inhibition</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Dinitrochlorobenzene</DescriptorName>
+<QualifierName>immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hodgkin Disease</DescriptorName>
+<QualifierName MajorTopicYN="Y">immunology</QualifierName>
+<QualifierName>therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Immunity, Cellular</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>In Vitro</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Intradermal Tests</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Leukocytes</DescriptorName>
+<QualifierName>immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Levamisole</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phytohemagglutinins</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Time Factors</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

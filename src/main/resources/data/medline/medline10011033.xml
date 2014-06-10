@@ -1,0 +1,154 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011033</MedlineID>
+<PMID>420618</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>28</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>28</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>11</Month>
+<Day>02</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0003-9942</ISSN>
+<JournalIssue>
+<Volume>36</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Prednisone use in concurrent autoimmune diseases.</ArticleTitle>
+<Pagination>
+<MedlinePgn>103-6</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>A 40-year-old woman with clinical and laboratory features of myasthenia gravis, hyperthyroidism, and polymyositis responded to treatment with prednisone alone. Symptoms of myasthenia gravis appeared first followed by hyperthyroid symptoms. Triiodothyronine, thyroxine, and thyroid uptake were elevated as were serum levels of CPK, SGOT, SGPT, and LDH. Muscle biopsy specimen showed mild type II fiber atrophy and a small focus of inflammatory cells. Two weeks after initiation of prednisone, 100 mg every other day, the ESR declined from 44 to 12 mm/hr, serum enzyme values became normal, and the weakness improved. Over the ensuing four months, the thyroid function values returned to normal and the patient no longer needed any anticholinesterase drug. At present, she is functionally normal except for mild defects in eye movement and she takes no medication. Physicians should consider treating patients who have several concurrent autoimmune diseases with prednisone to see if all conditions can be brought under control with one simple therapy.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Harati</LastName>
+<ForeName>Y</ForeName>
+<Initials>Y</Initials>
+</Author>
+<Author>
+<LastName>Patten</LastName>
+<ForeName>B M</ForeName>
+<Initials>BM</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Arch Neurol</MedlineTA>
+<NlmUniqueID>0372436</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>101-26-8</RegistryNumber>
+<NameOfSubstance>Pyridostigmine Bromide</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>53-03-2</RegistryNumber>
+<NameOfSubstance>Prednisone</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 1.1.1.27</RegistryNumber>
+<NameOfSubstance>Lactate Dehydrogenase</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.6.1.1</RegistryNumber>
+<NameOfSubstance>Aspartate Aminotransferases</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.6.1.2</RegistryNumber>
+<NameOfSubstance>Alanine Transaminase</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.7.3.2</RegistryNumber>
+<NameOfSubstance>Creatine Kinase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Alanine Transaminase</DescriptorName>
+<QualifierName>blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Aspartate Aminotransferases</DescriptorName>
+<QualifierName>blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Autoimmune Diseases</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Case Report</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Creatine Kinase</DescriptorName>
+<QualifierName>blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Dose-Response Relationship, Drug</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hyperthyroidism</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug therapy</QualifierName>
+<QualifierName>enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Lactate Dehydrogenase</DescriptorName>
+<QualifierName>blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Myasthenia Gravis</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug therapy</QualifierName>
+<QualifierName>enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Myositis</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug therapy</QualifierName>
+<QualifierName>enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Prednisone</DescriptorName>
+<QualifierName MajorTopicYN="Y">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Pyridostigmine Bromide</DescriptorName>
+<QualifierName>therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Thymectomy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Thyroid Function Tests</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

@@ -1,0 +1,145 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011344</MedlineID>
+<PMID>420809</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>20</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Mercury binding to hemerythrin. Coordination of mercury and its effects on subunit interactions.</ArticleTitle>
+<Pagination>
+<MedlinePgn>684-9</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Clarke</LastName>
+<ForeName>S E</ForeName>
+<Initials>SE</Initials>
+</Author>
+<Author>
+<LastName>Sieker</LastName>
+<ForeName>L C</ForeName>
+<Initials>LC</Initials>
+</Author>
+<Author>
+<LastName>Stenkamp</LastName>
+<ForeName>R E</ForeName>
+<Initials>RE</Initials>
+</Author>
+<Author>
+<LastName>Loehr</LastName>
+<ForeName>J S</ForeName>
+<Initials>JS</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Hemerythrin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Macromolecular Systems</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Metalloproteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Sulfhydryl Reagents</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>52-90-4</RegistryNumber>
+<NameOfSubstance>Cysteine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7439-97-6</RegistryNumber>
+<NameOfSubstance>Mercury</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Annelida</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Binding Sites</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Comparative Study</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cysteine</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Hemerythrin</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Macromolecular Systems</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Mercury</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Metalloproteins</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Models, Molecular</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Protein Binding</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Protein Conformation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Species Specificity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Sulfhydryl Reagents</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>X-Ray Diffraction</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

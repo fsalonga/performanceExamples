@@ -1,0 +1,132 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011547</MedlineID>
+<PMID>420906</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3223</ISSN>
+<JournalIssue>
+<Volume>14</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Implications of basal ganglionic dysfunction for schizophrenia.</ArticleTitle>
+<Pagination>
+<MedlinePgn>3-12</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>This paper is addressed to presenting evidence that the basal ganglia are involved in mediating schizophrenia. Data from the experimental and clinical literature suggest a basal ganglionic role in higher cognitive processes, affect, and attention. Deficits of these same factors serve to characterize the major symptoms of schizophrenia. Moreover, psychiatric patients tend to have frank motor problems characteristic of basal ganglia lesions and pathological conditions of the basal ganglia manifest psychiatric difficulties as a major symptom. Taken together, these data are in accord with the hypothesis that some dysfunction involving the basal ganglia is a major factor in schizophrenia.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Lidsky</LastName>
+<ForeName>T I</ForeName>
+<Initials>TI</Initials>
+</Author>
+<Author>
+<LastName>Weinhold</LastName>
+<ForeName>P M</ForeName>
+<Initials>PM</Initials>
+</Author>
+<Author>
+<LastName>Levine</LastName>
+<ForeName>F M</ForeName>
+<Initials>FM</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biol Psychiatry</MedlineTA>
+<NlmUniqueID>0213264</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Receptors, Dopamine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>51-61-6</RegistryNumber>
+<NameOfSubstance>Dopamine</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Affect</DescriptorName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Attention</DescriptorName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Basal Ganglia</DescriptorName>
+<QualifierName MajorTopicYN="Y">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Basal Ganglia Diseases</DescriptorName>
+<QualifierName>physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cognition</DescriptorName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Dopamine</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Extrapyramidal Tracts</DescriptorName>
+<QualifierName>physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Limbic System</DescriptorName>
+<QualifierName>physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Motor Activity</DescriptorName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Receptors, Dopamine</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Schizophrenia</DescriptorName>
+<QualifierName MajorTopicYN="Y">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Schizophrenic Psychology</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Stereotyped Behavior</DescriptorName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

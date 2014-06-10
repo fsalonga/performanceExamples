@@ -1,0 +1,141 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011931</MedlineID>
+<PMID>421171</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0008-543X</ISSN>
+<JournalIssue>
+<Volume>43</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Antihormone treatment of stage IV breast cancer.</ArticleTitle>
+<Pagination>
+<MedlinePgn>444-50</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The antiestrogen Tamoxifen (T), given orally to 113 patients with stage IV breast cancer, induced objective remission in 50%. Duration of remission in the first 39 patients, with minimum 27 months follow up, is 18 + months; these results are equal to those of surgical hypophysectomy. T prolonged survival in responders. Older age, previous response to endocrine therapy and positive estrogen receptors predicted response to T. T was effective in hypophysectomized patients in whom serum growth hormone and prolactin were undetectable, but serum ostrogens were present in low amount, suggesting a direct stimulatory effect of estrogens at the tumor level. Hypophysectomy induced further palliation after treatment with T, indicating that pituitary hormones may also play a role in the growth of some human breast cancers. Side effects from T were minimal. T is the initial treatment of choice for postmenopausal women with hormone responsive stage IV breast cancer.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Manni</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author>
+<LastName>Trujillo</LastName>
+<ForeName>J E</ForeName>
+<Initials>JE</Initials>
+</Author>
+<Author>
+<LastName>Marshall</LastName>
+<ForeName>J S</ForeName>
+<Initials>JS</Initials>
+</Author>
+<Author>
+<LastName>Brodkey</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author>
+<LastName>Pearson</LastName>
+<ForeName>O H</ForeName>
+<Initials>OH</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Cancer</MedlineTA>
+<NlmUniqueID>0374236</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Estrogens</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Receptors, Estrogen</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>10540-29-1</RegistryNumber>
+<NameOfSubstance>Tamoxifen</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Breast Neoplasms</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+<QualifierName MajorTopicYN="Y">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Comparative Study</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Estrogens</DescriptorName>
+<QualifierName>blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hypophysectomy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Menopause</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neoplasm Metastasis</DescriptorName>
+<QualifierName>drug therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neoplasms, Hormone-Dependent</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Receptors, Estrogen</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Remission, Spontaneous</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Tamoxifen</DescriptorName>
+<QualifierName MajorTopicYN="Y">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Time Factors</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

@@ -1,0 +1,145 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011433</MedlineID>
+<PMID>105758</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>561</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>26</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Comparative studies on highly metabolically active histone acetylation.</ArticleTitle>
+<Pagination>
+<MedlinePgn>248-60</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Histone acetate is hydrolyzed rapidly in logarithmically dividing hepatoma tissue culture cells (Jackson, V., Shires, A., Chalkley, R. and Granner, D.K. (1975) J. Biol. Chem. 250, 4856--4863). The phenomenon has been analyzed further in hepatoma tissue culture cells at various stages of the cell cycle, in stationary phase, and in the presence of actinomycin D. We also investigated the phenomenon in Tetrahymena pyriformis macronuclei, bovine thymocytes, and human foreskin fibroblasts. The data suggest that this highly metabolically active histone acetylation while altered in mitotic cells, is independent of the overall rate of cell division, and is only slightly sensitive to actinomycin D. Finally, we conclude that the same general phenomenon is found in both cancerous and normal cells and is apparently common to cells from various stages of the evolutionary scale.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Moore</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author>
+<LastName>Jackson</LastName>
+<ForeName>V</ForeName>
+<Initials>V</Initials>
+</Author>
+<Author>
+<LastName>Sealy</LastName>
+<ForeName>L</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author>
+<LastName>Chalkley</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Histones</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Neoplasm Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>50-76-0</RegistryNumber>
+<NameOfSubstance>Dactinomycin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.5.1.-</RegistryNumber>
+<NameOfSubstance>Histone Deacetylase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Acetylation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cell Cycle</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cell Division</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cell Line</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Dactinomycin</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Histone Deacetylase</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Histones</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Liver Neoplasms, Experimental</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mitosis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neoplasm Proteins</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Skin</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Tetrahymena pyriformis</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Thymus Gland</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

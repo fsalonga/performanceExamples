@@ -1,0 +1,78 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011192</MedlineID>
+<PMID>420732</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0004-6981</ISSN>
+<JournalIssue>
+<Volume>13</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>An international approach to air quality monitoring.</ArticleTitle>
+<Pagination>
+<MedlinePgn>211-21</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Suess</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Atmos Environ</MedlineTA>
+<NlmUniqueID>0100776</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Air Pollutants</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Air Pollutants, Environmental</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Air Pollutants</DescriptorName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Air Pollutants, Environmental</DescriptorName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Environmental Health</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>World Health Organization</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

@@ -1,0 +1,122 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011446</MedlineID>
+<PMID>105760</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>566</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>9</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Thyroid purine nucleoside phosphorylase. II. Kinetic model by alternate substrate and inhibition studies.</ArticleTitle>
+<Pagination>
+<MedlinePgn>259-65</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Nucleoside analog inhibition studies have been conducted on thyroidal purine nucleoside phosphorylase (purine-nucleoside:orthophosphate ribosyltransferase, EC 2.4.2.1) which catalyzed an ordered bi-bi type mechanism where the first substrate is inorganic phosphate and the last product is ribose 1-phosphate. Heterocyclic- and carbohydrate-modified nucleoside inhibitors demonstrate mixed type inhibition suggesting such analogs show an affinity (Ki) for the free enzyme. A kinetic model is proposed which supports the observed inhibition patterns. These studies together with alternate substrate studies indicate that nucleoside binding requires a functional group capable of hydrogen bonding at the 6-position of the purine ring and that the orientation of the bound substrate may be syn. Proper geometry of the phosphate is dependent upon the 3'-substituent to the orientated below the furanose ring. The 5'-hydroxyl group is required for substrate activity. The proposed rate limiting step of the phosphorylase mechanism is the enzymatic protonation of the 7-N position of the nucleoside.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Carlson</LastName>
+<ForeName>J D</ForeName>
+<Initials>JD</Initials>
+</Author>
+<Author>
+<LastName>Fischer</LastName>
+<ForeName>A G</ForeName>
+<Initials>AG</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Phosphates</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>58-63-9</RegistryNumber>
+<NameOfSubstance>Inosine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.4.2.</RegistryNumber>
+<NameOfSubstance>Pentosyltransferases</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.4.2.1</RegistryNumber>
+<NameOfSubstance>Purine-Nucleoside Phosphorylase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cattle</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Inosine</DescriptorName>
+<QualifierName>analogs &#38; derivatives</QualifierName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mathematics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Models, Biological</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Pentosyltransferases</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phosphates</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Purine-Nucleoside Phosphorylase</DescriptorName>
+<QualifierName>antagonists &#38; inhibitors</QualifierName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Substrate Specificity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Thyroid Gland</DescriptorName>
+<QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

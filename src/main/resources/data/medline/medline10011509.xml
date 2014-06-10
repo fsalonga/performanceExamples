@@ -1,0 +1,117 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011509</MedlineID>
+<PMID>420878</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0320-9725</ISSN>
+<JournalIssue>
+<Volume>44</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>[Effect of phospholipase D on micellar phospholipids and the role of calcium ions]</ArticleTitle>
+<Pagination>
+<MedlinePgn>33-9</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The rates of the reaction products formation under simultaneous phospholipase D effect on phosphatidyl ethanolamine and phosphatidyl choline were studied. The hydrolysis of cephalin, unlike the phospholipase D effect on lecithin, does not require Ca2+ ions. Ca2+ does not affect the enzymatic degradation of lecithin and inhibits the reaction with cephalin in "inorganized" phospholipid emulsions. The hydrolysis of micellar phospholipids by phospholipase D (in the presence of the anionic detergent sodium dodecyl sulfate) is accelerated by Ca2+ ions for both substrates. The apparent Km value is equal to 1.5 mM and does not depend on the phospholipid type. In contrast, the value of kcat for lecithin is twice as high as that for cephalin. It was demonstrated that the phase state of the phospholipids and the chemical nature of the alcohol residue in the phospholipid molecule are essential for the substrate specificity of phospholipase D.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Rakhimov</LastName>
+<ForeName>M M</ForeName>
+<Initials>MM</Initials>
+</Author>
+<Author>
+<LastName>Akhmedzhanov</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author>
+<LastName>Tachmukhamedov</LastName>
+<ForeName>B A</ForeName>
+<Initials>BA</Initials>
+</Author>
+</AuthorList>
+<Language>rus</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+<VernacularTitle>Deĭstvie fosfolipazy D na mitselliarnye fosfolipidy i rol' kal'tsiia.</VernacularTitle>
+</Article>
+<MedlineJournalInfo>
+<Country>USSR</Country>
+<MedlineTA>Biokhimiia</MedlineTA>
+<NlmUniqueID>0372667</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Colloids</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Phosphatidylcholines</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Phosphatidylethanolamines</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7440-70-2</RegistryNumber>
+<NameOfSubstance>Calcium</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.1.-</RegistryNumber>
+<NameOfSubstance>Phospholipases</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Calcium</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Colloids</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>English Abstract</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Micelles</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phosphatidylcholines</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phosphatidylethanolamines</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phospholipases</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

@@ -1,0 +1,139 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011537</MedlineID>
+<PMID>420897</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3223</ISSN>
+<JournalIssue>
+<Volume>14</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Plasma neutral amino acids in mania and depression: variation during acute and prolonged treatment with L-tryptophan.</ArticleTitle>
+<Pagination>
+<MedlinePgn>131-9</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The free tryptophan and plasma neutral amino acids including kynurenine have been determined before treatment, after a single load, and during prolonged treatment with L-tryptophan on a bipolar manic-depressive patient who has shown resistance to current treatments. The data of the patient were compared with the data of healthy control subjects in order to evaluate the availability of tryptophan to the brain. A relative deficiency of tryptophan in the plasma, as measured by the ratio of tryptophan to those amino acids which compete with tryptophan during transport processes, was found in the patient. Further, the patient showed an increased area under curve of plasma tryptophan after a load, and an increase in the competing amino acids during the load compared to a decrease in the control subjects. During the treatment with L-tryptophan the competing amino acids increased in the plasma. The results suggest that the patient suffered from a dysfunction of the processes which mediate active transport of tryptophan and other large neutral amino acids into tissues including the brain.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Møller</LastName>
+<ForeName>S E</ForeName>
+<Initials>SE</Initials>
+</Author>
+<Author>
+<LastName>Amdisen</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biol Psychiatry</MedlineTA>
+<NlmUniqueID>0213264</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Amino Acids</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>343-65-7</RegistryNumber>
+<NameOfSubstance>Kynurenine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>55520-40-6</RegistryNumber>
+<NameOfSubstance>Tyrosine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>61-90-5</RegistryNumber>
+<NameOfSubstance>Leucine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7004-03-7</RegistryNumber>
+<NameOfSubstance>Valine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>73-22-3</RegistryNumber>
+<NameOfSubstance>Tryptophan</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>73-32-5</RegistryNumber>
+<NameOfSubstance>Isoleucine</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Amino Acids</DescriptorName>
+<QualifierName MajorTopicYN="Y">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Bipolar Disorder</DescriptorName>
+<QualifierName MajorTopicYN="Y">blood</QualifierName>
+<QualifierName>drug therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Case Report</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Isoleucine</DescriptorName>
+<QualifierName>blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kynurenine</DescriptorName>
+<QualifierName>blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Leucine</DescriptorName>
+<QualifierName>blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Middle Age</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Tryptophan</DescriptorName>
+<QualifierName>blood</QualifierName>
+<QualifierName MajorTopicYN="Y">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Tyrosine</DescriptorName>
+<QualifierName>blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Valine</DescriptorName>
+<QualifierName>blood</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

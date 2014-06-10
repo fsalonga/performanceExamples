@@ -1,0 +1,116 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011965</MedlineID>
+<PMID>217527</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0008-543X</ISSN>
+<JournalIssue>
+<Volume>43</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>The triad of hemochromatosis, hepatoma and erythrocytosis.</ArticleTitle>
+<Pagination>
+<MedlinePgn>690-4</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The triad of hemochromatosis, hepatoma and erythrocytosis is a rare combination. Hemochromatosis is often not recognized until the patient presents with the symptoms of hepatocellular carcinoma and erythrocytosis, and the development of erythrocytosis is an important clue to the under-lying hepatoma. The high serum iron concentration and the high saturation of the iron-binding protein, as well as the typical bone marrow hemosiderin pattern, are important aids in the recognition of hemochromatosis. To date, all patients with this triad have been elderly males. The clinical course is usually one of rapid deterioration and death. The seven previously reported cases have been reviewed and the relationship of the erythrocytosis to the increased production of erythropoietin is discussed.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Raphael</LastName>
+<ForeName>B</ForeName>
+<Initials>B</Initials>
+</Author>
+<Author>
+<LastName>Cooperberg</LastName>
+<ForeName>A A</ForeName>
+<Initials>AA</Initials>
+</Author>
+<Author>
+<LastName>Niloff</LastName>
+<ForeName>P</ForeName>
+<Initials>P</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+<PublicationType>Review</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Cancer</MedlineTA>
+<NlmUniqueID>0374236</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>11096-26-7</RegistryNumber>
+<NameOfSubstance>Erythropoietin</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Carcinoma, Hepatocellular</DescriptorName>
+<QualifierName MajorTopicYN="Y">complications</QualifierName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Case Report</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Erythropoietin</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hemochromatosis</DescriptorName>
+<QualifierName MajorTopicYN="Y">complications</QualifierName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Liver Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y">complications</QualifierName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Middle Age</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Polycythemia</DescriptorName>
+<QualifierName MajorTopicYN="Y">complications</QualifierName>
+<QualifierName>etiology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+<NumberOfReferences>16</NumberOfReferences>
+</MedlineCitation>

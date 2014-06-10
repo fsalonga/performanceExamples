@@ -1,0 +1,105 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011627</MedlineID>
+<PMID>369642</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0007-1323</ISSN>
+<JournalIssue>
+<Volume>66</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Highly selective vagotomy with excision of the ulcer compared with gastrectomy for gastric ulcer in a randomized trial.</ArticleTitle>
+<Pagination>
+<MedlinePgn>43-5</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Fifty-six patients with benign gastric ulcer of the body of the stomach have been entered into a randomized trial of highly selective vagotomy with excision of the ulcer (HSVE) (26 cases) against standard Billroth I partial gastrectomy (BI) (30 cases). The operations were carried out by all grades of surgical staff. No patient died within 1 month of operation. Postoperative morbidity was greater after gastrectomy than after HSVE. At an average follow-up of about 4 years, functional results according to a modified Visick classification were similar in both groups, with about 75 per cent good results. Two recurrent ulcers occurred after gastrectomy (7 per cent) and 4 after HSVE (15 per cent). Neither operation has a distinct advantage at this stage.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Duthie</LastName>
+<ForeName>H L</ForeName>
+<Initials>HL</Initials>
+</Author>
+<Author>
+<LastName>Bransom</LastName>
+<ForeName>C J</ForeName>
+<Initials>CJ</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Clinical Trial</PublicationType>
+<PublicationType>Journal Article</PublicationType>
+<PublicationType>Randomized Controlled Trial</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Br J Surg</MedlineTA>
+<NlmUniqueID>0372553</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Clinical Trials</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Comparative Study</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Gastrectomy</DescriptorName>
+<QualifierName MajorTopicYN="Y">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Postoperative Complications</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Random Allocation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Recurrence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Stomach Ulcer</DescriptorName>
+<QualifierName MajorTopicYN="Y">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Time Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Vagotomy</DescriptorName>
+<QualifierName MajorTopicYN="Y">methods</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

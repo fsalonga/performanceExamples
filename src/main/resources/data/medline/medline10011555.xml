@@ -1,0 +1,174 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011555</MedlineID>
+<PMID>420911</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>11</Month>
+<Day>02</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0306-042X</ISSN>
+<JournalIssue>
+<Volume>6</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Studies on drug metabolism by use of isotopes. XXIV-Determination of 3-phenylpropyl carbamate metabolites using stable isotope labelling with deuterium or carbon-13.</ArticleTitle>
+<Pagination>
+<MedlinePgn>63-6</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Metabolism of 3-phenylproply carbamate was investigated by using a stable isotope tracer technique. 3-Phenylpropanol, 3-hydroxy-3-phenylpropanol, 3-hydroxy-3-phenylpropyl carbamate, 2,3-dihydroxy-3-phenylproply carbamate, benzoic acid and hippuric acid were identified as the rat urinary metabolites. Using the dilution analysis, the amounts of metabolites in urine and faeces in rat and man were determined. In rats, 2,3-dihydroxy-3-phenylproply carbamate and 3-phenylpropanol glucuronide were excreted into the urine as the major metabolites of this drug. On the other hand, in man, the major metabolite was hippuric acid and about 30% of the administered dose was excreted as hippuric acid in the 24 h urine. The tracer technique using a singly labelled drug with carbon-13 employed in the present study provided a reliable methods for the analysis of drug metabolites and was comparable with the tracer technique using a multilabelled drug with deuterium.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Horie</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author>
+<LastName>Baba</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Biomed Mass Spectrom</MedlineTA>
+<NlmUniqueID>0430246</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Benzoates</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Carbamates</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Carbon Isotopes</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Hippurates</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Hydroxy Acids</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Pharmaceutical Preparations</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Propanols</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Trimethylsilyl Compounds</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>71-23-8</RegistryNumber>
+<NameOfSubstance>1-Propanol</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7782-39-0</RegistryNumber>
+<NameOfSubstance>Deuterium</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>1-Propanol</DescriptorName>
+<QualifierName>urine</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Benzoates</DescriptorName>
+<QualifierName>urine</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Carbamates</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+<QualifierName>urine</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Carbon Isotopes</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Chromatography, Gas</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Comparative Study</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Deuterium</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Feces</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hippurates</DescriptorName>
+<QualifierName>urine</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hydroxy Acids</DescriptorName>
+<QualifierName>urine</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Isotope Labeling</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Pharmaceutical Preparations</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Propanols</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Spectrum Analysis, Mass</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Trimethylsilyl Compounds</DescriptorName>
+<QualifierName>urine</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

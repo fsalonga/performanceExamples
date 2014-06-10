@@ -1,0 +1,149 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011009</MedlineID>
+<PMID>105689</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0003-9942</ISSN>
+<JournalIssue>
+<Volume>36</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Carbamazepine vs phenytoin. A controlled clinical trial in focal motor and generalized epilepsy.</ArticleTitle>
+<Pagination>
+<MedlinePgn>22-4</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The antiepileptic effects of carbamazepine and phenytoin were compared in a double-blind crossover trial studying patients with primary and secondary generalized seizures and partial seizures with motor symptoms. Each treatment period lasted ten weeks. The patients were seen every two weeks, and doses were adjusted according to plasma levels. It was attempted to keep levels in the optimal plasma range, ie, 10 to 20 and 4 to 10 mg/liter for phenytoin and carbamazepine, respectively. Twenty-three patients entered and 19 completed the study. No statistically significant differences were found between carbamazepine and phenytoin with regard to seizure control and acute side effects.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Kosteljanetz</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author>
+<LastName>Christiansen</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author>
+<LastName>Dam</LastName>
+<ForeName>A M</ForeName>
+<Initials>AM</Initials>
+</Author>
+<Author>
+<LastName>Hansen</LastName>
+<ForeName>B S</ForeName>
+<Initials>BS</Initials>
+</Author>
+<Author>
+<LastName>Lyon</LastName>
+<ForeName>B B</ForeName>
+<Initials>BB</Initials>
+</Author>
+<Author>
+<LastName>Pedersen</LastName>
+<ForeName>H</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author>
+<LastName>Dam</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Clinical Trial</PublicationType>
+<PublicationType>Controlled Clinical Trial</PublicationType>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Arch Neurol</MedlineTA>
+<NlmUniqueID>0372436</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>298-46-4</RegistryNumber>
+<NameOfSubstance>Carbamazepine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>57-41-0</RegistryNumber>
+<NameOfSubstance>Phenytoin</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adolescence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Carbamazepine</DescriptorName>
+<QualifierName>administration &#38; dosage</QualifierName>
+<QualifierName MajorTopicYN="Y">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Clinical Trials</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Comparative Study</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Double-Blind Method</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Epilepsies, Partial</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Epilepsy</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Middle Age</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phenytoin</DescriptorName>
+<QualifierName>administration &#38; dosage</QualifierName>
+<QualifierName MajorTopicYN="Y">therapeutic use</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

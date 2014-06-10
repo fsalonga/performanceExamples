@@ -1,0 +1,82 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011691</MedlineID>
+<PMID>421020</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0007-1447</ISSN>
+<JournalIssue>
+<Volume>1</Volume>
+<Issue>6157</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>20</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Myocardial ischaemia in patients with frequent angina pectoris.</ArticleTitle>
+<Pagination>
+<MedlinePgn>198</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Balasubramanian</LastName>
+<ForeName>V</ForeName>
+<Initials>V</Initials>
+</Author>
+<Author>
+<LastName>Raftery</LastName>
+<ForeName>E B</ForeName>
+<Initials>EB</Initials>
+</Author>
+<Author>
+<LastName>Stott</LastName>
+<ForeName>F D</ForeName>
+<Initials>FD</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Letter</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Br Med J</MedlineTA>
+<NlmUniqueID>0372673</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Angina Pectoris</DescriptorName>
+<QualifierName>physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Electrocardiography</DescriptorName>
+<QualifierName>instrumentation</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Myocardial Infarction</DescriptorName>
+<QualifierName MajorTopicYN="Y">diagnosis</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

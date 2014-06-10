@@ -1,0 +1,137 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011267</MedlineID>
+<PMID>33694</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>9</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Isolation and characterization of Ca2+-dependent modulator protein from the marine invertebrate Renilla reniformis.</ArticleTitle>
+<Pagination>
+<MedlinePgn>55-60</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>An acidic, low molecular weight (18 400--19 100) protein capable of activating porcine brain phosphodiesterase in the presence of calcium has been purified 2700-fold from the anthozoan coelenterate, Renilla reniformis. The protein has physical, spectral, and chemical properties similar to those of modulator proteins isolated from mammalian species. Amino acid composition studies reveal no significant differences between the Renilla and mammalian modulator proteins. For example, we observed 1 mol of epsilon-N-trimethyllysine per mol of protein, no tryptophan or cysteine, and high levels of glutamic and aspartic acid residues. The protein from Renilla complexes with troponin I and T subunits in the presence of calcium and quantitatively replaces porcine brain modulator in the calcium-dependent activation of porcine brain phosphodiesterase. The protein has a high affinity for calcium as judged by the low levels of free calcium required for modulator-dependent activation of phosphodiesterase. The similarities in physical and chemical properties, high affinity for calcium, and identical calcium-dependent activities of this protein from Renilla (as compared with modulator protein purified from mammalian systems) suggest that a high degree of structural conservation has been retained in modulator proteins isolated from these diverse evolutionary forms.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Jones</LastName>
+<ForeName>H P</ForeName>
+<Initials>HP</Initials>
+</Author>
+<Author>
+<LastName>Matthews</LastName>
+<ForeName>J C</ForeName>
+<Initials>JC</Initials>
+</Author>
+<Author>
+<LastName>Cormier</LastName>
+<ForeName>M J</ForeName>
+<Initials>MJ</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Amino Acids</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Calmodulin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Carbohydrates</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Carrier Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7440-70-2</RegistryNumber>
+<NameOfSubstance>Calcium</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Amino Acids</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Calcium</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Calmodulin</DescriptorName>
+<QualifierName>isolation &#38; purification</QualifierName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Carbohydrates</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Carrier Proteins</DescriptorName>
+<QualifierName>isolation &#38; purification</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cattle</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cnidaria</DescriptorName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Comparative Study</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Molecular Weight</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Organ Specificity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Species Specificity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, Non-P.H.S.</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

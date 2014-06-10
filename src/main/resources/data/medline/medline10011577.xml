@@ -1,0 +1,112 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011577</MedlineID>
+<PMID>420927</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>11</Month>
+<Day>19</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0365-9615</ISSN>
+<JournalIssue>
+<Volume>87</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>[Characteristics of the late A-response of vasoconstrictor neurons in cats decerebrated at different brain stem levels]</ArticleTitle>
+<Pagination>
+<MedlinePgn>114-7</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>In cats decerebrated at the level of the rostral border of the midbrain (the mesencephalic animals) and in those decerebrated at different pontine levels, including the ponto-bulbar junction level, and the most rostral parts of the medulla oblongata (the "pontine" animals), or more caudal parts (the bulbar animals), single stimulus of the tibial nerve A-fibres elicited a late response in the renal nerve consisting of excitatory and inhibitory components. The excitatory component was relatively small or absent in 53% of the "pontine" animals, in 42% of the mesencephalic animals, and in 18% of the bulbar animals. The "pontine" animals had the most active and most excitable system of the inhibitory component generation. However, the signs of a comparatively more powerful inhibitory component of the A-afferent action of the vasoconstrictor neurones in the "pontine" animals were not as constant as to explain completely the transition of somatic A-afferent hypertensive reflexes into the hypotensive ones, occurring in separating the ponto-bulbar structure and the rostral parts of the medulla oblongata from the mesencephalon.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Gaĭlans</LastName>
+<ForeName>Iu B</ForeName>
+<Initials>IuB</Initials>
+</Author>
+<Author>
+<LastName>Lukoshkova</LastName>
+<ForeName>E V</ForeName>
+<Initials>EV</Initials>
+</Author>
+<Author>
+<LastName>Khaiutin</LastName>
+<ForeName>V M</ForeName>
+<Initials>VM</Initials>
+</Author>
+</AuthorList>
+<Language>rus</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+<VernacularTitle>Kharakteristiki pozdnego A-otveta vazokonstriktornykh neĭronov u koshek, detserebrirovannykh na razlichnykh urovniakh stvola mozga.</VernacularTitle>
+</Article>
+<MedlineJournalInfo>
+<Country>USSR</Country>
+<MedlineTA>Biull Eksp Biol Med</MedlineTA>
+<NlmUniqueID>0370627</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Blood Vessels</DescriptorName>
+<QualifierName MajorTopicYN="Y">innervation</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Brain Mapping</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Brain Stem</DescriptorName>
+<QualifierName MajorTopicYN="Y">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Decerebrate State</DescriptorName>
+<QualifierName MajorTopicYN="Y">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>English Abstract</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Medulla Oblongata</DescriptorName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neurons, Afferent</DescriptorName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Peripheral Nerves</DescriptorName>
+<QualifierName MajorTopicYN="Y">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Pons</DescriptorName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Vasoconstriction</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

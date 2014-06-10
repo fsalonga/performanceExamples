@@ -1,0 +1,124 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011518</MedlineID>
+<PMID>420881</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>11</Month>
+<Day>19</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0320-9725</ISSN>
+<JournalIssue>
+<Volume>44</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>[Role of planar cobalt chelate complexes as shunting agents in the electron transport chain of mitochondria]</ArticleTitle>
+<Pagination>
+<MedlinePgn>97-103</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>It was shown that planar cobalt chelate complexes catalyze oxidation of NADH and hexahydroubiquinole Q4H2 by air oxygen. The most active agent--perchlorate of the cobalt complex 1, 2, 3, 7, 8, 12, 13, 17, 18, 19-decamethyloctadehydrocorrin--is capable of shunting the electron transfer chain of rat liver mitochondria and beef heart submitochondrial particles, catalyzing electron transfer from CoQ directly to the oxygen.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Leĭkin</LastName>
+<ForeName>Iu N</ForeName>
+<Initials>IuN</Initials>
+</Author>
+<Author>
+<LastName>Novodarova</LastName>
+<ForeName>G N</ForeName>
+<Initials>GN</Initials>
+</Author>
+<Author>
+<LastName>Kolosova</LastName>
+<ForeName>E M</ForeName>
+<Initials>EM</Initials>
+</Author>
+<Author>
+<LastName>Vol'pin</LastName>
+<ForeName>M E</ForeName>
+<Initials>ME</Initials>
+</Author>
+</AuthorList>
+<Language>rus</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+<VernacularTitle>Ploskie khelatnye kompleksy kobal'ta kak shuntiruiushchie agenty v elektrontransportnoĭ tsepi mitokhondriĭ.</VernacularTitle>
+</Article>
+<MedlineJournalInfo>
+<Country>USSR</Country>
+<MedlineTA>Biokhimiia</MedlineTA>
+<NlmUniqueID>0372667</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Chelating Agents</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7440-48-4</RegistryNumber>
+<NameOfSubstance>Cobalt</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cattle</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Chelating Agents</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cobalt</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Electron Transport</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>English Abstract</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mitochondria</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mitochondria, Heart</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Oxidation-Reduction</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Submitochondrial Particles</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

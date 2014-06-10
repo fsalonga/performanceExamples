@@ -1,0 +1,113 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011217</MedlineID>
+<PMID>420747</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0007-1145</ISSN>
+<JournalIssue>
+<Volume>41</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Ntau-methylhistidine in human skeletal and smooth muscle proteins.</ArticleTitle>
+<Pagination>
+<MedlinePgn>15-7</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>1. Fifteen pieces of rectus abdominus muscle and fifteen pieces of taenia muscle were removed from patients undergoing various surgical procedures. 2. The muscles were extracted, hydrolysed and the content of Ntau-methylhistidine was measured. 3. The rectus muscles contained 3.13 +/- 0.7 mumols Ntau-methylhistidine/g fat-free dry solid and the taenia muscles 2.4 +/- 0.6 mumols/g fat-free dry solid. There was a statistically significant difference (P less than 0.05) between these values using the Student's unpaired tau test, although this could have been due to contamination of the taenia muscles with connective tissue. 4. The muscle content of Ntau-methylhistidine was at least 40% higher than the only other reported value and therefore the method of calculating muscle protein breakdown based on Ntau-methylhistidine excretion requires revision.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Holbrook</LastName>
+<ForeName>I B</ForeName>
+<Initials>IB</Initials>
+</Author>
+<Author>
+<LastName>Gross</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author>
+<LastName>Irving</LastName>
+<ForeName>M H</ForeName>
+<Initials>MH</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Br J Nutr</MedlineTA>
+<NlmUniqueID>0372547</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Methylhistidines</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Muscle Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>71-00-1</RegistryNumber>
+<NameOfSubstance>Histidine</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Histidine</DescriptorName>
+<QualifierName MajorTopicYN="Y">analogs &#38; derivatives</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Methylhistidines</DescriptorName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Middle Age</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Muscle Proteins</DescriptorName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Muscle, Smooth</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

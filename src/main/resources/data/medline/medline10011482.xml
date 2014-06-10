@@ -1,0 +1,120 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011482</MedlineID>
+<PMID>33723</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>583</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>19</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Studies on lectins. XLIV. The pH dependence of lectin interactions with sugars as determined by affinity electrophoresis.</ArticleTitle>
+<Pagination>
+<MedlinePgn>103-9</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The pH dependence of association constants of the lectin-sugar complexes was determined by means of affinity electrophoresis. All the lectins studied (from the seeds of Dolichos biflorus, Glycine soja, Lens esculenta and Vicia cracca and of the fruiting body of Marasmius oreades) were characterized by a similar course of pH dependence of the association constants, with the maximum values at pH 7--9. For concanavalin A and the L-fucose binding Ulex europaeus lectin only the association constants at three selected pH values were determined. Concanavalin A does not interact with immobilized alpha-D-mannosyl residues at pH 2.3. The association constants vs. pH curves measured for lectins isolated from two different lentil varieties slightly differ in accordance with the differences observed in the interaction of these lectins with the Sephadex gel.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Hauzer</LastName>
+<ForeName>K</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author>
+<LastName>Tichá</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author>
+<LastName>Horejsí</LastName>
+<ForeName>V</ForeName>
+<Initials>V</Initials>
+</Author>
+<Author>
+<LastName>Kocourek</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Glycosides</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Lectins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Polysaccharides</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>11028-71-0</RegistryNumber>
+<NameOfSubstance>Concanavalin A</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>3713-31-3</RegistryNumber>
+<NameOfSubstance>Fucose</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Binding Sites</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Concanavalin A</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Electrophoresis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Fucose</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Glycosides</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hydrogen-Ion Concentration</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Lectins</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Polysaccharides</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

@@ -1,0 +1,115 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011478</MedlineID>
+<PMID>217444</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>582</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>1</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Pulse-radiolytic investigations of catechols and catecholamines. II. Reactions of Tiron with oxygen radical species.</ArticleTitle>
+<Pagination>
+<MedlinePgn>537-42</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Transient spectra and kinetic data of Tiron (1,2-dihydroxybenzene-3,5-disulphonic acid) are reported, obtained after pulse-radiolytic oxidation by hydroxyl radicals (.OH), superoxide anions (O-2) or a combination of both oxygen radicals. The rate constant with .OH radicals was determined at 1.0.10(9) M-1.s-1. Contrary to a previous report (Greenstock, C.L. and Miller, R.W. (1975) Biochim. Biophys. Acta 396, 11--16), the rate constant with O-2 of 1.0.10(7) M-1.s-1 is lower by one order of magnitude; also the semiquinone absorbs at 300 nm rather than at 400 nm. The ratio of the rate constants with .OH and O-2 of 100 again demonstrates that any oxidation reaction by the latter radical is unspecific due to the more efficient reaction of .OH radicals, leading to the same products with catechol compounds.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Bors</LastName>
+<ForeName>W</ForeName>
+<Initials>W</Initials>
+</Author>
+<Author>
+<LastName>Saran</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author>
+<LastName>Michel</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Benzenesulfonates</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Hydroxides</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>11062-77-4</RegistryNumber>
+<NameOfSubstance>Superoxides</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>149-45-1</RegistryNumber>
+<NameOfSubstance>Tiron</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7782-44-7</RegistryNumber>
+<NameOfSubstance>Oxygen</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Benzenesulfonates</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Chemistry, Organic</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hydroxides</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Oxygen</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Pulse Radiolysis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Spectrum Analysis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Superoxides</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Tiron</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

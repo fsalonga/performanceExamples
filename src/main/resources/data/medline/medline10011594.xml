@@ -1,0 +1,123 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011594</MedlineID>
+<PMID>420937</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0365-9615</ISSN>
+<JournalIssue>
+<Volume>87</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>[Effect of diazepam on the epileptic activity of rats with experimental photogenic epilepsy]</ArticleTitle>
+<Pagination>
+<MedlinePgn>160-4</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Chronic experiments were conducted on rats. A study was made of the effect of diazepam (in a dose of 4 mg/kg of body weight) on the specific and nonspecific mechanisms of experimentally-induced photogenic epilepsy developing as a result of tetanus toxin injection into the lateral geniculate body (LGB) and formation in this nucleus of a pathologically enhanced excitation generator (PEEG). Diazepam in the mentioned dose had a relatively weak effect on the extent of pathological enhancement of the sensory visual signal in the LGB under conditions of PEEG formation aided detection of focal interictal discharges in this nucleus, and completely inhibited generalized epileptic activity in experimental animals in the course of one hour.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Rekhtman</LastName>
+<ForeName>M B</ForeName>
+<Initials>MB</Initials>
+</Author>
+<Author>
+<LastName>Konnikov</LastName>
+<ForeName>B A</ForeName>
+<Initials>BA</Initials>
+</Author>
+<Author>
+<LastName>Kryzhanovskiĭ</LastName>
+<ForeName>G N</ForeName>
+<Initials>GN</Initials>
+</Author>
+</AuthorList>
+<Language>rus</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+<VernacularTitle>Vliianie diazepama na épilepticheskuiu aktivnost' u krys s éksperimental'noĭ fotogennoi épilepsieĭ.</VernacularTitle>
+</Article>
+<MedlineJournalInfo>
+<Country>USSR</Country>
+<MedlineTA>Biull Eksp Biol Med</MedlineTA>
+<NlmUniqueID>0370627</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Tetanus Toxin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>439-14-5</RegistryNumber>
+<NameOfSubstance>Diazepam</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Convulsions</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug therapy</QualifierName>
+<QualifierName>etiology</QualifierName>
+<QualifierName>physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Diazepam</DescriptorName>
+<QualifierName MajorTopicYN="Y">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Electrophysiology</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>English Abstract</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Evoked Potentials</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Geniculate Bodies</DescriptorName>
+<QualifierName>physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Photic Stimulation</DescriptorName>
+<QualifierName>adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Tetanus Toxin</DescriptorName>
+<QualifierName>administration &#38; dosage</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Visual Cortex</DescriptorName>
+<QualifierName>physiopathology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

@@ -1,0 +1,83 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011916</MedlineID>
+<PMID>421165</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0008-4182</ISSN>
+<JournalIssue>
+<Volume>14</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Current techniques: fitting hydrophilic lathe cut lenses.</ArticleTitle>
+<Pagination>
+<MedlinePgn>63-72</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Morgan</LastName>
+<ForeName>J F</ForeName>
+<Initials>JF</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>CANADA</Country>
+<MedlineTA>Can J Ophthalmol</MedlineTA>
+<NlmUniqueID>0045312</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Methacrylates</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Contact Lenses, Hydrophilic</DescriptorName>
+<QualifierName>adverse effects</QualifierName>
+<QualifierName MajorTopicYN="Y">standards</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Methacrylates</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Optics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Refraction, Ocular</DescriptorName>
+<QualifierName MajorTopicYN="Y">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Refractive Errors</DescriptorName>
+<QualifierName>therapy</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

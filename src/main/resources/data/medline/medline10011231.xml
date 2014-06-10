@@ -1,0 +1,121 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011231</MedlineID>
+<PMID>420761</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0007-1145</ISSN>
+<JournalIssue>
+<Volume>41</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Toxicity of shoti (Indian arrowroot: Curcuma zedoaria) for rats and chicks.</ArticleTitle>
+<Pagination>
+<MedlinePgn>57-63</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>1. A flour was prepared from rhizomes of shoti(Curcuma zedoaria) in such a way that most of the protein was retained. The crude protein (nitrogen x 6.25) content in this product was 155 g/kg, compared with approximately 10 g/kg in commercial shoti flour. 2. The high-protein flour proved highly toxic to 5-week-old rats and caused 100% mortality within 6 d when given at 320 g/kg diet. 3. Fresh rhizomes were minced and dried, and the resulting meal was given to weanling rats at 400 g/kg diet. All the animals lost weight rapidly, and two of the five rats died within 4 d. 4. This same shoti meal was given to 1-d-old chicks at 100 and 200 g/kg diet. All the chicks survived the test period (20 d), but body-weight, food intake and efficiency of food conversion decreased with increase in the level of shoti meal in the diet. 5. The traditional method of preparing shoti involves prolonged washing in changes of water, which removes most of the protein and other water-soluble nutrients and, presumably, a toxic constituent. Further investigation is needed to identify the toxic principle, and to discover a less wasteful procedure for removing it.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Latif</LastName>
+<ForeName>M A</ForeName>
+<Initials>MA</Initials>
+</Author>
+<Author>
+<LastName>Morris</LastName>
+<ForeName>T R</ForeName>
+<Initials>TR</Initials>
+</Author>
+<Author>
+<LastName>Miah</LastName>
+<ForeName>A H</ForeName>
+<Initials>AH</Initials>
+</Author>
+<Author>
+<LastName>Hewitt</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author>
+<LastName>Ford</LastName>
+<ForeName>J E</ForeName>
+<Initials>JE</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Br J Nutr</MedlineTA>
+<NlmUniqueID>0372547</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Amino Acids</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Plant Proteins</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Amino Acids</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Chickens</DescriptorName>
+<QualifierName MajorTopicYN="Y">growth &#38; development</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Diet</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Eating</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Plant Proteins</DescriptorName>
+<QualifierName>analysis</QualifierName>
+<QualifierName>toxicity</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Plants, Toxic</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+<QualifierName MajorTopicYN="Y">growth &#38; development</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

@@ -1,0 +1,112 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011529</MedlineID>
+<PMID>420889</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3126</ISSN>
+<JournalIssue>
+<Volume>35</Volume>
+<Issue>1-2</Issue>
+<PubDate>
+<Year>1979</Year>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Thermic effects of glucose, amino acid and lipid in the term newborn.</ArticleTitle>
+<Pagination>
+<MedlinePgn>8-16</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The thermic effect in term infants of intragastric isocaloric amounts of glucose, lipid and amino acid have been compared with control infants given water on the third to fifth days of life. In contrast with adults, the thermic effect of glucose was found to be non-existent and for lipids weak and ill-sustained. These results suggest that these nutrients are mainly oxidised and that processes involving an elevated metabolic cost, such as lipid synthesis, play a minor role. The ingestion of an isocaloric load of amino acids induced a small thermic effect (4.4% of the energy content of the load in 2 h). This effect is probably related to a low rate of protein synthesis or amino acid catabolism and an absence of tissue deposition. The small thermic effect observed suggests that a significant part of the load is not metabolised or channeled into protein synthesis. In term infants the weak thermic effect after amino acid and the failure of glucose and lipid to stimulate metabolism may possibly be analogous to the lack of post-prandial thermic effect reported in non-growing children suffering from malnutrition. It can be hypothesised that in both cases the energy storage related to lipid and protein synthesis is absent or minimal. Therefore, there is no stimulation of energy expenditure to produce a thermic effect.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Salomon</LastName>
+<ForeName>J W</ForeName>
+<Initials>JW</Initials>
+</Author>
+<Author>
+<LastName>Swyer</LastName>
+<ForeName>P R</ForeName>
+<Initials>PR</Initials>
+</Author>
+<Author>
+<LastName>Jéquier</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>SWITZERLAND</Country>
+<MedlineTA>Biol Neonate</MedlineTA>
+<NlmUniqueID>0247551</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Amino Acids</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Dietary Fats</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>50-99-7</RegistryNumber>
+<NameOfSubstance>Glucose</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Amino Acids</DescriptorName>
+<QualifierName>administration &#38; dosage</QualifierName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Body Temperature</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Calorimetry</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Dietary Fats</DescriptorName>
+<QualifierName>administration &#38; dosage</QualifierName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Glucose</DescriptorName>
+<QualifierName>administration &#38; dosage</QualifierName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Infant Nutrition</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Infant, Newborn</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

@@ -1,0 +1,109 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011401</MedlineID>
+<PMID>217432</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>551</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+<Day>8</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Viral and non-viral induced fusion of pronase-digested human erythrocyte ghosts.</ArticleTitle>
+<Pagination>
+<MedlinePgn>282-94</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Human erythrocyte ghosts but was able to fuse only iso-human erythrocyte ghosts. Iso- and hypo-human erythrocyte ghosts were incubated with the proteolytic enzyme pronase under isotonic (iso-human erythrocyte ghosts) or hypotonic (hypo-human erythrocyte ghosts) conditions. Gel electrophoresis and electron microscope (freeze-etching) studies revealed that most of the erythrocyte membrane polypeptides were hydrolyzed by pronase under hypotonic conditions. Sendai virus readily agglutinated both pronase-digested iso-human erythrocyte ghosts and hypo-human erythrocyte ghosts were fused by the non-viral fusogenic agent glyceromonooleate. Freeze-etching studies revealed that during fusion the membranes of pronase-digested human erythrocyte ghosts are intermixed.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Laster</LastName>
+<ForeName>Y</ForeName>
+<Initials>Y</Initials>
+</Author>
+<Author>
+<LastName>Lalazar</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author>
+<LastName>Loyter</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Membrane Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.4.24.-</RegistryNumber>
+<NameOfSubstance>Pronase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Erythrocyte Membrane</DescriptorName>
+<QualifierName MajorTopicYN="Y">ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Erythrocytes</DescriptorName>
+<QualifierName MajorTopicYN="Y">ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Freeze Fracturing</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Membrane Proteins</DescriptorName>
+<QualifierName>blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Microscopy, Electron</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Osmolar Concentration</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Parainfluenza Virus 1, Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Pronase</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

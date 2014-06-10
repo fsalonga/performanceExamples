@@ -1,0 +1,99 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011019</MedlineID>
+<PMID>217318</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0003-9942</ISSN>
+<JournalIssue>
+<Volume>36</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>'Locked-in coma' in postinfective polyneuropathy.</ArticleTitle>
+<Pagination>
+<MedlinePgn>46-7</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>A patient with postinfective cranial and peripheral polyneuropathy exhibited the electroencephalographic and behavioral features of "alpha coma". The relation of this form of extensive peripheral disconnection to those cases with central disconnection due to pontomesencephalic lesions is discussed. We conclude that in both situations further evaluation of brain stem and cortical function is necessary to determine whether or not consciousness is preserved, rather than relying solely on the presence of ocular movements and reactivity of the electroencephalogram.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Carroll</LastName>
+<ForeName>W M</ForeName>
+<Initials>WM</Initials>
+</Author>
+<Author>
+<LastName>Mastaglia</LastName>
+<ForeName>F L</ForeName>
+<Initials>FL</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Arch Neurol</MedlineTA>
+<NlmUniqueID>0372436</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Case Report</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Coma</DescriptorName>
+<QualifierName MajorTopicYN="Y">etiology</QualifierName>
+<QualifierName>physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Electroencephalography</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Eye Movements</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Middle Age</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Peripheral Nervous System Diseases</DescriptorName>
+<QualifierName MajorTopicYN="Y">complications</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Respiratory Tract Infections</DescriptorName>
+<QualifierName>complications</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Virus Diseases</DescriptorName>
+<QualifierName MajorTopicYN="Y">complications</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

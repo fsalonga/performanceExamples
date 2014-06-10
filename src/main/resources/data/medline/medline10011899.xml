@@ -1,0 +1,131 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011899</MedlineID>
+<PMID>421155</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-8993</ISSN>
+<JournalIssue>
+<Volume>166</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Apr</Month>
+<Day>20</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Recovery of tectal nicotinic-cholinergic receptor sites during optic nerve degeneration in goldfish.</ArticleTitle>
+<Pagination>
+<MedlinePgn>57-64</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The concentration of cholinergic nicotinic-like sites as measured by alphabungarotoxin (alphaBuTX) binding, decreased in the goldfish (Carassius auratus) optic tectum after optic nerve disconnection. Initially, the rate of loss of sites is greater than the rate of tissue or protein degradation in experiments where disconnection was achieved either by unilateral optic nerve crush or by enucleation of one eye. When the crushed optic nerve is allowed to regenerate and form behaviorally potent connections, the number and concentration of these sites appears restored. Pharmacological studies indicate that the alphaButTX binding site in the goldfish optic tectum has a drug binding profile similar to that seen at central or peripheral alphaBuTX sites in other species.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Schechter</LastName>
+<ForeName>N</ForeName>
+<Initials>N</Initials>
+</Author>
+<Author>
+<LastName>Francis</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author>
+<LastName>Deutsch</LastName>
+<ForeName>D G</ForeName>
+<Initials>DG</Initials>
+</Author>
+<Author>
+<LastName>Gazzaniga</LastName>
+<ForeName>M S</ForeName>
+<Initials>MS</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Brain Res</MedlineTA>
+<NlmUniqueID>0045503</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Bungarotoxins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Receptors, Cholinergic</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Receptors, Nicotinic</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Bungarotoxins</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Dominance, Cerebral</DescriptorName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Goldfish</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Nerve Crush</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Nerve Regeneration</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Optic Nerve</DescriptorName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Receptors, Cholinergic</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Receptors, Nicotinic</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Retina</DescriptorName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Superior Colliculus</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

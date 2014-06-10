@@ -1,0 +1,122 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011201</MedlineID>
+<PMID>420736</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>11</Month>
+<Day>02</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0007-1048</ISSN>
+<JournalIssue>
+<Volume>41</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Association of IgA multiple myeloma with pre-existing disease.</ArticleTitle>
+<Pagination>
+<MedlinePgn>19-24</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>A retrospective analysis of 153 patients with multiple myeloma was performed for evaluation of the possible significance of pre-existing disease. 37% of the group had no significant antecedent disorder. The most common prior illnesses were peptic ulcer disease and gallbladder disease. Of 12 patients in the group who had prior biliary tract disease and for whom immunoelectrophoretic studies were available, eight (66.7%) had IgA paraproteins. This figure is statistically higher (P less than 0.01) than the 14.1% prevalence of IgA paraproteins in those myeloma patients without biliary disease. Of 20 individuals with IgA myeloma, only two had no significant antecedent disease. The rest had primarily chronic biliary, peptic ulcer, other gastrointestinal or respiratory tract inflammatory diseases. We conclude that prior inflammatory gastrointestinal, pulmonary, and, particularly, biliary disease may be implicated in the pathogenesis of the IgA subset of multiple myeloma.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Schafer</LastName>
+<ForeName>A I</ForeName>
+<Initials>AI</Initials>
+</Author>
+<Author>
+<LastName>Miller</LastName>
+<ForeName>J B</ForeName>
+<Initials>JB</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Br J Haematol</MedlineTA>
+<NlmUniqueID>0372544</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Immunoglobulin A</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Myeloma Proteins</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Biliary Tract Diseases</DescriptorName>
+<QualifierName>complications</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Gastrointestinal Diseases</DescriptorName>
+<QualifierName>complications</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Immunoglobulin A</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Middle Age</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Multiple Myeloma</DescriptorName>
+<QualifierName MajorTopicYN="Y">etiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Myeloma Proteins</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Peptic Ulcer</DescriptorName>
+<QualifierName>complications</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Respiratory Tract Diseases</DescriptorName>
+<QualifierName>complications</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Retrospective Studies</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

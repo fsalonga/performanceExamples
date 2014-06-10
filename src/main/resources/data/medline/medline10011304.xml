@@ -1,0 +1,138 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011304</MedlineID>
+<PMID>369602</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>6</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Mechanism of inhibition of aldehyde dehydrogenase by cyclopropranone hydrate and the mushroom toxin coprine.</ArticleTitle>
+<Pagination>
+<MedlinePgn>427-35</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Wiseman</LastName>
+<ForeName>J S</ForeName>
+<Initials>JS</Initials>
+</Author>
+<Author>
+<LastName>Abeles</LastName>
+<ForeName>R H</ForeName>
+<Initials>RH</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Cyclopropanes</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>144-48-9</RegistryNumber>
+<NameOfSubstance>Iodoacetamide</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>56-85-9</RegistryNumber>
+<NameOfSubstance>Glutamine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 1.2.</RegistryNumber>
+<NameOfSubstance>Aldehyde Oxidoreductases</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 1.2.1.-</RegistryNumber>
+<NameOfSubstance>Glyceraldehyde-3-Phosphate Dehydrogenases</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 4.1.1.1</RegistryNumber>
+<NameOfSubstance>Pyruvate Decarboxylase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Aldehyde Oxidoreductases</DescriptorName>
+<QualifierName MajorTopicYN="Y">antagonists &#38; inhibitors</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cyclopropanes</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Glutamine</DescriptorName>
+<QualifierName MajorTopicYN="Y">analogs &#38; derivatives</QualifierName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Glyceraldehyde-3-Phosphate Dehydrogenases</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Horses</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Iodoacetamide</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Liver</DescriptorName>
+<QualifierName>enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mice</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Pyruvate Decarboxylase</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Saccharomyces cerevisiae</DescriptorName>
+<QualifierName>enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, Non-P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

@@ -1,0 +1,126 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011147</MedlineID>
+<PMID>154330</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0004-3591</ISSN>
+<JournalIssue>
+<Volume>22</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Differential sensitivity of functional subsets of T cells to the cytotoxicity of natural T-lymphocytotoxic autoantibody of systemic lupus erythematosus.</ArticleTitle>
+<Pagination>
+<MedlinePgn>123-9</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>A naturally occurring T-lymphocytotoxic autoantibody (Hu-NTA) in serum from a patient with systemic lupus erythematosus (SLE) showed a differential cytotoxic effect on functionally different T cell subsets as did natural thymocytotoxic autoantibody (NTA) of NZB mice. When the normal peripheral blood lymphocytes were treated, in the presence of complement, with Hu-NTA at a dilution that eliminated 25 to 30% of Hu-NTA-sensitive T cells, there was a marked reduction or a total depletion in the ability of resultant cells to show Con A-activated suppression on the proliferative response of responder cells in mixed lymphocyte reaction. The treatment of PBL in the same manner also resulted in a marked reduction in its responsiveness to Con A and PHA. However, the responder cells to allogeneic stimulator cells in MLR were found to be much more resistant to the cytotoxicity of Hu-NTA than other functional T cell subsets tested. These results suggest that Hu-NTA is responsible for the selective loss of certain functional T cell subsets including suppressor T cells in patients with SLE.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Koike</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author>
+<LastName>Kobayashi</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author>
+<LastName>Yoshiki</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author>
+<LastName>Itoh</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author>
+<LastName>Shirai</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Arthritis Rheum</MedlineTA>
+<NlmUniqueID>0370605</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Antilymphocyte Serum</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Autoantibodies</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Phytohemagglutinins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>11028-71-0</RegistryNumber>
+<NameOfSubstance>Concanavalin A</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Antilymphocyte Serum</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Autoantibodies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Concanavalin A</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Lupus Erythematosus, Systemic</DescriptorName>
+<QualifierName MajorTopicYN="Y">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Lymphocyte Culture Test, Mixed</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phytohemagglutinins</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>T-Lymphocytes</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+<QualifierName MajorTopicYN="Y">immunology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

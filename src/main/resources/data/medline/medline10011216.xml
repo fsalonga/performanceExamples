@@ -1,0 +1,109 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011216</MedlineID>
+<PMID>420746</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0007-1145</ISSN>
+<JournalIssue>
+<Volume>41</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Studies on digestion and absorption in the intestines of growing pigs. 6. Measurements of the flow of amino acids.</ArticleTitle>
+<Pagination>
+<MedlinePgn>147-56</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>1. Digesta were collected from seventeen pigs initially of 30 kg live weight fitted with single re-entrant cannulas in either the duodenum, jejunum or ileum. A further twenty-four pigs were used in a conventional digestibility trial. 2. The pigs received three types of diet containing: barley, fine wheat offal, white fish meal, minerals and vitamins (diet BWF); starch, sucrose, maize, oil, cellulose, minerals and vitamins and either groundnut (diet SSG) or casein (diet SSC). 3. Amino acids were measured in samples representative of the digesta flow in 24 h periods and in the faeces collected in 5 d periods. 4. For each diet the total flow in 24 h periods in the duodenum for aspartic acid, threonine, serine and glycine exceeded  or equalled intake, while the amounts of the other amino acids were usually rather less than intake. 5. For each diet in the jejunum, the amounts of glycine and cystine exceeded intake in 24 h periods, while methionine, arginine and tyrosine were the most rapidly absorbed amino acids anterior to the cannula site. On average 0.22, 0.25 and 0.31 of the dietary amino acids were absorbed anterior to the cannula site for diets BWF, SSG and SSC, respectively. 6. For each diet in the ileum, the least apparently absorbed dietary amino acids were glycine and cystine. On average 0.81, 0.83 and 0.95 of the dietary amino acids were absorbed anterior to the cannula site for diets BWF, SSG and SSC, respectively. 7. There was net disappearance of most amino acids in the large intestine, but some net accumulation occurred in this region. 8. The results are discussed in relation to the amino acid composition of endogenous secretions (particularly glycine in bile), protease and peptidase specificity, free amino acid absorption and the role of the microflora in the large intestine.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Low</LastName>
+<ForeName>A G</ForeName>
+<Initials>AG</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Br J Nutr</MedlineTA>
+<NlmUniqueID>0372547</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Amino Acids</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Amino Acids</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Diet</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Digestion</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Duodenum</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Feces</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Gastrointestinal Motility</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Ileum</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Intestinal Absorption</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Jejunum</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Swine</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Time Factors</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

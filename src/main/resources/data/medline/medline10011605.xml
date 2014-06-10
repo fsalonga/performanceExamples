@@ -1,0 +1,113 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011605</MedlineID>
+<PMID>420942</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0365-9615</ISSN>
+<JournalIssue>
+<Volume>87</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>[Rat thrombocyte factor XIII and its role in platelet aggregation]</ArticleTitle>
+<Pagination>
+<MedlinePgn>99-101</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Factor XIII was isolated from rat platelets; it activity was 1430 units per 1 mg of protein. It was shown in experiments in vitro that addition of this factor (160--200 units/ml) to the suspension of washed platelets or those purified by passage through the column with sepharose 4B increased their aggregation capacity. Addition of inactive platelet factor XIII failed to influence the platelet aggregation induced by ADP.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Pastorova</LastName>
+<ForeName>V E</ForeName>
+<Initials>VE</Initials>
+</Author>
+<Author>
+<LastName>Umarova</LastName>
+<ForeName>B A</ForeName>
+<Initials>BA</Initials>
+</Author>
+<Author>
+<LastName>Sukhanova</LastName>
+<ForeName>S A</ForeName>
+<Initials>SA</Initials>
+</Author>
+</AuthorList>
+<Language>rus</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+<VernacularTitle>Faktor XIII iz trombotsitov krys i ego znachenie v agregatsii krovianykh plastinok.</VernacularTitle>
+</Article>
+<MedlineJournalInfo>
+<Country>USSR</Country>
+<MedlineTA>Biull Eksp Biol Med</MedlineTA>
+<NlmUniqueID>0370627</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>58-64-0</RegistryNumber>
+<NameOfSubstance>Adenosine Diphosphate</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9013-56-3</RegistryNumber>
+<NameOfSubstance>Factor XIII</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adenosine Diphosphate</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Blood Platelets</DescriptorName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Drug Synergism</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>English Abstract</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Factor XIII</DescriptorName>
+<QualifierName MajorTopicYN="Y">isolation &#38; purification</QualifierName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>In Vitro</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Platelet Aggregation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Stimulation, Chemical</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

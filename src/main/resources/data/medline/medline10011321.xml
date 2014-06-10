@@ -1,0 +1,116 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011321</MedlineID>
+<PMID>369603</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>6</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>T7 RNA polymerase: promoter structure and polymerase binding.</ArticleTitle>
+<Pagination>
+<MedlinePgn>528-37</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The sequences of two promoters recognized by the phage-specificied T7 RNA polymerase are presented. The two are identical in sequence but for one base pair from the initiation point (as determined by the 5' sequence of the transcripts), denoted +1, to position -15. The common : formula: (see text),  sequence also includes a region of hyphenated twofold symmetry indicated by the boxes, with the twofold axis as the center of the six base-pair box. The heavy line indicates the extent of homology. The first promoter (A) is demonstrated to lie within gene 1, the gene for the polymerase itself, and 40 bases into the message transcribed from this promoter is found the R Nase III site separating genes 1 and 1.1. Binding of T7 RNA polymerase to these promoters is associated with a hyperchromic blue shift of the base chromophores consistent with partial melting of the base pairs at the promoter. Binding of T7 RNA polymerase to these promoters disappears at low pH and low temperature and is accompanied by a consequent loss of polymerase activity. The pH dependence of the binding step is adequately described by a single pK of 7.0. Polymerase catalytic activity, but not promoter binding, requires a single free sulfhydryl group of the enzyme with a pKa of approximately 7.8.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Oakley</LastName>
+<ForeName>J L</ForeName>
+<Initials>JL</Initials>
+</Author>
+<Author>
+<LastName>Strothkamp</LastName>
+<ForeName>R E</ForeName>
+<Initials>RE</Initials>
+</Author>
+<Author>
+<LastName>Sarris</LastName>
+<ForeName>A H</ForeName>
+<Initials>AH</Initials>
+</Author>
+<Author>
+<LastName>Coleman</LastName>
+<ForeName>J E</ForeName>
+<Initials>JE</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>EC 2.7.7.6</RegistryNumber>
+<NameOfSubstance>DNA-Directed RNA Polymerase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Coliphages</DescriptorName>
+<QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>DNA-Directed RNA Polymerase</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Escherichia coli</DescriptorName>
+<QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Protein Binding</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Spectrophotometry, Ultraviolet</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Structure-Activity Relationship</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, Non-P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Temperature</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Templates</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

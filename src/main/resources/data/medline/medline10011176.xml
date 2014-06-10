@@ -1,0 +1,117 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011176</MedlineID>
+<PMID>420719</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>28</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>28</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0004-3591</ISSN>
+<JournalIssue>
+<Volume>22</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Apparent acute renal failure associated with therapeutic aspirin and ibuprofen administration.</ArticleTitle>
+<Pagination>
+<MedlinePgn>281-5</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Aspirin and ibuprofen may cause a decrease in renal function which, although statistically significant, is usually small. We report a patient with active systemic lupus erythematosus and apparent acute renal failure associated with the administration of these drugs. Renal biopsy revealed no light microscopic evidence of drug nephrotoxicity although patchy nonspecific ultrastructural changes in the tubular epithelium were seen. The renal failure reversed rapidly when the drugs were withdrawn.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Kimberly</LastName>
+<ForeName>R P</ForeName>
+<Initials>RP</Initials>
+</Author>
+<Author>
+<LastName>Sherman</LastName>
+<ForeName>R L</ForeName>
+<Initials>RL</Initials>
+</Author>
+<Author>
+<LastName>Mouradian</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author>
+<LastName>Lockshin</LastName>
+<ForeName>M D</ForeName>
+<Initials>MD</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Arthritis Rheum</MedlineTA>
+<NlmUniqueID>0370605</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>15687-27-1</RegistryNumber>
+<NameOfSubstance>Ibuprofen</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>50-78-2</RegistryNumber>
+<NameOfSubstance>Aspirin</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Aspirin</DescriptorName>
+<QualifierName>administration &#38; dosage</QualifierName>
+<QualifierName MajorTopicYN="Y">adverse effects</QualifierName>
+<QualifierName>therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Case Report</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Ibuprofen</DescriptorName>
+<QualifierName>administration &#38; dosage</QualifierName>
+<QualifierName MajorTopicYN="Y">adverse effects</QualifierName>
+<QualifierName>therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kidney</DescriptorName>
+<QualifierName>ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kidney Failure, Acute</DescriptorName>
+<QualifierName MajorTopicYN="Y">chemically induced</QualifierName>
+<QualifierName>pathology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

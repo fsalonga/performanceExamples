@@ -1,0 +1,127 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011946</MedlineID>
+<PMID>283876</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0008-543X</ISSN>
+<JournalIssue>
+<Volume>43</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Acute lymphoblastic leukemia: the significance of nuclear convolutions.</ArticleTitle>
+<Pagination>
+<MedlinePgn>551-7</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Because of the significance attributed by some investigators to the presence of cells with convoluted nuclei in lymphoblastic lymphoma, and the absence of any information on the presence and significance of such cells in acute lymphoblastic leukemia (ALL), we reviewed the blood, bone marrow films, and clinical records of 101 children with ALL. We attempted to determine whether leukemic cells with convoluted nuclei can be recognized in such films, and if so, whether this observation has clinical significance. In fifty-seven of the patients the leukemic cells had convoluted nuclei. For the purposes of this study, our patients were divided into three groups: Group I, 44 patients without cells having convoluted nuclei: Group II, 30 patients with 10% or fewer convoluted nucleus cells (CNC); and Group III, 27 patients with more than 10% CNC. Clinical comparison of the three groups with respect to age and sex distribution, physical and hematologic findings at presentation, response to therapy and survival showed no significant differences. Patients with a mediastinal mass had a significantly shorter survival compared to those without a mediastinal mass, regardless of the presence or absence of CNC (p = 0.0001). Our results indicate that the nuclear convolutions can easily be recognized in blood or bone marrow films of patients with ALL, and that their presence has no provable clinical significance.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Pangalis</LastName>
+<ForeName>G A</ForeName>
+<Initials>GA</Initials>
+</Author>
+<Author>
+<LastName>Nathwani</LastName>
+<ForeName>B N</ForeName>
+<Initials>BN</Initials>
+</Author>
+<Author>
+<LastName>Rappaport</LastName>
+<ForeName>H</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author>
+<LastName>Rosen</LastName>
+<ForeName>R B</ForeName>
+<Initials>RB</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Cancer</MedlineTA>
+<NlmUniqueID>0374236</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adolescence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Bone Marrow</DescriptorName>
+<QualifierName>ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cell Nucleus</DescriptorName>
+<QualifierName MajorTopicYN="Y">ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Child</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Child, Preschool</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Comparative Study</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Infant</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Leukemia, Lymphocytic</DescriptorName>
+<QualifierName>blood</QualifierName>
+<QualifierName>therapy</QualifierName>
+<QualifierName MajorTopicYN="Y">ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Lymphoma, Non-Hodgkin</DescriptorName>
+<QualifierName MajorTopicYN="Y">ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mediastinal Neoplasms</DescriptorName>
+<QualifierName>therapy</QualifierName>
+<QualifierName>ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Prognosis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

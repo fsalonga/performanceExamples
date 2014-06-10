@@ -1,0 +1,83 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011523</MedlineID>
+<PMID>420885</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3126</ISSN>
+<JournalIssue>
+<Volume>35</Volume>
+<Issue>1-2</Issue>
+<PubDate>
+<Year>1979</Year>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Effects of neonatal bulbectomy on later discrimination learning in mice.</ArticleTitle>
+<Pagination>
+<MedlinePgn>33-42</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The olfactory bulbs of mice were lesioned at 24 h of age and their performance in learning a black-white discrimination task was compared with undernourished mice that grew from birth at the same rate as the bulbectomised animals. The mice were tested at 90 days of age and their behaviour in a Y-maze was compared with that of control operated and unoperated samples. The performance of the bulbectomised mice spent more time at the choicepoint and frequently failed to run the maze. The error rate reduction shown by the bulbectomised mice was similar to that of the controls and is accounted for in terms of a reduced frequency of entry and reversals into the maze arms. The results are discussed in relation to the size of the lesions and factors affecting the neurogenesis of the olfactory brain early in life.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Cooper</LastName>
+<ForeName>A J</ForeName>
+<Initials>AJ</Initials>
+</Author>
+<Author>
+<LastName>Cowley</LastName>
+<ForeName>J J</ForeName>
+<Initials>JJ</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>SWITZERLAND</Country>
+<MedlineTA>Biol Neonate</MedlineTA>
+<NlmUniqueID>0247551</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Animals, Newborn</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Behavior, Animal</DescriptorName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Discrimination Learning</DescriptorName>
+<QualifierName MajorTopicYN="Y">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mice</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Olfactory Bulb</DescriptorName>
+<QualifierName MajorTopicYN="Y">physiology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

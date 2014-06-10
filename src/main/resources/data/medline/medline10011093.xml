@@ -1,0 +1,108 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011093</MedlineID>
+<PMID>420665</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>11</Month>
+<Day>14</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0095-6562</ISSN>
+<JournalIssue>
+<Volume>50</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Carbon monoxide and human time discrimination: failure to replicate Beard-Wertheim experiments.</ArticleTitle>
+<Pagination>
+<MedlinePgn>40-3</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Beard and Wertheium described a dose-related deficit in human time perception during low level CO exposure. Two other laboratories were unable to replicate this finding, although methodological differences could explain these failures. This study more precisely repeated the original experiment, but failed again to obtain any CO-related deficit. The bulk of evidence, therefore, does not indicate any adverse effect of low level CO exposure on time perception in healthy young adults.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Otto</LastName>
+<ForeName>D A</ForeName>
+<Initials>DA</Initials>
+</Author>
+<Author>
+<LastName>Benigus</LastName>
+<ForeName>V A</ForeName>
+<Initials>VA</Initials>
+</Author>
+<Author>
+<LastName>Prah</LastName>
+<ForeName>J D</ForeName>
+<Initials>JD</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Aviat Space Environ Med</MedlineTA>
+<NlmUniqueID>7501714</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>630-08-0</RegistryNumber>
+<NameOfSubstance>Carbon Monoxide</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9061-29-4</RegistryNumber>
+<NameOfSubstance>Carboxyhemoglobin</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<CitationSubset>S</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Acoustic Stimulation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Carbon Monoxide</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Carboxyhemoglobin</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Discrimination (Psychology)</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Time Perception</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+<OtherID Source="NASA">79123724</OtherID>
+</MedlineCitation>

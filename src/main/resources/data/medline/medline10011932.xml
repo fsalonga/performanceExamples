@@ -1,0 +1,113 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011932</MedlineID>
+<PMID>421172</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0008-543X</ISSN>
+<JournalIssue>
+<Volume>43</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Further observations on the inhibition of tumor growth by C. parvum with cyclophosphamide. VII. Effect of treatment prior to primary tumor removal on the growth of distant tumor.</ArticleTitle>
+<Pagination>
+<MedlinePgn>451-8</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The present investigations were directed toward determining whether primary tumor manipulation prior to its removal is advantageous for the control of metastases and survival. Studies were carried out to ascertain whether 1) there is justification for delaying surgical removal of a primary tumor to permit preoperative administration of cyclophosphamide (CY) and/or C. parvum (CP) and 2) there is an advantage to administering the immunotherapy directly into a primary tumor. After operation, in all investigations, systemic CP and CY was used. Despite the putative similarity of animals, tumors and treatment regimens there was marked variation in response of tumors to therapy. No benefit was derived from administering preoperative immunotherapy alone. When operation was delayed to employ systemic immuno-chemotherapy, a slight improvement in the control of distant tumor was noted. The employment of preoperative intratumor immunotherapy led to a greater prolongation of survival and more inhibition of distant tumor growth than did immediate primary tumor removal or the use of preoperative systemic immunotherapy. The results suggest that there may be an advantage to delaying removal of a primary tumor so that it may be employed in therapeutic strategies directed toward control of metastatic disease.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Fisher</LastName>
+<ForeName>B</ForeName>
+<Initials>B</Initials>
+</Author>
+<Author>
+<LastName>Gebhardt</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author>
+<LastName>Saffer</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Cancer</MedlineTA>
+<NlmUniqueID>0374236</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>50-18-0</RegistryNumber>
+<NameOfSubstance>Cyclophosphamide</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cyclophosphamide</DescriptorName>
+<QualifierName MajorTopicYN="Y">administration &#38; dosage</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Immunotherapy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mammary Neoplasms, Experimental</DescriptorName>
+<QualifierName>surgery</QualifierName>
+<QualifierName MajorTopicYN="Y">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mice</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mice, Inbred C3H</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neoplasm Metastasis</DescriptorName>
+<QualifierName MajorTopicYN="Y">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Propionibacterium acnes</DescriptorName>
+<QualifierName MajorTopicYN="Y">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Time Factors</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

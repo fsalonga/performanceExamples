@@ -1,0 +1,121 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011724</MedlineID>
+<PMID>421044</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0007-1447</ISSN>
+<JournalIssue>
+<Volume>1</Volume>
+<Issue>6158</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>27</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Acute effects of saline, calcitonin, and hydrocortisone on plasma calcium in vitamin D intoxication.</ArticleTitle>
+<Pagination>
+<MedlinePgn>232-3</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Heyburn</LastName>
+<ForeName>P J</ForeName>
+<Initials>PJ</Initials>
+</Author>
+<Author>
+<LastName>Francis</LastName>
+<ForeName>R M</ForeName>
+<Initials>RM</Initials>
+</Author>
+<Author>
+<LastName>Peacock</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Br Med J</MedlineTA>
+<NlmUniqueID>0372673</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>1406-16-2</RegistryNumber>
+<NameOfSubstance>Vitamin D</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>50-23-7</RegistryNumber>
+<NameOfSubstance>Hydrocortisone</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7647-14-5</RegistryNumber>
+<NameOfSubstance>Sodium Chloride</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9007-12-9</RegistryNumber>
+<NameOfSubstance>Calcitonin</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Bone Resorption</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Calcitonin</DescriptorName>
+<QualifierName>therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Case Report</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hydrocortisone</DescriptorName>
+<QualifierName MajorTopicYN="Y">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hypercalcemia</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Sodium Chloride</DescriptorName>
+<QualifierName>therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Vitamin D</DescriptorName>
+<QualifierName MajorTopicYN="Y">poisoning</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

@@ -1,0 +1,151 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011386</MedlineID>
+<PMID>570416</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>550</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>2</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Studies of a large transformation-increased membrane protein in the BHK21 cell system.</ArticleTitle>
+<Pagination>
+<MedlinePgn>435-59</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>We have recently described in BHK cells a plasma membrane protein of molecular weight 177,000, which is significantly increased in Hamster Sarcoma Virus-transformed cells (Lage-Davila, A. and Montagnier, L. (1977) Biochem. Biophys. Res. Commun. 79, 577--584). We present now a study of proteins from purified plasma membrane fractions in the same pair of clones. Solubilization conditions, cross-linking experiments, metabolic labelling and enzymatic radioiodination allow to characterize this 177,000 transformation-increased protein as an integral membrane glycoprotein partially exposed at the outer cell surface. Additional information on other membrane proteins in this system is also given.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Lage-Davila</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author>
+<LastName>Montagnier</LastName>
+<ForeName>L</ForeName>
+<Initials>L</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Iodides</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Membrane Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Phenanthrolines</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Polyethylene Glycols</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>3416-24-8</RegistryNumber>
+<NameOfSubstance>Glucosamine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>60-24-2</RegistryNumber>
+<NameOfSubstance>Mercaptoethanol</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>63-68-3</RegistryNumber>
+<NameOfSubstance>Methionine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7440-50-8</RegistryNumber>
+<NameOfSubstance>Copper</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cell Line</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cell Membrane</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Cell Transformation, Viral</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Comparative Study</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Copper</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Glucosamine</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hamsters</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Iodides</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Membrane Proteins</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mercaptoethanol</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Methionine</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Molecular Weight</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Oncogenic Viruses</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phenanthrolines</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Polyethylene Glycols</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

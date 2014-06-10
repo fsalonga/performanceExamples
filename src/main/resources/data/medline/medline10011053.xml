@@ -1,0 +1,93 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011053</MedlineID>
+<PMID>369492</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0003-9950</ISSN>
+<JournalIssue>
+<Volume>97</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>HLA antigens in ocular cicatricial pemphigoid.</ArticleTitle>
+<Pagination>
+<MedlinePgn>479</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>HLA antigen frequencies were studied in 45 patients with ocular cicatricial pemphigoid. HLA-B12 was found to have an increased frequency of 44.4% in patients with ocular cicatricial pemphigoid, which was statistically significant when compared with a frequency of 19.6% in the control population (P less than .001 or P less than .031 when corrected for the number of antigens tested). The results of this study suggest that there is an immunogenetic susceptibility to the development of ocular cicatricial pemphigoid.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Mondino</LastName>
+<ForeName>B J</ForeName>
+<Initials>BJ</Initials>
+</Author>
+<Author>
+<LastName>Brown</LastName>
+<ForeName>S I</ForeName>
+<Initials>SI</Initials>
+</Author>
+<Author>
+<LastName>Rabin</LastName>
+<ForeName>B S</ForeName>
+<Initials>BS</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Arch Ophthalmol</MedlineTA>
+<NlmUniqueID>7706534</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>HLA Antigens</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Eye Diseases</DescriptorName>
+<QualifierName MajorTopicYN="Y">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>HLA Antigens</DescriptorName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Skin Diseases, Vesiculobullous</DescriptorName>
+<QualifierName MajorTopicYN="Y">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

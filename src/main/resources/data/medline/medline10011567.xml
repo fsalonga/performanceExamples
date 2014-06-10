@@ -1,0 +1,126 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011567</MedlineID>
+<PMID>369633</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3592</ISSN>
+<JournalIssue>
+<Volume>21</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Apr</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Process characteristics of cell lysis mutants of Saccharomyces cerevisiae.</ArticleTitle>
+<Pagination>
+<MedlinePgn>659-70</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Several temperature-sensitive lysis mutants of Saccharomyces cerevisiae were selected according to their ability to release alkaline phosphatase when incubated at a nonpermissive temperature. For two mutants, cell lysis and release of alkaline phosphatase reached a maximum when cells in the logarithmic growth phase were shifted to the nonpermissive temperature. Morphological changes, as well as changes in macromolecular composition of the cells, were observed. Growth is necessary and oxygen is important for the expression of cell lysis at the nonpermissive temperature.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Boudrant</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author>
+<LastName>DeAngelo</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author>
+<LastName>Sinskey</LastName>
+<ForeName>A J</ForeName>
+<Initials>AJ</Initials>
+</Author>
+<Author>
+<LastName>Tannenbaum</LastName>
+<ForeName>S R</ForeName>
+<Initials>SR</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biotechnol Bioeng</MedlineTA>
+<NlmUniqueID>7502021</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Fungal Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>63231-63-0</RegistryNumber>
+<NameOfSubstance>RNA</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>64-17-5</RegistryNumber>
+<NameOfSubstance>Ethanol</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.1.3.1</RegistryNumber>
+<NameOfSubstance>Alkaline Phosphatase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Alkaline Phosphatase</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cell Division</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Ethanol</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Fungal Proteins</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mutation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>RNA</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Saccharomyces cerevisiae</DescriptorName>
+<QualifierName MajorTopicYN="Y">cytology</QualifierName>
+<QualifierName>drug effects</QualifierName>
+<QualifierName>enzymology</QualifierName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, Non-P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Temperature</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

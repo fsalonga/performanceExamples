@@ -1,0 +1,104 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011535</MedlineID>
+<PMID>420895</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3223</ISSN>
+<JournalIssue>
+<Volume>14</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Neuropsychological and power spectral EEG investigations of the obsessive-compulsive syndrome.</ArticleTitle>
+<Pagination>
+<MedlinePgn>119-30</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Eleven consecutive patients with primary obsessive-compulsive syndrome were studied neuropsychologically and the power spectral EEG characteristic of ten of these patients unmedicated, at rest, and during cognitive tasks were analyzed. The finding of predominantly left frontal dysfunction in the obsessional syndrome is discussed in the light of neurophysiological and psychosurgical evidence which suggest that perturbation of the cingulate-orbital frontal connections modulates obsessive-compulsive symptomatology.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Flor-Henry</LastName>
+<ForeName>P</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author>
+<LastName>Yeudall</LastName>
+<ForeName>L T</ForeName>
+<Initials>LT</Initials>
+</Author>
+<Author>
+<LastName>Koles</LastName>
+<ForeName>Z J</ForeName>
+<Initials>ZJ</Initials>
+</Author>
+<Author>
+<LastName>Howarth</LastName>
+<ForeName>B G</ForeName>
+<Initials>BG</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biol Psychiatry</MedlineTA>
+<NlmUniqueID>0213264</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Brain</DescriptorName>
+<QualifierName>physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Dominance, Cerebral</DescriptorName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Electroencephalography</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Obsessive-Compulsive Disorder</DescriptorName>
+<QualifierName>physiopathology</QualifierName>
+<QualifierName MajorTopicYN="Y">psychology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Psychological Tests</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

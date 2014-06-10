@@ -1,0 +1,120 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011206</MedlineID>
+<PMID>420737</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0007-1048</ISSN>
+<JournalIssue>
+<Volume>41</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>The effect of desferrioxamine on fibroblasts and collagen formation in cell cultures.</ArticleTitle>
+<Pagination>
+<MedlinePgn>69-76</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Iron is essential for the activity of proline hydroxylase and is an important co-factor in collagen synthesis. Fibroblast cultures exposed to desferrioxamine show impairment of DNA synthesis and reduced collagen formation, as measured by hydroxyproline synthesis and the deposition of hydroxyproline in the cell mat. In patients with transfusional iron overload long-term treatment with desferrioxamine is said to result in the inhibition of hepatic fibrosis. It is suggested that this may be a direct effect on collagen synthesis rather than an effect of reduced iron stores.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Hunt</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author>
+<LastName>Richards</LastName>
+<ForeName>R J</ForeName>
+<Initials>RJ</Initials>
+</Author>
+<Author>
+<LastName>Harwood</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author>
+<LastName>Jacobs</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Br J Haematol</MedlineTA>
+<NlmUniqueID>0372544</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>51-35-4</RegistryNumber>
+<NameOfSubstance>Hydroxyproline</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>70-51-9</RegistryNumber>
+<NameOfSubstance>Deferoxamine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9007-34-5</RegistryNumber>
+<NameOfSubstance>Collagen</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9007-49-2</RegistryNumber>
+<NameOfSubstance>DNA</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Cell Division</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cells, Cultured</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Collagen</DescriptorName>
+<QualifierName MajorTopicYN="Y">biosynthesis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>DNA</DescriptorName>
+<QualifierName>biosynthesis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Deferoxamine</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Fibroblasts</DescriptorName>
+<QualifierName>cytology</QualifierName>
+<QualifierName>drug effects</QualifierName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hydroxyproline</DescriptorName>
+<QualifierName>biosynthesis</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

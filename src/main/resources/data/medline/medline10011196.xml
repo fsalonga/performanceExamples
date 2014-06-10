@@ -1,0 +1,104 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011196</MedlineID>
+<PMID>84679</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0007-1048</ISSN>
+<JournalIssue>
+<Volume>41</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Subtypes of i demonstrated by the use of atypical Ii cell types and inhibition studies.</ArticleTitle>
+<Pagination>
+<MedlinePgn>105-13</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Haemagglutination, absorption and elution studies with several anti-i sera and atypical Ii red cell types and Oh cells were carried out and three subtypes of specificity were demonstrated. The fourth i subtype was demonstrated by an inhibition method using human serum and amniotic fluid as a source of i substance.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Dzierzkowa-Borodej</LastName>
+<ForeName>W</ForeName>
+<Initials>W</Initials>
+</Author>
+<Author>
+<LastName>Voak</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Br J Haematol</MedlineTA>
+<NlmUniqueID>0372544</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Blood Groups</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Epitopes</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>I Blood-Group System</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Agglutination Tests</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Amniotic Fluid</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Blood Groups</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Classification</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Epitopes</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hemagglutination Inhibition Tests</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">I Blood-Group System</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phenotype</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

@@ -1,0 +1,147 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011335</MedlineID>
+<PMID>420805</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>20</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Stimulation of protein synthesis and Met-tRNAf binding by phosphorylated sugars: studies on their mechanism of action.</ArticleTitle>
+<Pagination>
+<MedlinePgn>624-32</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>It has been previously reported by J. R. Lenz et al. [(1978) Biochemistry 17, 80--87] that certain phosphorylated sugars stimulate protein synthesis in extracts of mammalian cells. This effect was found to be due to a stimulation of Met-tRNAf binding to 40S ribosomal subunits, both in whole extracts and with isolated ribosomes. However, formation of a ternary complex of Met-tRNAf, initiation factor eIF-2, and GTP was not stimulated. It was also shown that the stimulation is not due solely to metabolism of the sugars. The present communication further characterizes the stimulatory effect of the sugars. They were found to prevent the inactivation of ribosomes that occurs during protein synthesis incubations. The sugars were also found to inhibit cAMP-dependent protein kinases noncompetitively. However, they stimulate Met-tRNAf binding to 40S ribosomal subunits even under conditions in which an inhibition of protein kinase has no effect. Although it has bot been possible to demonstrate a direct association of the sugars with the 40S initiation complex, the evidence suggests that their effect is mediated by an interaction with one of the components involved in the formation of this complex.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>West</LastName>
+<ForeName>D K</ForeName>
+<Initials>DK</Initials>
+</Author>
+<Author>
+<LastName>Lenz</LastName>
+<ForeName>R J</ForeName>
+<Initials>RJ</Initials>
+</Author>
+<Author>
+<LastName>Baglioni</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Blood Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Glucosephosphates</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Peptide Initiation Factors</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>16009-13-5</RegistryNumber>
+<NameOfSubstance>Hemin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>63-68-3</RegistryNumber>
+<NameOfSubstance>Methionine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9014-25-9</RegistryNumber>
+<NameOfSubstance>RNA, Transfer</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Blood Proteins</DescriptorName>
+<QualifierName MajorTopicYN="Y">biosynthesis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Glucosephosphates</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hemin</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Methionine</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Peptide Chain Initiation</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Peptide Initiation Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>RNA, Transfer</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rabbits</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Reticulocytes</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Ribosomes</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Translation, Genetic</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

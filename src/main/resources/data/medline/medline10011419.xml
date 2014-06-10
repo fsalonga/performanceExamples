@@ -1,0 +1,124 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011419</MedlineID>
+<PMID>570417</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>561</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>26</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Deoxyribonucleoside triphosphate pools and differential thymidine sensitivities of cultured mouse lymphoma and myeloma cells.</ArticleTitle>
+<Pagination>
+<MedlinePgn>110-23</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The effects of various concentrations of thymidine on DNA synthesis and deoxyribonucleoside triphosphate contents of a highly thymidine-sensitive cultured mouse lymphoma cell line (WEHI-7) and a relatively resistant mouse myeloma cell line (HPC-108) have been studied by 32P-labelling techniques. DNA synthesis in the myeloma cells was inhibited by thymidine at concentrations of 10(-3) M or greater, while DNA synthesis in the lymphoma cells was inhibited by concentrations 30-fold lower, consistent with the 25-fold difference between the two cell lines in sensitivity to growth inhibition by thymidine. Thymidine caused marked elevation of the dTTP and dGTP pools, slight elevation or no change in the dATP pool and a marked decrease in the dCTP pool in cells of both lines. The greater resistance of HPC-108 cells to thymidine inhibition was related to the finding that they normally contained a much higher concentration of dCTP than did the WEHI-7 cells. Pool size measurements on thymidine-treated (10(-4) M) cells of an additional seven sensitive lymphoma and six relatively resistant myeloma cell lines indicated that in all 15 lines studied, with one exception, a critical concentration of dCTP of about 32 nmol per ml of cell volume was required for the maintenance of normal rates of DNA synthesis. The dCTP content found normally in the lymphoma cells was only a little above this concentration. Amongst the myeloma lines, three contained similarly low levels of dCTP, but were more resistant to thymidine inhibition probably because of their inefficient production of dTTP from thymidine. Cells of the other four myeloma lines (including HPC-108) normally contained much higher dCTP concentrations. The mechanism of thymidine action was explained by reference to the known allosteric properties of ribonucleotide reductase.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Reynolds</LastName>
+<ForeName>E C</ForeName>
+<Initials>EC</Initials>
+</Author>
+<Author>
+<LastName>Harris</LastName>
+<ForeName>A W</ForeName>
+<Initials>AW</Initials>
+</Author>
+<Author>
+<LastName>Finch</LastName>
+<ForeName>L R</ForeName>
+<Initials>LR</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>DNA, Neoplasm</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Deoxyribonucleotides</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>50-89-5</RegistryNumber>
+<NameOfSubstance>Thymidine</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cell Cycle</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cell Division</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cell Line</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>DNA, Neoplasm</DescriptorName>
+<QualifierName>biosynthesis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Deoxyribonucleotides</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Lymphoma</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mice</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neoplasms, Experimental</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Plasmacytoma</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Thymidine</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

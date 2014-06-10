@@ -1,0 +1,110 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011560</MedlineID>
+<PMID>420915</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0306-042X</ISSN>
+<JournalIssue>
+<Volume>6</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>The determination of testosterone in hamster prostate by gas chromatography mass spectrometry with selected metastable peak monitoring.</ArticleTitle>
+<Pagination>
+<MedlinePgn>113-6</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Quantitative analyses of testosterone, as the methyl oxime t-butyldimethylsilyl ether, are performed by gas chromatography mass spectrometry with selected monitoring of the metastable peak corresponding to the fragmentation [M]+. leads to [M-C4H9]+ in the field free region preceding the electric sector of a double focusing mass spectrometer. A detection limit of c. 30 pg is observed during analyses of the standard compound. The method is applied to the quantitative determination of testosterone in extracts of prostatic tissue from the golden hamster, using epitestosterone as the internal standard. The analytical specificity is similar to that achieved during gas chromatography high resolution mass spectrometry with selected ion detection of [M]+. ions; gas chromatography low resolution mass spectrometry is of inadequate specificity.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Gaskell</LastName>
+<ForeName>S J</ForeName>
+<Initials>SJ</Initials>
+</Author>
+<Author>
+<LastName>Finney</LastName>
+<ForeName>R W</ForeName>
+<Initials>RW</Initials>
+</Author>
+<Author>
+<LastName>Harper</LastName>
+<ForeName>M E</ForeName>
+<Initials>ME</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Biomed Mass Spectrom</MedlineTA>
+<NlmUniqueID>0430246</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>57-85-2</RegistryNumber>
+<NameOfSubstance>Testosterone</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Chromatography, Gas</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Comparative Study</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Electromagnetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Fractionation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hamsters</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mesocricetus</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Prostate</DescriptorName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Spectrum Analysis, Mass</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Testosterone</DescriptorName>
+<QualifierName>analogs &#38; derivatives</QualifierName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

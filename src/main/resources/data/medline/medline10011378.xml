@@ -1,0 +1,130 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011378</MedlineID>
+<PMID>420822</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>5</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+<Day>6</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Partial purification and characterization of a human 3-methyladenine-DNA glycosylase.</ArticleTitle>
+<Pagination>
+<MedlinePgn>911-6</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>A DNA glycosylase was purified about 30-fold from cultured human lymphoblasts (CCRF-CEM line) and was found to cleave 3-methyladenine from DNA alkylated with methyl methanesulfonate. The enzyme did not promote the release of 1-methyladenine, 7-methyladenine, or 7-methylguanine from DNA nor did it act on denatured methylated DNA. It produced apurinic sites in DNA alkylated with N-methyl-N-nitrosourea and ethyl methane-sulfonate as well as methyl methanesulfonate but not in untreated DNA or in DNA alkylated with nitrogen mustard or irradiated with ultraviolet light or X-rays. The glycosylase was free of detectable endonuclease activity in experiments with untreated DNA or DNA exposed to ultraviolet light; low levels of endonuclease activity, obtained when X-irradiated, alkylated, or depurinated DNA was the substrate, were attributed to contaminant apurinic endonuclease activity. This 3-methyladenine-DNA glycosylase has an estimated molecular weight of 34,000, is not dependent on divalent metal ions, and shows optimal activity at pH 7.5--8.5.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Brent</LastName>
+<ForeName>T P</ForeName>
+<Initials>TP</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>DNA, Viral</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Polydeoxyribonucleotides</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>73-24-5</RegistryNumber>
+<NameOfSubstance>Adenine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9007-49-2</RegistryNumber>
+<NameOfSubstance>DNA</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.2.2.</RegistryNumber>
+<NameOfSubstance>Nucleosidases</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adenine</DescriptorName>
+<QualifierName>analogs &#38; derivatives</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Alkylation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cell Line</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>DNA</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+<QualifierName>radiation effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>DNA, Viral</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Lymphocytes</DescriptorName>
+<QualifierName>enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Nucleic Acid Denaturation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Nucleosidases</DescriptorName>
+<QualifierName MajorTopicYN="Y">isolation &#38; purification</QualifierName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Polydeoxyribonucleotides</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Substrate Specificity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Thymus Gland</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

@@ -1,0 +1,142 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011861</MedlineID>
+<PMID>421138</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-8993</ISSN>
+<JournalIssue>
+<Volume>165</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Apr</Month>
+<Day>13</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Responses in sympathetic nerves of the dog evoked by stimulation of somatic nerves.</ArticleTitle>
+<Pagination>
+<MedlinePgn>219-33</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Responses in thoracic and renal sympathetic nerves evoked by electrical stimulation of cutaneous and muscle nerves in anaesthetized mongrel dogs were observed. Supramaximal stimulation of cutaneous nerves evoked two responses in both thoracic and renal nerves with latencies in the ranges 58--184 msec and 349--733 msec which are referred to as the early and late responses. It was shown that the early and late responses were evoked by group III and group IV afferent fibres respectively. Stimulation of muscle nerves of the forelimb and the hypoglossal nerve evoked smaller early responses which were considered to be due to activation of group III fibres and which had latencies in the range 92--157 msec. Supramaximal stimulation of muscle nerves in the hind limb failed to evoke any responses in approximately two-thirds of preparations and in the remainder only low level inconsistent early responses were observed. No matter how intense the stimuli applied to muscle nerves there were never any responses which could be related to the activation of group IV fibres.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Whitwam</LastName>
+<ForeName>J G</ForeName>
+<Initials>JG</Initials>
+</Author>
+<Author>
+<LastName>Kidd</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author>
+<LastName>Fussey</LastName>
+<ForeName>I V</ForeName>
+<Initials>IV</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Brain Res</MedlineTA>
+<NlmUniqueID>0045503</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Afferent Pathways</DescriptorName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Dogs</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Efferent Pathways</DescriptorName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Electric Stimulation</DescriptorName>
+<QualifierName>methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Evoked Potentials</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Forelimb</DescriptorName>
+<QualifierName>innervation</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hindlimb</DescriptorName>
+<QualifierName>innervation</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kidney</DescriptorName>
+<QualifierName>innervation</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Muscles</DescriptorName>
+<QualifierName MajorTopicYN="Y">innervation</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Radial Nerve</DescriptorName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Reaction Time</DescriptorName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Reflex</DescriptorName>
+<QualifierName MajorTopicYN="Y">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Sciatic Nerve</DescriptorName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Skin</DescriptorName>
+<QualifierName MajorTopicYN="Y">innervation</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Sural Nerve</DescriptorName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Sympathetic Nervous System</DescriptorName>
+<QualifierName MajorTopicYN="Y">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Thoracic Nerves</DescriptorName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Tibial Nerve</DescriptorName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

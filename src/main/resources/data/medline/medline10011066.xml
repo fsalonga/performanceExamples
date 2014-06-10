@@ -1,0 +1,130 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011066</MedlineID>
+<PMID>105696</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0003-9950</ISSN>
+<JournalIssue>
+<Volume>97</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Experimental ciliochoroidal detachment. Effect on intraocular pressure and aqueous humor flow.</ArticleTitle>
+<Pagination>
+<MedlinePgn>536-41</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Ciliochoroidal detachments were produced in rhesus monkeys by injecting glutathione bicarbonate Ringer's solution, autologous serum, or silicone oil into the anterior suprachoroidal space. Silicone oil detachments, like sham operations, caused a transient 2 mm Hg reduction in intraocular pressure. Detachments with glutathione bicarbonate Ringer's solution or serum caused a 6 mm Hg reduction in intraocular pressure, which normalized in three weeks. Aqueous humor flow in serum-detached eyes was normal, indicating that the hypotonia does not result from reduced aqueous humor formation. Blood was present in Schlemm's canal in most eyes with hypotonia, which suggests that hypotonia is not the result of enhanced conventional aqueous humor outflow. Therefore, it is postulated that hypotonia might result from enhanced aqueous humor outflow from the anterior chamber into the suprachoroidal space and out of the eye through the emissarial channels of the sclera (uveoscleral outflow).</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Pederson</LastName>
+<ForeName>J E</ForeName>
+<Initials>JE</Initials>
+</Author>
+<Author>
+<LastName>Gaasterland</LastName>
+<ForeName>D E</ForeName>
+<Initials>DE</Initials>
+</Author>
+<Author>
+<LastName>MacLellan</LastName>
+<ForeName>H M</ForeName>
+<Initials>HM</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Arch Ophthalmol</MedlineTA>
+<NlmUniqueID>7706534</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Oils</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Silicones</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Solutions</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>70-18-8</RegistryNumber>
+<NameOfSubstance>Glutathione</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Aqueous Humor</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cornea</DescriptorName>
+<QualifierName>pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Glutathione</DescriptorName>
+<QualifierName>adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Haplorhini</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Intraocular Pressure</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Macaca mulatta</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Oils</DescriptorName>
+<QualifierName>adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Plasma</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Silicones</DescriptorName>
+<QualifierName>adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Solutions</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Uveal Diseases</DescriptorName>
+<QualifierName>chemically induced</QualifierName>
+<QualifierName>pathology</QualifierName>
+<QualifierName MajorTopicYN="Y">physiopathology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

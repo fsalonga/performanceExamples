@@ -1,0 +1,111 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011460</MedlineID>
+<PMID>369612</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>566</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>9</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Kinetics of pepsin-initiated coagulation of kappa-casein.</ArticleTitle>
+<Pagination>
+<MedlinePgn>390-6</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The kinetics of pepsin initiated coagulation of kappa-casein have been studied at pH 5.8. The primary and secondary phases of coagulation are shown to proceed simultaneously. The theory of enzymatically initiated clotting reactions proposed by Payens (Payens, T.A.J. (1976) Neth. Milk Dairy J. 30, 55--59) has been applied to this clotting system and has been used to obtain rate constants for the secondary phase of coagulation. As expected, clotting rate constants for kappa-casein increase with pepsin concentration. An activation energy of 30.6 kcal/mol has been obtained for the secondary phase of coagulation. Turbidity measurements are a convenient means for studying the secondary phase of coagulation but do not provide an unambiguous means for studying the primary phase of the reaction.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Hyslop</LastName>
+<ForeName>D B</ForeName>
+<Initials>DB</Initials>
+</Author>
+<Author>
+<LastName>Richardson</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author>
+<LastName>Ryan</LastName>
+<ForeName>D S</ForeName>
+<Initials>DS</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Caseins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.4.23.1</RegistryNumber>
+<NameOfSubstance>Pepsin A</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Caseins</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mathematics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Milk</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Nephelometry and Turbidimetry</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Pepsin A</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Swine</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Temperature</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Thermodynamics</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

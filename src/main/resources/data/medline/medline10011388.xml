@@ -1,0 +1,144 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011388</MedlineID>
+<PMID>420828</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>550</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>2</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>On the mode of liposome-cell interactions. Biotin-conjugated lipids as ultrastructural probes.</ArticleTitle>
+<Pagination>
+<MedlinePgn>464-73</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>An efficient method for labeling and visualizing phospholipids at the ultrastructural level is described. Biotin was coupled to the amines of appropriate phospholipids via the N-hydroxysuccinimide ester. The biotinylated lipid could be specifically labeled by ferritin-avidin conjugates and detected by transmission electron microscopy. The lipid derivatives were analyzed and evaluated in terms of their resemblance to the original lipid. Although differing in some aspects from the parent lipid molecules, the biotinyl derivatives still retain the basic characteristics of lipids vis-a-vis their orientation and position in the membrane bilayer. The latter property renders the biotinylated lipid qualitatively suitable for tracing the fate of the lipid component(s) of liposomes during their interaction with biological membranes of various cell types. Using this system, we propose that the extent and pattern of the liposome-cell interaction depends, at least in part, on the cell type employed. This observation may be due to intrinsic variations in cell surface structure and properties relative to those of the liposome.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Bayer</LastName>
+<ForeName>E A</ForeName>
+<Initials>EA</Initials>
+</Author>
+<Author>
+<LastName>Rivnay</LastName>
+<ForeName>B</ForeName>
+<Initials>B</Initials>
+</Author>
+<Author>
+<LastName>Skutelsky</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Liposomes</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Membrane Lipids</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Phospholipids</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>1405-69-2</RegistryNumber>
+<NameOfSubstance>Avidin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>58-85-5</RegistryNumber>
+<NameOfSubstance>Biotin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9007-73-2</RegistryNumber>
+<NameOfSubstance>Ferritin</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Avidin</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Biotin</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cell Membrane</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Comparative Study</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Erythrocytes</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Ferritin</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Liposomes</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Lymphocytes</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Membrane Lipids</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mice</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phospholipids</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Spleen</DescriptorName>
+<QualifierName MajorTopicYN="Y">cytology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

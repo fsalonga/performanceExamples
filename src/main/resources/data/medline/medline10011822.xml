@@ -1,0 +1,147 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011822</MedlineID>
+<PMID>421124</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-8993</ISSN>
+<JournalIssue>
+<Volume>160</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>19</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Effect of prolactin on dopamine synthesis in medial basal hypothalamus: evidence for a short loop feedback.</ArticleTitle>
+<Pagination>
+<MedlinePgn>431-44</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Several procedures were utilized to study the effects of prolactin on dopamine synthesis in the medial basal hypothalamus of the rat. Elevation of serum prolactin was produced by the administration of trifluoperazine (5 mg/kg, i.p.) and resulted in a significant increase in the conversion of [3',5'-3H]tyrosine to dopamine when measured in slices of medial basal hypothalamus and striatum. Hypophysectomy abolished this effect of trifluoperazine in the medial basal hypothalamus but not in the striatum. In addition, the synthesis of dopamine was significantly elevated in slices of medial basal hypothalamus obtained from rats bearing pituitary tumor implants that secreted microgram quantities of prolactin. In contrast, the in vitro synthesis of dopamine in the striatum of such rats was increased by the secretory products in one tumor line but decreased in another compared to that observed in control animals. It is suggested that the ability of prolactin to accelerate the synthesis of dopamine in the medial basal hypothalamus might constitute a short loop feedback system that finely regulates prolactin secretion.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Perkins</LastName>
+<ForeName>N A</ForeName>
+<Initials>NA</Initials>
+</Author>
+<Author>
+<LastName>Westfall</LastName>
+<ForeName>T C</ForeName>
+<Initials>TC</Initials>
+</Author>
+<Author>
+<LastName>Paul</LastName>
+<ForeName>C V</ForeName>
+<Initials>CV</Initials>
+</Author>
+<Author>
+<LastName>MacLeod</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author>
+<LastName>Rogol</LastName>
+<ForeName>A D</ForeName>
+<Initials>AD</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Brain Res</MedlineTA>
+<NlmUniqueID>0045503</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>117-89-5</RegistryNumber>
+<NameOfSubstance>Trifluoperazine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>51-61-6</RegistryNumber>
+<NameOfSubstance>Dopamine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>55520-40-6</RegistryNumber>
+<NameOfSubstance>Tyrosine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9002-62-4</RegistryNumber>
+<NameOfSubstance>Prolactin</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Corpus Striatum</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Dopamine</DescriptorName>
+<QualifierName MajorTopicYN="Y">biosynthesis</QualifierName>
+<QualifierName>blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Feedback</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hypophysectomy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hypothalamus</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hypothalamus, Middle</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Prolactin</DescriptorName>
+<QualifierName>blood</QualifierName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Trifluoperazine</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Tyrosine</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

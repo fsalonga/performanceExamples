@@ -1,0 +1,161 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011470</MedlineID>
+<PMID>369613</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>582</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>1</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Effects of benzimidazole on the purine and pyrimidine metabolism of yeast.</ArticleTitle>
+<Pagination>
+<MedlinePgn>458-69</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Yeast cells inhibited by benzimidazole accumulate hypoxanthine with associated efflux of xanthine. Unlike control cells, inhibited cells contain no detectable free UMP and CMP. Benzimidazole decreases uptake of [8-14C]hypoxanthine into the intracellular pool of hypoxanthine and xanthine but causes radioactive xanthine to accumulate in the medium. In inhibited cultures there is a threefold increase in incorporation of [8-14C]hypoxanthine into the total (intracellular plus extracellular) xanthine. Uptake of [8-14C]hypoxanthine into free nucleotides and into bound adenine and guanine was inhibited by 70%. Uptake of [U-14C]glycine into IMP, AMP, GMP, DNA and RNA was also substantially decreased. Incorporation of [2-14C]uracil into the intracellular uracil pool was inhibited by 30% and into free uridine and cytidine by over 90%. Benzimidazole inhibited incorporation of [8-3H]IMP into AMP and GMP, and decreased substantially the activity of glutamine-amidophosphoribosyltransferase (EC 2.4.2.14). Yeast cultures were shown to N-ribotylate benzimidazole. Results are consistent with benzimidazole inhibiting yeast growth by competing for P-rib-PP and so depriving other ribotylation processes such as the 'salvage' pathways and de novo synthesis of purines and pyrimidines.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Brown</LastName>
+<ForeName>E G</ForeName>
+<Initials>EG</Initials>
+</Author>
+<Author>
+<LastName>Evans</LastName>
+<ForeName>C H</ForeName>
+<Initials>CH</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Benzimidazoles</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Fungal Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Hypoxanthines</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Purine Nucleotides</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Purines</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Pyrimidines</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Uracil Nucleotides</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Xanthines</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>131-99-7</RegistryNumber>
+<NameOfSubstance>Inosine Monophosphate</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>56-40-6</RegistryNumber>
+<NameOfSubstance>Glycine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.4.2.14</RegistryNumber>
+<NameOfSubstance>Amidophosphoribosyltransferase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Amidophosphoribosyltransferase</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Benzimidazoles</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Comparative Study</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Fungal Proteins</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Glycine</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hypoxanthines</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Inosine Monophosphate</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Purine Nucleotides</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Purines</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Pyrimidines</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Saccharomyces cerevisiae</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Uracil Nucleotides</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Xanthines</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

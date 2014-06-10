@@ -1,0 +1,155 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011868</MedlineID>
+<PMID>217494</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-8993</ISSN>
+<JournalIssue>
+<Volume>165</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Apr</Month>
+<Day>13</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Pharmacological and immunological characterization of the Leu5 analogue of human beta-endorphin.</ArticleTitle>
+<Pagination>
+<MedlinePgn>311-9</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The potencies of beta h-endorphin, Met (O)5-beta h-endorphin, and synthetic Leu5-beta h-endorphin have been compared in three bioassays of opioid activity, and in two radioimmunoassays. In all assays, a peptide isolated from hemodialysates from a psychotic patient behaved like Leu5-beta h-endorphin; it has been distinguished unambiguously from beta h-endorphin and Met(O)5-beta h-endorphin. Leu5-beta h-endorphin was one-fifth as potent as beta h-endorphin in guinea pig ileum myenteric plexus, but was only slightly less active in mouse vas deferens and in guinea pig brain opiate receptor binding assay. The low cross-reactivity of Leu5-beta h-endorphin relative to beta h-endorphin with an antiserum raised to beta-endorphin suggests that the preferred solution conformations of these peptides are different. In all bioassays beta h-endorphin was 2- to 3-fold less potent than beta c-endorphin.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Cox</LastName>
+<ForeName>B M</ForeName>
+<Initials>BM</Initials>
+</Author>
+<Author>
+<LastName>Ross</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author>
+<LastName>Goldstein</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author>
+<LastName>Palmour</LastName>
+<ForeName>R M</ForeName>
+<Initials>RM</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Brain Res</MedlineTA>
+<NlmUniqueID>0045503</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Endorphins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Receptors, Opioid</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>465-65-6</RegistryNumber>
+<NameOfSubstance>Naloxone</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7440-23-5</RegistryNumber>
+<NameOfSubstance>Sodium</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Brain</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Endorphins</DescriptorName>
+<QualifierName>blood</QualifierName>
+<QualifierName>metabolism</QualifierName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Gastrointestinal Motility</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Guinea Pigs</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Ileum</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mice</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Molecular Conformation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Naloxone</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Psychotic Disorders</DescriptorName>
+<QualifierName>blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Radioimmunoassay</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Receptors, Opioid</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Sodium</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Vas Deferens</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

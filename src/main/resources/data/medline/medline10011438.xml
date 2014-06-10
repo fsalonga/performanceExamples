@@ -1,0 +1,117 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011438</MedlineID>
+<PMID>570421</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>561</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>26</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Structural changes of ultraviolet-irradiated DNA derived from hydrodynamic measurements.</ArticleTitle>
+<Pagination>
+<MedlinePgn>59-68</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The paper reports on sedimentation and viscosity measurements performed on ultraviolet-irradiated DNA from T7 phage and calf thymus. From the hydrodynamic data the relative changes in the mean molecular weight, radius of gyration, and effective Kuhn statistical segment length were calculated. The results show that ultraviolet irradiation (254 nm) leads to a significant decrease of the effective statistical segment length of DNA which may be due to small local helix kinks (produced by the generation of photodimers) and a local increase of chain flexibility. Alterations in the overall DNA conformation may be observed even at low fluences where the mean molecular weight almost stays constant. The locally distorted helix regions possibly may serve as recognition sites in the first step of excision repair.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Triebel</LastName>
+<ForeName>H</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author>
+<LastName>Reinert</LastName>
+<ForeName>K E</ForeName>
+<Initials>KE</Initials>
+</Author>
+<Author>
+<LastName>Bär</LastName>
+<ForeName>H</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author>
+<LastName>Lang</LastName>
+<ForeName>H</ForeName>
+<Initials>H</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>DNA, Viral</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9007-49-2</RegistryNumber>
+<NameOfSubstance>DNA</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cattle</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Coliphages</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>DNA</DescriptorName>
+<QualifierName MajorTopicYN="Y">radiation effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>DNA, Viral</DescriptorName>
+<QualifierName>radiation effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Molecular Weight</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Nucleic Acid Conformation</DescriptorName>
+<QualifierName>radiation effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Thymus Gland</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Ultraviolet Rays</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Viscosity</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

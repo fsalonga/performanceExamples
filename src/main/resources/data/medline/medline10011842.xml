@@ -1,0 +1,139 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011842</MedlineID>
+<PMID>421128</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-8993</ISSN>
+<JournalIssue>
+<Volume>161</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>9</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Interaction of neural systems which control nutritional balance.</ArticleTitle>
+<Pagination>
+<MedlinePgn>411-29</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The functional relationships of 5 nuclear masses of the cat brain were analyzed under conditions of general anesthesia by a combination of neurophysiological methods. The nuclear masses are known as (1) the area lateralis hypothalami (ALH), (2) the nucleus entopeduncularis (nEp), (3) the nucleus semilunaris accessorius (nSA), (4) the nucleus ventromedialis hypothalami (nVmH), and (5) the posterolateral portion of the zona incerta (ZI). Neurons of the ALH, nEp, and nVmH were tested for their responsiveness to electrical stimulation of the thalamic taste nucleus (nSA) and to intracarotid infusions of glucose and insulin. Following this, lesions were placed in some of the nuclei, and the responsiveness of the same neurons to glucose and insulin was re-evaluated. Additional experiments were performed to determine the influence of certain peripheral receptors on the 5 nuclear masses. Results indicated the following. (1) ALH-Ep neurons which are influenced by the nSA stimulation receive information about changes in plasma glucose from two sources: taste receptors and receptors located in the splanchnic area. The former are excited during the application of glucose to the tongue or with an increase in the plasma glucose concentration (intravascular taste); the latter, with a lowering of the plasma glucose level. (2) Destruction of the nSA leaves the ALH-Ep neurons unresponsive to glucose and insulin. (3) A negative feedback loop interrelates certain neurons of the ALH-Ep with the nVmH. (4) Interactions of the neurons of the 5 nuclear masses can account for the major events of the feeding cycle and for the specific hungers for some substances. Moreoever, the interactions can resolve several seemingly discordant experimental findings which have presented obstacles in previous attempts to link the control of nutrition with the availability of glucose to tissues.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Emmers</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Brain Res</MedlineTA>
+<NlmUniqueID>0045503</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Blood Glucose</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>11061-68-0</RegistryNumber>
+<NameOfSubstance>Insulin</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Basal Ganglia</DescriptorName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Blood Glucose</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Chemoreceptors</DescriptorName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Electric Stimulation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Evoked Potentials</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hunger</DescriptorName>
+<QualifierName MajorTopicYN="Y">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hypothalamus</DescriptorName>
+<QualifierName MajorTopicYN="Y">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hypothalamus, Middle</DescriptorName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Insulin</DescriptorName>
+<QualifierName MajorTopicYN="Y">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neural Inhibition</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neural Pathways</DescriptorName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neurons</DescriptorName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Satiation</DescriptorName>
+<QualifierName MajorTopicYN="Y">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Splanchnic Nerves</DescriptorName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Taste</DescriptorName>
+<QualifierName MajorTopicYN="Y">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Thalamic Nuclei</DescriptorName>
+<QualifierName MajorTopicYN="Y">physiology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

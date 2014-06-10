@@ -1,0 +1,153 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011928</MedlineID>
+<PMID>283875</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>11</Month>
+<Day>02</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0008-543X</ISSN>
+<JournalIssue>
+<Volume>43</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Relation of "lymphoid" phenotype and response to chemotherapy incorporating vincristine-prednisolone in the acute phase of Ph1 positive leukemia.</ArticleTitle>
+<Pagination>
+<MedlinePgn>426-34</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Forty-four patients with Ph positive leukemia (36 developing blast crisis after chronic phase and eight presenting in acute leukemia) were classified into subgroups on the basis of reactivity of blasts with an anti-serum made against non-T,non-B acute lymphoid leukemia (ALL+), levels of terminal transferase enzyme (TdT+) and morphology. Positivity with anti-ALL serum was the most sensitive and reliable marker, and TdT was an important aid. The presence of "lymphoid" blasts in blast crisis of CML was related to the response to chemotherapy incorporating Vincristine and Prednisolone (VP). Patients with ALL+ blasts frequently (14 of 15 cases) responded to therapy while 21 of 25 patients who had no ALL+ blasts failed to respond. The clinical course of the ALL+ patients was variable: eight patients remitted with return to the appearances of the chronic phase; four patients demonstrated elimination of the Ph1 positive clone with hypoplasia and this was followed by normal (Ph1 negative) marrow regeneration in two. Subsequent relapse was of either the ALL+ "lymphoid" or the ALL-myeloid type. A regimen incorporating VP should be the treatment of choice in "lymphoid" blast crisis of CML.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Janossy</LastName>
+<ForeName>G</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author>
+<LastName>Woodruff</LastName>
+<ForeName>R K</ForeName>
+<Initials>RK</Initials>
+</Author>
+<Author>
+<LastName>Pippard</LastName>
+<ForeName>M J</ForeName>
+<Initials>MJ</Initials>
+</Author>
+<Author>
+<LastName>Prentice</LastName>
+<ForeName>G</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author>
+<LastName>Hoffbrand</LastName>
+<ForeName>A V</ForeName>
+<Initials>AV</Initials>
+</Author>
+<Author>
+<LastName>Paxton</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author>
+<LastName>Lister</LastName>
+<ForeName>T A</ForeName>
+<Initials>TA</Initials>
+</Author>
+<Author>
+<LastName>Bunch</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author>
+<LastName>Greaves</LastName>
+<ForeName>M F</ForeName>
+<Initials>MF</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Cancer</MedlineTA>
+<NlmUniqueID>0374236</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Antigens, Neoplasm</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>50-24-8</RegistryNumber>
+<NameOfSubstance>Prednisolone</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>57-22-7</RegistryNumber>
+<NameOfSubstance>Vincristine</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Antigens, Neoplasm</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Chromosome Aberrations</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Chromosomes, Human, 21-22 and Y</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Drug Therapy, Combination</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Leukemia, Lymphocytic</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug therapy</QualifierName>
+<QualifierName>etiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Leukemia, Myelocytic, Acute</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug therapy</QualifierName>
+<QualifierName>genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Lymphocytes</DescriptorName>
+<QualifierName>immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phenotype</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Prednisolone</DescriptorName>
+<QualifierName MajorTopicYN="Y">administration &#38; dosage</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Vincristine</DescriptorName>
+<QualifierName MajorTopicYN="Y">administration &#38; dosage</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

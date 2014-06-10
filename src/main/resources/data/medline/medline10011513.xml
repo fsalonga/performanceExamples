@@ -1,0 +1,113 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011513</MedlineID>
+<PMID>105766</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0320-9725</ISSN>
+<JournalIssue>
+<Volume>44</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>[Inner and outer immobilization of chloroplasts]</ArticleTitle>
+<Pagination>
+<MedlinePgn>67-73</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The effects of glutaric aldehyde on pea leave chloroplasts and their inactivation kinetics were studied. Optimization of the chloroplasts fixation by glutaric aldehyde resulted in a 5-fold increase of stability of the chloroplasts. Immobilization of the chloroplasts in agar-agar gels was performed; the ability of chloroplasts for photooxidation of H2O was thereby retained. Immobilization did not actually affect the stability of chloroplasts. The inactivation kinetics of fixed and immobilized chloroplasts are in good agreement with the previously described model for inactivation of native chloroplasts.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Vrzheshch</LastName>
+<ForeName>P V</ForeName>
+<Initials>PV</Initials>
+</Author>
+<Author>
+<LastName>Zaĭtsev</LastName>
+<ForeName>S V</ForeName>
+<Initials>SV</Initials>
+</Author>
+<Author>
+<LastName>Kurochkin</LastName>
+<ForeName>I N</ForeName>
+<Initials>IN</Initials>
+</Author>
+<Author>
+<LastName>Varfolomeev</LastName>
+<ForeName>S D</ForeName>
+<Initials>SD</Initials>
+</Author>
+</AuthorList>
+<Language>rus</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+<VernacularTitle>Vnutrenneiaia i vneshniaia immobilizatsiia khloroplastov.</VernacularTitle>
+</Article>
+<MedlineJournalInfo>
+<Country>USSR</Country>
+<MedlineTA>Biokhimiia</MedlineTA>
+<NlmUniqueID>0372667</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Aldehydes</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>111-30-8</RegistryNumber>
+<NameOfSubstance>Glutaral</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Aldehydes</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Chloroplasts</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>English Abstract</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Glutaral</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Oxidation-Reduction</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Photosynthesis</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Plants</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

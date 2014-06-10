@@ -1,0 +1,157 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011447</MedlineID>
+<PMID>33713</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>566</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>9</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Glycosylation of kappa-casein. I. Localization and characterization of sialyltransferase in bovine mammary gland.</ArticleTitle>
+<Pagination>
+<MedlinePgn>266-73</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>A sialyltransferase (CMP-N-acetylneuraminate:D-galactosyl-glycoprotein N-acetylneuraminyltransferase, EC 2.4.99.1) which attaches N-acetylneuraminic acid to the terminal end of the carbohydrate chain of kappa-casein was found to be concentrated in Golgi apparatus-enriched fractions of bovine mammary gland. Maximum sialyltransferase activity was obtained at pH 5.5 and 37 degrees C in the presence of 1 mM dithiothreitol and Triton X-100. A Km of 0.19 mg asialo-kappa-casein/ml (0.01 mM) was obtained for the sialyltransferase. Native kappa-casein also served as acceptor for N-acetylneuraminic acid transferase of Golgi apparatus-enriched fractions although at a slower rate than did asialo-kappa-casein. The sialyltransferase has a divalent cation requirement for maximum activity which was best satisfied by the presence of 10 mM Mn2+.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Keller</LastName>
+<ForeName>S J</ForeName>
+<Initials>SJ</Initials>
+</Author>
+<Author>
+<LastName>Keenan</LastName>
+<ForeName>T W</ForeName>
+<Initials>TW</Initials>
+</Author>
+<Author>
+<LastName>Eigel</LastName>
+<ForeName>W N</ForeName>
+<Initials>WN</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Caseins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Cations, Divalent</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Polyethylene Glycols</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>3483-12-3</RegistryNumber>
+<NameOfSubstance>Dithiothreitol</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.</RegistryNumber>
+<NameOfSubstance>Transferases</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.4.99.-</RegistryNumber>
+<NameOfSubstance>Sialyltransferases</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Caseins</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cations, Divalent</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cattle</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Dithiothreitol</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hydrogen-Ion Concentration</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mammae</DescriptorName>
+<QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Polyethylene Glycols</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Pregnancy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Sialyltransferases</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Subcellular Fractions</DescriptorName>
+<QualifierName>enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, Non-P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Temperature</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Tissue Distribution</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Transferases</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

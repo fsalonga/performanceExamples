@@ -1,0 +1,117 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011521</MedlineID>
+<PMID>420883</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3126</ISSN>
+<JournalIssue>
+<Volume>35</Volume>
+<Issue>1-2</Issue>
+<PubDate>
+<Year>1979</Year>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Minimal tissue concentrations of glutamate required to produce necrosis of hypothalamic neurons in newborn mice.</ArticleTitle>
+<Pagination>
+<MedlinePgn>17-22</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Groups of 4-day-old Cox Swiss albino mice were injected once subcutaneously with monosodium glutamate at several doses between 0.2 and 0.5 mg/g body weight. Glutamate, at a dose of 0.35 mg/g, produced neuronal necrosis of a very limited nature in only 60% of the animals and was defined as the minimal effective neurotoxic dose in the 4-day-old mouse. Neuronal loss was not detected in any animals treated with less than 0.35% mg/g of the amino acid whereas lesions became more extensive as the dose was increased to 0.5 mg/g. Glutamate was measured in the arcuate nucleus and plasma 0, 15, 30, 60 and 90 min after injection. These data indicated that duration of glutamate accumulation in the arcuate nucleus may be as important a variable in producing neuronal degeneration in the hypothalamus as concentration of the amino acid in that nucleus.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Perez</LastName>
+<ForeName>V J</ForeName>
+<Initials>VJ</Initials>
+</Author>
+<Author>
+<LastName>Olney</LastName>
+<ForeName>J W</ForeName>
+<Initials>JW</Initials>
+</Author>
+<Author>
+<LastName>Martin</LastName>
+<ForeName>J F</ForeName>
+<Initials>JF</Initials>
+</Author>
+<Author>
+<LastName>Cannon</LastName>
+<ForeName>W O</ForeName>
+<Initials>WO</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>SWITZERLAND</Country>
+<MedlineTA>Biol Neonate</MedlineTA>
+<NlmUniqueID>0247551</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Glutamates</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animals, Newborn</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Brain Diseases</DescriptorName>
+<QualifierName>chemically induced</QualifierName>
+<QualifierName>pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Glutamates</DescriptorName>
+<QualifierName>administration &#38; dosage</QualifierName>
+<QualifierName>blood</QualifierName>
+<QualifierName MajorTopicYN="Y">toxicity</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hypothalamus</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+<QualifierName>pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Injections, Subcutaneous</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mice</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Necrosis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Nerve Degeneration</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neurons</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

@@ -1,0 +1,142 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011357</MedlineID>
+<PMID>420815</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>5</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+<Day>6</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Studies on the mechanism of membrane fusion: evidence for an intermembrane Ca2+-phospholipid complex, synergism with Mg2+, and inhibition by spectrin.</ArticleTitle>
+<Pagination>
+<MedlinePgn>780-90</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The interaction of Ca2+ and Mg2+ with phosphatidylserine (PS) vesicles in 0.1 M NaCl aqueous solution was studied by equilibrium dialysis binding, X-ray diffraction, batch microcalorimetry, kinetics of cation-induced vesicle aggregation, release of vesicle contents, and fusion. Addition of either cation causes aggregation of PS vesicles and produces complexes with similar stoichiometry (1:2 cation/PS) at saturating concentrations, although the details of the interactions and the resulting complexes are quite different. Addition of Ca2+ to PS vesicles at T greater than or equal to 25 degrees C induces the formation of an "anhydrous" complex of closely apposed membranes with highly ordered crystalline acyl chains and a very high transition temperature (Tc greater than 100 degrees C). The formation of this complex is accompanied by a release of heat (5.5 kcal/mol), rapid release of vesicle contents, and fusion of the vesicles into larger membranous structures. By contrast, addition of Mg2+ produces a complex with PS which is much more hydrated, has no crystallization of the acyl chains at T greater than or equal to 20 degrees C, and has comparatively little fusion. Studies with both Ca2+ and Mg2+ added simultaneously indicate that there is a synergistic effect between the two cations, which results in an enhancement of the ability of Ca2+ to form its specific complex with PS at lower concentrations. The presence of the erythrocyte protein "spectrin" inhibits this synergism and interferes with the formation of the specific PS/Ca complex. It also inhibits the fusion of PS vesicles. It is proposed that the unique PS/Ca complex, which involves close apposition of vesicle membranes, is an intermembrane "trans" complex. We further propose that such a complex is a key step for the resultant phase transition and fusion of PS vesicles. By contrast, the PS/Mg complex is proposed to be a "cis" complex with respect to each membrane. The results are discussed in terms of the mechanism of membrane fusion.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Portis</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author>
+<LastName>Newton</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author>
+<LastName>Pangborn</LastName>
+<ForeName>W</ForeName>
+<Initials>W</Initials>
+</Author>
+<Author>
+<LastName>Papahadjopoulos</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Liposomes</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Membrane Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Phosphatidylserines</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>12634-43-4</RegistryNumber>
+<NameOfSubstance>Spectrin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7439-95-4</RegistryNumber>
+<NameOfSubstance>Magnesium</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7440-70-2</RegistryNumber>
+<NameOfSubstance>Calcium</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Calcium</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Calorimetry</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Chemistry</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Liposomes</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Magnesium</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Membrane Proteins</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Permeability</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Phosphatidylserines</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Spectrin</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Surface Properties</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Thermodynamics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>X-Ray Diffraction</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

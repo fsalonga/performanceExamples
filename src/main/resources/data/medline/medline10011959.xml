@@ -1,0 +1,106 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011959</MedlineID>
+<PMID>217524</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0008-543X</ISSN>
+<JournalIssue>
+<Volume>43</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Prolactin receptors in human breast carcinoma.</ArticleTitle>
+<Pagination>
+<MedlinePgn>643-6</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>A preliminary investigation into prolactin receptors in human breast carcinomas provided strong evidence that specific binding of prolactin was occurring in at least three of the nine specimens examined (eight human breast carcinomas and one scalp metastasis). These "prolactin receptor positive" tumors were all from premenopausal patients. Three of the tumors of postmenopausal women also suggested the occurrence of specific prolactin binding but, as saturation of the receptors had not been achieved in these assays, the results require confirmation. Some general trends in the binding characteristics of the tumors of premenopausal and postmenopausal patients were also observed.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Partridge</LastName>
+<ForeName>R K</ForeName>
+<Initials>RK</Initials>
+</Author>
+<Author>
+<LastName>Hähnel</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Cancer</MedlineTA>
+<NlmUniqueID>0374236</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Receptors, Cell Surface</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Receptors, Estrogen</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9002-62-4</RegistryNumber>
+<NameOfSubstance>Prolactin</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Breast Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Menopause</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Prolactin</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Receptors, Cell Surface</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Receptors, Estrogen</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

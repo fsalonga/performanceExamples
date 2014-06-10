@@ -1,0 +1,154 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011552</MedlineID>
+<PMID>33730</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3223</ISSN>
+<JournalIssue>
+<Volume>14</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Hoffmann reflex abnormalities in psychotic patients.</ArticleTitle>
+<Pagination>
+<MedlinePgn>95-110</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Goode</LastName>
+<ForeName>D J</ForeName>
+<Initials>DJ</Initials>
+</Author>
+<Author>
+<LastName>Meltzer</LastName>
+<ForeName>H Y</ForeName>
+<Initials>HY</Initials>
+</Author>
+<Author>
+<LastName>Mazura</LastName>
+<ForeName>T A</ForeName>
+<Initials>TA</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biol Psychiatry</MedlineTA>
+<NlmUniqueID>0213264</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Antipsychotic Agents, Phenothiazine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>50-53-3</RegistryNumber>
+<NameOfSubstance>Chlorpromazine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>51-64-9</RegistryNumber>
+<NameOfSubstance>Dextroamphetamine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7439-93-2</RegistryNumber>
+<NameOfSubstance>Lithium</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Acute Disease</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Antipsychotic Agents, Phenothiazine</DescriptorName>
+<QualifierName>therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Bipolar Disorder</DescriptorName>
+<QualifierName>drug therapy</QualifierName>
+<QualifierName MajorTopicYN="Y">physiopathology</QualifierName>
+<QualifierName>psychology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Chlorpromazine</DescriptorName>
+<QualifierName>therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Chronic Disease</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Dextroamphetamine</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Electric Stimulation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">H-Reflex</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Lithium</DescriptorName>
+<QualifierName>therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Reflex, Abnormal</DescriptorName>
+<QualifierName MajorTopicYN="Y">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Reflex, Monosynaptic</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Refractory Period, Neurologic</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Schizophrenia</DescriptorName>
+<QualifierName>drug therapy</QualifierName>
+<QualifierName MajorTopicYN="Y">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Schizophrenic Psychology</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Tibial Nerve</DescriptorName>
+<QualifierName>physiopathology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

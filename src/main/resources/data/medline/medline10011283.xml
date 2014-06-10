@@ -1,0 +1,123 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011283</MedlineID>
+<PMID>84681</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>23</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Laser-Raman investigation of phospholipid-polypeptide interactions in model membranes.</ArticleTitle>
+<Pagination>
+<MedlinePgn>297-301</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The interaction of aqueous dimyristoyl-phosphatidylcholine liposomes with the polypeptides gramicidin A, poly-L-lysine, valinomycin, and gramicidin S was investigated by means of laser-Raman spectroscopy. Auxiliary data were obtained with differential scanning calorimetry. Studies were carried out over the temperature range of 0--50 degrees C, encompassing the gel phase, the transition region, and the liquid crystalline phase of the liposomes.  Conformational changes in the phospholipid molecules were investigated by measuring the intensity of the 1062-cm-1 Raman band which is assigned to C-C stretching vibrations of trans segments. Three different types of phospholipid-polypeptide interactions were indicated by the observed Raman data. They are interpreted as (a) orderly penetration of the phospholipid bilayer by a hydrophobic polypeptide; (b) polar interactions involving primarily the head groups of the phospholipid; and (c) disorderly hydrophobic binding between a polypeptide and the hydrocarbon domain of the phospholipid.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Susi</LastName>
+<ForeName>H</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author>
+<LastName>Sampugna</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author>
+<LastName>Hampson</LastName>
+<ForeName>J W</ForeName>
+<Initials>JW</Initials>
+</Author>
+<Author>
+<LastName>Ard</LastName>
+<ForeName>J S</ForeName>
+<Initials>JS</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Peptides</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Phosphatidylcholines</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>1405-97-6</RegistryNumber>
+<NameOfSubstance>Gramicidin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>2001-95-8</RegistryNumber>
+<NameOfSubstance>Valinomycin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>25104-18-1</RegistryNumber>
+<NameOfSubstance>Polylysine</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Calorimetry, Differential Scanning</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Gramicidin</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Lasers</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Peptides</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Phosphatidylcholines</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Polylysine</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Protein Binding</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Spectrum Analysis, Raman</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Valinomycin</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

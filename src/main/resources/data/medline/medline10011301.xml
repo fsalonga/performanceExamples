@@ -1,0 +1,156 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011301</MedlineID>
+<PMID>420789</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>6</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Catalytic action of L-methionine gamma-lyase on selenomethionine and selenols.</ArticleTitle>
+<Pagination>
+<MedlinePgn>407-10</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>We examined the catalytic action of L-methionine gamma-lyase (EC 4.4.1.11) on selenomethionine (2-amino-4-(methylseleno)butyric acid), methaneselenol, l-hexaneselenol, and benzeneselenol. The enzyme catalyzes alpha, gamma-elimination of selenomethionine to yield alpha-letobutyrate, ammonia, and methaneselenol, and also its gamma-replacement reaction with various thiols to produce S-substituted homocysteines. Selenomethionine is an even better substrate than methionine in alpha, gamma-elimination but is less effective in gamma-replacement. In addition, L-methionine gamma-lyase catalyzes gamma-replacement reaction of methionine and its derivatives with selenols to form the corresponding Se-substituted selenohomocysteines, although selenols are less efficient substituent donors than thiols. This is the first proven mechanism for the incorporation of selenium atom into amino acids.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Esaki</LastName>
+<ForeName>N</ForeName>
+<Initials>N</Initials>
+</Author>
+<Author>
+<LastName>Tanaka</LastName>
+<ForeName>H</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author>
+<LastName>Uemura</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author>
+<LastName>Suzuki</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author>
+<LastName>Soda</LastName>
+<ForeName>K</ForeName>
+<Initials>K</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Hexanols</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Phenols</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>1464-42-2</RegistryNumber>
+<NameOfSubstance>Selenomethionine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>63-68-3</RegistryNumber>
+<NameOfSubstance>Methionine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>67-56-1</RegistryNumber>
+<NameOfSubstance>Methanol</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7782-49-2</RegistryNumber>
+<NameOfSubstance>Selenium</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 4.</RegistryNumber>
+<NameOfSubstance>Lyases</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 4.4</RegistryNumber>
+<NameOfSubstance>Carbon-Sulfur Lyases</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Carbon-Sulfur Lyases</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hexanols</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Lyases</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Methanol</DescriptorName>
+<QualifierName>analogs &#38; derivatives</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Methionine</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phenols</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Protein Binding</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Pseudomonas</DescriptorName>
+<QualifierName>enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Selenium</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Selenomethionine</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Spectrophotometry</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Substrate Specificity</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

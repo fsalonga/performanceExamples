@@ -1,0 +1,98 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011436</MedlineID>
+<PMID>420854</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>11</Month>
+<Day>28</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>561</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>26</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Deoxyribonucleotide synthesis and DNA polymerase activity in plant cells (Vicia faba and Glycine max).</ArticleTitle>
+<Pagination>
+<MedlinePgn>42-52</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Enzymes of deoxyribonucleotide and DNA biosynthesis, which are little known in plants, were studied in root tips of germinating broad beans (Vicia faba) and in fast-growing cultures of soybean cells (Glycine max). The plant cells contain a ribonucleoside 5'-diphosphate reductase which is detected in vitro only during a limited period of growth, viz. 30--32 h after inhibition of Vicia seeds, and between the second and third day after inoculation of soybean cultures. In both species ribonucleotide reductase activity precedes maximum DNA synthesis. The reductases could be precipitated with ammonium sulfate but were not purified further due to the extremely low enzyme content of the plant extracts. Therefore the reductive pathway of deoxyribotide formation was also established in Vicia root tips by efficient labeling of the plant DNA with a ribonucleoside, [5-3H]cytidine, which reaches a maximum at the same time as the reductase activity measured in vitro. Cycloheximide inhibits this process, indicating the need for de novo enzyme induction. In contrast, DNA polymerase is present in the tissue throughout the entire development and rises only 2-fold in activity during the S phase. The soluble polymerases were partially characterized in both legume species and were found very similar to the DNA polymerase of pea seedlings. Ribonucleotide reductase is more likely a limiting component of DNA formation during the plant cell cycle than DNA polymerase.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Hovemann</LastName>
+<ForeName>B</ForeName>
+<Initials>B</Initials>
+</Author>
+<Author>
+<LastName>Follmann</LastName>
+<ForeName>H</ForeName>
+<Initials>H</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>9007-49-2</RegistryNumber>
+<NameOfSubstance>DNA</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 1.17.4</RegistryNumber>
+<NameOfSubstance>Ribonucleotide Reductases</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.7.7.7</RegistryNumber>
+<NameOfSubstance>DNA-Directed DNA Polymerase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>DNA</DescriptorName>
+<QualifierName MajorTopicYN="Y">biosynthesis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>DNA-Directed DNA Polymerase</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Fabaceae</DescriptorName>
+<QualifierName>growth &#38; development</QualifierName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Plants, Medicinal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Ribonucleotide Reductases</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

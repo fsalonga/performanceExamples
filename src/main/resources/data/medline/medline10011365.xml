@@ -1,0 +1,108 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011365</MedlineID>
+<PMID>420818</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>5</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+<Day>6</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Stopped-flow determination of the active form of acetaldehyde in the liver alcohol dehydrogenase catalyzed reaction.</ArticleTitle>
+<Pagination>
+<MedlinePgn>836-8</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>A stopped-flow spectrophotometer was modified so that the volumes to be mixed were in a ratio of 1:50. Using this instrument, we have shown that the effective substrate in the reduction of acetaldehyde catalyzed by horse liver alcohol dehydrogenase was the carbonyl form of acetaldehyde and that the enzyme does not catalyze the dehydration of the hydrated form of acetaldehyde. Unlike trifluoroacetaldehyde hydrate, which is a competitive inhibitor with respect to ethanol, acetaldehyde hydrate did not inhibit the enzymatic reaction at concentrations as high as 60 mM.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Abdallah</LastName>
+<ForeName>M A</ForeName>
+<Initials>MA</Initials>
+</Author>
+<Author>
+<LastName>Biellmann</LastName>
+<ForeName>J F</ForeName>
+<Initials>JF</Initials>
+</Author>
+<Author>
+<LastName>Lagrange</LastName>
+<ForeName>P</ForeName>
+<Initials>P</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>75-07-0</RegistryNumber>
+<NameOfSubstance>Acetaldehyde</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 1.1</RegistryNumber>
+<NameOfSubstance>Alcohol Oxidoreductases</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Acetaldehyde</DescriptorName>
+<QualifierName>analogs &#38; derivatives</QualifierName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Alcohol Oxidoreductases</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Catalysis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Horses</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Liver</DescriptorName>
+<QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Oxidation-Reduction</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Spectrophotometry</DescriptorName>
+<QualifierName>instrumentation</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

@@ -1,0 +1,148 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011525</MedlineID>
+<PMID>420886</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3126</ISSN>
+<JournalIssue>
+<Volume>35</Volume>
+<Issue>1-2</Issue>
+<PubDate>
+<Year>1979</Year>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Renal response to Ringer expansion in developing rats.</ArticleTitle>
+<Pagination>
+<MedlinePgn>52-9</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Male rats were studied between 20 and 60 days of age. Standard renal clearance techniques were used. The efficiency of the diuretic response, the sodium response, and the potassium response were calculated as defined previously. Results indicate that both diuretic and sodium efficiency is lower between the ages of 20 and 30 days as compared to 40 and 60 days of age, whereas potassium efficiency shows no age dependence. In morphological studies, it has been observed that the proximal tubule cells of 22-day-old rats show changes in lateral intercellular spaces with comparable features to those of mature animals. The spaces widened during volume expansion. The change is quantitatively the same as that found in mature rats. Both blood pressure and hematocrit show continuous increase with age. The response of Ringer infusion in both immature and mature animals may be a mixed response involving changes in physical factors and renal responses to volume expansion per se.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Misanko</LastName>
+<ForeName>B S</ForeName>
+<Initials>BS</Initials>
+</Author>
+<Author>
+<LastName>Evan</LastName>
+<ForeName>A P</ForeName>
+<Initials>AP</Initials>
+</Author>
+<Author>
+<LastName>Bengele</LastName>
+<ForeName>H H</ForeName>
+<Initials>HH</Initials>
+</Author>
+<Author>
+<LastName>Solomon</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>SWITZERLAND</Country>
+<MedlineTA>Biol Neonate</MedlineTA>
+<NlmUniqueID>0247551</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>10043-52-4</RegistryNumber>
+<NameOfSubstance>Calcium Chloride</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7440-09-7</RegistryNumber>
+<NameOfSubstance>Potassium</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7440-23-5</RegistryNumber>
+<NameOfSubstance>Sodium</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7447-40-7</RegistryNumber>
+<NameOfSubstance>Potassium Chloride</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7647-14-5</RegistryNumber>
+<NameOfSubstance>Sodium Chloride</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Age Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Calcium Chloride</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Comparative Study</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Diuresis</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hematocrit</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kidney</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+<QualifierName>growth &#38; development</QualifierName>
+<QualifierName MajorTopicYN="Y">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Potassium</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Potassium Chloride</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Sodium</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Sodium Chloride</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, Non-P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

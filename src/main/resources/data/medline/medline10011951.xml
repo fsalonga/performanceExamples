@@ -1,0 +1,130 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011951</MedlineID>
+<PMID>421183</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0008-543X</ISSN>
+<JournalIssue>
+<Volume>43</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Tumor antigen of human cervical squamous cell carcinoma: correlation of circulating levels with disease progress.</ArticleTitle>
+<Pagination>
+<MedlinePgn>585-90</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>A double-antibody radioimmunoassay method was used for serial determinations of a tumor-antigen (TA-4) of cervical squamous cell carcinoma, and the correlation of serum antigen levels with the disease progess was investigated in 23 patients with cervical squamous cell carcinoma. Ten cases with widespread metastases received radiotherapy and/or chemotherapy. Nine of these cases who showed progression of the disease had a corresponding increase in serum antigen levels, while one case who had regression of the disease showed a corresponding decrease in serum antigen levels. Thirteen patients received radical surgery, and in all of these, high pretreatment antigen levels declined to undetectable levels 1 or 2 weeks after surgery. A panel of coded sera from the NCI-Mayo Clinic Serum Bank was also studied for evaluating the specificity of the assay. Thirteen of 25 patients (52%) with cervical squamous cell carcinoma showed positive serum antigen levels, while only one of 58 control cases (1.7%) showed false-positive result. These results suggest that serial TA-4 determinations may provide a useful method for evaluating regression or progression of the disease.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Kato</LastName>
+<ForeName>H</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author>
+<LastName>Miyauchi</LastName>
+<ForeName>F</ForeName>
+<Initials>F</Initials>
+</Author>
+<Author>
+<LastName>Morioka</LastName>
+<ForeName>H</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author>
+<LastName>Fujino</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author>
+<LastName>Torigoe</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Cancer</MedlineTA>
+<NlmUniqueID>0374236</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Antigens, Neoplasm</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Antigens, Neoplasm</DescriptorName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Carcinoma, Squamous Cell</DescriptorName>
+<QualifierName MajorTopicYN="Y">immunology</QualifierName>
+<QualifierName>therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Case Report</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cervix Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y">immunology</QualifierName>
+<QualifierName>therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Middle Age</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neoplasm Metastasis</DescriptorName>
+<QualifierName>immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Prognosis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Recurrence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Remission, Spontaneous</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

@@ -1,0 +1,117 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011970</MedlineID>
+<PMID>217528</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>03</Month>
+<Day>23</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0008-543X</ISSN>
+<JournalIssue>
+<Volume>43</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Primary oat cell carcinoma of the larynx: a case report and review of the literature.</ArticleTitle>
+<Pagination>
+<MedlinePgn>711-7</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>A case of an extrapulmonary oat cell carcinoma arising in the larynx of a 45-year-old male is described. Ultrastructural study demonstrated numerous neurosecretory granules in the tumor cells identical to those described in oat cell carcinomas of the lung. Primary oat cell carcinomas of the larynx are highly malignant neoplasms. Of six previously reported acceptable cases of this rare entity, with adequate followup, all but one has died of tumor within 14 months of diagnosis. The present patient is alive without evidence of tumor 15 months following diagnosis. Aggressive therapy consisting of a combination of surgery, radiation therapy and systemic chemotherapy was utilized in this case. The use of such aggressive combination therapy appears indicated in cases of primary oat cell carcinoma of the larynx if improved survival is to be achieved.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Mullins</LastName>
+<ForeName>J D</ForeName>
+<Initials>JD</Initials>
+</Author>
+<Author>
+<LastName>Newman</LastName>
+<ForeName>R K</ForeName>
+<Initials>RK</Initials>
+</Author>
+<Author>
+<LastName>Coltman</LastName>
+<ForeName>C A</ForeName>
+<Initials>CA</Initials>
+<Suffix>Jr</Suffix>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+<PublicationType>Review</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Cancer</MedlineTA>
+<NlmUniqueID>0374236</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Antineoplastic Agents</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Antineoplastic Agents</DescriptorName>
+<QualifierName>administration &#38; dosage</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Carcinoma, Small Cell</DescriptorName>
+<QualifierName>therapy</QualifierName>
+<QualifierName MajorTopicYN="Y">ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Case Report</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cytoplasmic Granules</DescriptorName>
+<QualifierName>ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Drug Therapy, Combination</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Laryngeal Neoplasms</DescriptorName>
+<QualifierName>therapy</QualifierName>
+<QualifierName MajorTopicYN="Y">ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Microscopy, Electron</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Middle Age</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Remission, Spontaneous</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<NumberOfReferences>32</NumberOfReferences>
+</MedlineCitation>

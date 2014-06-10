@@ -1,0 +1,111 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011440</MedlineID>
+<PMID>420855</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>561</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>26</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Comparative viscometric analysis of the interaction of chloroquine and quinacrine with superhelical and sonicated DNA.</ArticleTitle>
+<Pagination>
+<MedlinePgn>77-84</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Unwinding angles for the structurally related antimalarial drugs chloroquine and quinacrine have been determined with superhelical Col E1 plasmid DNA by applying the quantitative method developed by Vinograd and co-workers (Revet, B.M., Schmir, M. and Vinograd, J. (1971) Nat. New Biol. 229, 10). The value for chloroquine, 8.6 degrees, calculated assuming an unwinding angle of 26 degrees for ethidium bromide, is significantly lower than the value for quinacrine, 22.5 degrees, calculated in the same manner. Viscometric titrations with sonicated calf thymus DNA were quantitated using available binding constants for the two drugs and indicated that chloroquine also causes significantly smaller DNA length increases on intercalation relative to quinacrine. The conclusion from these experiments is that chloroquine does not bind to DNA by the classical intercalation mechanism typical of quinacrine and ethidium.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Jones</LastName>
+<ForeName>R L</ForeName>
+<Initials>RL</Initials>
+</Author>
+<Author>
+<LastName>Davidson</LastName>
+<ForeName>M W</ForeName>
+<Initials>MW</Initials>
+</Author>
+<Author>
+<LastName>Wilson</LastName>
+<ForeName>W D</ForeName>
+<Initials>WD</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Colicin Factors</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>DNA, Superhelical</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>54-05-7</RegistryNumber>
+<NameOfSubstance>Chloroquine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>83-89-6</RegistryNumber>
+<NameOfSubstance>Quinacrine</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Chloroquine</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Colicin Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Comparative Study</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">DNA, Superhelical</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Nucleic Acid Conformation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Quinacrine</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Sonication</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Viscosity</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

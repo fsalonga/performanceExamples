@@ -1,0 +1,108 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011559</MedlineID>
+<PMID>420914</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0306-042X</ISSN>
+<JournalIssue>
+<Volume>6</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>A selected ion monitoring assay for primaquine in plasma and urine.</ArticleTitle>
+<Pagination>
+<MedlinePgn>109-12</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The antimalarial drug primaquine was analysed in plasma and urine by gas chromatography mass spectrometry, using a deuterated internal standard. After freeze-drying and extraction with trichloroethylene the sample plus internal standard was reacted with Tri Sil TBT (a 3:3:2 by volume mixture of trimethylsilylimidazole, N,O,-bis-(trimethylsilylacetamide and trimethylchlorosilane) and an aliquot injected into the gas chromatograph mass spectrometer. The gas chromatographic effluent was monitored at m/z 403 and m/z 406, the molecular ions of the bis-TMS ethers of primaquine and 6-trideuteromethoxy primaquine. Calibration curves were prepared from standards made up in plasma and urine. Data from the analysis of plasma and urine samples from a volunteer who ingested the equivalent of 45 mg primaquine are presented.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Greaves</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author>
+<LastName>Price-Evans</LastName>
+<ForeName>D A</ForeName>
+<Initials>DA</Initials>
+</Author>
+<Author>
+<LastName>Gilles</LastName>
+<ForeName>H M</ForeName>
+<Initials>HM</Initials>
+</Author>
+<Author>
+<LastName>Baty</LastName>
+<ForeName>J D</ForeName>
+<Initials>JD</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Biomed Mass Spectrom</MedlineTA>
+<NlmUniqueID>0430246</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Ions</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>90-34-6</RegistryNumber>
+<NameOfSubstance>Primaquine</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Chromatography, Gas</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Ions</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Primaquine</DescriptorName>
+<QualifierName>analogs &#38; derivatives</QualifierName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+<QualifierName>blood</QualifierName>
+<QualifierName>urine</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Spectrum Analysis, Mass</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

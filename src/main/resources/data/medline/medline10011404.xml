@@ -1,0 +1,125 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011404</MedlineID>
+<PMID>105757</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>03</Month>
+<Day>23</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>551</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+<Day>8</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Membrane changes during growth of Tetrahymena in the presence of ethanol.</ArticleTitle>
+<Pagination>
+<MedlinePgn>315-27</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>After a brief lag period for acclimation, Tetrahymena pyriformis, strain NT-1, is capable of growing in culture medium containing high levels of ethanol. When grown in a medium having 1.6% ethanol, the membrane phospholipid composition was significantly different from that of control cells. The principal changes included a reduction in hexadecenoic acids (16 : 1 and 16 : 2) from 23% to 5% and an increase in linoleic acid (18 : 2) from 14% to 25% Similar but less pronounced changes were observed in cells grown in lower ethanol concentrations. There was also a decrease in 2-aminoethylphosphonolipid in the ethanol-grown cells from 16% of the lipid phosphorus to 6% and a coincident rise in the phosphatidylethanolamine from 39% to 46%. The lipid pattern quickly reverted to normal when ethanol was removed. In order to ascertain the effects of ethanol on membrane physical properties, freeze-fracture electron microsocopy and fluorescence polarization studies were performed. Ethanol, as expected, had a clearly detectable fluidizing influence when present at 1.6%. However, changes induced in the membrane lipids by growth in the ethanol-containing medium led to a further fluidizing effect, whether they were tested in the presence or absence of ethanol. The alterations found here were qualitatively similar but quantitatively much more pronounced than those observed in mammals chronically exposed to ethanol.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Nandini-Kishore</LastName>
+<ForeName>S G</ForeName>
+<Initials>SG</Initials>
+</Author>
+<Author>
+<LastName>Mattox</LastName>
+<ForeName>S M</ForeName>
+<Initials>SM</Initials>
+</Author>
+<Author>
+<LastName>Martin</LastName>
+<ForeName>C E</ForeName>
+<Initials>CE</Initials>
+</Author>
+<Author>
+<LastName>Thompson</LastName>
+<ForeName>G A</ForeName>
+<Initials>GA</Initials>
+<Suffix>Jr</Suffix>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Membrane Lipids</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Phospholipids</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>64-17-5</RegistryNumber>
+<NameOfSubstance>Ethanol</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Cell Membrane</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+<QualifierName>ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Ethanol</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Freeze Fracturing</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Membrane Lipids</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Microsomes</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phospholipids</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Tetrahymena pyriformis</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+<QualifierName>ultrastructure</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

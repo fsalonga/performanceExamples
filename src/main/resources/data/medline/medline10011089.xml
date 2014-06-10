@@ -1,0 +1,109 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011089</MedlineID>
+<PMID>420661</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>11</Month>
+<Day>14</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0095-6562</ISSN>
+<JournalIssue>
+<Volume>50</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Stereological ultrastructural analysis of the axonal endings in the neuromuscular junction of rats after a flight on Biosputnik 782.</ArticleTitle>
+<Pagination>
+<MedlinePgn>14-7</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The study was aimed at quantitative and qualitative evaluation of the axonal endings of the neuromuscular junction in the quadriceps femoris muscle and the diaphragma in animals after a space flight. Quantitative morphometric studies at the ultrastructural level demonstrated a statistically significant diminution of the mean number of mitochondria and synaptic vesicles on the cross section of the axonal endings. Qualitative analysis of electronogrames revealed morphological changes indicating degeneration and various degrees of injury in some of the axonal endings of the neuromuscular junction.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Barański</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author>
+<LastName>Marciniak</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Aviat Space Environ Med</MedlineTA>
+<NlmUniqueID>7501714</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<CitationSubset>S</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Axons</DescriptorName>
+<QualifierName MajorTopicYN="Y">ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Diaphragm</DescriptorName>
+<QualifierName>innervation</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hindlimb</DescriptorName>
+<QualifierName>innervation</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mitochondrial Swelling</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Nerve Degeneration</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neuromuscular Junction</DescriptorName>
+<QualifierName MajorTopicYN="Y">ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Space Flight</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Synaptic Vesicles</DescriptorName>
+<QualifierName>ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>USSR</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<SpaceFlightMission>Cosmos 782 Project</SpaceFlightMission>
+<SpaceFlightMission>Flight Experiment</SpaceFlightMission>
+<SpaceFlightMission>short duration</SpaceFlightMission>
+<SpaceFlightMission>unmanned</SpaceFlightMission>
+</MedlineCitation>

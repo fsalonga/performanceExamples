@@ -1,0 +1,82 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011230</MedlineID>
+<PMID>420760</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0007-1145</ISSN>
+<JournalIssue>
+<Volume>41</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>A method of presenting longitudinal growth data.</ArticleTitle>
+<Pagination>
+<MedlinePgn>53-6</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>1. Longitudinal growth profiles contain much information but are difficult to incorporate into mathematical and statistical analyses. 2. A growth function, which is a weighted average of growth achievement at different ages, is proposed. 3. This function is a non-dimensional number with defined statistical properties, and emphasizes growth achievement in early life. It can be used to compare the growth of individuals and populations.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Dugdale</LastName>
+<ForeName>A E</ForeName>
+<Initials>AE</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Br J Nutr</MedlineTA>
+<NlmUniqueID>0372547</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Aging</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Body Height</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Body Weight</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Child, Preschool</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Growth</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Infant</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mathematics</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

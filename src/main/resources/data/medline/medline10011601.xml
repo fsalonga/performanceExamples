@@ -1,0 +1,121 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011601</MedlineID>
+<PMID>311227</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0365-9615</ISSN>
+<JournalIssue>
+<Volume>87</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>[Replacement of the helper function of T cells by an RNA-containing antigen-specific lysis factor]</ArticleTitle>
+<Pagination>
+<MedlinePgn>179-82</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The lymph node viable cells suspension of immunized mice was centrifugated. The supernatant was chromatographed in Sephadex G-200, and fractions were deproteinized. The deproteinized third fraction (Mol wt 30000) stimulated specifically the plaque-forming cells of intact mice immunized by SRBC. It restored the capacity to antibody production in the lethally irradiated intact mice protected by the syngeneic bone marrow. The activity of this fraction disappeared following treatment with RNA-ase, but not with DNA-ase or trypsin. The first and the second deproteinized fractions of the supernatant inhibited non-specifically the viable lymph node cells of the immunized animals in the intact mice immunized with SRBC.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Adamenko</LastName>
+<ForeName>G P</ForeName>
+<Initials>GP</Initials>
+</Author>
+<Author>
+<LastName>Novikov</LastName>
+<ForeName>D K</ForeName>
+<Initials>DK</Initials>
+</Author>
+</AuthorList>
+<Language>rus</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+<VernacularTitle>Zameshchenie vspomogatel'noĭ funktsii T-kletok RNK-soderzhashchim faktorom antigenspetsificheskogo lizisa.</VernacularTitle>
+</Article>
+<MedlineJournalInfo>
+<Country>USSR</Country>
+<MedlineTA>Biull Eksp Biol Med</MedlineTA>
+<NlmUniqueID>0370627</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Cell Extracts</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Tissue Extracts</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>63231-63-0</RegistryNumber>
+<NameOfSubstance>RNA</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Antibody Formation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cell Extracts</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>English Abstract</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Erythrocytes</DescriptorName>
+<QualifierName>immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Lymph Nodes</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mice</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mice, Inbred CBA</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>RNA</DescriptorName>
+<QualifierName>isolation &#38; purification</QualifierName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Sheep</DescriptorName>
+<QualifierName>immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>T-Lymphocytes</DescriptorName>
+<QualifierName MajorTopicYN="Y">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Tissue Extracts</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

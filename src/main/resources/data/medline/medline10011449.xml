@@ -1,0 +1,121 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011449</MedlineID>
+<PMID>420859</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>566</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>9</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Comparison of type I hexokinases from pig heart and kinetic evaluation of the effects of inhibitors.</ArticleTitle>
+<Pagination>
+<MedlinePgn>283-95</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Type I hexokinase (ATP:D-hexose 6-phospotransferase, EC 2.7.1.1) of porcine heart exists in two chromatographically distinct forms. These do not differ significantly in size, electrophoretic mobility at pH 8.6 or kinetic properties. Both forms obey a sequential mechanism and are potently inhibited by glucose 6-phosphate. In contrast to observations of type I hexokinase from brain, inhibition by glucose 6-phosphate is not relieved by inorganic phosphate. Under most conditions, low concentrations of phosphate (less than 10 mM) have little effect on the kinetic behaviour of the enzyme but at higher concentrations this ligand is an inhibitor. Mannose 6-phosphate inhibits in a manner analogous to glucose 6-phosphate but the Ki is much greater. In view of the similarity of the kinetic parameters governing phosphorylation of mannose and glucose, this difference in affinity for the inhibitor site is seen as consistent with the existence of a separate regulatory site on the enzyme. MgADP inhibits hexokinase but behaves as a normal product inhibitor and inhibition is competitive with respect to MgATP and non-competitive with respect to glucose.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Vowles</LastName>
+<ForeName>D T</ForeName>
+<Initials>DT</Initials>
+</Author>
+<Author>
+<LastName>Easterby</LastName>
+<ForeName>J S</ForeName>
+<Initials>JS</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Adenine Nucleotides</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Glucosephosphates</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Mannosephosphates</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.7.1.1</RegistryNumber>
+<NameOfSubstance>Hexokinase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adenine Nucleotides</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Binding Sites</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Comparative Study</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Dose-Response Relationship, Drug</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Glucosephosphates</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hexokinase</DescriptorName>
+<QualifierName>antagonists &#38; inhibitors</QualifierName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mannosephosphates</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Myocardium</DescriptorName>
+<QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Swine</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

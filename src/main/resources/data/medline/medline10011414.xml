@@ -1,0 +1,114 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011414</MedlineID>
+<PMID>311223</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>551</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+<Day>8</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Water movement across split frog skin.</ArticleTitle>
+<Pagination>
+<MedlinePgn>448-51</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>A net inward fluid reabsorption (salt-linked flow) has been observed in isolated skin epithelium (split skin) with the same magnitude as in whole skin when identical NaCl Ringer solutions were used to bathe both sides. Split skins also respond to a hyperosmotic sucrose solution bathing the outer (epithelial) surface by generating an outward osmotic flow. A non-linear relationship between osmotic flow and the osmotic gradient has been found in split skin similar to that found in whole skin.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Lau</LastName>
+<ForeName>Y T</ForeName>
+<Initials>YT</Initials>
+</Author>
+<Author>
+<LastName>Parsons</LastName>
+<ForeName>R H</ForeName>
+<Initials>RH</Initials>
+</Author>
+<Author>
+<LastName>Brady</LastName>
+<ForeName>R J</ForeName>
+<Initials>RJ</Initials>
+</Author>
+<Author>
+<LastName>Feeney</LastName>
+<ForeName>G A</ForeName>
+<Initials>GA</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>69-65-8</RegistryNumber>
+<NameOfSubstance>Mannitol</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7732-18-5</RegistryNumber>
+<NameOfSubstance>Water</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Anura</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Biological Transport</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mannitol</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Osmolar Concentration</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Permeability</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rana pipiens</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Skin</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Water</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

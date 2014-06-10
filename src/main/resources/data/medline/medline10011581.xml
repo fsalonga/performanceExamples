@@ -1,0 +1,124 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011581</MedlineID>
+<PMID>217466</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>11</Month>
+<Day>19</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0365-9615</ISSN>
+<JournalIssue>
+<Volume>87</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>[State of vascular tone and several blood biochemical indices in experimental atherosclerosis and sensitization]</ArticleTitle>
+<Pagination>
+<MedlinePgn>126-8</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>A study of the vascular tone of the posterior extremities in rabbits, of some blood lipid metabolism indices under conditions of experimental atherosclerosis and sensitization showed an increase in the vascular resistance in the areas investigated, and disturbance of lipid metabolism in two experimental groups of animals. The data obtained support the literature evidence that allergic component serves as one of the factors complicating the atherosclerosis course.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Khamitov</LastName>
+<ForeName>Kh S</ForeName>
+<Initials>KhS</Initials>
+</Author>
+<Author>
+<LastName>Kantserov</LastName>
+<ForeName>I Kh</ForeName>
+<Initials>IKh</Initials>
+</Author>
+<Author>
+<LastName>Izmaĭlova</LastName>
+<ForeName>A Kh</ForeName>
+<Initials>AKh</Initials>
+</Author>
+</AuthorList>
+<Language>rus</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+<VernacularTitle>Sostoianie sosudistogo tonusa i nekotorykh biokhimicheskikh pokazateleĭ krovi pri éksperimental'nom ateroskleroze i sensibilizatsii.</VernacularTitle>
+</Article>
+<MedlineJournalInfo>
+<Country>USSR</Country>
+<MedlineTA>Biull Eksp Biol Med</MedlineTA>
+<NlmUniqueID>0370627</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Lipoproteins, LDL</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Phosphatidylcholines</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>57-88-5</RegistryNumber>
+<NameOfSubstance>Cholesterol</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Arteriosclerosis</DescriptorName>
+<QualifierName>blood</QualifierName>
+<QualifierName MajorTopicYN="Y">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cholesterol</DescriptorName>
+<QualifierName>blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Comparative Study</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>English Abstract</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hypersensitivity</DescriptorName>
+<QualifierName>blood</QualifierName>
+<QualifierName MajorTopicYN="Y">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Lipoproteins, LDL</DescriptorName>
+<QualifierName>blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phosphatidylcholines</DescriptorName>
+<QualifierName>blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rabbits</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Vascular Resistance</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Vasomotor System</DescriptorName>
+<QualifierName>physiopathology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

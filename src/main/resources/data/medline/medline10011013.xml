@@ -1,0 +1,116 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011013</MedlineID>
+<PMID>420601</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0003-9942</ISSN>
+<JournalIssue>
+<Volume>36</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Parkinsonism with 'on-off' phenomena. Intravenous treatment with levodopa after major abdominal surgery.</ArticleTitle>
+<Pagination>
+<MedlinePgn>32-4</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Continuous intravenous infusion of levodopa was used for eight days to manage a parkinsonian patient with "on-off" fluctuations who underwent abdominoperineal resection for carcinoma of the rectum. Reasonable control of parkinsonism was obtained initially with small doses of levodopa, but more than 4 g daily were eventually required. No adverse effects on cardiac rhythm, blood pressure, or gastrointestinal function occurred. Frequent adjustment of levodopa dosage was necessary in view of continuing "on-off" fluctuations. Severe akinesia, which can cause dysphagia, respiratory complications, and venous stasis in the legs, can benefit from this method of management after major abdominal surgery in a patient with advanced parkinsonism.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Rosin</LastName>
+<ForeName>A J</ForeName>
+<Initials>AJ</Initials>
+</Author>
+<Author>
+<LastName>Devereux</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author>
+<LastName>Eng</LastName>
+<ForeName>N</ForeName>
+<Initials>N</Initials>
+</Author>
+<Author>
+<LastName>Calne</LastName>
+<ForeName>D B</ForeName>
+<Initials>DB</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Arch Neurol</MedlineTA>
+<NlmUniqueID>0372436</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Levodopa</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Abdomen</DescriptorName>
+<QualifierName MajorTopicYN="Y">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Case Report</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Injections, Intravenous</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Levodopa</DescriptorName>
+<QualifierName MajorTopicYN="Y">administration &#38; dosage</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Middle Age</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Parkinson Disease</DescriptorName>
+<QualifierName>complications</QualifierName>
+<QualifierName MajorTopicYN="Y">drug therapy</QualifierName>
+<QualifierName>physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Postoperative Care</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rectal Neoplasms</DescriptorName>
+<QualifierName>surgery</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

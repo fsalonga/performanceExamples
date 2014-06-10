@@ -1,0 +1,151 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011992</MedlineID>
+<PMID>84709</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0008-5472</ISSN>
+<JournalIssue>
+<Volume>39</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Apr</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Immunogenicity of chemically induced murine colon cancers.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1174-9</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The antigenicity and immunogenicity of three colorectal carcinomas induced in BALB/c mice by 1,2-dimethylhydrazine or N-methyl-N-nitrosourethan were studied. All tumors were readily transplantable. Two of these tumors metastasized when transplants reached sufficient size. All tumors were found to be immunogenic in the strain of origin, and all tumors were shown to contain unique tumor-specific transplantation antigens in cross-protection experiments. The use of these tumors as an animal model for studies of adjuvant immunotherapy and chemoimmunotherapy is suggested.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Belnap</LastName>
+<ForeName>L P</ForeName>
+<Initials>LP</Initials>
+</Author>
+<Author>
+<LastName>Cleveland</LastName>
+<ForeName>P H</ForeName>
+<Initials>PH</Initials>
+</Author>
+<Author>
+<LastName>Colmerauer</LastName>
+<ForeName>M E</ForeName>
+<Initials>ME</Initials>
+</Author>
+<Author>
+<LastName>Barone</LastName>
+<ForeName>R M</ForeName>
+<Initials>RM</Initials>
+</Author>
+<Author>
+<LastName>Pilch</LastName>
+<ForeName>Y H</ForeName>
+<Initials>YH</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Cancer Res</MedlineTA>
+<NlmUniqueID>2984705R</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Antibodies, Neoplasm</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Antigens, Neoplasm</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Dimethylhydrazines</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Epitopes</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>615-53-2</RegistryNumber>
+<NameOfSubstance>Nitrosomethylurethane</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Antibodies, Neoplasm</DescriptorName>
+<QualifierName MajorTopicYN="Y">biosynthesis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Antigens, Neoplasm</DescriptorName>
+<QualifierName>administration &#38; dosage</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Colonic Neoplasms</DescriptorName>
+<QualifierName>chemically induced</QualifierName>
+<QualifierName MajorTopicYN="Y">immunology</QualifierName>
+<QualifierName>therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Dimethylhydrazines</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Epitopes</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Immunotherapy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mice</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mice, Inbred BALB C</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neoplasm Transplantation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neoplasms, Experimental</DescriptorName>
+<QualifierName>immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Nitrosomethylurethane</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Transplantation, Isogeneic</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

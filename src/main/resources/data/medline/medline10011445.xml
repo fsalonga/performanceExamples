@@ -1,0 +1,132 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011445</MedlineID>
+<PMID>420858</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>566</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>9</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>The interrelationship of superoxide dismutase and peroxidatic enzymes in the red cell.</ArticleTitle>
+<Pagination>
+<MedlinePgn>253-8</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Activities of superoxide dismutase (superoxide:superoxide oxidoreductase, EC 1.15.1.1) and catalase (hydrogen-peroxide:hydrogen-peroxide oxidoreductase, EC 1.11.1.6) were determined during the course of incubation of red cell suspensions with 1,4-naphthoquinone-2-sulfonic acid. In the absence of glucose, incubation with napthoquinone sulfonate resulted in an inhibition of catalase and superoxide dismutase. The catalase inhibitor, 3-amino-1,2,4-triazole enhanced inactivation of catalase in the presence of naphthoquinone sulfonate and this in turn led to augmented inhibition of superoxide dismutase. The presence of glucose in the incubation medium prevented napthoquinone sulfonate-induced enzyme inhibition in the absence of aminotriazole, but had little effect in the presence of aminotriazole. The relevance of these findings to the cellular interrelationship of peroxidatic enzymes and superoxide dismutase is discussed.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>McMahon</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author>
+<LastName>Stern</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Naphthoquinones</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Triazoles</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>50-99-7</RegistryNumber>
+<NameOfSubstance>Glucose</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>61-82-5</RegistryNumber>
+<NameOfSubstance>Amitrole</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 1.11.1.6</RegistryNumber>
+<NameOfSubstance>Catalase</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 1.15.1.1</RegistryNumber>
+<NameOfSubstance>Superoxide Dismutase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Amitrole</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Catalase</DescriptorName>
+<QualifierName>antagonists &#38; inhibitors</QualifierName>
+<QualifierName MajorTopicYN="Y">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Dose-Response Relationship, Drug</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Drug Synergism</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Erythrocytes</DescriptorName>
+<QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Glucose</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Naphthoquinones</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Superoxide Dismutase</DescriptorName>
+<QualifierName>antagonists &#38; inhibitors</QualifierName>
+<QualifierName MajorTopicYN="Y">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Triazoles</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

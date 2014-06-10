@@ -1,0 +1,103 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011310</MedlineID>
+<PMID>420793</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>6</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Proton nuclear magnetic resonance study of cobrotoxin.</ArticleTitle>
+<Pagination>
+<MedlinePgn>457-60</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Cobrotoxin (Mr 6949), which binds tightly to the acetylcholine receptors, contains no phenylalanines and only two histidines, two tyrosines, and one tryptophan that result in well-resolved aromatic proton resonances in D2O at 360 MHz. His-32, Tyr-25, and the Trp are essential for toxicity and may interact with the acetylcholine receptor. We assign two titratable resonances (pKa = 5.1) at delta = 9.0 and 7.5 ppm at pH 2.5 and at 7.7 and 7.1 ppm at pH 9.5 to the C-2 and C-4 ring protons, respectively, of His-4. Two other titratable resonances (pKa = 5.7) at delta = 8.8 and 6.9 ppm at pH 2.5 and at 7.8 and 6.7 ppm at pH 9.5 are assigned to the C-2 and C-4 ring protons of His-32, respectively. The differences in delta values of the two histidines reflect chemically different microenvironments while their low pKa values could arise from nearby positive charges. A methyl resonance gradually shifts upfield to delta approximately 0.4 ppm as His-4 is deprotonated and is tentatively assigned to the methyl group of Thr-14 or Thr-15 which, from published X-ray studies of neurotoxins, are located in the vicinity of His-4. Further, we have identified the aromatic resonances of the invariant tryptophan and individual tyrosines and the methyl resonance of one of the two isoleucines in the molecule. Several broad nontitrating resonances of labile protons which disappear at pH greater than 9 may arise from amide groups of the beta sheet in cobrotoxin.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Fung</LastName>
+<ForeName>C H</ForeName>
+<Initials>CH</Initials>
+</Author>
+<Author>
+<LastName>Chang</LastName>
+<ForeName>C C</ForeName>
+<Initials>CC</Initials>
+</Author>
+<Author>
+<LastName>Gupta</LastName>
+<ForeName>R K</ForeName>
+<Initials>RK</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Cobra Neurotoxins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Cobra Venoms</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Amino Acid Sequence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Cobra Neurotoxins</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Cobra Venoms</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Magnetic Resonance Spectroscopy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Models, Molecular</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Protein Conformation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>X-Ray Diffraction</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

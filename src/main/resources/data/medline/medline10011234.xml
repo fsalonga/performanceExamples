@@ -1,0 +1,131 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011234</MedlineID>
+<PMID>420764</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0007-1145</ISSN>
+<JournalIssue>
+<Volume>41</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>The relationship between hormonal balance and growth in malnourished children and rats.</ArticleTitle>
+<Pagination>
+<MedlinePgn>73-84</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Plasma concentrations of insulin, cortisol and growth hormone, and growth velocities have been measured in a group of Gambian village children up to 3 years of age. All three hormones showed changes in concentration with age, as did rates of growth. 2. Plasma insulin concentrations in the children were directly correlated with velocity of growth in height and weight, whereas cortisol concentrations showed inverse relationships. The values for insulin:cortisol concentration correlated more closely with growth velocity than did either hormone individually. Growth hormone values in plasma exhibited only marginal correlations with growth in height or weight, and these were negative. 3. Similar relationships between these hormones and growth were obtained from an animal experiment in which the rates of growth of rats were altered by restricting dietary intake of protein or energy or both. 4. Possible mechanisms for these observations are discussed in the light of recent knowledge concerning the hormonal control of growth rates.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Lunn</LastName>
+<ForeName>P G</ForeName>
+<Initials>PG</Initials>
+</Author>
+<Author>
+<LastName>Whitehead</LastName>
+<ForeName>R G</ForeName>
+<Initials>RG</Initials>
+</Author>
+<Author>
+<LastName>Cole</LastName>
+<ForeName>T J</ForeName>
+<Initials>TJ</Initials>
+</Author>
+<Author>
+<LastName>Austin</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Br J Nutr</MedlineTA>
+<NlmUniqueID>0372547</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>11061-68-0</RegistryNumber>
+<NameOfSubstance>Insulin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>50-23-7</RegistryNumber>
+<NameOfSubstance>Hydrocortisone</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9002-72-6</RegistryNumber>
+<NameOfSubstance>Somatotropin</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Body Height</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Body Weight</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Child, Preschool</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Growth</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hydrocortisone</DescriptorName>
+<QualifierName MajorTopicYN="Y">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Infant</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Insulin</DescriptorName>
+<QualifierName MajorTopicYN="Y">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Nutrition Disorders</DescriptorName>
+<QualifierName>blood</QualifierName>
+<QualifierName MajorTopicYN="Y">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Somatotropin</DescriptorName>
+<QualifierName MajorTopicYN="Y">blood</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

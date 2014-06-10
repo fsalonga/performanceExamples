@@ -1,0 +1,173 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011867</MedlineID>
+<PMID>421141</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-8993</ISSN>
+<JournalIssue>
+<Volume>165</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Apr</Month>
+<Day>13</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Pharmacological study of a cholinergic mechanism within the rat posterior hypothalamic nucleus which mediates a hypertensive response.</ArticleTitle>
+<Pagination>
+<MedlinePgn>295-310</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>In unanesthetized freely moving rats, microinjection of a variety of cholinergic agonists into the posterior hypothalamic nucleus (PHN) consistently produced an elevation in mean arterial pressure (MAP). Experiments were undertaken to pharmacologically characterize this cholinergic mechanism. Microinjection of carbachol (0.1--100 nmol) into the PHN elicited reproducible and dose-related increase in MAP (17--47 mm Hg) and variable changes in heart rate. Similar responses, although longer in onset and duration, were produced by microinjection of the cholinesterase inhibitors, neostigmine, physostigmine and echothiophate. The pressor responses produced by neostigmine and physostigmine, but not by carbachol, were shown to be dependent upon intact stores of acetylcholine in the PHN. Blockade of postsynaptic muscarinic receptors by prior microinjection of atropine abolished the rise in MAP to subsequent injection of cholinergic agonists; however, similar pretreatment with the antinicotinic agent, mecamylamine, was without effect. The peripheral mechanism through which a rise in MAP was produced by cholinergic stimulation of PHN was the sympathetic nervous system since i.v. injection of an alpha-adrenergic blocking agent, phentolamine, attenuated the pressor response to intrahypothalamic injection of carbachol or neostigmine. Adrenal catecholamine release or vasopressin release were not important mechanisms in this regard. From this study we conclude that within the rat PHN there exists a muscarinic, cholinergic mechanism which, upon activation, mediates a rise in MAP through an increase in sympathetic tone.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Buccafusco</LastName>
+<ForeName>J J</ForeName>
+<Initials>JJ</Initials>
+</Author>
+<Author>
+<LastName>Brezenoff</LastName>
+<ForeName>H E</ForeName>
+<Initials>HE</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Brain Res</MedlineTA>
+<NlmUniqueID>0045503</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Cholinesterase Inhibitors</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>312-45-8</RegistryNumber>
+<NameOfSubstance>Hemicholinium 3</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>50-60-2</RegistryNumber>
+<NameOfSubstance>Phentolamine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>51-55-8</RegistryNumber>
+<NameOfSubstance>Atropine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>51-83-2</RegistryNumber>
+<NameOfSubstance>Carbachol</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>51-84-3</RegistryNumber>
+<NameOfSubstance>Acetylcholine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>60-40-2</RegistryNumber>
+<NameOfSubstance>Mecamylamine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>70-22-4</RegistryNumber>
+<NameOfSubstance>Oxotremorine</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Acetylcholine</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Adrenalectomy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Atropine</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Blood Pressure</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Carbachol</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cholinergic Fibers</DescriptorName>
+<QualifierName MajorTopicYN="Y">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cholinesterase Inhibitors</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Dose-Response Relationship, Drug</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Heart Rate</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hemicholinium 3</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hypophysectomy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hypothalamus</DescriptorName>
+<QualifierName MajorTopicYN="Y">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hypothalamus, Posterior</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+<QualifierName MajorTopicYN="Y">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mecamylamine</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Oxotremorine</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phentolamine</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Premedication</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

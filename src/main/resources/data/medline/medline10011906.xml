@@ -1,0 +1,116 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011906</MedlineID>
+<PMID>421159</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0008-4182</ISSN>
+<JournalIssue>
+<Volume>14</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Lacrimal sac calculi.</ArticleTitle>
+<Pagination>
+<MedlinePgn>17-20</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Analysis of dacryoliths removed at operation showed that most consisted of calcium. One consisted of ammonium and could be directly related to the presence of bacteria. Tear samples obtained from 14 patients with dacryoliths were compared with seven normal patients with regard to calcium, phosphorus, and uric acid concentrations, tear to serum calcium ratios, and calcium-phosphate products. There was no significant difference between the two groups and thus no evidence that dacryoliths from because of abnormal tear electrolytes. We believe that dacryolith formation results from chronic obstruction and inflammation of the sac causing a build up of various electrolytes, particularly calcium. The preoperative dacryocystograms showed either a filling defect or apparent displacement of the lacrimal sac.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Herzig</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author>
+<LastName>Hurwitz</LastName>
+<ForeName>J J</ForeName>
+<Initials>JJ</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>CANADA</Country>
+<MedlineTA>Can J Ophthalmol</MedlineTA>
+<NlmUniqueID>0045312</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Ammonium Compounds</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>69-93-2</RegistryNumber>
+<NameOfSubstance>Uric Acid</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7440-70-2</RegistryNumber>
+<NameOfSubstance>Calcium</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7723-14-0</RegistryNumber>
+<NameOfSubstance>Phosphorus</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Ammonium Compounds</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Calcium</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Calculi</DescriptorName>
+<QualifierName>etiology</QualifierName>
+<QualifierName>physiopathology</QualifierName>
+<QualifierName MajorTopicYN="Y">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Lacrimal Duct Obstruction</DescriptorName>
+<QualifierName>physiopathology</QualifierName>
+<QualifierName>radiography</QualifierName>
+<QualifierName MajorTopicYN="Y">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phosphorus</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Tears</DescriptorName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Uric Acid</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

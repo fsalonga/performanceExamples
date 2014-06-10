@@ -1,0 +1,133 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011915</MedlineID>
+<PMID>105790</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0008-4182</ISSN>
+<JournalIssue>
+<Volume>14</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Lingeous conjunctivitis with tracheal obstruction. A case report, with light and electron microscopy findings.</ArticleTitle>
+<Pagination>
+<MedlinePgn>57-62</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>A white male infant of 1 year had unilateral membranous conjunctivitis and severe laryngotracheobronchitis which required tracheostomy. Cultures from eye and throat swabs and of fluid suctioned through the tracheostomy grew many organisms, including H. influenzae, adenovirus type 3, and Candida species, but he had no specific immunologic disturbance. Ligneous conjunctivitis was diagnosed. The infant's general condition responded slowly to intensive therapy but the membrane continued to slough off the regrow. The excised membrane contained massive subepithelial deposits of eosinophilic material and a moderately vascular chronic inflammatory-cell infiltrate with numerous mast cells in the perivascular spaces and the hyaline membrane. The conjunctivitis cleared when treated with topical sodium cromoglycate (Intal), a known inhibitor of mediator release from mast-cell granules. The success of Intal therapy in this case supports the theory that mast cells are involved in the pathogenesis of ligneous conjunctivitis.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Cooper</LastName>
+<ForeName>T J</ForeName>
+<Initials>TJ</Initials>
+</Author>
+<Author>
+<LastName>Kazdan</LastName>
+<ForeName>J J</ForeName>
+<Initials>JJ</Initials>
+</Author>
+<Author>
+<LastName>Cutz</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>CANADA</Country>
+<MedlineTA>Can J Ophthalmol</MedlineTA>
+<NlmUniqueID>0045312</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Antibiotics</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>15826-37-6</RegistryNumber>
+<NameOfSubstance>Cromolyn Sodium</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Antibiotics</DescriptorName>
+<QualifierName>therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Bronchitis</DescriptorName>
+<QualifierName>complications</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Case Report</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Conjunctiva</DescriptorName>
+<QualifierName>pathology</QualifierName>
+<QualifierName>surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Conjunctivitis</DescriptorName>
+<QualifierName MajorTopicYN="Y">complications</QualifierName>
+<QualifierName>microbiology</QualifierName>
+<QualifierName>therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cromolyn Sodium</DescriptorName>
+<QualifierName>therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Infant</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Laryngeal Diseases</DescriptorName>
+<QualifierName>complications</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mast Cells</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Tracheal Diseases</DescriptorName>
+<QualifierName MajorTopicYN="Y">complications</QualifierName>
+<QualifierName>microbiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Tracheal Stenosis</DescriptorName>
+<QualifierName MajorTopicYN="Y">complications</QualifierName>
+<QualifierName>surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Tracheotomy</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

@@ -1,0 +1,112 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011475</MedlineID>
+<PMID>420864</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>582</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>1</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Solution of conformation and crystal structure of methyl 3,6-dideoxy-beta-D-ribohexopyranoside, an immunodominant sugar of O-antigens.</ArticleTitle>
+<Pagination>
+<MedlinePgn>515-24</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The crystal structure of methyl 3,6-dideoxy-beta-D-ribohexopyranoside monohydrate was determined by direct methods. Crystals are monoclinic, space group P2(1), with cell dimensions a=9.089(1), b=7.668(1), c=6.956(1) A, beta=101.12 degrees. The molecule adopts the 1C1 chair conformation. The same conformation was also found in both aqueous and chloroform solutions. The pyranose ring is only slightly distorted, and the consequences of this observation on antigen structure are discussed.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Birnbaum</LastName>
+<ForeName>G I</ForeName>
+<Initials>GI</Initials>
+</Author>
+<Author>
+<LastName>Bundle</LastName>
+<ForeName>D R</ForeName>
+<Initials>DR</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Antigens, Bacterial</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Deoxy Sugars</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Hexoses</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Methylglycosides</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Antigens, Bacterial</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Crystallization</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Deoxy Sugars</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Hexoses</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hydrogen Bonding</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Magnetic Resonance Spectroscopy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Methylglycosides</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Models, Molecular</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Molecular Conformation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>X-Ray Diffraction</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

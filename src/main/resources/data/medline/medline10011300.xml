@@ -1,0 +1,129 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011300</MedlineID>
+<PMID>84682</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>6</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>A dimer--dimer binding region in beta-galactosidase.</ArticleTitle>
+<Pagination>
+<MedlinePgn>404-6</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>alpha Complementation in beta-galactosidase is the restoration of enzyme activity by addition of the alpha donor CNBr2, from amino acid residues 3--92 of the polypeptide, to inactive M15 protein from the lacZ deletion mutant strain M15. M15 protein lacks residues 11--41 and is a dimer; the active complex, like native beta-galactosidase, is tetrameric [Langley, K. E., &#38; Zabin, I. (1976) Biochemistry 15, 4866--4875]. A dimer--dimer binding region in beta-galactosidase has been identified by proteolytic and immunologic studies of alpha-complementation. Proteolytic experiments were carried out with trypsin. Treatment of native beta-galactosidase with trypsin, followed by reaction of the mixture with cyanogen bromide, yields intact CNBr2 as measured by its ability to complement M15 protein. Active CNBr2 is not obtained when urea-denatured beta-galactosidase is treated in the same way. Therefore the segment corresponding to CNBr2 is apparently buried within the folded protein. Immunologic experiments were carried out with antibodies against CNBr2, tryptic peptide T8 (residues 60--140), and CNBr3 (residues 93--187). Anti-CNBr2 and anti-T8 bind to M15 protein but not to beta-galactosidase, indicating that this area is exposed in the dimer. Anti CNBr2, but not anti-T8 or anti-CNBr3, inhibits the formation of alpha-complemented enzyme. These results indicate that an early part of the sequence, within the segment corresponding to CNBr2, is involved in dimer--dimer interaction.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Celada</LastName>
+<ForeName>F</ForeName>
+<Initials>F</Initials>
+</Author>
+<Author>
+<LastName>Zabin</LastName>
+<ForeName>I</ForeName>
+<Initials>I</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Antibodies</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Antigens</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Epitopes</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Macromolecular Systems</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.2.1.-</RegistryNumber>
+<NameOfSubstance>Galactosidases</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.2.1.23</RegistryNumber>
+<NameOfSubstance>beta-Galactosidase</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.4.21.4</RegistryNumber>
+<NameOfSubstance>Trypsin</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Antibodies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Antigen-Antibody Reactions</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Antigens</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Epitopes</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Galactosidases</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Macromolecular Systems</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Protein Binding</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, Non-P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Trypsin</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">beta-Galactosidase</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

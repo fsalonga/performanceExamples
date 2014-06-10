@@ -1,0 +1,120 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011315</MedlineID>
+<PMID>420794</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>6</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Isolation of a minichromosome containing the ribosomal genes from Physarum polycephalum.</ArticleTitle>
+<Pagination>
+<MedlinePgn>484-90</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The ribosomal genes of Physarum polycephalum are located on linear DNA molecules (rDNA) of 38 x 10(6) daltons present in each nucleolus in 100--200 copies. The rDNA is not part of the large chromosomal DNA. These molecules have now been solubilized in the form of transcriptionally active deoxyribonucleoprotein complexes from nucleoli purified through  Percoll gradients. The ribosomal chromatin (rDNP) sediments in sucrose gradients as a homogeneous fraction with an approximate sedimentation coefficient of 100 S. It contains alpha-amanitin-resistant RNA polymerase I activity and rDNA as its major (or sole) DNA component. Buoyant density analysis indicates that ribosomal chromatin contains, besides RNA polymerase I, significant amounts of additional protein. RNA synthesized in vitro by the endogenous RNA polymerase is complementary to rDNA and is transcribed mainly from the sequences coding for 19S and 26S ribosomal RNA.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Seebeck</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author>
+<LastName>Stalder</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author>
+<LastName>Braun</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Amanitins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9007-49-2</RegistryNumber>
+<NameOfSubstance>DNA</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.7.7.6</RegistryNumber>
+<NameOfSubstance>DNA-Directed RNA Polymerase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Amanitins</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Chromosomes</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>DNA</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>DNA-Directed RNA Polymerase</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Genes</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Molecular Weight</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Physarum</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Ribosomes</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Transcription, Genetic</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

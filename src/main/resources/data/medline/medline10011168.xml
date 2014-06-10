@@ -1,0 +1,124 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011168</MedlineID>
+<PMID>311203</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>28</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>28</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>03</Month>
+<Day>23</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0004-3591</ISSN>
+<JournalIssue>
+<Volume>22</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Detection of low avidity anti-DNA antibodies in systemic lupus erythematosus.</ArticleTitle>
+<Pagination>
+<MedlinePgn>219-25</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The binding of sonicated, radiolabeled DNA by systemic lupus erythematosus (SLE) sera was measured by a high sensitivity polyethylene glycol (PEG) precipitation assay. This method is considerably more sensitive than currently used techniques. The results suggest that a significant concentration of low avidity antibodies is present in SLE sera; however, these antibodies are not detected by conventional techniques.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Riley</LastName>
+<ForeName>R L</ForeName>
+<Initials>RL</Initials>
+</Author>
+<Author>
+<LastName>McGrath</LastName>
+<ForeName>H</ForeName>
+<Initials>H</Initials>
+<Suffix>Jr</Suffix>
+</Author>
+<Author>
+<LastName>Taylor</LastName>
+<ForeName>R P</ForeName>
+<Initials>RP</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Arthritis Rheum</MedlineTA>
+<NlmUniqueID>0370605</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Antibodies, Antinuclear</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Antigen-Antibody Complex</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Polyethylene Glycols</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>10028-17-8</RegistryNumber>
+<NameOfSubstance>Tritium</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Antibodies, Antinuclear</DescriptorName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Antibody Affinity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Antigen-Antibody Complex</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Lupus Erythematosus, Systemic</DescriptorName>
+<QualifierName MajorTopicYN="Y">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Methods</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Polyethylene Glycols</DescriptorName>
+<QualifierName>diagnostic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Precipitation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Tritium</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Ultrafiltration</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

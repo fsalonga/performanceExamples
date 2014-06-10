@@ -1,0 +1,120 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011578</MedlineID>
+<PMID>420928</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0365-9615</ISSN>
+<JournalIssue>
+<Volume>87</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>[Formation of epileptic activity complexes in the cerebral cortex as a result of a determinant focus induced by acetylcholine]</ArticleTitle>
+<Pagination>
+<MedlinePgn>117-21</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Foci of increased excitability were created by means of weak strychnine and penicillin dilutions in experiments on cats. These foci worked at individual regimens. Creation with acetylcholine and proserine of a hyperactive focus led to increase of the amplitude and frequency of convulsive discharges at first in the nearest activity foci, and then in the ones remote from the hyperactive focus. The next stage was attended by qualitative changes in the activity pattern of strychnine and penicillin foci (the appearance of acetylcholine activity in them) and by the formation of a single functional focal complex working in the regimen of acetylcholine focus. Thus, the latter played the role of a determinant structure. Suppression of the determinant focus activity led to disappearance of the acetylcholine activity in all the other foci, restoration of the initial (penicillin and strychnine) activity, and to the epileptic complex decay.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Kryzhanovskiĭ</LastName>
+<ForeName>G N</ForeName>
+<Initials>GN</Initials>
+</Author>
+<Author>
+<LastName>Makul'kin</LastName>
+<ForeName>R F</ForeName>
+<Initials>RF</Initials>
+</Author>
+<Author>
+<LastName>Shandra</LastName>
+<ForeName>A A</ForeName>
+<Initials>AA</Initials>
+</Author>
+<Author>
+<LastName>Okhtishkin</LastName>
+<ForeName>N E</ForeName>
+<Initials>NE</Initials>
+</Author>
+</AuthorList>
+<Language>rus</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+<VernacularTitle>Obrazovanie v kore golovnogo mozga kompleksov épilepticheskoĭ aktivnosti pod vliianiem determinantnogo ochaga, vyzvannogo atsetilkholinom.</VernacularTitle>
+</Article>
+<MedlineJournalInfo>
+<Country>USSR</Country>
+<MedlineTA>Biull Eksp Biol Med</MedlineTA>
+<NlmUniqueID>0370627</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Penicillins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>51-84-3</RegistryNumber>
+<NameOfSubstance>Acetylcholine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>57-24-9</RegistryNumber>
+<NameOfSubstance>Strychnine</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Acetylcholine</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cerebral Cortex</DescriptorName>
+<QualifierName MajorTopicYN="Y">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Convulsions</DescriptorName>
+<QualifierName MajorTopicYN="Y">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Electroencephalography</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Electrophysiology</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>English Abstract</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Penicillins</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Strychnine</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

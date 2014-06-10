@@ -1,0 +1,143 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011170</MedlineID>
+<PMID>33681</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>28</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>28</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>11</Month>
+<Day>02</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0004-3591</ISSN>
+<JournalIssue>
+<Volume>22</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Alteration of lymphocyte function in NZB/NZW mice. IV. Response to levamisole.</ArticleTitle>
+<Pagination>
+<MedlinePgn>236-42</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>NZB/NZW F1 female mice received levamisole in an attempt to increase suppressor T cell function. Responses varied with dosage of drug and age of mice. When treatment with 25 microgram/gm doses (intermittent or daily) was begun at 12 weeks of age, nephritis was accelerated in spite of transient reduction of anti-DNA antibodies. When treatment was begun at 4 weeks, or when doses of 250 microgram/gm were given, no clinical effects were observed. In the mice with accelerated disease, delayed hypersensitivity and antibody responses to sheep erythrocytes increased; antibody responses to pneumococcal polysaccharide were unaffected. It is possible that some increased immune responses associated with levamisole are undesirable in murine lupus.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Hahn</LastName>
+<ForeName>B H</ForeName>
+<Initials>BH</Initials>
+</Author>
+<Author>
+<LastName>Knotts</LastName>
+<ForeName>L L</ForeName>
+<Initials>LL</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Arthritis Rheum</MedlineTA>
+<NlmUniqueID>0370605</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Antibodies, Antinuclear</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Immunoglobulin M</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>14769-73-4</RegistryNumber>
+<NameOfSubstance>Levamisole</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Antibodies, Antinuclear</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Disease Models, Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Drug Administration Schedule</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Glomerulonephritis</DescriptorName>
+<QualifierName>drug therapy</QualifierName>
+<QualifierName MajorTopicYN="Y">immunology</QualifierName>
+<QualifierName>mortality</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Graft vs Host Reaction</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hypersensitivity, Delayed</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Immune Complex Diseases</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Immunoglobulin M</DescriptorName>
+<QualifierName>analysis</QualifierName>
+<QualifierName>biosynthesis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Levamisole</DescriptorName>
+<QualifierName>administration &#38; dosage</QualifierName>
+<QualifierName MajorTopicYN="Y">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Lupus Erythematosus, Systemic</DescriptorName>
+<QualifierName>drug therapy</QualifierName>
+<QualifierName MajorTopicYN="Y">immunology</QualifierName>
+<QualifierName>mortality</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mice</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mice, Inbred NZB</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Spleen</DescriptorName>
+<QualifierName>immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>T-Lymphocytes</DescriptorName>
+<QualifierName MajorTopicYN="Y">immunology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

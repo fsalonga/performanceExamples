@@ -1,0 +1,103 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011099</MedlineID>
+<PMID>420670</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>11</Month>
+<Day>14</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0095-6562</ISSN>
+<JournalIssue>
+<Volume>50</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Some effects of the variation of atmospheric particulates on disease in Great Britain.</ArticleTitle>
+<Pagination>
+<MedlinePgn>72-9</MedlinePgn>
+</Pagination>
+<AuthorList>
+<Author>
+<LastName>Leach</LastName>
+<ForeName>J F</ForeName>
+<Initials>JF</Initials>
+</Author>
+<Author>
+<LastName>Beadle</LastName>
+<ForeName>P C</ForeName>
+<Initials>PC</Initials>
+</Author>
+<Author>
+<LastName>Pingstone</LastName>
+<ForeName>A R</ForeName>
+<Initials>AR</Initials>
+</Author>
+<Author>
+<LastName>Aughton</LastName>
+<ForeName>P</ForeName>
+<Initials>P</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Aviat Space Environ Med</MedlineTA>
+<NlmUniqueID>7501714</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>10028-15-6</RegistryNumber>
+<NameOfSubstance>Ozone</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<CitationSubset>S</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Femoral Neck Fractures</DescriptorName>
+<QualifierName MajorTopicYN="Y">mortality</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Great Britain</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Ozone</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Skin Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y">mortality</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Smoke</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Ultraviolet Rays</DescriptorName>
+<QualifierName>adverse effects</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+<OtherID Source="NASA">79123730</OtherID>
+</MedlineCitation>

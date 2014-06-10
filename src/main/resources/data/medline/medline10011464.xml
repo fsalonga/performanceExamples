@@ -1,0 +1,140 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011464</MedlineID>
+<PMID>217438</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>582</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>1</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Conversion of dihydroorotate to orotate in parasitic protozoa.</ArticleTitle>
+<Pagination>
+<MedlinePgn>390-401</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The conversion of dihydroorotate to orotate, one of the key reactions in the de novo pyrimidine biosynthetic pathway, has been studied in a number of parasitic protozoa. Enzyme activities capable of carrying out this reaction were detected in six members of the Kinetoplastida (Trypanosoma brucei, Trypanosoma congolense, Trypanosoma vivax, Trypanosoma lewisi, Trypanosoma cruzi, Leishmania enriettii) and three members of the genus Plasmodium (P. knowlesi, P. berghei, P. gallinaceum). The mechanism of the reaction in the two groups of protozoa were quite distinct. In the Kinetoplastida, the enzyme is an hydroxylase which occurs in the soluble fraction of the cell and probably requires tetrahydrobiopterin for activity. In contrast, in Plasmodium, the enzyme is a dehydrogenase which is particulate, probably mitochondrial, and intimately connected to the electron transport chain to which it passes electrons directly, probably at the ubiquinone level. Neither activity is regulated by fully formed pyrimidines. The enzyme in Plasmodium is similar in mechanism to the isofunctional mammalian enzyme. However, since malarial ubiquinones are apparently different from those in the mammal and since menoctone, which is active in vivo in experimental malaria, is a good inhibitor of the malarial enzyme, it could represent a useful target for chemotherapeutic attack. The enzyme in the Kinetoplastida is quite distinct from that in the mammal so that it too apparently falls into this category, though none of the currently used antitrypanosomal drugs appears to block it activity at physiological concentrations.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Gutteridge</LastName>
+<ForeName>W E</ForeName>
+<Initials>WE</Initials>
+</Author>
+<Author>
+<LastName>Dave</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author>
+<LastName>Richards</LastName>
+<ForeName>W H</ForeName>
+<Initials>WH</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Antimalarials</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Enzyme Inhibitors</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>65-86-1</RegistryNumber>
+<NameOfSubstance>Orotic Acid</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 1.3.3.1</RegistryNumber>
+<NameOfSubstance>Dihydroorotate Oxidase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Antimalarials</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Comparative Study</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Crithidia</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Dihydroorotate Oxidase</DescriptorName>
+<QualifierName>isolation &#38; purification</QualifierName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Enzyme Inhibitors</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Leishmania</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Liver</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Orotic Acid</DescriptorName>
+<QualifierName MajorTopicYN="Y">analogs &#38; derivatives</QualifierName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Oxygen Consumption</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Plasmodium</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Trypanosoma</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

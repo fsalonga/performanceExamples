@@ -1,0 +1,122 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011672</MedlineID>
+<PMID>105776</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0007-1447</ISSN>
+<JournalIssue>
+<Volume>1</Volume>
+<Issue>6157</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>20</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Fats and atheroma: an inquest.</ArticleTitle>
+<Pagination>
+<MedlinePgn>173-5</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>All well-controlled trials of cholesterol-reducing diets and drugs have failed to reduce coronary (CHD) mortality and morbidity. Nevertheless, commercial, professional, and even government-sponsored propaganda continues. Experimentally some vegetable oils and hardened fats can be more damaging to arteries than butter. There are other hazards to heart muscle from vegetable oils. Israelis consume a high polyunsaturated fat diet equal to that recommended for prevention of CHD in USA but their CHD incidence is very high. Urban Bedouins are also affected. The primary clofibrate prevention trial underlines unacceptable risks which could apply also to diets. Official medical endorsement of these cholesterol reducing measures should be withdrawn.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>McMichael</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Br Med J</MedlineTA>
+<NlmUniqueID>0372673</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Dietary Fats</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Fats, Unsaturated</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>57-88-5</RegistryNumber>
+<NameOfSubstance>Cholesterol</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>637-07-0</RegistryNumber>
+<NameOfSubstance>Clofibrate</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>8029-82-1</RegistryNumber>
+<NameOfSubstance>Margarine</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Arteriosclerosis</DescriptorName>
+<QualifierName MajorTopicYN="Y">etiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cholesterol</DescriptorName>
+<QualifierName>blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Clofibrate</DescriptorName>
+<QualifierName>therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Coronary Disease</DescriptorName>
+<QualifierName MajorTopicYN="Y">etiology</QualifierName>
+<QualifierName>prevention &#38; control</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Dietary Fats</DescriptorName>
+<QualifierName MajorTopicYN="Y">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Fats, Unsaturated</DescriptorName>
+<QualifierName>adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Haplorhini</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Israel</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Margarine</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

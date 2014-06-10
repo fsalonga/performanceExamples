@@ -1,0 +1,134 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011198</MedlineID>
+<PMID>154343</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0007-1048</ISSN>
+<JournalIssue>
+<Volume>41</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Congenital non-spherocytic haemolytic anaemia variants with primary and secondary pyruvate kinase deficiency. II. Enzymatic studies.</ArticleTitle>
+<Pagination>
+<MedlinePgn>125-32</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Some metabolic effects associated with defective pyruvate kinase (PK) in two variants of congenital non-spherocytic haemolytic anaemia with primary PK and primary adenosine triphosphatase (ATP-ase) (Mg++) deficiency respectively we compared. In one patient with a low erythrocyte ATP level, decreased PK activity appeared together with the irreversible loss of its sensitivity to fructose-I,6-diphosphate (FDP), independently of the experimental conditions. In the second patient, the decrease in PK activity associated with an elevated erythrocyte ATP level was a secondary effect, due to primary ATP-ase (Mg++) deficiency. Removal of excessive amounts of ATP, by dialysis of haemolysates or their in-vitro treatment with ATP-ase, increased PK activity to the normal range and restored its sensitivity to the stimulatory effect of FDP. Similar effects could be obtained after i.v. administration of magnesium laevulinate. Under these in vivo conditions the ATP level was normalized after a transient rise ATP-ase activity, the PK activity increased and its sensitivity to FDP reappeared.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Gumińska</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author>
+<LastName>Wazewska-Czyzewska</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Br J Haematol</MedlineTA>
+<NlmUniqueID>0372544</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Fructosediphosphates</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Levulinic Acids</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>56-65-5</RegistryNumber>
+<NameOfSubstance>Adenosine Triphosphate</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.7.1.40</RegistryNumber>
+<NameOfSubstance>Pyruvate Kinase</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.6.1.3</RegistryNumber>
+<NameOfSubstance>Adenosinetriphosphatase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adenosine Triphosphate</DescriptorName>
+<QualifierName>blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Adenosinetriphosphatase</DescriptorName>
+<QualifierName>blood</QualifierName>
+<QualifierName MajorTopicYN="Y">deficiency</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Anemia, Hemolytic, Congenital Nonspherocytic</DescriptorName>
+<QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Dialysis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Erythrocytes</DescriptorName>
+<QualifierName>enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Fructosediphosphates</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Injections, Intravenous</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Levulinic Acids</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Pyruvate Kinase</DescriptorName>
+<QualifierName>blood</QualifierName>
+<QualifierName MajorTopicYN="Y">deficiency</QualifierName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

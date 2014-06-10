@@ -1,0 +1,147 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011524</MedlineID>
+<PMID>581744</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3126</ISSN>
+<JournalIssue>
+<Volume>35</Volume>
+<Issue>1-2</Issue>
+<PubDate>
+<Year>1979</Year>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Isoxsuprine infusion to the pregnant rabbit and its effect on fetal lung surfactant.</ArticleTitle>
+<Pagination>
+<MedlinePgn>43-51</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Rabbit does, pregnant on the 28th day, were infused with isoxsuprine 2.5 mg/kg body weight/h in 50 ml 5% glucose, or with glucose only. The isoxsuprine caused maternal heart rate to increase and blood pressure, mean and diastolic, to decrease. The volume of fetal pulmonary fluid (FPF) and the wet lung weight/body weight ratio were significantly lowered by isoxsuprine. Lecithin/sphingomyelin ratio of FPF in isoxsuprine-infused animals was higher, compared with controls, not infused. Minimal surface tension of FPF, evaluated with pulsating bubble, was significantly lower in treated fetuses. Histologic examination of the fetal lungs after fixation with potassium dichromate and mercuric chloride showed that in isoxsuprine-treated litters FPF contained more granular and sudanophilic material. The results offer further evidence that isoxsuprine causes dehydration of fetal lungs and a release of pulmonary surfactant.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Enhorning</LastName>
+<ForeName>G</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author>
+<LastName>Chamberlain</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author>
+<LastName>Contreras</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author>
+<LastName>Burgoyne</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author>
+<LastName>Robertson</LastName>
+<ForeName>B</ForeName>
+<Initials>B</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>SWITZERLAND</Country>
+<MedlineTA>Biol Neonate</MedlineTA>
+<NlmUniqueID>0247551</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Phosphatidylcholines</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Pulmonary Surfactants</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Sphingomyelins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>395-28-8</RegistryNumber>
+<NameOfSubstance>Isoxsuprine</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Body Fluids</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Heart Rate</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Infusions, Parenteral</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Isoxsuprine</DescriptorName>
+<QualifierName>administration &#38; dosage</QualifierName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Lung</DescriptorName>
+<QualifierName MajorTopicYN="Y">embryology</QualifierName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Maternal-Fetal Exchange</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Organ Weight</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phosphatidylcholines</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Pregnancy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Pulmonary Surfactants</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rabbits</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Sphingomyelins</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

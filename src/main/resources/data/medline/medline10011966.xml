@@ -1,0 +1,115 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011966</MedlineID>
+<PMID>283878</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0008-543X</ISSN>
+<JournalIssue>
+<Volume>43</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Typhlitis in acute leukemia: successful treatment by early surgical intervention.</ArticleTitle>
+<Pagination>
+<MedlinePgn>695-7</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Inflammation of the cecum ("typhlitis") has been an unusual, but generally fatal complication of severe granulocytopenia and immunosuppression, occurring during the therapy of hematological malignancies. The diagnosis has usually been made only at autopsy, and early surgical intervention has often been withheld because of the patient's precarious hematological status. We report here a patient in whom the clinical diagnosis of typhlitis led to early operation, with intensive blood component support. The successful outcome suggests that such an approach might improve the usually grim prognosis in patients whose underlying malignancy offers a clear chance for remission.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Varki</LastName>
+<ForeName>A P</ForeName>
+<Initials>AP</Initials>
+</Author>
+<Author>
+<LastName>Armitage</LastName>
+<ForeName>J O</ForeName>
+<Initials>JO</Initials>
+</Author>
+<Author>
+<LastName>Feagler</LastName>
+<ForeName>J R</ForeName>
+<Initials>JR</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Cancer</MedlineTA>
+<NlmUniqueID>0374236</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Antineoplastic Agents</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Agranulocytosis</DescriptorName>
+<QualifierName>complications</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Antineoplastic Agents</DescriptorName>
+<QualifierName>adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Case Report</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cecal Diseases</DescriptorName>
+<QualifierName>diagnosis</QualifierName>
+<QualifierName MajorTopicYN="Y">etiology</QualifierName>
+<QualifierName>surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Enteritis</DescriptorName>
+<QualifierName>diagnosis</QualifierName>
+<QualifierName>etiology</QualifierName>
+<QualifierName>surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Immunosuppression</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Leukemia, Lymphocytic</DescriptorName>
+<QualifierName MajorTopicYN="Y">complications</QualifierName>
+<QualifierName>drug therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Middle Age</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

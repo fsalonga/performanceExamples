@@ -1,0 +1,97 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011572</MedlineID>
+<PMID>420923</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2001</Year>
+<Month>11</Month>
+<Day>19</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0365-9615</ISSN>
+<JournalIssue>
+<Volume>87</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>[Use of a laser photometer to determine blood platelet shape and aggregation in a flowing system]</ArticleTitle>
+<Pagination>
+<MedlinePgn>101-3</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The paper treats of an original device for studies with the photometric method of the platelets shape and of their aggregation and disaggregation processes in the flow. Experiments on the stenosed vessel model showed that in the presence of ADP stenosis potentiated the platelets aggregation in the rabbit platelet-rich plasma.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Markosian</LastName>
+<ForeName>R A</ForeName>
+<Initials>RA</Initials>
+</Author>
+<Author>
+<LastName>Popov</LastName>
+<ForeName>E G</ForeName>
+<Initials>EG</Initials>
+</Author>
+<Author>
+<LastName>Radin</LastName>
+<ForeName>A Iu</ForeName>
+<Initials>AIu</Initials>
+</Author>
+</AuthorList>
+<Language>rus</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+<VernacularTitle>Primenenie lazernogo fotometra dlia issledovaniia formy krovianykh plastinok i ikh agregatsii v protochnoĭ sisteme.</VernacularTitle>
+</Article>
+<MedlineJournalInfo>
+<Country>USSR</Country>
+<MedlineTA>Biull Eksp Biol Med</MedlineTA>
+<NlmUniqueID>0370627</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Blood Platelets</DescriptorName>
+<QualifierName MajorTopicYN="Y">ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Constriction, Pathologic</DescriptorName>
+<QualifierName>blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>English Abstract</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Lasers</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Models, Biological</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Photometry</DescriptorName>
+<QualifierName>instrumentation</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Platelet Aggregation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Vascular Diseases</DescriptorName>
+<QualifierName MajorTopicYN="Y">blood</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

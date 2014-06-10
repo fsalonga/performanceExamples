@@ -1,0 +1,113 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011146</MedlineID>
+<PMID>84675</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>04</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0004-3591</ISSN>
+<JournalIssue>
+<Volume>22</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Immunofluorescence studies of anti-T cell antibodies and T cells in systemic lupus erythematosus. Selective loss of brightly staining T cells in active disease.</ArticleTitle>
+<Pagination>
+<MedlinePgn>114-22</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Peripheral blood T cells from patients with systemic lupus erythematosus (SLE) and age- and sex-matched controls were studied by flow microfluorometry by using SLE anti-cell antibodies and fluorescein conjugated antibody to human IgM. Brightly staining cells were reduced in a number of patients with active SLE. Analysis of SLE T cells separated on a discontinuous stractin gradient indicated a preferential loss of cells, especially brightly staining cells, from one fraction. Quantitation of this phenomenon indicated that an average of greater than 90% of the brightly staining T cells from that fraction was lost in active SLE. This preferential loss of a subpopulation of T cells in patients with active SLE may be responsible for many of their immunologic abnormalities.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Steinberg</LastName>
+<ForeName>A D</ForeName>
+<Initials>AD</Initials>
+</Author>
+<Author>
+<LastName>Klassen</LastName>
+<ForeName>L W</ForeName>
+<Initials>LW</Initials>
+</Author>
+<Author>
+<LastName>Budman</LastName>
+<ForeName>D R</ForeName>
+<Initials>DR</Initials>
+</Author>
+<Author>
+<LastName>Williams</LastName>
+<ForeName>G W</ForeName>
+<Initials>GW</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Arthritis Rheum</MedlineTA>
+<NlmUniqueID>0370605</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Antilymphocyte Serum</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Autoantibodies</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Epitopes</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Antilymphocyte Serum</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Autoantibodies</DescriptorName>
+<QualifierName>analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Epitopes</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Fluorescent Antibody Technique</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Lupus Erythematosus, Systemic</DescriptorName>
+<QualifierName MajorTopicYN="Y">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>T-Lymphocytes</DescriptorName>
+<QualifierName MajorTopicYN="Y">immunology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

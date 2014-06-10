@@ -1,0 +1,152 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011381</MedlineID>
+<PMID>217428</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>550</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>2</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Azethoxyl nitroxide spin labels. ESR studies involving thiourea crystals, model membrane systems and chromatophores, and chemical reduction with ascorbate and dithiothreitol.</ArticleTitle>
+<Pagination>
+<MedlinePgn>369-83</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Trans- and cis-azethoxyl nitroxides 1, 2, 3 and 4 can be trapped in the cavities of thiourea crystals. The presence of a single gauche conformation on either side of the pyrrolidine ring within the crystals was indicated by the ESR spectra. Rotation about the long molecular axis then corresponds approximately to y-axis motion of the nitroxide moiety. Proxyl nitroxides in which the nitroxide group is located on the penultimate carbon of long chain lipids can also be trapped and were shown to adopt the azethoxyl conformation in the thiourea crystals. The measured deltaA values (A parallel to - A perpendicular) of oriented egg lecithin multilayers containing trans- and cis-azethoxyl nitroxides 1 and 2 were quite small, consistent with the unique orientation of the nitroxide principal axes with respect to the long axis of the molecule. The deltaA values for a series of lipids bearing a label near the terminus of the chain were very similar to that of 1, showing that the azethoxyl conformation is likely the predominant one in these labels in orienting systems. Computer simulations of the ESR spectra of 1 and 2 in egg lecithin vesicles provided values for molecular orientation and motion parameters consistent with those expected from a consideration of molecular models in the extended (all trans) conformation. Azethoxyl nitroxides have also proven useful in the investigation of motion restricted (boundary) lipid in a lipid-protein system. Thus, the values (69 +/- 10%) for the amount of boundary lipid in the chromatophore membranes from Rhodopseudomonas sphaeroides as determined using trans- 2 and cis- 2 are in good agreement with values using 16-doxylstearic acid (64 +/- 3%). The fact that all three labels show about the same fraction of boundary lipid in this system indicates that the lipid binding sites are relatively insensitive to the geometry of the lipid chain. Also, both 1 and 2 appear to be able to detect a third lipid environment not seen with the doxyl fatty acid. The apparent fluidity of this component lies between that of boundary and bilayer lipid. The unique orientation of the nitroxide principal axes with respect to the long molecular axis in azethoxyl nitroxides 1 and 2 allows detection of hindrance to rotation about the long molecular axis, in contrast to the analogous doxyl and proxyl fatty acids. Comparative reduction studies using ascorbate and dithiothreitol indicate that azethoxyl nitroxides are slightly more resistant toward reduction than proxyl nitroxides and much more resistant than doxyl nitroxides.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Lee</LastName>
+<ForeName>T D</ForeName>
+<Initials>TD</Initials>
+</Author>
+<Author>
+<LastName>Birrell</LastName>
+<ForeName>G B</ForeName>
+<Initials>GB</Initials>
+</Author>
+<Author>
+<LastName>Bjorkman</LastName>
+<ForeName>P J</ForeName>
+<Initials>PJ</Initials>
+</Author>
+<Author>
+<LastName>Keana</LastName>
+<ForeName>J F</ForeName>
+<Initials>JF</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Cyclic N-Oxides</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Phosphatidylcholines</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Pyrrolidines</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Spin Labels</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>3483-12-3</RegistryNumber>
+<NameOfSubstance>Dithiothreitol</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>50-81-7</RegistryNumber>
+<NameOfSubstance>Ascorbic Acid</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>62-56-6</RegistryNumber>
+<NameOfSubstance>Thiourea</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Ascorbic Acid</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Bacterial Chromatophores</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Comparative Study</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cyclic N-Oxides</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Dithiothreitol</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Electron Spin Resonance Spectroscopy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Membranes</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Membranes, Artificial</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Molecular Conformation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Oxidation-Reduction</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phosphatidylcholines</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Pyrrolidines</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rhodobacter sphaeroides</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Spin Labels</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Thiourea</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

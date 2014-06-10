@@ -1,0 +1,138 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011359</MedlineID>
+<PMID>570413</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-2960</ISSN>
+<JournalIssue>
+<Volume>18</Volume>
+<Issue>5</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Mar</Month>
+<Day>6</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Purification and characterization of RNA polymerase II resistant to alpha-amanitin from the mushroom Agaricus bisporus.</ArticleTitle>
+<Pagination>
+<MedlinePgn>795-803</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The DNA-dependent RNA polymerases II or B (ribonucleosidetriphosphate:RNA nucleotidyltransferase, EC 2.7.7.6) from the mushroom Agaricus bisporus has been purified to apparent homogeneity. The purification procedures involve precipitation with polyethylenimine, selective elution of RNA polymerase II from the polyethylenimine precipitate, ammonium sulfate fractionation, DEAE-cellulose chromatography, CM-cellulose chromatography, and exclusion chromatography on Bio-Gel A-1.5M. With this procedure 11 mg of RNA polymerase II is recovered from 1.5 kg of mushroom tissue. RNA polymerase II from Agaricus bisporus has 12 subunits with the following molecular weights: 182,000, 140,000, 89,000, 69,000, 53,000, 41,000, 37,000, 31,000, 29,000, 25,000, 19,000, and 16,500. Purified RNA polymerase II from Agaricus bisporous was half-maximally inhibited by the mushroom toxin alpha-amanitin at a concentration of 6.5 microgram/mL (7 X 10(-6) M), which is 650-fold more resistant than mammalian RNA polymerases II. The apparent Ki for the alpha-amanitin-RNA polymerase complex was estimated to be 12 X 10(-6) M. The activity of purified RNA polymerase II from the mushroom was quite typical of other eukaryotic RNA polymerase II with regard to template preference, salt optima, and divalent metal cation optima.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Vaisius</LastName>
+<ForeName>A C</ForeName>
+<Initials>AC</Initials>
+</Author>
+<Author>
+<LastName>Horgen</LastName>
+<ForeName>P A</ForeName>
+<Initials>PA</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Biochemistry</MedlineTA>
+<NlmUniqueID>0370623</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Amanitins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Macromolecular Systems</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7439-95-4</RegistryNumber>
+<NameOfSubstance>Magnesium</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7439-96-5</RegistryNumber>
+<NameOfSubstance>Manganese</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7783-20-2</RegistryNumber>
+<NameOfSubstance>Ammonium Sulfate</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.7.7.-</RegistryNumber>
+<NameOfSubstance>RNA Polymerase II</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.7.7.6</RegistryNumber>
+<NameOfSubstance>DNA-Directed RNA Polymerase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Agaricales</DescriptorName>
+<QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Amanitins</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Ammonium Sulfate</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>DNA-Directed RNA Polymerase</DescriptorName>
+<QualifierName MajorTopicYN="Y">isolation &#38; purification</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Macromolecular Systems</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Magnesium</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Manganese</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Methods</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Molecular Weight</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Osmolar Concentration</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>RNA Polymerase II</DescriptorName>
+<QualifierName>antagonists &#38; inhibitors</QualifierName>
+<QualifierName MajorTopicYN="Y">isolation &#38; purification</QualifierName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Templates</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

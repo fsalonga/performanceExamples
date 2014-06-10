@@ -1,0 +1,125 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011902</MedlineID>
+<PMID>421156</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-8993</ISSN>
+<JournalIssue>
+<Volume>166</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Apr</Month>
+<Day>20</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Pulvinar and lateral geniculate neuronal activity in the cat during operantly conditioned appetitive behavior.</ArticleTitle>
+<Pagination>
+<MedlinePgn>9-25</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Cats were trained to press a lever for 0.5--1.0 ml of milk reward both in the presence and absence of ambient light. 'Floating' microelectrodes were implanted in the pulvinar and lateral geniculate nuclei to allow chronic recording from single or multiple neurons over a period of 1--16 days. Thirty-one of 36 pulvinar neurons (86%) showed a consistent periodicity in the firing rate that was clearly related to certain phases of operant behavior. In the presence of ambient light, the firing rate was maximal shortly prior to or immediately after a rewarded bar press, particularly during the animal's initial contact with reward (the first lap). This burst of activity was followed by an abrupt and strong inhibition of firing which was, in most instances, associated with high voltage slow wave (6--9 c/sec) postreinforcement synchronization (PRS) of the electroencephalogram over the visual and association cortices as well as in the pulvinar. Postreinforcement inhibition of neuronal activity was also observed in the lateral geniculate. Neuronal firing in both nuclei dropped significantly below the respective mean rate observed for each nucleus during relaxed wakefulness. In the dark, however, the reward-induced inhibition was abolished in both nuclei. Moreover, some pulvinar neurons in the dark showed a conspicuous and significant increase in firing during the consummatory response (dark reversal pattern). These findings suggest that a transient but powerful inhibitory process triggered by positive reinforcement depends on visual input. Firing patterns of some pulvinar neurons were noted to be entrained not only by the rhythm of PRS oscillations (inhibitory phasing and postinhibitory discharges) but also by the much slower 3--4 c/sec rhythm of lapping and licking. Furthermore, the patterns of entrainment by initial lapping appear to be different from those observed during the later phase of the consummatory response, thus indicating that the pulvinar may receive information regarding the content of the delivery cup. No entrainment of neuronal activity was observed in the lateral geniculate. These findings reveal remarkable plasticity in the pulvinar neurons that is consistent with their role in polysensory integration.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Wei</LastName>
+<ForeName>J Y</ForeName>
+<Initials>JY</Initials>
+</Author>
+<Author>
+<LastName>Marczynski</LastName>
+<ForeName>T J</ForeName>
+<Initials>TJ</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Brain Res</MedlineTA>
+<NlmUniqueID>0045503</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Action Potentials</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Appetitive Behavior</DescriptorName>
+<QualifierName MajorTopicYN="Y">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Conditioning, Operant</DescriptorName>
+<QualifierName MajorTopicYN="Y">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Electroencephalography</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Evoked Potentials</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Feeding Behavior</DescriptorName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Geniculate Bodies</DescriptorName>
+<QualifierName MajorTopicYN="Y">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Lighting</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neural Inhibition</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neurons</DescriptorName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Reinforcement (Psychology)</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Thalamic Nuclei</DescriptorName>
+<QualifierName MajorTopicYN="Y">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Wakefulness</DescriptorName>
+<QualifierName>physiology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

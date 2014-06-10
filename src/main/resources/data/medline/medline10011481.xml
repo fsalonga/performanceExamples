@@ -1,0 +1,153 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011481</MedlineID>
+<PMID>217445</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>583</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>19</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Phosphodiesterase and GTPase in rod outer segments. Kinetics in vitro.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1-13</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The hydrolysis of cyclic guanosine monophosphate (cyclic GMP) and of guanosine triphosphate (GTP) by the broken rods of the frog retina after a flash of light have been studied in vitro with a constant perfusion method. The activation has an onset apparently instantaneous as observed with the existing possible time resolution of 3 s. The activation is followed by a partial inactivation that does not bring the activity back to the pre-flash level. GTP or the non-hydrolysable guanyl-5'-ylimidodiphosphate (GMP-PNP) is required for the normal light-activation of the phosphodiesterase and in its absence both the speed of activation and the sensitivity are greatly reduced. The activation speed, the sensitivity (threshold at approx. 0.00004% bleaching), and the kinetic constants do not exclude a direct role in the process of excitation for the phosphodiesterase and suggest a subsidiary but as yet undefined role for the GTPase.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Caretta</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author>
+<LastName>Cavaggioni</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author>
+<LastName>Sorbi</LastName>
+<ForeName>R T</ForeName>
+<Initials>RT</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>34273-04-6</RegistryNumber>
+<NameOfSubstance>Guanylyl Imidodiphosphate</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7665-99-8</RegistryNumber>
+<NameOfSubstance>Cyclic GMP</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>86-01-1</RegistryNumber>
+<NameOfSubstance>Guanosine Triphosphate</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.1.3</RegistryNumber>
+<NameOfSubstance>Phosphoric Monoester Hydrolases</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.1.4</RegistryNumber>
+<NameOfSubstance>Phosphoric Diester Hydrolases</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.1.4.35</RegistryNumber>
+<NameOfSubstance>3',5'-Cyclic-GMP Phosphodiesterase</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.6.1.-</RegistryNumber>
+<NameOfSubstance>GTP Phosphohydrolases</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>3',5'-Cyclic-GMP Phosphodiesterase</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Anura</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cyclic GMP</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Darkness</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Dose-Response Relationship, Radiation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>GTP Phosphohydrolases</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Guanosine Triphosphate</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Guanylyl Imidodiphosphate</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Light</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phosphoric Diester Hydrolases</DescriptorName>
+<QualifierName>radiation effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phosphoric Monoester Hydrolases</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Photoreceptors</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+<QualifierName>radiation effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rana esculenta</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

@@ -1,0 +1,139 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011520</MedlineID>
+<PMID>420882</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3126</ISSN>
+<JournalIssue>
+<Volume>35</Volume>
+<Issue>1-2</Issue>
+<PubDate>
+<Year>1979</Year>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Quantitative analysis of morphological changes in skeletal muscle of the rat after hormone administration.</ArticleTitle>
+<Pagination>
+<MedlinePgn>106-12</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Thyroxine and cortisone acetate administration of rats of 4--7 days of age is not only accompanied by the induction of the muscle-specific enzyme, creatine kinase, but the hormones also induce morphological changes in the gastrocnemius during this period. Administration of thyroxine to these rats causes a splitting of myofibrils as shown by stereological measurements on electron micrographs. This splitting of myofibrils was not observed upon cortisone acetate administration and when both hormones were given simultaneously. It is suggested that cortisone acetate counteracts the effect of thyroxine. Both thyroxine and cortisone acetate increase the volume percentage taken by the mitochondria at 7 days of age. The effect of the simultaneous injection of both hormones is equal to the sum of the separate effects of these hormones. These changes in volume percentage of the mitochondria were compared with changes in a mitochondrial marker enzyme, i.e. citrate synthase. The difference between the morphological measurements and citrate synthase activity is due to a change in the specific activity of citrate synthase in the mitochondria.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Kloosterboer</LastName>
+<ForeName>H J</ForeName>
+<Initials>HJ</Initials>
+</Author>
+<Author>
+<LastName>Stoker-De Vries</LastName>
+<ForeName>S A</ForeName>
+<Initials>SA</Initials>
+</Author>
+<Author>
+<LastName>Hulstaert</LastName>
+<ForeName>C E</ForeName>
+<Initials>CE</Initials>
+</Author>
+<Author>
+<LastName>Hommes</LastName>
+<ForeName>F A</ForeName>
+<Initials>FA</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>SWITZERLAND</Country>
+<MedlineTA>Biol Neonate</MedlineTA>
+<NlmUniqueID>0247551</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>53-06-5</RegistryNumber>
+<NameOfSubstance>Cortisone</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7488-70-2</RegistryNumber>
+<NameOfSubstance>Thyroxine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.7.3.2</RegistryNumber>
+<NameOfSubstance>Creatine Kinase</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 4.1.3.7</RegistryNumber>
+<NameOfSubstance>Citrate (si)-Synthase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Animals, Newborn</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Citrate (si)-Synthase</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cortisone</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Creatine Kinase</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Fibula</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Mitochondria</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+<QualifierName>enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Muscles</DescriptorName>
+<QualifierName>cytology</QualifierName>
+<QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+<QualifierName>enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Myofibrils</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Thyroxine</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Tibia</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

@@ -1,0 +1,141 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011466</MedlineID>
+<PMID>33720</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>582</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Feb</Month>
+<Day>1</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Destruction and resynthesis of mouse beta-glucosidases.</ArticleTitle>
+<Pagination>
+<MedlinePgn>412-22</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>1. Injection of a single dose of conduritol B epoxide into mice produced almost complete destruction of glucocerebrosidase (D-glucosyl-N-acylsphingosine glucohydrolase, EC 3.2.1.45) in liver, spleen, brain, and kidney within 5 h. Restoration of activity became noticeable within 1 day (2 days in the case of brain) and was about 80% of normal within 16 days. 2. The same injection produced less destruction of aryl beta-glucosidase (EC 3.2.1.21), measured at pH 5.4 with methylumbelliferyl glucoside in the absence of taurocholate. Brain showed the least amount of destruction, about 50%, but measurements of activity at lower pH values revealed complete loss of activity. This suggests that brain contains two different aryl glucosidases with differing sensitivity to the inhibitor. Liver, on the other hand, did not show differential destruction when assayed at different pH values. Resynthesis of the enzyme activities was almost complete by 16 days. 3. Injection of phenylhydrazine produced hemolysis and spleen enlargement, with concomitant increases in specific activities of glucocerebrosidase and aryl glucosidase in liver and spleen (but not in kidney). When this experiment was done in mice previously treated with conduritol B expoxide, the reappearance of cerebrosidase was found to be accelerated. This is interpreted to mean that the increased load of glucolipids from the erythrocytes had induced an enhanced synthesis of the glucohydrolase. A similar explanation may apply to aryl glucosidase and glucopeptides in the cells.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Hara</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author>
+<LastName>Radin</LastName>
+<ForeName>N S</ForeName>
+<Initials>NS</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Phenylhydrazines</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>6917-35-7</RegistryNumber>
+<NameOfSubstance>Inositol</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.2.1.-</RegistryNumber>
+<NameOfSubstance>Glucosidases</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.2.1.21</RegistryNumber>
+<NameOfSubstance>beta-Glucosidase</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.2.1.45</RegistryNumber>
+<NameOfSubstance>Glucosylceramidase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Brain</DescriptorName>
+<QualifierName>enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Comparative Study</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Glucosidases</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Glucosylceramidase</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hematocrit</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hydrogen-Ion Concentration</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Inositol</DescriptorName>
+<QualifierName>analogs &#38; derivatives</QualifierName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kidney</DescriptorName>
+<QualifierName>enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Liver</DescriptorName>
+<QualifierName>enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Organ Weight</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phenylhydrazines</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Spleen</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>beta-Glucosidase</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

@@ -1,0 +1,174 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011719</MedlineID>
+<PMID>369652</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0007-1447</ISSN>
+<JournalIssue>
+<Volume>1</Volume>
+<Issue>6158</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>27</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Comparison of natriuretic, uricosuric, and antihypertensive properties of tienilic acid, bendrofluazide, and spironolactone.</ArticleTitle>
+<Pagination>
+<MedlinePgn>224-6</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The antihypertensive properties of the new diuretic tienilic acid were investigated. Thirteen previously untreated hypertensive patients took part in a double-blind crossover study in which 30 days' treatment with tienilic acid 250 mg, bendrofluazide 5 mg, and spironolactone 100 mg were compared. Bendrofluazide caused the greatest natriuresis on the first treatment day and the most rapid fall in blood pressure. The ultimate antihypertensive effect of all three drugs was similar. Tienilic acid caused a noticeable reduction in serum urate concentrations and a rise in urate clearance, in contrast to the other two agents, which caused slight urate retention. Tienilic acid and bendrofluazide caused falls and spironolactone a rise in plasma potassium concentrations. No untoward effects were seen from any of the drugs. It is concluded that tienilic acid is a moderately potent diuretic that lowers plasma urate concentrations. It may be the drug of first choice for hypertensive patients who already have gout or are likely to develop it when taking thiazide diuretics.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Roberts</LastName>
+<ForeName>C J</ForeName>
+<Initials>CJ</Initials>
+</Author>
+<Author>
+<LastName>Marshall</LastName>
+<ForeName>A J</ForeName>
+<Initials>AJ</Initials>
+</Author>
+<Author>
+<LastName>Heaton</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author>
+<LastName>Barritt</LastName>
+<ForeName>D W</ForeName>
+<Initials>DW</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Clinical Trial</PublicationType>
+<PublicationType>Controlled Clinical Trial</PublicationType>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>ENGLAND</Country>
+<MedlineTA>Br Med J</MedlineTA>
+<NlmUniqueID>0372673</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Diuretics</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Glycolates</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Phenoxyacetates</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Thiophenes</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>52-01-7</RegistryNumber>
+<NameOfSubstance>Spironolactone</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>69-93-2</RegistryNumber>
+<NameOfSubstance>Uric Acid</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>73-48-3</RegistryNumber>
+<NameOfSubstance>Bendroflumethiazide</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7440-09-7</RegistryNumber>
+<NameOfSubstance>Potassium</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Bendroflumethiazide</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+<QualifierName MajorTopicYN="Y">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Blood Pressure</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Clinical Trials</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Comparative Study</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Diuretics</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+<QualifierName MajorTopicYN="Y">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Double-Blind Method</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Glycolates</DescriptorName>
+<QualifierName MajorTopicYN="Y">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Hypertension</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug therapy</QualifierName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Natriuresis</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phenoxyacetates</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+<QualifierName MajorTopicYN="Y">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Potassium</DescriptorName>
+<QualifierName>blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Spironolactone</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+<QualifierName MajorTopicYN="Y">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Thiophenes</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+<QualifierName MajorTopicYN="Y">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Uric Acid</DescriptorName>
+<QualifierName>blood</QualifierName>
+<QualifierName>urine</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

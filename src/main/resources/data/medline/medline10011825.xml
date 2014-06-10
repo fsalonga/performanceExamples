@@ -1,0 +1,128 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011825</MedlineID>
+<PMID>33744</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-8993</ISSN>
+<JournalIssue>
+<Volume>160</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>19</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Phenytoin and transmitter release at the neuromuscular junction of the frog.</ArticleTitle>
+<Pagination>
+<MedlinePgn>479-87</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The effects of phenytoin (diphenylhydantoin, DPH) on transmitter release were studied at the frog neuromuscular junction. It was found that in Ringer's solutions containing a normal concentration of Ca2+ ions, DPH (1-2 X 10(-4) M) depresses neurally evoked transmitter release, whereas in Ca2+-deficient Ringer's solutions it produces an increase in evoked release. Spontaneous transmitter liberation is augmented by DPH under all the above conditions. An abrupt disappearance of the evoked response occasionally occured with stimulation at 0.5 Hz, but a normal response could be elicited by a second stimulus delivered shortly after the first. At 100-200 Hz, DPH regularly induced a partial block in synaptic transmission. In 8 mM MgCl2, this phenomenon appeared at 50 Hz and developed into a total neuromuscular blockade.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Yaari</LastName>
+<ForeName>Y</ForeName>
+<Initials>Y</Initials>
+</Author>
+<Author>
+<LastName>Pincus</LastName>
+<ForeName>J H</ForeName>
+<Initials>JH</Initials>
+</Author>
+<Author>
+<LastName>Argov</LastName>
+<ForeName>Z</ForeName>
+<Initials>Z</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Brain Res</MedlineTA>
+<NlmUniqueID>0045503</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Neurotransmitters</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>57-41-0</RegistryNumber>
+<NameOfSubstance>Phenytoin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7440-70-2</RegistryNumber>
+<NameOfSubstance>Calcium</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Anura</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Calcium</DescriptorName>
+<QualifierName>pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Dose-Response Relationship, Drug</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Electric Stimulation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Evoked Potentials</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neuromuscular Junction</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+<QualifierName>secretion</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neurosecretion</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neurotransmitters</DescriptorName>
+<QualifierName MajorTopicYN="Y">secretion</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Phenytoin</DescriptorName>
+<QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Synapses</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Synaptic Transmission</DescriptorName>
+<QualifierName>drug effects</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

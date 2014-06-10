@@ -1,0 +1,135 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011988</MedlineID>
+<PMID>421198</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0008-5472</ISSN>
+<JournalIssue>
+<Volume>39</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Apr</Month>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>Patterns of urinary excretion of modified nucleosides.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1150-3</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>A recently developed high-performance liquid chromatography method permits quantitative measurement of low levels of modified nucleosides in urine. We report on the patterns of excretion of seven modified nucleosides by normal subjects and cancer patients. It was found that the excretion of these nucleosides expressed as a function of creatinine concentration was constant, not episodic nor related to diet. Thus, randomly collected samples of urine are satisfactory sources for measurement of nucleosides, and the level of nucleosides is of significance when related to creatinine excretion. The constancy of the excretion of the modified nucleosides in normal subjects is quite remarkable. It implies strict metabolic control of transfer RNA turnover. The values for the individual nucleoside/creatinine ratios were found to be significantly elevated in the urine of colon cancer patients.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Gehrke</LastName>
+<ForeName>C W</ForeName>
+<Initials>CW</Initials>
+</Author>
+<Author>
+<LastName>Kuo</LastName>
+<ForeName>K C</ForeName>
+<Initials>KC</Initials>
+</Author>
+<Author>
+<LastName>Waalkes</LastName>
+<ForeName>T P</ForeName>
+<Initials>TP</Initials>
+</Author>
+<Author>
+<LastName>Borek</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>UNITED STATES</Country>
+<MedlineTA>Cancer Res</MedlineTA>
+<NlmUniqueID>2984705R</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Antineoplastic Agents</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Ribonucleosides</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>60-27-5</RegistryNumber>
+<NameOfSubstance>Creatinine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9014-25-9</RegistryNumber>
+<NameOfSubstance>RNA, Transfer</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Antineoplastic Agents</DescriptorName>
+<QualifierName>therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Colonic Neoplasms</DescriptorName>
+<QualifierName>urine</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Comparative Study</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Creatinine</DescriptorName>
+<QualifierName>urine</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Middle Age</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Neoplasms</DescriptorName>
+<QualifierName>drug therapy</QualifierName>
+<QualifierName>metabolism</QualifierName>
+<QualifierName MajorTopicYN="Y">urine</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>RNA, Transfer</DescriptorName>
+<QualifierName>metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Ribonucleosides</DescriptorName>
+<QualifierName MajorTopicYN="Y">urine</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Support, U.S. Gov't, P.H.S.</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>

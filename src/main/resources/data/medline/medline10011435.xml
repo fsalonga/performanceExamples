@@ -1,0 +1,120 @@
+<MedlineCitation Status="Completed">
+<MedlineID>10011435</MedlineID>
+<PMID>420853</PMID>
+<DateCreated>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1979</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2000</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateRevised>
+<Article>
+<Journal>
+<ISSN>0006-3002</ISSN>
+<JournalIssue>
+<Volume>561</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1979</Year>
+<Month>Jan</Month>
+<Day>26</Day>
+</PubDate>
+</JournalIssue>
+</Journal>
+<ArticleTitle>DNA polymerase-alpha from regenerating rat liver. Catalytic properties of the highly purified enzyme.</ArticleTitle>
+<Pagination>
+<MedlinePgn>29-41</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>DNA polymerase-alpha from the cytosol of regenerating rat liver has been highly purified by a procedure which includes affinity chromatography. The purified enzyme sediments at 7.4 S in high ionic strength and at 9--10 S in low ionic strength, i.e. under in vitro polymerization conditions. This enzyme has all the properties of the other mammalian DNA polymerases-alpha: sensitivity to sulfhydryl-blocking agents, to heparin, and to the level of salt in the assay, neutral pH optimum, use of ribonucleotide-initiated DNA templates, and inability to copy the ribostrand of hybrids. After chromatography on denatured DNA-cellulose, the alpha-polymerase is completely devoid of exo- and endonuclease activities. Template competition experiments indicate that the binding of the enzyme to the template can be distinguished from the polymerization itself and that the in vitro synthesis catalyzed by this alpha-polymerase is not distributive in a classical sense. These facts are discussed.</AbstractText>
+</Abstract>
+<AuthorList>
+<Author>
+<LastName>Fichot</LastName>
+<ForeName>O</ForeName>
+<Initials>O</Initials>
+</Author>
+<Author>
+<LastName>Pascal</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author>
+<LastName>Mechali</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author>
+<LastName>de Recondo</LastName>
+<ForeName>A M</ForeName>
+<Initials>AM</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>NETHERLANDS</Country>
+<MedlineTA>Biochim Biophys Acta</MedlineTA>
+<NlmUniqueID>0217513</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Cations</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.7.7.7</RegistryNumber>
+<NameOfSubstance>DNA-Directed DNA Polymerase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName>Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Catalysis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Cations</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>DNA-Directed DNA Polymerase</DescriptorName>
+<QualifierName>isolation &#38; purification</QualifierName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Liver</DescriptorName>
+<QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Liver Regeneration</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Molecular Weight</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Substrate Specificity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName>Templates</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
